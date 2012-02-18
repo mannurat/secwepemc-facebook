@@ -1,0 +1,114 @@
+1 share
+About
+about an hour ago
+Account Settings
+Activity Log
+Add Friend
+Add Photo / Video
+Advertising
+APPS
+Apps and Games
+Ask Question
+Born
+By:
+Cancel
+Careers
+Change Cover
+Chat (Offline)
+Close
+Close Friends
+Comment
+Create an Ad
+Create a Page
+Create Group...
+Developers
+%d hours ago
+%d minutes ago
+%d mutual friends
+%d people
+Edit Options
+Edit or Remove
+Enter a friend's name or email address
+Events
+Family
+FAVORITES
+Friend Requests
+Friends
+GROUPS
+Help
+Home
+Life Event
+Like
+Likes
+LISTS
+Log Out
+Map
+Message:
+Messages
+More
+MORE
+More Stories
+near %s
+New Group...
+New Message
+News Feed
+Now
+PAGES
+People who like this
+People You May Know
+Photo
+Photos
+Place
+Privacy
+Privacy Settings
+Profile
+Recent Activity
+Recommended Pages
+Resize
+Search
+See All
+See All Messages
+See More
+See Translation
+Send
+Send a New Message
+Share
+%s likes this.
+%s like this.
+SORT
+Sponsored
+Status
+Subscriptions
+Tag Friends
+Terms
+Ticker
+Timeline
+To:
+Unlike
+Update Info
+Update Status
+View all %d comments
+Wall Photos
+What's on your mind?
+Write a comment...
+Yesterday
+You like this.
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
