@@ -1,0 +1,356 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-18 17:27:12-06:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "1 share"
+msgstr "Comhroinnte uair amháin"
+
+msgid "About"
+msgstr "Maidir Leis"
+
+msgid "about an hour ago"
+msgstr "timpeall is uair ó shin"
+
+msgid "Account Settings"
+msgstr "Socruithe Cuntais"
+
+msgid "Activity Log"
+msgstr "Stair Gníomhaíochta"
+
+msgid "Add Friend"
+msgstr "Déan Cairdeas"
+
+msgid "Add Photo / Video"
+msgstr "Cuir Grianghraf / Físeán Leis"
+
+msgid "Advertising"
+msgstr "Fógraíocht"
+
+msgid "APPS"
+msgstr "FEIDHMCHLÁIR"
+
+msgid "Apps and Games"
+msgstr "Feidhmchláir agus Cluichí"
+
+msgid "Ask Question"
+msgstr "Cuir Ceist"
+
+msgid "Born"
+msgstr "Rugadh"
+
+msgid "By:"
+msgstr "Le:"
+
+msgid "Cancel"
+msgstr "Cealaigh"
+
+msgid "Careers"
+msgstr "Gairmeacha"
+
+msgid "Change Cover"
+msgstr "Athraigh Cúlbhrat"
+
+msgid "Chat (Offline)"
+msgstr "Comhrá (As Líne)"
+
+msgid "Close"
+msgstr "Dún"
+
+msgid "Close Friends"
+msgstr "Dlúthchairde"
+
+msgid "Comment"
+msgstr "Déan Trácht"
+
+msgid "Create an Ad"
+msgstr "Cruthaigh Fógra"
+
+msgid "Create a Page"
+msgstr "Cruthaigh Leathanach"
+
+msgid "Create Group..."
+msgstr "Cruthaigh Grúpa..."
+
+msgid "Developers"
+msgstr "Forbróirí"
+
+msgid "%d hours ago"
+msgstr "%d uair ó shin"
+
+msgid "%d minutes ago"
+msgstr "%d nóiméad ó shin"
+
+msgid "%d mutual friends"
+msgstr "%d comhchara"
+
+msgid "%d people"
+msgstr "%d duine"
+
+msgid "Edit Options"
+msgstr "Cuir Roghanna in Eagar"
+
+msgid "Edit or Remove"
+msgstr "Cuir in Eagar nó Bain"
+
+msgid "Enter a friend's name or email address"
+msgstr "Cuir ainm nó seoladh ríomhphoist isteach"
+
+msgid "Events"
+msgstr "Imeachtaí"
+
+msgid "Family"
+msgstr "Muintir"
+
+msgid "FAVORITES"
+msgstr "CEANÁIN"
+
+msgid "Friend Requests"
+msgstr "Iarratais ar Chairdeas"
+
+msgid "Friends"
+msgstr "Cairde"
+
+msgid "GROUPS"
+msgstr "GRÚPAÍ"
+
+msgid "Help"
+msgstr "Cabhair"
+
+msgid "Home"
+msgstr "Baile"
+
+msgid "Life Event"
+msgstr "Cúrsa Saoil"
+
+msgid "Like"
+msgstr "Is Maith Liom É"
+
+msgid "Likes"
+msgstr "Ceanáin"
+
+msgid "LISTS"
+msgstr "LIOSTAÍ"
+
+msgid "Log Out"
+msgstr "Logáil Amach"
+
+msgid "Map"
+msgstr "Léarscáil"
+
+msgid "Message:"
+msgstr "Teachtaireacht:"
+
+msgid "Messages"
+msgstr "Teachtaireachtaí"
+
+msgid "More"
+msgstr "Tuilleadh"
+
+msgid "MORE"
+msgstr "TUILLEADH"
+
+msgid "More Stories"
+msgstr "Tuilleadh Scéalta"
+
+msgid "near %s"
+msgstr "i ngar do %s"
+
+msgid "New Group..."
+msgstr "Grúpa Nua..."
+
+msgid "New Message"
+msgstr "Teachtaireacht Nua"
+
+msgid "News Feed"
+msgstr "Fotha Nuachta"
+
+msgid "Now"
+msgstr "Anois"
+
+msgid "PAGES"
+msgstr "LEATHANAIGH"
+
+msgid "People who like this"
+msgstr "Daoine ar maith leo é seo"
+
+msgid "People You May Know"
+msgstr "Aithne Agat Air/Uirthi?"
+
+msgid "Photo"
+msgstr "Grianghraf"
+
+msgid "Photos"
+msgstr "Grianghraif"
+
+msgid "Place"
+msgstr "Áit"
+
+msgid "Privacy"
+msgstr "Príobháideacht"
+
+msgid "Privacy Settings"
+msgstr "Socruithe Príobháideachta"
+
+msgid "Profile"
+msgstr "Beathaisnéisín"
+
+msgid "Recent Activity"
+msgstr "Gníomhaíocht Is Déanaí"
+
+msgid "Recommended Pages"
+msgstr "Leathanaigh Mholta"
+
+msgid "Resize"
+msgstr "Athraigh Méid"
+
+msgid "Search"
+msgstr "Cuardaigh"
+
+msgid "See All"
+msgstr "Gach Uile"
+
+msgid "See All Messages"
+msgstr "Gach Teachtaireacht"
+
+msgid "See More"
+msgstr "Tuilleadh"
+
+msgid "See Translation"
+msgstr "Aistriúchán"
+
+msgid "Send"
+msgstr "Seol"
+
+msgid "Send a New Message"
+msgstr "Seol Teachtaireacht Nua"
+
+msgid "Share"
+msgstr "Comhroinn"
+
+msgid "%s likes this."
+msgstr "Is maith le %s é seo."
+
+msgid "%s like this."
+msgstr "Is maith le %s é seo."
+
+msgid "SORT"
+msgstr "SÓRTÁIL"
+
+msgid "Sponsored"
+msgstr "Urraithe"
+
+msgid "Status"
+msgstr "Stádas"
+
+msgid "Subscriptions"
+msgstr "Liostálacha"
+
+msgid "Tag Friends"
+msgstr "Cuir Clib ar Chairde"
+
+msgid "Terms"
+msgstr "Téarmaí"
+
+msgid "Ticker"
+msgstr "Nuacht Bheo"
+
+msgid "Timeline"
+msgstr "Amlíne"
+
+msgid "To:"
+msgstr "Chuig:"
+
+msgid "Unlike"
+msgstr "Ní Maith Liom É"
+
+msgid "Update Info"
+msgstr "Faisnéis Nua"
+
+msgid "Update Status"
+msgstr "Stádas Nua"
+
+msgid "View all %d comments"
+msgstr "Féach ar na %d nóta tráchta"
+
+msgid "Wall Photos"
+msgstr "Grianghraif Bhalla"
+
+msgid "What's on your mind?"
+msgstr "Aon scéal?"
+
+msgid "Write a comment..."
+msgstr "Scríobh rud éigin..."
+
+msgid "Yesterday"
+msgstr "Inné"
+
+msgid "You like this."
+msgstr "Is maith leat é seo."
+
+msgid "January"
+msgstr "Eanáir"
+
+msgid "February"
+msgstr "Feabhra"
+
+msgid "March"
+msgstr "Márta"
+
+msgid "April"
+msgstr "Aibreán"
+
+msgid "May"
+msgstr "Bealtaine"
+
+msgid "June"
+msgstr "Meitheamh"
+
+msgid "July"
+msgstr "Iúil"
+
+msgid "August"
+msgstr "Lúnasa"
+
+msgid "September"
+msgstr "Meán Fómhair"
+
+msgid "October"
+msgstr "Deireadh Fómhair"
+
+msgid "November"
+msgstr "Samhain"
+
+msgid "December"
+msgstr "Nollaig"
+
+msgid "Monday"
+msgstr "Dé Luain"
+
+msgid "Tuesday"
+msgstr "Dé Máirt"
+
+msgid "Wednesday"
+msgstr "Dé Céadaoin"
+
+msgid "Thursday"
+msgstr "Déardaoin"
+
+msgid "Friday"
+msgstr "Dé hAoine"
+
+msgid "Saturday"
+msgstr "Dé Sathairn"
+
+msgid "Sunday"
+msgstr "Dé Domhnaigh"

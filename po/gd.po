@@ -1,0 +1,379 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+# Michael Bauer <fios@akerbeltz.org>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-18 17:27:12-06:00\n"
+"PO-Revision-Date: 2012-02-13 10:49+0100\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"Language-Team: Akerbeltz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gd\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: Virtaal 0.7.1-beta1\n"
+"X-Poedit-Language: Gaelic\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+
+#, fuzzy
+msgid "1 share"
+msgstr "Co-roinn"
+
+msgid "About"
+msgstr "Mu dheidhinn"
+
+msgid "about an hour ago"
+msgstr "mu uair a thìde air ais"
+
+msgid "Account Settings"
+msgstr ""
+
+msgid "Activity Log"
+msgstr ""
+
+#, fuzzy
+msgid "Add Friend"
+msgstr "Dlùth-charaidean"
+
+msgid "Add Photo / Video"
+msgstr "Cuir dealbh / video ris"
+
+msgid "Advertising"
+msgstr "Sanasachd"
+
+msgid "APPS"
+msgstr "APLACAIDEAN"
+
+msgid "Apps and Games"
+msgstr "Aplacaidean is geamannan"
+
+msgid "Ask Question"
+msgstr "Cum cunntas-bheachd"
+
+msgid "Born"
+msgstr ""
+
+msgid "By:"
+msgstr "Le:"
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Careers"
+msgstr "Dreuchdan"
+
+msgid "Change Cover"
+msgstr ""
+
+msgid "Chat (Offline)"
+msgstr "Cabadaich (far loidhne)"
+
+msgid "Close"
+msgstr ""
+
+msgid "Close Friends"
+msgstr "Dlùth-charaidean"
+
+msgid "Comment"
+msgstr "Beachd"
+
+msgid "Create an Ad"
+msgstr "Cruthaich sanasachd"
+
+msgid "Create a Page"
+msgstr "Cruthaich duilleag"
+
+msgid "Create Group..."
+msgstr "Cruthaich buidheann..."
+
+msgid "Developers"
+msgstr "Luchd-leasachaidh"
+
+msgid "%d hours ago"
+msgstr "%d uair(ean) a thìde air ais"
+
+msgid "%d minutes ago"
+msgstr "%d mionaid(ean) air ais"
+
+msgid "%d mutual friends"
+msgstr ""
+
+msgid "%d people"
+msgstr "%d daoine"
+
+msgid "Edit Options"
+msgstr "Deasaich na roghainnean"
+
+msgid "Edit or Remove"
+msgstr ""
+
+msgid "Enter a friend's name or email address"
+msgstr ""
+
+msgid "Events"
+msgstr "Tachartasan"
+
+msgid "Family"
+msgstr "Teaghlach"
+
+msgid "FAVORITES"
+msgstr "ANNSACHDAN"
+
+msgid "Friend Requests"
+msgstr "Iarrtasan càirdeis"
+
+#, fuzzy
+msgid "Friends"
+msgstr "Dlùth-charaidean"
+
+msgid "GROUPS"
+msgstr "BUIDHNEAN"
+
+msgid "Help"
+msgstr "Cobhair"
+
+msgid "Home"
+msgstr "Dhachaigh"
+
+#, fuzzy
+msgid "Life Event"
+msgstr "Tachartasan"
+
+msgid "Like"
+msgstr "'S toil"
+
+#, fuzzy
+msgid "Likes"
+msgstr "'S toil"
+
+msgid "LISTS"
+msgstr "LIOSTAICHEAN"
+
+msgid "Log Out"
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+#, fuzzy
+msgid "Message:"
+msgstr "Teachdaireachdan"
+
+msgid "Messages"
+msgstr "Teachdaireachdan"
+
+#, fuzzy
+msgid "More"
+msgstr "Faic barrachd"
+
+msgid "MORE"
+msgstr "BARRACHD"
+
+msgid "More Stories"
+msgstr "Barrachd sgeulachdan"
+
+msgid "near %s"
+msgstr "faisg air %s"
+
+msgid "New Group..."
+msgstr "Buidheann ùr..."
+
+#, fuzzy
+msgid "New Message"
+msgstr "Teachdaireachdan"
+
+msgid "News Feed"
+msgstr "Inbhir nan naidheachd"
+
+msgid "Now"
+msgstr ""
+
+msgid "PAGES"
+msgstr "DUILLEAGAN"
+
+#, fuzzy
+msgid "People who like this"
+msgstr "'S toigh le %s seo."
+
+msgid "People You May Know"
+msgstr ""
+
+#, fuzzy
+msgid "Photo"
+msgstr "Dealbhan"
+
+msgid "Photos"
+msgstr "Dealbhan"
+
+msgid "Place"
+msgstr ""
+
+msgid "Privacy"
+msgstr "Prìobhaideachd"
+
+#, fuzzy
+msgid "Privacy Settings"
+msgstr "Prìobhaideachd"
+
+msgid "Profile"
+msgstr ""
+
+msgid "Recent Activity"
+msgstr ""
+
+msgid "Recommended Pages"
+msgstr "Duilleagan molta"
+
+msgid "Resize"
+msgstr ""
+
+msgid "Search"
+msgstr "Lorg"
+
+msgid "See All"
+msgstr "Seall a h-uile"
+
+#, fuzzy
+msgid "See All Messages"
+msgstr "Teachdaireachdan"
+
+msgid "See More"
+msgstr "Faic barrachd"
+
+msgid "See Translation"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send a New Message"
+msgstr ""
+
+msgid "Share"
+msgstr "Co-roinn"
+
+msgid "%s likes this."
+msgstr "'S toigh le %s seo."
+
+msgid "%s like this."
+msgstr "'S toigh le %s seo."
+
+msgid "SORT"
+msgstr "SEÒRSAICH"
+
+msgid "Sponsored"
+msgstr "Brosnaichte"
+
+#, fuzzy
+msgid "Status"
+msgstr "Ùraich do naidheachd"
+
+msgid "Subscriptions"
+msgstr "Fo-sgrìobhaidhean"
+
+#, fuzzy
+msgid "Tag Friends"
+msgstr "Dlùth-charaidean"
+
+msgid "Terms"
+msgstr "Teirmichean"
+
+msgid "Ticker"
+msgstr "Teacsa ruith"
+
+msgid "Timeline"
+msgstr ""
+
+msgid "To:"
+msgstr ""
+
+msgid "Unlike"
+msgstr "Cha toil"
+
+msgid "Update Info"
+msgstr ""
+
+msgid "Update Status"
+msgstr "Ùraich do naidheachd"
+
+msgid "View all %d comments"
+msgstr "Seall a h-uile %d beachd(an)"
+
+msgid "Wall Photos"
+msgstr "Dealbhan air a' bhalla"
+
+msgid "What's on your mind?"
+msgstr ""
+
+msgid "Write a comment..."
+msgstr "Sgrìobh beachd..."
+
+msgid "Yesterday"
+msgstr ""
+
+#, fuzzy
+msgid "You like this."
+msgstr "'S toigh le %s seo."
+
+msgid "January"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+#, fuzzy
+msgid "March"
+msgstr "Lorg"
+
+msgid "April"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+#, fuzzy
+msgid "Friday"
+msgstr "Prìobhaideachd"
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
