@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-18 17:27:12-06:00\n"
+"POT-Creation-Date: 2012-02-19 11:54:03-06:00\n"
 "PO-Revision-Date: 2012-02-13 10:49+0100\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -19,6 +19,12 @@ msgstr ""
 "X-Poedit-Language: Gaelic\n"
 "X-Poedit-Country: UNITED KINGDOM\n"
 
+msgid "1 mutual friend"
+msgstr ""
+
+msgid "1 NEW STORY"
+msgstr ""
+
 #, fuzzy
 msgid "1 share"
 msgstr "Co-roinn"
@@ -27,6 +33,10 @@ msgid "About"
 msgstr "Mu dheidhinn"
 
 msgid "about an hour ago"
+msgstr "mu uair a thìde air ais"
+
+#, fuzzy
+msgid "about a minute ago"
 msgstr "mu uair a thìde air ais"
 
 msgid "Account Settings"
@@ -104,6 +114,9 @@ msgstr ""
 
 msgid "%d people"
 msgstr "%d daoine"
+
+msgid "%d NEW STORIES"
+msgstr ""
 
 msgid "Edit Options"
 msgstr "Deasaich na roghainnean"
@@ -227,6 +240,9 @@ msgstr ""
 
 msgid "Recommended Pages"
 msgstr "Duilleagan molta"
+
+msgid "Remove Preview"
+msgstr ""
 
 msgid "Resize"
 msgstr ""

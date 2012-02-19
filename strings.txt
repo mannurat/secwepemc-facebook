@@ -1,6 +1,9 @@
+1 mutual friend
+1 NEW STORY
 1 share
 About
 about an hour ago
+about a minute ago
 Account Settings
 Activity Log
 Add Friend
@@ -26,6 +29,7 @@ Developers
 %d minutes ago
 %d mutual friends
 %d people
+%d NEW STORIES
 Edit Options
 Edit or Remove
 Enter a friend's name or email address
@@ -64,6 +68,7 @@ Privacy Settings
 Profile
 Recent Activity
 Recommended Pages
+Remove Preview
 Resize
 Search
 See All

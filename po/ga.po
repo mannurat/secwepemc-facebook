@@ -4,14 +4,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-18 17:27:12-06:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-02-19 11:54:03-06:00\n"
+"PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
+"Last-Translator: Kevin Scannell\n"
+"Language-Team: Irish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n < 11 ? "
+"3 : 4\n"
+
+msgid "1 mutual friend"
+msgstr "1 chomhchara"
+
+msgid "1 NEW STORY"
+msgstr "1 SCÉAL NUA"
 
 msgid "1 share"
 msgstr "Comhroinnte uair amháin"
@@ -21,6 +28,9 @@ msgstr "Maidir Leis"
 
 msgid "about an hour ago"
 msgstr "timpeall is uair ó shin"
+
+msgid "about a minute ago"
+msgstr "timpeall is nóiméad ó shin"
 
 msgid "Account Settings"
 msgstr "Socruithe Cuntais"
@@ -96,6 +106,9 @@ msgstr "%d comhchara"
 
 msgid "%d people"
 msgstr "%d duine"
+
+msgid "%d NEW STORIES"
+msgstr "%d SCÉAL NUA"
 
 msgid "Edit Options"
 msgstr "Cuir Roghanna in Eagar"
@@ -210,6 +223,9 @@ msgstr "Gníomhaíocht Is Déanaí"
 
 msgid "Recommended Pages"
 msgstr "Leathanaigh Mholta"
+
+msgid "Remove Preview"
+msgstr "Gan Réamhamharc"
 
 msgid "Resize"
 msgstr "Athraigh Méid"
