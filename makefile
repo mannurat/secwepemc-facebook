@@ -7,6 +7,9 @@ facebook.pot: strings.txt header.pot
 
 updatepos: facebook.pot
 	find po/ -name '*.po' | while read x; do echo "Updating $$x..."; msgmerge -q --backup=off -U $$x facebook.pot > /dev/null 2>&1; done
+	sed -i '/^#~/,$$d' po/*.po
+	sed -i '$${/^#, fuzzy$$/d}' po/*.po
+	sed -i '$${/^$$/d}' po/*.po
 
 updategms: facebook-ga.user.js
 
