@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-19 11:54:03-06:00\n"
+"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -47,14 +47,37 @@ msgstr "Cuir Grianghraf / Físeán Leis"
 msgid "Advertising"
 msgstr "Fógraíocht"
 
+msgid "a few seconds ago"
+msgstr "cúpla soicind ó shin"
+
 msgid "APPS"
 msgstr "FEIDHMCHLÁIR"
 
 msgid "Apps and Games"
 msgstr "Feidhmchláir agus Cluichí"
 
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr "%A ag %s"
+
 msgid "Ask Question"
 msgstr "Cuir Ceist"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "%d %B"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "%d %B ag %s"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "%d %B %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "%d %B %Y ag %s"
 
 msgid "Born"
 msgstr "Rugadh"
@@ -104,11 +127,14 @@ msgstr "%d nóiméad ó shin"
 msgid "%d mutual friends"
 msgstr "%d comhchara"
 
+msgid "%d NEW STORIES"
+msgstr "%d SCÉAL NUA"
+
 msgid "%d people"
 msgstr "%d duine"
 
-msgid "%d NEW STORIES"
-msgstr "%d SCÉAL NUA"
+msgid "%d shares"
+msgstr "Comhroinnte %d uair"
 
 msgid "Edit Options"
 msgstr "Cuir Roghanna in Eagar"
@@ -127,6 +153,9 @@ msgstr "Muintir"
 
 msgid "FAVORITES"
 msgstr "CEANÁIN"
+
+msgid "Find Friends"
+msgstr "Aimsigh Cairde"
 
 msgid "Friend Requests"
 msgstr "Iarratais ar Chairdeas"
@@ -176,9 +205,6 @@ msgstr "TUILLEADH"
 msgid "More Stories"
 msgstr "Tuilleadh Scéalta"
 
-msgid "near %s"
-msgstr "i ngar do %s"
-
 msgid "New Group..."
 msgstr "Grúpa Nua..."
 
@@ -208,6 +234,9 @@ msgstr "Grianghraif"
 
 msgid "Place"
 msgstr "Áit"
+
+msgid "Places"
+msgstr "Áiteanna"
 
 msgid "Privacy"
 msgstr "Príobháideacht"
@@ -254,11 +283,11 @@ msgstr "Seol Teachtaireacht Nua"
 msgid "Share"
 msgstr "Comhroinn"
 
-msgid "%s likes this."
-msgstr "Is maith le %s é seo."
+msgid "%a likes this."
+msgstr "Is maith le %a é seo."
 
-msgid "%s like this."
-msgstr "Is maith le %s é seo."
+msgid "%a like this."
+msgstr "Is maith le %a é seo."
 
 msgid "SORT"
 msgstr "SÓRTÁIL"
@@ -311,62 +340,84 @@ msgstr "Scríobh rud éigin..."
 msgid "Yesterday"
 msgstr "Inné"
 
+msgid "Yesterday at %s"
+msgstr "Inné ag %s"
+
 msgid "You like this."
 msgstr "Is maith leat é seo."
 
+#. Month Name
 msgid "January"
 msgstr "Eanáir"
 
+#. Month Name
 msgid "February"
 msgstr "Feabhra"
 
+#. Month Name
 msgid "March"
 msgstr "Márta"
 
+#. Month Name
 msgid "April"
 msgstr "Aibreán"
 
+#. Month Name
 msgid "May"
 msgstr "Bealtaine"
 
+#. Month Name
 msgid "June"
 msgstr "Meitheamh"
 
+#. Month Name
 msgid "July"
 msgstr "Iúil"
 
+#. Month Name
 msgid "August"
 msgstr "Lúnasa"
 
+#. Month Name
 msgid "September"
 msgstr "Meán Fómhair"
 
+#. Month Name
 msgid "October"
 msgstr "Deireadh Fómhair"
 
+#. Month Name
 msgid "November"
 msgstr "Samhain"
 
+#. Month Name
 msgid "December"
 msgstr "Nollaig"
 
+#. Day of the Week
 msgid "Monday"
 msgstr "Dé Luain"
 
+#. Day of the Week
 msgid "Tuesday"
 msgstr "Dé Máirt"
 
+#. Day of the Week
 msgid "Wednesday"
 msgstr "Dé Céadaoin"
 
+#. Day of the Week
 msgid "Thursday"
 msgstr "Déardaoin"
 
+#. Day of the Week
 msgid "Friday"
 msgstr "Dé hAoine"
 
+#. Day of the Week
 msgid "Saturday"
 msgstr "Dé Sathairn"
 
+#. Day of the Week
 msgid "Sunday"
 msgstr "Dé Domhnaigh"
