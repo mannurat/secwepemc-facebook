@@ -12,6 +12,7 @@ Activity Log
 Add Friend
 Add Photo / Video
 Advertising
+#. Time stamp on a post. You might also translate as "Just now"
 a few seconds ago
 APPS
 Apps and Games
@@ -83,6 +84,7 @@ Log Out
 Map
 Message:
 Messages
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
 More
 MORE
 More Stories
@@ -110,6 +112,7 @@ Resize
 Search
 See All
 See All Messages
+#. See more of a post that was truncated because it was very long
 See More
 See Translation
 Send
