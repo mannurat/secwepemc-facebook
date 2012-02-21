@@ -73,10 +73,11 @@ Help
 #. Link that takes you to your home timeline; always visible at top-right
 Home
 Life Event
-#. Verb. A link that allows you to "like" a post or a comment
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
 Like
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 Likes
+#. Heading above your lists of friends ("Work", "Family", etc.)
 LISTS
 Log Out
 Map
@@ -95,6 +96,7 @@ People who like this
 People You May Know
 Photo
 Photos
+# Link that allows you to "check in" somewhere
 Place
 Places
 Privacy
@@ -104,6 +106,7 @@ Recent Activity
 Recommended Pages
 Remove Preview
 Resize
+#. Text that appears in the search box at the top of the page
 Search
 See All
 See All Messages
@@ -121,6 +124,7 @@ Share
 SORT
 #. Appears above paid advertisements
 Sponsored
+#. This is a Facebook "status update", not a relationship status
 Status
 Subscriptions
 Tag Friends
@@ -133,6 +137,7 @@ To:
 #. Verb. See "Like"
 Unlike
 Update Info
+#. This is a Facebook "status update", not a relationship status
 Update Status
 #. %d stands for a number, no need to translate it
 View all %d comments
