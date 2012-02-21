@@ -22,7 +22,7 @@ msgid "1 share"
 msgstr "Se kichijtuk compartir ini"
 
 msgid "About"
-msgstr "Achka"
+msgstr "Ken ijtuk"
 
 msgid "about an hour ago"
 msgstr "ashan se horaj"
@@ -46,7 +46,7 @@ msgid "Advertising"
 msgstr "Ajanuncioj"
 
 msgid "a few seconds ago"
-msgstr "ashan chiupichin"
+msgstr "ashanchin"
 
 msgid "APPS"
 msgstr "AJAPLICACION"
@@ -267,7 +267,7 @@ msgid "See All Messages"
 msgstr "Shikita Muchi ne Ajamat"
 
 msgid "See More"
-msgstr "Shikita Sejseuk"
+msgstr "Shikita Chiupiuk"
 
 msgid "See Translation"
 msgstr "Shikpata"
