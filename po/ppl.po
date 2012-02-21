@@ -19,7 +19,7 @@ msgid "1 NEW STORY"
 msgstr "1 YANKWIK TAY INATIWIT"
 
 msgid "1 share"
-msgstr ""
+msgstr "Se kichijtuk compartir ini"
 
 msgid "About"
 msgstr "Achka"
@@ -43,16 +43,16 @@ msgid "Add Photo / Video"
 msgstr "Shikpilu se Fotoj / Videoj"
 
 msgid "Advertising"
-msgstr ""
+msgstr "Ajanuncioj"
 
 msgid "a few seconds ago"
 msgstr "ashan chiupichin"
 
 msgid "APPS"
-msgstr ""
+msgstr "AJAPLICACION"
 
 msgid "Apps and Games"
-msgstr ""
+msgstr "Ajaplicacion wan ajawilti"
 
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
@@ -99,13 +99,13 @@ msgid "Close"
 msgstr "Shiktzakwa"
 
 msgid "Close Friends"
-msgstr "Ikunpawan Yek"
+msgstr "Mukunpawan yek"
 
 msgid "Comment"
-msgstr "Shiktalili se"
+msgstr "Shitaketza ipanpa"
 
 msgid "Create an Ad"
-msgstr ""
+msgstr "Shikchiwa se anuncioj"
 
 msgid "Create a Page"
 msgstr "Shiketza se Iswat"
@@ -114,7 +114,7 @@ msgid "Create Group..."
 msgstr "Shiketza se Tepewa..."
 
 msgid "Developers"
-msgstr ""
+msgstr "Ká kichijki ini"
 
 msgid "%d hours ago"
 msgstr "ashan %d horaj"
@@ -132,7 +132,7 @@ msgid "%d people"
 msgstr "%d tukniwan"
 
 msgid "%d shares"
-msgstr ""
+msgstr "%d kichijtiwit compartir ini"
 
 msgid "Edit Options"
 msgstr ""
@@ -147,10 +147,10 @@ msgid "Events"
 msgstr "Tay Yawi Muchiwa"
 
 msgid "Family"
-msgstr "Imiakwan"
+msgstr "Mumiakwan"
 
 msgid "FAVORITES"
-msgstr "SUJSUL IGUSTOJ"
+msgstr "FAJFAVORITOJ"
 
 msgid "Find Friends"
 msgstr "Shiktemu Mukunpawan"
@@ -261,7 +261,7 @@ msgid "Search"
 msgstr "Shiktemu"
 
 msgid "See All"
-msgstr "Sikita Muchi"
+msgstr "Shikita Muchi"
 
 msgid "See All Messages"
 msgstr "Shikita Muchi ne Ajamat"
@@ -279,7 +279,7 @@ msgid "Send a New Message"
 msgstr "Shiktukti se Yankwik Amat"
 
 msgid "Share"
-msgstr ""
+msgstr "Shikchiwa compartir"
 
 msgid "%a likes this."
 msgstr "%a igustoj ini."
@@ -297,7 +297,7 @@ msgid "Status"
 msgstr "Tay ina"
 
 msgid "Subscriptions"
-msgstr ""
+msgstr "Tay kikwi"
 
 msgid "Tag Friends"
 msgstr "Shiktali Ejetiquetaj"
@@ -309,7 +309,7 @@ msgid "Ticker"
 msgstr ""
 
 msgid "Timeline"
-msgstr ""
+msgstr "Tay-keman"
 
 msgid "To:"
 msgstr "Ká ipal:"
@@ -324,16 +324,16 @@ msgid "Update Status"
 msgstr "Shikpata tay tina"
 
 msgid "View all %d comments"
-msgstr "Shikita ne %d tay mutalilijtiwit"
+msgstr "Shikita ne %d tay inatiwit ipanpa"
 
 msgid "Wall Photos"
-msgstr "Fojfotoj ipal Itapepechul"
+msgstr "Fojfotoj ipal ne Tapepechul"
 
 msgid "What's on your mind?"
 msgstr "Tay tina?"
 
 msgid "Write a comment..."
-msgstr "Shiktalili se..."
+msgstr "Shina se ipanpa..."
 
 msgid "Yesterday"
 msgstr "Yalua"
