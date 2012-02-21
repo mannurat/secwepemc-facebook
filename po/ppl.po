@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
+"POT-Creation-Date: 2012-02-21 17:24:20-06:00\n"
 "PO-Revision-Date: 2012-02-20 17:58:12-06:00\n"
 "Last-Translator: Alan R. King\n"
 "Language-Team: Nawat\n"
@@ -12,15 +12,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#. Lines like this one beginning with "#." are comments; no need to translate!
 msgid "1 mutual friend"
 msgstr "Kishmati se mukunpa"
 
 msgid "1 NEW STORY"
 msgstr "1 YANKWIK TAY INATIWIT"
 
+#. Appears next to a post; means the post has been shared one time
 msgid "1 share"
 msgstr "Se kichijtuk compartir ini"
 
+#. Link to information about Facebook
 msgid "About"
 msgstr "Ken ijtuk"
 
@@ -45,6 +48,7 @@ msgstr "Shikpilu se Fotoj / Videoj"
 msgid "Advertising"
 msgstr "Ajanuncioj"
 
+#. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
 msgstr "ashanchin"
 
@@ -86,9 +90,11 @@ msgstr "Ipal:"
 msgid "Cancel"
 msgstr "Shikajkawa"
 
+#. Link to information about jobs at Facebook
 msgid "Careers"
 msgstr ""
 
+#. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
 msgstr ""
 
@@ -98,9 +104,11 @@ msgstr "Shichachalaka (Te nemi ashan)"
 msgid "Close"
 msgstr "Shiktzakwa"
 
+#. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
 msgstr "Mukunpawan yek"
 
+#. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
 msgstr "Shitaketza ipanpa"
 
@@ -116,21 +124,28 @@ msgstr "Shiketza se Tepewa..."
 msgid "Developers"
 msgstr "Ká kichijki ini"
 
+#. %d stands for a number, no need to translate it
 msgid "%d hours ago"
 msgstr "ashan %d horaj"
 
+#. %d stands for a number, no need to translate it
 msgid "%d minutes ago"
 msgstr "ashan %d minutoj"
 
+#. %d stands for a number, no need to translate it
 msgid "%d mutual friends"
 msgstr "Kinhishmati %d mukunpa"
 
+#. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
 msgstr "%d YANKWIK TAY INATIWIT"
 
+#. %d stands for a number, no need to translate it
 msgid "%d people"
 msgstr "%d tukniwan"
 
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
 msgid "%d shares"
 msgstr "%d kichijtiwit compartir ini"
 
@@ -143,9 +158,11 @@ msgstr "Shikpata o Shikishti"
 msgid "Enter a friend's name or email address"
 msgstr "Shiktajkwilu ne itukay se mukunpa o ne idireccion"
 
+#. A link to a list of events that you've been invited to
 msgid "Events"
 msgstr "Tay Yawi Muchiwa"
 
+#. A link that shows you a list of your relatives on Facebook
 msgid "Family"
 msgstr "Mumiakwan"
 
@@ -158,6 +175,7 @@ msgstr "Shiktemu Mukunpawan"
 msgid "Friend Requests"
 msgstr "Ká kineki muchiwa mukunpa"
 
+#. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
 msgstr "Ikunpawan"
 
@@ -167,18 +185,22 @@ msgstr "TEJTEPEWA"
 msgid "Help"
 msgstr "Timetzpalewikan"
 
+#. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
 msgstr "Achtu Iswat"
 
 msgid "Life Event"
 msgstr ""
 
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
 msgid "Like"
 msgstr "Nugustoj"
 
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 msgid "Likes"
 msgstr "Igustoj"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "MULIJLISTAJ"
 
@@ -194,6 +216,7 @@ msgstr "Amat:"
 msgid "Messages"
 msgstr "Ajamat"
 
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
 msgstr "Sejseuk"
 
@@ -212,6 +235,7 @@ msgstr "Yankwik Amat"
 msgid "News Feed"
 msgstr "Yajyankwik"
 
+#. A link that takes you to the latest posts on your timeline
 msgid "Now"
 msgstr "Ashan"
 
@@ -257,6 +281,7 @@ msgstr ""
 msgid "Resize"
 msgstr ""
 
+#. Text that appears in the search box at the top of the page
 msgid "Search"
 msgstr "Shiktemu"
 
@@ -266,6 +291,7 @@ msgstr "Shikita Muchi"
 msgid "See All Messages"
 msgstr "Shikita Muchi ne Ajamat"
 
+#. See more of a post that was truncated because it was very long
 msgid "See More"
 msgstr "Shikita Chiupiuk"
 
@@ -278,21 +304,27 @@ msgstr "Shiktukti"
 msgid "Send a New Message"
 msgstr "Shiktukti se Yankwik Amat"
 
+#. Verb. A link that allows you to share a post with your friends
 msgid "Share"
 msgstr "Shikchiwa compartir"
 
+#. %a stands for a person's name
 msgid "%a likes this."
 msgstr "%a igustoj ini."
 
+#. %a stands for something like "3 people"
 msgid "%a like this."
 msgstr "%a ingustoj ini."
 
+#. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "SHIKYEKTALI"
 
+#. Appears above paid advertisements
 msgid "Sponsored"
 msgstr ""
 
+#. This is a Facebook "status update", not a relationship status
 msgid "Status"
 msgstr "Tay ina"
 
@@ -302,6 +334,7 @@ msgstr "Tay kikwi"
 msgid "Tag Friends"
 msgstr "Shiktali Ejetiquetaj"
 
+#. Short for "Terms of Service"
 msgid "Terms"
 msgstr ""
 
@@ -311,33 +344,41 @@ msgstr ""
 msgid "Timeline"
 msgstr "Tay-keman"
 
+#. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Ká ipal:"
 
+#. Verb. See "Like"
 msgid "Unlike"
 msgstr "Tea nugustoj"
 
 msgid "Update Info"
 msgstr "Shikpata Tay Tinatuk Mupanpa"
 
+#. This is a Facebook "status update", not a relationship status
 msgid "Update Status"
 msgstr "Shikpata tay tina"
 
+#. %d stands for a number, no need to translate it
 msgid "View all %d comments"
 msgstr "Shikita ne %d tay inatiwit ipanpa"
 
 msgid "Wall Photos"
 msgstr "Fojfotoj ipal ne Tapepechul"
 
+#. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
 msgstr "Tay tina?"
 
+#. Prompt when you comment on a post
 msgid "Write a comment..."
 msgstr "Shina se ipanpa..."
 
+#. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
 msgstr "Yalua"
 
+#. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Yalua ka %s"
 
@@ -419,4 +460,3 @@ msgstr "sabadoj"
 #. Day of the Week
 msgid "Sunday"
 msgstr "domingoj"
-

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
+"POT-Creation-Date: 2012-02-21 17:24:20-06:00\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -14,15 +14,18 @@ msgstr ""
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n < 11 ? "
 "3 : 4\n"
 
+#. Lines like this one beginning with "#." are comments; no need to translate!
 msgid "1 mutual friend"
 msgstr "1 chomhchara"
 
 msgid "1 NEW STORY"
 msgstr "1 SCÉAL NUA"
 
+#. Appears next to a post; means the post has been shared one time
 msgid "1 share"
 msgstr "Comhroinnte uair amháin"
 
+#. Link to information about Facebook
 msgid "About"
 msgstr "Maidir Leis"
 
@@ -47,6 +50,7 @@ msgstr "Cuir Grianghraf / Físeán Leis"
 msgid "Advertising"
 msgstr "Fógraíocht"
 
+#. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
 msgstr "cúpla soicind ó shin"
 
@@ -88,9 +92,11 @@ msgstr "Le:"
 msgid "Cancel"
 msgstr "Cealaigh"
 
+#. Link to information about jobs at Facebook
 msgid "Careers"
 msgstr "Gairmeacha"
 
+#. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
 msgstr "Athraigh Cúlbhrat"
 
@@ -100,9 +106,11 @@ msgstr "Comhrá (As Líne)"
 msgid "Close"
 msgstr "Dún"
 
+#. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
 msgstr "Dlúthchairde"
 
+#. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
 msgstr "Déan Trácht"
 
@@ -118,21 +126,28 @@ msgstr "Cruthaigh Grúpa..."
 msgid "Developers"
 msgstr "Forbróirí"
 
+#. %d stands for a number, no need to translate it
 msgid "%d hours ago"
 msgstr "%d uair ó shin"
 
+#. %d stands for a number, no need to translate it
 msgid "%d minutes ago"
 msgstr "%d nóiméad ó shin"
 
+#. %d stands for a number, no need to translate it
 msgid "%d mutual friends"
 msgstr "%d comhchara"
 
+#. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
 msgstr "%d SCÉAL NUA"
 
+#. %d stands for a number, no need to translate it
 msgid "%d people"
 msgstr "%d duine"
 
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
 msgid "%d shares"
 msgstr "Comhroinnte %d uair"
 
@@ -145,9 +160,11 @@ msgstr "Cuir in Eagar nó Bain"
 msgid "Enter a friend's name or email address"
 msgstr "Cuir ainm nó seoladh ríomhphoist isteach"
 
+#. A link to a list of events that you've been invited to
 msgid "Events"
 msgstr "Imeachtaí"
 
+#. A link that shows you a list of your relatives on Facebook
 msgid "Family"
 msgstr "Muintir"
 
@@ -160,6 +177,7 @@ msgstr "Aimsigh Cairde"
 msgid "Friend Requests"
 msgstr "Iarratais ar Chairdeas"
 
+#. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
 msgstr "Cairde"
 
@@ -169,18 +187,22 @@ msgstr "GRÚPAÍ"
 msgid "Help"
 msgstr "Cabhair"
 
+#. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
 msgstr "Baile"
 
 msgid "Life Event"
 msgstr "Cúrsa Saoil"
 
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
 msgid "Like"
 msgstr "Is Maith Liom É"
 
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 msgid "Likes"
 msgstr "Ceanáin"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "LIOSTAÍ"
 
@@ -196,6 +218,7 @@ msgstr "Teachtaireacht:"
 msgid "Messages"
 msgstr "Teachtaireachtaí"
 
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
 msgstr "Tuilleadh"
 
@@ -214,6 +237,7 @@ msgstr "Teachtaireacht Nua"
 msgid "News Feed"
 msgstr "Fotha Nuachta"
 
+#. A link that takes you to the latest posts on your timeline
 msgid "Now"
 msgstr "Anois"
 
@@ -259,6 +283,7 @@ msgstr "Gan Réamhamharc"
 msgid "Resize"
 msgstr "Athraigh Méid"
 
+#. Text that appears in the search box at the top of the page
 msgid "Search"
 msgstr "Cuardaigh"
 
@@ -268,6 +293,7 @@ msgstr "Gach Uile"
 msgid "See All Messages"
 msgstr "Gach Teachtaireacht"
 
+#. See more of a post that was truncated because it was very long
 msgid "See More"
 msgstr "Tuilleadh"
 
@@ -280,21 +306,27 @@ msgstr "Seol"
 msgid "Send a New Message"
 msgstr "Seol Teachtaireacht Nua"
 
+#. Verb. A link that allows you to share a post with your friends
 msgid "Share"
 msgstr "Comhroinn"
 
+#. %a stands for a person's name
 msgid "%a likes this."
 msgstr "Is maith le %a é seo."
 
+#. %a stands for something like "3 people"
 msgid "%a like this."
 msgstr "Is maith le %a é seo."
 
+#. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "SÓRTÁIL"
 
+#. Appears above paid advertisements
 msgid "Sponsored"
 msgstr "Urraithe"
 
+#. This is a Facebook "status update", not a relationship status
 msgid "Status"
 msgstr "Stádas"
 
@@ -304,6 +336,7 @@ msgstr "Liostálacha"
 msgid "Tag Friends"
 msgstr "Cuir Clib ar Chairde"
 
+#. Short for "Terms of Service"
 msgid "Terms"
 msgstr "Téarmaí"
 
@@ -313,33 +346,41 @@ msgstr "Nuacht Bheo"
 msgid "Timeline"
 msgstr "Amlíne"
 
+#. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Chuig:"
 
+#. Verb. See "Like"
 msgid "Unlike"
 msgstr "Ní Maith Liom É"
 
 msgid "Update Info"
 msgstr "Faisnéis Nua"
 
+#. This is a Facebook "status update", not a relationship status
 msgid "Update Status"
 msgstr "Stádas Nua"
 
+#. %d stands for a number, no need to translate it
 msgid "View all %d comments"
 msgstr "Féach ar na %d nóta tráchta"
 
 msgid "Wall Photos"
 msgstr "Grianghraif Bhalla"
 
+#. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
 msgstr "Aon scéal?"
 
+#. Prompt when you comment on a post
 msgid "Write a comment..."
 msgstr "Scríobh rud éigin..."
 
+#. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
 msgstr "Inné"
 
+#. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Inné ag %s"
 

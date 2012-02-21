@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
+"POT-Creation-Date: 2012-02-21 17:24:20-06:00\n"
 "PO-Revision-Date: 2012-02-20 16:58:12-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Manx Gaelic\n"
@@ -12,15 +12,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#. Lines like this one beginning with "#." are comments; no need to translate!
 msgid "1 mutual friend"
 msgstr ""
 
 msgid "1 NEW STORY"
 msgstr ""
 
+#. Appears next to a post; means the post has been shared one time
 msgid "1 share"
 msgstr ""
 
+#. Link to information about Facebook
 msgid "About"
 msgstr ""
 
@@ -45,6 +48,7 @@ msgstr ""
 msgid "Advertising"
 msgstr ""
 
+#. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
 msgstr ""
 
@@ -86,9 +90,11 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+#. Link to information about jobs at Facebook
 msgid "Careers"
 msgstr ""
 
+#. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
 msgstr ""
 
@@ -98,9 +104,11 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
+#. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
 msgstr ""
 
+#. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
 msgstr ""
 
@@ -116,21 +124,28 @@ msgstr ""
 msgid "Developers"
 msgstr ""
 
+#. %d stands for a number, no need to translate it
 msgid "%d hours ago"
 msgstr ""
 
+#. %d stands for a number, no need to translate it
 msgid "%d minutes ago"
 msgstr ""
 
+#. %d stands for a number, no need to translate it
 msgid "%d mutual friends"
 msgstr ""
 
+#. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
 msgstr ""
 
+#. %d stands for a number, no need to translate it
 msgid "%d people"
 msgstr ""
 
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
 msgid "%d shares"
 msgstr ""
 
@@ -143,9 +158,11 @@ msgstr ""
 msgid "Enter a friend's name or email address"
 msgstr ""
 
+#. A link to a list of events that you've been invited to
 msgid "Events"
 msgstr ""
 
+#. A link that shows you a list of your relatives on Facebook
 msgid "Family"
 msgstr ""
 
@@ -158,6 +175,7 @@ msgstr ""
 msgid "Friend Requests"
 msgstr ""
 
+#. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
 msgstr ""
 
@@ -167,18 +185,22 @@ msgstr ""
 msgid "Help"
 msgstr ""
 
+#. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
 msgstr ""
 
 msgid "Life Event"
 msgstr ""
 
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
 msgid "Like"
 msgstr "S'mie lhiam eh"
 
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 msgid "Likes"
 msgstr ""
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr ""
 
@@ -194,6 +216,7 @@ msgstr ""
 msgid "Messages"
 msgstr ""
 
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
 msgstr ""
 
@@ -212,6 +235,7 @@ msgstr ""
 msgid "News Feed"
 msgstr ""
 
+#. A link that takes you to the latest posts on your timeline
 msgid "Now"
 msgstr ""
 
@@ -257,6 +281,7 @@ msgstr ""
 msgid "Resize"
 msgstr ""
 
+#. Text that appears in the search box at the top of the page
 msgid "Search"
 msgstr ""
 
@@ -266,6 +291,7 @@ msgstr ""
 msgid "See All Messages"
 msgstr ""
 
+#. See more of a post that was truncated because it was very long
 msgid "See More"
 msgstr ""
 
@@ -278,21 +304,27 @@ msgstr ""
 msgid "Send a New Message"
 msgstr ""
 
+#. Verb. A link that allows you to share a post with your friends
 msgid "Share"
 msgstr ""
 
+#. %a stands for a person's name
 msgid "%a likes this."
 msgstr ""
 
+#. %a stands for something like "3 people"
 msgid "%a like this."
 msgstr ""
 
+#. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr ""
 
+#. Appears above paid advertisements
 msgid "Sponsored"
 msgstr ""
 
+#. This is a Facebook "status update", not a relationship status
 msgid "Status"
 msgstr ""
 
@@ -302,6 +334,7 @@ msgstr ""
 msgid "Tag Friends"
 msgstr ""
 
+#. Short for "Terms of Service"
 msgid "Terms"
 msgstr ""
 
@@ -311,33 +344,41 @@ msgstr ""
 msgid "Timeline"
 msgstr ""
 
+#. Specifies recipient when you send a private message
 msgid "To:"
 msgstr ""
 
+#. Verb. See "Like"
 msgid "Unlike"
 msgstr "Cha mie lhiam eh"
 
 msgid "Update Info"
 msgstr ""
 
+#. This is a Facebook "status update", not a relationship status
 msgid "Update Status"
 msgstr ""
 
+#. %d stands for a number, no need to translate it
 msgid "View all %d comments"
 msgstr ""
 
 msgid "Wall Photos"
 msgstr ""
 
+#. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
 msgstr ""
 
+#. Prompt when you comment on a post
 msgid "Write a comment..."
 msgstr ""
 
+#. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
 msgstr ""
 
+#. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr ""
 
@@ -419,4 +460,3 @@ msgstr ""
 #. Day of the Week
 msgid "Sunday"
 msgstr ""
-
