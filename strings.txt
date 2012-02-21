@@ -1,6 +1,9 @@
+#. Lines like this one beginning with "#." are comments; no need to translate!
 1 mutual friend
 1 NEW STORY
+#. Appears next to a post; means the post has been shared one time
 1 share
+#. Link to information about Facebook
 About
 about an hour ago
 about a minute ago
@@ -26,36 +29,53 @@ Ask Question
 Born
 By:
 Cancel
+#. Link to information about jobs at Facebook
 Careers
+#. Link that allows you to change the big photo at the top of your timeline
 Change Cover
 Chat (Offline)
 Close
+#. A link that takes you to a list of your closest friends on Facebook
 Close Friends
+#. Verb. A link under a post that allows you to comment on the post.
 Comment
 Create an Ad
 Create a Page
 Create Group...
 Developers
+#. %d stands for a number, no need to translate it
 %d hours ago
+#. %d stands for a number, no need to translate it
 %d minutes ago
+#. %d stands for a number, no need to translate it
 %d mutual friends
+#. %d stands for a number, no need to translate it
 %d NEW STORIES
+#. %d stands for a number, no need to translate it
 %d people
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
 %d shares
 Edit Options
 Edit or Remove
 Enter a friend's name or email address
+#. A link to a list of events that you've been invited to
 Events
+#. A link that shows you a list of your relatives on Facebook
 Family
 FAVORITES
 Find Friends
 Friend Requests
+#. A link that takes you to a list of all your Facebook friends
 Friends
 GROUPS
 Help
+#. Link that takes you to your home timeline; always visible at top-right
 Home
 Life Event
+#. Verb. A link that allows you to "like" a post or a comment
 Like
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 Likes
 LISTS
 Log Out
@@ -68,6 +88,7 @@ More Stories
 New Group...
 New Message
 News Feed
+#. A link that takes you to the latest posts on your timeline
 Now
 PAGES
 People who like this
@@ -90,26 +111,39 @@ See More
 See Translation
 Send
 Send a New Message
+#. Verb. A link that allows you to share a post with your friends
 Share
+#. %a stands for a person's name
 %a likes this.
+#. %a stands for something like "3 people"
 %a like this.
+#. A link that allows your to sort posts by "most recent" or "top stories"
 SORT
+#. Appears above paid advertisements
 Sponsored
 Status
 Subscriptions
 Tag Friends
+#. Short for "Terms of Service"
 Terms
 Ticker
 Timeline
+#. Specifies recipient when you send a private message
 To:
+#. Verb. See "Like"
 Unlike
 Update Info
 Update Status
+#. %d stands for a number, no need to translate it
 View all %d comments
 Wall Photos
+#. Main prompt when you enter in a new status update
 What's on your mind?
+#. Prompt when you comment on a post
 Write a comment...
+#. Appears next to a post or comment as a timestamp
 Yesterday
+#. Appears next to a post or comment as a timestamp; %s is the time of day
 Yesterday at %s
 You like this.
 #. Month Name
