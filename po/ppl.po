@@ -1,0 +1,422 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
+"PO-Revision-Date: 2012-02-20 17:58:12-06:00\n"
+"Last-Translator: Alan R. King\n"
+"Language-Team: Nawat\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "1 mutual friend"
+msgstr "Kishmati se mukunpa"
+
+msgid "1 NEW STORY"
+msgstr "1 YANKWIK TAY INATIWIT"
+
+msgid "1 share"
+msgstr ""
+
+msgid "About"
+msgstr "Achka"
+
+msgid "about an hour ago"
+msgstr "ashan se horaj"
+
+msgid "about a minute ago"
+msgstr "ashan se minutoj"
+
+msgid "Account Settings"
+msgstr ""
+
+msgid "Activity Log"
+msgstr ""
+
+msgid "Add Friend"
+msgstr "Shikchiwa mukunpa"
+
+msgid "Add Photo / Video"
+msgstr "Shikpilu se Fotoj / Videoj"
+
+msgid "Advertising"
+msgstr ""
+
+msgid "a few seconds ago"
+msgstr "ashan chiupichin"
+
+msgid "APPS"
+msgstr ""
+
+msgid "Apps and Games"
+msgstr ""
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr "ne %A ka %s"
+
+msgid "Ask Question"
+msgstr "Shiktajtani"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "ne tunal %d ipal ne %B"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "ne tunal %d ipal ne %B ka %s"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "ne tunal %d ipal ne %B ipal ne shiwit %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "ne tunal %d ipal ne %B ipal ne shiwit %Y, ka %s"
+
+msgid "Born"
+msgstr "Nesik"
+
+msgid "By:"
+msgstr "Ipal:"
+
+msgid "Cancel"
+msgstr "Shikajkawa"
+
+msgid "Careers"
+msgstr ""
+
+msgid "Change Cover"
+msgstr ""
+
+msgid "Chat (Offline)"
+msgstr "Shichachalaka (Te nemi ashan)"
+
+msgid "Close"
+msgstr "Shiktzakwa"
+
+msgid "Close Friends"
+msgstr "Ikunpawan Yek"
+
+msgid "Comment"
+msgstr "Shiktalili se"
+
+msgid "Create an Ad"
+msgstr ""
+
+msgid "Create a Page"
+msgstr "Shiketza se Iswat"
+
+msgid "Create Group..."
+msgstr "Shiketza se Tepewa..."
+
+msgid "Developers"
+msgstr ""
+
+msgid "%d hours ago"
+msgstr "ashan %d horaj"
+
+msgid "%d minutes ago"
+msgstr "ashan %d minutoj"
+
+msgid "%d mutual friends"
+msgstr "Kinhishmati %d mukunpa"
+
+msgid "%d NEW STORIES"
+msgstr "%d YANKWIK TAY INATIWIT"
+
+msgid "%d people"
+msgstr "%d tukniwan"
+
+msgid "%d shares"
+msgstr ""
+
+msgid "Edit Options"
+msgstr ""
+
+msgid "Edit or Remove"
+msgstr "Shikpata o Shikishti"
+
+msgid "Enter a friend's name or email address"
+msgstr "Shiktajkwilu ne itukay se mukunpa o ne idireccion"
+
+msgid "Events"
+msgstr "Tay Yawi Muchiwa"
+
+msgid "Family"
+msgstr "Imiakwan"
+
+msgid "FAVORITES"
+msgstr "SUJSUL IGUSTOJ"
+
+msgid "Find Friends"
+msgstr "Shiktemu Mukunpawan"
+
+msgid "Friend Requests"
+msgstr "Ká kineki muchiwa mukunpa"
+
+msgid "Friends"
+msgstr "Ikunpawan"
+
+msgid "GROUPS"
+msgstr "TEJTEPEWA"
+
+msgid "Help"
+msgstr "Timetzpalewikan"
+
+msgid "Home"
+msgstr "Achtu Iswat"
+
+msgid "Life Event"
+msgstr ""
+
+msgid "Like"
+msgstr "Nugustoj"
+
+msgid "Likes"
+msgstr "Igustoj"
+
+msgid "LISTS"
+msgstr ""
+
+msgid "Log Out"
+msgstr "Shikisa"
+
+msgid "Map"
+msgstr "Mapaj"
+
+msgid "Message:"
+msgstr "Amat:"
+
+msgid "Messages"
+msgstr "Ajamat"
+
+msgid "More"
+msgstr "Sejseuk"
+
+msgid "MORE"
+msgstr "SEJSEUK"
+
+msgid "More Stories"
+msgstr "Sejseuk Tay Inatiwit"
+
+msgid "New Group..."
+msgstr "Yankwik Tepewa..."
+
+msgid "New Message"
+msgstr "Yankwik Amat"
+
+msgid "News Feed"
+msgstr "Yajyankwik"
+
+msgid "Now"
+msgstr "Ashan"
+
+msgid "PAGES"
+msgstr "IJISWAT"
+
+msgid "People who like this"
+msgstr "Ká igustoj ini"
+
+msgid "People You May Know"
+msgstr "Sejse Ká Weli Tikishmati"
+
+msgid "Photo"
+msgstr "Fotoj"
+
+msgid "Photos"
+msgstr "Fojfotoj"
+
+msgid "Place"
+msgstr "Kan"
+
+msgid "Places"
+msgstr "Kan"
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Privacy Settings"
+msgstr ""
+
+msgid "Profile"
+msgstr "Iswat"
+
+msgid "Recent Activity"
+msgstr "Tay Kichijtuk Yewa"
+
+msgid "Recommended Pages"
+msgstr ""
+
+msgid "Remove Preview"
+msgstr ""
+
+msgid "Resize"
+msgstr ""
+
+msgid "Search"
+msgstr "Shiktemu"
+
+msgid "See All"
+msgstr "Sikita Muchi"
+
+msgid "See All Messages"
+msgstr "Shikita Muchi ne Ajamat"
+
+msgid "See More"
+msgstr "Shikita Sejseuk"
+
+msgid "See Translation"
+msgstr "Shikpata"
+
+msgid "Send"
+msgstr "Shiktukti"
+
+msgid "Send a New Message"
+msgstr "Shiktukti se Yankwik Amat"
+
+msgid "Share"
+msgstr ""
+
+msgid "%a likes this."
+msgstr "%a igustoj ini."
+
+msgid "%a like this."
+msgstr "%a ingustoj ini."
+
+msgid "SORT"
+msgstr "SHIKYEKTALI"
+
+msgid "Sponsored"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Subscriptions"
+msgstr ""
+
+msgid "Tag Friends"
+msgstr "Shiktali Ejetiquetaj"
+
+msgid "Terms"
+msgstr ""
+
+msgid "Ticker"
+msgstr ""
+
+msgid "Timeline"
+msgstr ""
+
+msgid "To:"
+msgstr "Ká ipal:"
+
+msgid "Unlike"
+msgstr "Tea nugustoj"
+
+msgid "Update Info"
+msgstr "Shikpata Tay Tinatuk"
+
+msgid "Update Status"
+msgstr ""
+
+msgid "View all %d comments"
+msgstr "Shikita ne %d tay mutalilijtiwit"
+
+msgid "Wall Photos"
+msgstr "Fojfotoj ipal Itapepechul"
+
+msgid "What's on your mind?"
+msgstr "Tay tina?"
+
+msgid "Write a comment..."
+msgstr "Shiktalili se..."
+
+msgid "Yesterday"
+msgstr "Yalua"
+
+msgid "Yesterday at %s"
+msgstr "Yalua ka %s"
+
+msgid "You like this."
+msgstr "Mugustoj ini."
+
+#. Month Name
+msgid "January"
+msgstr "Metzti Se"
+
+#. Month Name
+msgid "February"
+msgstr "Metzti Ume"
+
+#. Month Name
+msgid "March"
+msgstr "Metzti Yey"
+
+#. Month Name
+msgid "April"
+msgstr "Metzti Nawi"
+
+#. Month Name
+msgid "May"
+msgstr "Metzti Makwil"
+
+#. Month Name
+msgid "June"
+msgstr "Metzti Chikwasen"
+
+#. Month Name
+msgid "July"
+msgstr "Metzti Chikume"
+
+#. Month Name
+msgid "August"
+msgstr "Metzti Chikwey"
+
+#. Month Name
+msgid "September"
+msgstr "Metzti Chiknawi"
+
+#. Month Name
+msgid "October"
+msgstr "Metzti Majtakti"
+
+#. Month Name
+msgid "November"
+msgstr "Metzti Majtakti-Se"
+
+#. Month Name
+msgid "December"
+msgstr "Metzti Majtakti-Ume"
+
+#. Day of the Week
+msgid "Monday"
+msgstr "lunes"
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr "martes"
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr "miercoles"
+
+#. Day of the Week
+msgid "Thursday"
+msgstr "jueves"
+
+#. Day of the Week
+msgid "Friday"
+msgstr "viernes"
+
+#. Day of the Week
+msgid "Saturday"
+msgstr "sabadoj"
+
+#. Day of the Week
+msgid "Sunday"
+msgstr "domingoj"
+
