@@ -1,6 +1,9 @@
 # Makefile for secwepemc-facebook
 # Copyright 2012 Kevin Scannell
 # License: GPLv3+
+
+all: updategms
+
 facebook.pot: strings.txt header.pot
 	sed "s/XXXX-XX-XX XX:XX-XXXX/`date --rfc-3339=seconds`/" header.pot > $@
 	cat strings.txt | sed '/^[^#]/{s/"/\\"/g; s/.*/msgid "&"\nmsgstr ""\n/}' >> $@
