@@ -315,7 +315,7 @@ msgid "To:"
 msgstr ""
 
 msgid "Unlike"
-msgstr ""
+msgstr "Cha mie lhiam eh"
 
 msgid "Update Info"
 msgstr ""
