@@ -1,0 +1,422 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
+"PO-Revision-Date: 2012-02-20 16:58:12-06:00\n"
+"Last-Translator: Kevin Scannell\n"
+"Language-Team: Manx Gaelic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "1 mutual friend"
+msgstr ""
+
+msgid "1 NEW STORY"
+msgstr ""
+
+msgid "1 share"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr ""
+
+msgid "about a minute ago"
+msgstr ""
+
+msgid "Account Settings"
+msgstr ""
+
+msgid "Activity Log"
+msgstr ""
+
+msgid "Add Friend"
+msgstr ""
+
+msgid "Add Photo / Video"
+msgstr ""
+
+msgid "Advertising"
+msgstr ""
+
+msgid "a few seconds ago"
+msgstr ""
+
+msgid "APPS"
+msgstr ""
+
+msgid "Apps and Games"
+msgstr ""
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr ""
+
+msgid "Ask Question"
+msgstr ""
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr ""
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr ""
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr ""
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr ""
+
+msgid "Born"
+msgstr ""
+
+msgid "By:"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Careers"
+msgstr ""
+
+msgid "Change Cover"
+msgstr ""
+
+msgid "Chat (Offline)"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close Friends"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Create an Ad"
+msgstr ""
+
+msgid "Create a Page"
+msgstr ""
+
+msgid "Create Group..."
+msgstr ""
+
+msgid "Developers"
+msgstr ""
+
+msgid "%d hours ago"
+msgstr ""
+
+msgid "%d minutes ago"
+msgstr ""
+
+msgid "%d mutual friends"
+msgstr ""
+
+msgid "%d NEW STORIES"
+msgstr ""
+
+msgid "%d people"
+msgstr ""
+
+msgid "%d shares"
+msgstr ""
+
+msgid "Edit Options"
+msgstr ""
+
+msgid "Edit or Remove"
+msgstr ""
+
+msgid "Enter a friend's name or email address"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Family"
+msgstr ""
+
+msgid "FAVORITES"
+msgstr ""
+
+msgid "Find Friends"
+msgstr ""
+
+msgid "Friend Requests"
+msgstr ""
+
+msgid "Friends"
+msgstr ""
+
+msgid "GROUPS"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Life Event"
+msgstr ""
+
+msgid "Like"
+msgstr "S'mie lhiam eh"
+
+msgid "Likes"
+msgstr ""
+
+msgid "LISTS"
+msgstr ""
+
+msgid "Log Out"
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+msgid "Message:"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "MORE"
+msgstr ""
+
+msgid "More Stories"
+msgstr ""
+
+msgid "New Group..."
+msgstr ""
+
+msgid "New Message"
+msgstr ""
+
+msgid "News Feed"
+msgstr ""
+
+msgid "Now"
+msgstr ""
+
+msgid "PAGES"
+msgstr ""
+
+msgid "People who like this"
+msgstr ""
+
+msgid "People You May Know"
+msgstr ""
+
+msgid "Photo"
+msgstr ""
+
+msgid "Photos"
+msgstr ""
+
+msgid "Place"
+msgstr ""
+
+msgid "Places"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Privacy Settings"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Recent Activity"
+msgstr ""
+
+msgid "Recommended Pages"
+msgstr ""
+
+msgid "Remove Preview"
+msgstr ""
+
+msgid "Resize"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "See All"
+msgstr ""
+
+msgid "See All Messages"
+msgstr ""
+
+msgid "See More"
+msgstr ""
+
+msgid "See Translation"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send a New Message"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "%a likes this."
+msgstr ""
+
+msgid "%a like this."
+msgstr ""
+
+msgid "SORT"
+msgstr ""
+
+msgid "Sponsored"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Subscriptions"
+msgstr ""
+
+msgid "Tag Friends"
+msgstr ""
+
+msgid "Terms"
+msgstr ""
+
+msgid "Ticker"
+msgstr ""
+
+msgid "Timeline"
+msgstr ""
+
+msgid "To:"
+msgstr ""
+
+msgid "Unlike"
+msgstr ""
+
+msgid "Update Info"
+msgstr ""
+
+msgid "Update Status"
+msgstr ""
+
+msgid "View all %d comments"
+msgstr ""
+
+msgid "Wall Photos"
+msgstr ""
+
+msgid "What's on your mind?"
+msgstr ""
+
+msgid "Write a comment..."
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "Yesterday at %s"
+msgstr ""
+
+msgid "You like this."
+msgstr ""
+
+#. Month Name
+msgid "January"
+msgstr ""
+
+#. Month Name
+msgid "February"
+msgstr ""
+
+#. Month Name
+msgid "March"
+msgstr ""
+
+#. Month Name
+msgid "April"
+msgstr ""
+
+#. Month Name
+msgid "May"
+msgstr ""
+
+#. Month Name
+msgid "June"
+msgstr ""
+
+#. Month Name
+msgid "July"
+msgstr ""
+
+#. Month Name
+msgid "August"
+msgstr ""
+
+#. Month Name
+msgid "September"
+msgstr ""
+
+#. Month Name
+msgid "October"
+msgstr ""
+
+#. Month Name
+msgid "November"
+msgstr ""
+
+#. Month Name
+msgid "December"
+msgstr ""
+
+#. Day of the Week
+msgid "Monday"
+msgstr ""
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr ""
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr ""
+
+#. Day of the Week
+msgid "Thursday"
+msgstr ""
+
+#. Day of the Week
+msgid "Friday"
+msgstr ""
+
+#. Day of the Week
+msgid "Saturday"
+msgstr ""
+
+#. Day of the Week
+msgid "Sunday"
+msgstr ""
+
