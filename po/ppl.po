@@ -180,7 +180,7 @@ msgid "Likes"
 msgstr "Igustoj"
 
 msgid "LISTS"
-msgstr ""
+msgstr "MULIJLISTAJ"
 
 msgid "Log Out"
 msgstr "Shikisa"
@@ -231,10 +231,10 @@ msgid "Photos"
 msgstr "Fojfotoj"
 
 msgid "Place"
-msgstr "Kan"
+msgstr "Kan tinemi?"
 
 msgid "Places"
-msgstr "Kan"
+msgstr "Kan nentuk"
 
 msgid "Privacy"
 msgstr ""
@@ -294,7 +294,7 @@ msgid "Sponsored"
 msgstr ""
 
 msgid "Status"
-msgstr ""
+msgstr "Tay ina"
 
 msgid "Subscriptions"
 msgstr ""
@@ -318,10 +318,10 @@ msgid "Unlike"
 msgstr "Tea nugustoj"
 
 msgid "Update Info"
-msgstr "Shikpata Tay Tinatuk"
+msgstr "Shikpata Tay Tinatuk Mupanpa"
 
 msgid "Update Status"
-msgstr ""
+msgstr "Shikpata tay tina"
 
 msgid "View all %d comments"
 msgstr "Shikita ne %d tay mutalilijtiwit"
