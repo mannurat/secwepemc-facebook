@@ -3,7 +3,7 @@
 1 NEW STORY
 #. Appears next to a post; means the post has been shared one time
 1 share
-#. Link to information about Facebook
+#. Link at bottom of home page (under "More") to info about Facebook
 About
 about an hour ago
 about a minute ago
@@ -11,6 +11,7 @@ Account Settings
 Activity Log
 Add Friend
 Add Photo / Video
+#. Link at bottom of home page (under "More") to info about Facebook ads
 Advertising
 #. Time stamp on a post. You might also translate as "Just now"
 a few seconds ago
@@ -30,7 +31,7 @@ Ask Question
 Born
 By:
 Cancel
-#. Link to information about jobs at Facebook
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
 Careers
 #. Link that allows you to change the big photo at the top of your timeline
 Change Cover
@@ -41,8 +42,10 @@ Close Friends
 #. Verb. A link under a post that allows you to comment on the post.
 Comment
 Create an Ad
+#. Link at bottom of home page (under "More")
 Create a Page
 Create Group...
+#. Link at bottom of home page (under "More") to info for software developers
 Developers
 #. %d stands for a number, no need to translate it
 %d hours ago
@@ -57,15 +60,22 @@ Developers
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 %d shares
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
 Edit Options
+#. Attached to each post on your personal timeline
 Edit or Remove
+#. In the "New Message" dialog
 Enter a friend's name or email address
 #. A link to a list of events that you've been invited to
 Events
 #. A link that shows you a list of your relatives on Facebook
 Family
 FAVORITES
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 Find Friends
+#. People who have asked to be your friend on Facebook; top left of screen
 Friend Requests
 #. A link that takes you to a list of all your Facebook friends
 Friends
@@ -81,12 +91,15 @@ Likes
 #. Heading above your lists of friends ("Work", "Family", etc.)
 LISTS
 Log Out
+#. Link to a map of the places someone has been
 Map
+#. In the "New Message" dialog
 Message:
 Messages
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 More
 MORE
+#. Appears at the bottom of your home time line; click to load more posts
 More Stories
 New Group...
 New Message
@@ -98,24 +111,32 @@ People who like this
 People You May Know
 Photo
 Photos
-# Link that allows you to "check in" somewhere
+#. Link that allows you to "check in" somewhere
 Place
 Places
+#. Link at the bottom of home page to Facebook's privacy policy
 Privacy
 Privacy Settings
 Profile
+#. Box near the top of your personal timeline showing your recent actions on FB
 Recent Activity
 Recommended Pages
+#. When you share a link in a comment, use this to remove the preview image
 Remove Preview
+#. Option on every post on your personal timeline
 Resize
 #. Text that appears in the search box at the top of the page
 Search
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
 See All
 See All Messages
 #. See more of a post that was truncated because it was very long
 See More
+#. Link that appears under a post in another language; click it to translate
 See Translation
+#. Label on button in "New Message" dialog to send the message
 Send
+#. Link that opens the "New Message" dialog
 Send a New Message
 #. Verb. A link that allows you to share a post with your friends
 Share
@@ -131,14 +152,17 @@ Sponsored
 Status
 Subscriptions
 Tag Friends
-#. Short for "Terms of Service"
+#. Link at the bottom of home page to Facebook's "Terms of Service"
 Terms
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 Ticker
 Timeline
 #. Specifies recipient when you send a private message
 To:
 #. Verb. See "Like"
 Unlike
+#. Label on a button that allows you to edit your personal information
 Update Info
 #. This is a Facebook "status update", not a relationship status
 Update Status

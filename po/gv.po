@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-21 17:24:20-06:00\n"
+"POT-Creation-Date: 2012-02-21 22:03:27-06:00\n"
 "PO-Revision-Date: 2012-02-20 16:58:12-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Manx Gaelic\n"
@@ -23,7 +23,7 @@ msgstr ""
 msgid "1 share"
 msgstr ""
 
-#. Link to information about Facebook
+#. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
 msgstr ""
 
@@ -45,6 +45,7 @@ msgstr ""
 msgid "Add Photo / Video"
 msgstr ""
 
+#. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
 msgstr ""
 
@@ -90,7 +91,7 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#. Link to information about jobs at Facebook
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
 msgstr ""
 
@@ -115,12 +116,14 @@ msgstr ""
 msgid "Create an Ad"
 msgstr ""
 
+#. Link at bottom of home page (under "More")
 msgid "Create a Page"
 msgstr ""
 
 msgid "Create Group..."
 msgstr ""
 
+#. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
 msgstr ""
 
@@ -149,12 +152,16 @@ msgstr ""
 msgid "%d shares"
 msgstr ""
 
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
 msgid "Edit Options"
 msgstr ""
 
+#. Attached to each post on your personal timeline
 msgid "Edit or Remove"
 msgstr ""
 
+#. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
 msgstr ""
 
@@ -169,9 +176,12 @@ msgstr ""
 msgid "FAVORITES"
 msgstr ""
 
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
 msgstr ""
 
+#. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
 msgstr ""
 
@@ -207,9 +217,11 @@ msgstr ""
 msgid "Log Out"
 msgstr ""
 
+#. Link to a map of the places someone has been
 msgid "Map"
 msgstr ""
 
+#. In the "New Message" dialog
 msgid "Message:"
 msgstr ""
 
@@ -223,6 +235,7 @@ msgstr ""
 msgid "MORE"
 msgstr ""
 
+#. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
 msgstr ""
 
@@ -254,12 +267,14 @@ msgstr ""
 msgid "Photos"
 msgstr ""
 
+#. Link that allows you to "check in" somewhere
 msgid "Place"
 msgstr ""
 
 msgid "Places"
 msgstr ""
 
+#. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
 msgstr ""
 
@@ -269,15 +284,18 @@ msgstr ""
 msgid "Profile"
 msgstr ""
 
+#. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
 msgstr ""
 
 msgid "Recommended Pages"
 msgstr ""
 
+#. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
 msgstr ""
 
+#. Option on every post on your personal timeline
 msgid "Resize"
 msgstr ""
 
@@ -285,6 +303,7 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
 msgstr ""
 
@@ -295,12 +314,15 @@ msgstr ""
 msgid "See More"
 msgstr ""
 
+#. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
 msgstr ""
 
+#. Label on button in "New Message" dialog to send the message
 msgid "Send"
 msgstr ""
 
+#. Link that opens the "New Message" dialog
 msgid "Send a New Message"
 msgstr ""
 
@@ -334,10 +356,12 @@ msgstr ""
 msgid "Tag Friends"
 msgstr ""
 
-#. Short for "Terms of Service"
+#. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
 msgstr ""
 
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 msgid "Ticker"
 msgstr ""
 
@@ -352,6 +376,7 @@ msgstr ""
 msgid "Unlike"
 msgstr "Cha mie lhiam eh"
 
+#. Label on a button that allows you to edit your personal information
 msgid "Update Info"
 msgstr ""
 

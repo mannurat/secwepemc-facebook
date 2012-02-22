@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-21 17:24:20-06:00\n"
+"POT-Creation-Date: 2012-02-21 22:03:27-06:00\n"
 "PO-Revision-Date: 2012-02-22 01:53-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -13,7 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: gd\n"
-"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : (n > 2 && n < 20) ? 2 : 3;\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Virtaal 0.7.1-beta1\n"
 "X-Poedit-Language: Gaelic\n"
 "X-Poedit-Country: UNITED KINGDOM\n"
@@ -29,7 +30,7 @@ msgstr "1 sgeulachd ùr"
 msgid "1 share"
 msgstr "Air a cho-roinneadh 1 turas"
 
-#. Link to information about Facebook
+#. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
 msgstr "Mu dheidhinn"
 
@@ -51,6 +52,7 @@ msgstr "Cuir caraid ris"
 msgid "Add Photo / Video"
 msgstr "Cuir dealbh / video ris"
 
+#. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
 msgstr "Sanasachd"
 
@@ -96,7 +98,7 @@ msgstr "Le:"
 msgid "Cancel"
 msgstr "Sguir dheth"
 
-#. Link to information about jobs at Facebook
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
 msgstr "Dreuchdan"
 
@@ -121,12 +123,14 @@ msgstr "Beachd"
 msgid "Create an Ad"
 msgstr "Cruthaich sanasachd"
 
+#. Link at bottom of home page (under "More")
 msgid "Create a Page"
 msgstr "Cruthaich duilleag"
 
 msgid "Create Group..."
 msgstr "Cruthaich buidheann..."
 
+#. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
 msgstr "Luchd-leasachaidh"
 
@@ -155,12 +159,16 @@ msgstr "%d daoine"
 msgid "%d shares"
 msgstr "Air a cho-roinneadh %d tura(i)s"
 
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
 msgid "Edit Options"
 msgstr "Deasaich na roghainnean"
 
+#. Attached to each post on your personal timeline
 msgid "Edit or Remove"
 msgstr "Deasaich no thoir air falbh"
 
+#. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
 msgstr "Cuir a-steach ainm no post-d de charaid"
 
@@ -175,9 +183,12 @@ msgstr "Teaghlach"
 msgid "FAVORITES"
 msgstr "ANNSACHDAN"
 
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
 msgstr "Lorg caraidean"
 
+#. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
 msgstr "Iarrtasan càirdeis"
 
@@ -213,9 +224,11 @@ msgstr "LIOSTAICHEAN"
 msgid "Log Out"
 msgstr "Clàraich a-mach"
 
+#. Link to a map of the places someone has been
 msgid "Map"
 msgstr "Mapa"
 
+#. In the "New Message" dialog
 msgid "Message:"
 msgstr "Teachdaireachd:"
 
@@ -229,6 +242,7 @@ msgstr "Barrachd"
 msgid "MORE"
 msgstr "BARRACHD"
 
+#. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
 msgstr "Barrachd sgeulachdan"
 
@@ -260,12 +274,14 @@ msgstr "Dealbh"
 msgid "Photos"
 msgstr "Dealbhan"
 
+#. Link that allows you to "check in" somewhere
 msgid "Place"
 msgstr "Àite"
 
 msgid "Places"
 msgstr "Àitichean"
 
+#. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
 msgstr "Prìobhaideachd"
 
@@ -275,15 +291,18 @@ msgstr "Roghainnean prìobhaideachd"
 msgid "Profile"
 msgstr "Pròifil"
 
+#. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
 msgstr "Gnìomhachd ùr"
 
 msgid "Recommended Pages"
 msgstr "Duilleagan molta"
 
+#. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
 msgstr "Thoir air falbh an ro-shealladh"
 
+#. Option on every post on your personal timeline
 msgid "Resize"
 msgstr "Atharraich am meud"
 
@@ -291,6 +310,7 @@ msgstr "Atharraich am meud"
 msgid "Search"
 msgstr "Lorg"
 
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
 msgstr "Seall a h-uile"
 
@@ -301,12 +321,15 @@ msgstr "Seall a h-uile teachdaireachd"
 msgid "See More"
 msgstr "Faic barrachd"
 
+#. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
 msgstr "Seall eadar-theangachadh"
 
+#. Label on button in "New Message" dialog to send the message
 msgid "Send"
 msgstr "Cuir"
 
+#. Link that opens the "New Message" dialog
 msgid "Send a New Message"
 msgstr "Cuir teachdaireachd ùr"
 
@@ -340,10 +363,12 @@ msgstr "Fo-sgrìobhaidhean"
 msgid "Tag Friends"
 msgstr "Cuir taga ri caraidean"
 
-#. Short for "Terms of Service"
+#. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
 msgstr "Teirmichean"
 
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 msgid "Ticker"
 msgstr "Teacsa ruith"
 
@@ -358,6 +383,7 @@ msgstr "Gu:"
 msgid "Unlike"
 msgstr "Cha toil"
 
+#. Label on a button that allows you to edit your personal information
 msgid "Update Info"
 msgstr "Ùraich am fiosrachadh"
 
@@ -466,4 +492,3 @@ msgstr "DiSathairne"
 #. Day of the Week
 msgid "Sunday"
 msgstr "DiDòmhnaich"
-

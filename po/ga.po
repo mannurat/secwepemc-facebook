@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-21 17:24:20-06:00\n"
+"POT-Creation-Date: 2012-02-21 22:03:27-06:00\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -25,7 +25,7 @@ msgstr "1 SCÉAL NUA"
 msgid "1 share"
 msgstr "Comhroinnte uair amháin"
 
-#. Link to information about Facebook
+#. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
 msgstr "Maidir Leis"
 
@@ -47,6 +47,7 @@ msgstr "Déan Cairdeas"
 msgid "Add Photo / Video"
 msgstr "Cuir Grianghraf / Físeán Leis"
 
+#. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
 msgstr "Fógraíocht"
 
@@ -92,7 +93,7 @@ msgstr "Le:"
 msgid "Cancel"
 msgstr "Cealaigh"
 
-#. Link to information about jobs at Facebook
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
 msgstr "Gairmeacha"
 
@@ -117,12 +118,14 @@ msgstr "Déan Trácht"
 msgid "Create an Ad"
 msgstr "Cruthaigh Fógra"
 
+#. Link at bottom of home page (under "More")
 msgid "Create a Page"
 msgstr "Cruthaigh Leathanach"
 
 msgid "Create Group..."
 msgstr "Cruthaigh Grúpa..."
 
+#. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
 msgstr "Forbróirí"
 
@@ -151,12 +154,16 @@ msgstr "%d duine"
 msgid "%d shares"
 msgstr "Comhroinnte %d uair"
 
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
 msgid "Edit Options"
 msgstr "Cuir Roghanna in Eagar"
 
+#. Attached to each post on your personal timeline
 msgid "Edit or Remove"
 msgstr "Cuir in Eagar nó Bain"
 
+#. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
 msgstr "Cuir ainm nó seoladh ríomhphoist isteach"
 
@@ -171,9 +178,12 @@ msgstr "Muintir"
 msgid "FAVORITES"
 msgstr "CEANÁIN"
 
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
 msgstr "Aimsigh Cairde"
 
+#. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
 msgstr "Iarratais ar Chairdeas"
 
@@ -209,9 +219,11 @@ msgstr "LIOSTAÍ"
 msgid "Log Out"
 msgstr "Logáil Amach"
 
+#. Link to a map of the places someone has been
 msgid "Map"
 msgstr "Léarscáil"
 
+#. In the "New Message" dialog
 msgid "Message:"
 msgstr "Teachtaireacht:"
 
@@ -225,6 +237,7 @@ msgstr "Tuilleadh"
 msgid "MORE"
 msgstr "TUILLEADH"
 
+#. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
 msgstr "Tuilleadh Scéalta"
 
@@ -256,12 +269,14 @@ msgstr "Grianghraf"
 msgid "Photos"
 msgstr "Grianghraif"
 
+#. Link that allows you to "check in" somewhere
 msgid "Place"
 msgstr "Áit"
 
 msgid "Places"
 msgstr "Áiteanna"
 
+#. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
 msgstr "Príobháideacht"
 
@@ -271,15 +286,18 @@ msgstr "Socruithe Príobháideachta"
 msgid "Profile"
 msgstr "Beathaisnéisín"
 
+#. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
 msgstr "Gníomhaíocht Is Déanaí"
 
 msgid "Recommended Pages"
 msgstr "Leathanaigh Mholta"
 
+#. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
 msgstr "Gan Réamhamharc"
 
+#. Option on every post on your personal timeline
 msgid "Resize"
 msgstr "Athraigh Méid"
 
@@ -287,6 +305,7 @@ msgstr "Athraigh Méid"
 msgid "Search"
 msgstr "Cuardaigh"
 
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
 msgstr "Gach Uile"
 
@@ -297,12 +316,15 @@ msgstr "Gach Teachtaireacht"
 msgid "See More"
 msgstr "Tuilleadh"
 
+#. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
 msgstr "Aistriúchán"
 
+#. Label on button in "New Message" dialog to send the message
 msgid "Send"
 msgstr "Seol"
 
+#. Link that opens the "New Message" dialog
 msgid "Send a New Message"
 msgstr "Seol Teachtaireacht Nua"
 
@@ -336,10 +358,12 @@ msgstr "Liostálacha"
 msgid "Tag Friends"
 msgstr "Cuir Clib ar Chairde"
 
-#. Short for "Terms of Service"
+#. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
 msgstr "Téarmaí"
 
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 msgid "Ticker"
 msgstr "Nuacht Bheo"
 
@@ -354,6 +378,7 @@ msgstr "Chuig:"
 msgid "Unlike"
 msgstr "Ní Maith Liom É"
 
+#. Label on a button that allows you to edit your personal information
 msgid "Update Info"
 msgstr "Faisnéis Nua"
 
