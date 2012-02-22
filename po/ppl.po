@@ -37,7 +37,7 @@ msgid "Account Settings"
 msgstr ""
 
 msgid "Activity Log"
-msgstr ""
+msgstr "Shikita Tay Panutuk"
 
 msgid "Add Friend"
 msgstr "Shikchiwa mukunpa"
@@ -200,7 +200,7 @@ msgid "Home"
 msgstr "Achtu Iswat"
 
 msgid "Life Event"
-msgstr ""
+msgstr "Tay Muchijki"
 
 #. Verb. A link that allows you to "like" a post or a comment; "I like this"
 msgid "Like"
@@ -293,11 +293,11 @@ msgstr ""
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
-msgstr ""
+msgstr "Shikishti Ini"
 
 #. Option on every post on your personal timeline
 msgid "Resize"
-msgstr ""
+msgstr "Shikwepa Mas Wey/Chikitik"
 
 #. Text that appears in the search box at the top of the page
 msgid "Search"
@@ -344,7 +344,7 @@ msgstr "SHIKYEKTALI"
 
 #. Appears above paid advertisements
 msgid "Sponsored"
-msgstr ""
+msgstr "Tajtashtawijtuk"
 
 #. This is a Facebook "status update", not a relationship status
 msgid "Status"
@@ -363,7 +363,7 @@ msgstr ""
 #. Real time news feed in the right-hand column
 #. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 msgid "Ticker"
-msgstr ""
+msgstr "Muchi ne Yajyankwik"
 
 msgid "Timeline"
 msgstr "Tay-keman"
