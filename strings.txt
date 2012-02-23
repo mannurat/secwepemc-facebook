@@ -65,6 +65,9 @@ Developers
 Edit Options
 #. Attached to each post on your personal timeline
 Edit or Remove
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+English (US)
 #. In the "New Message" dialog
 Enter a friend's name or email address
 #. A link to a list of events that you've been invited to

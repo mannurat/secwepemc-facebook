@@ -61,7 +61,6 @@ function r(dd, s, t) {
 function translate(x) {
   d = x;
 // Translations go here
-  d = r(d, '(^|="|>)English \\(US\\)(?=($|"|<))', "$1"+"!NATIVENAME!");
   return d;
 }
 
