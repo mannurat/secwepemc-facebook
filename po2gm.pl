@@ -39,10 +39,44 @@ sub insert_all_backrefs {
 	return $str;
 }
 
+sub escape_regex {
+	(my $r) = @_;
+	$r =~ s/'/\\'/g;
+	$r =~ s/([.])/\\$1/g;
+	$r =~ s/([()?])/\\\\$1/g;
+	return $r;
+}
+
 my @outputlines;
 my %formats;
+my $ambient = $ARGV[1];
+my %source; # maps English to whatever ambient language is (maybe en!)
 $formats{'%A'} = '%A'; # simple days of the week: "Saturday"
 $formats{'%B'} = '%B'; # simple month names: "February"
+
+unless ($ambient eq 'en') {
+	my $aref = Locale::PO->load_file_asarray("po/$ambient.po");
+	foreach my $msg (@$aref) {
+		my $id = $msg->msgid();
+		my $str = $msg->msgstr();
+		if ($id ne '""' and $str ne '""' and !$msg->fuzzy()) {
+			$source{$msg->dequote($id)} = $msg->dequote($str);
+		}
+		else {
+			$source{$msg->dequote($id)} = $msg->dequote($id);
+		}
+	}
+}
+
+sub get_source_string {
+	(my $str) = @_;
+	if ($ambient eq 'en') {
+		return $str;
+	}
+	else {
+		return $source{$str};
+	}
+}
 
 my $aref = Locale::PO->load_file_asarray($ARGV[0]);
 foreach my $msg (@$aref) {
@@ -52,6 +86,7 @@ foreach my $msg (@$aref) {
 	my $note = $msg->automatic();
 	if ($str and $id and $id ne '""') {
 		my $tempid = $msg->dequote($id);
+		$tempid = get_source_string($tempid);
 		my $tempstr = $msg->dequote($str);
 		if ($tempstr ne '') {
 			if (defined($note) and $note =~ /Format\./) {
@@ -61,8 +96,9 @@ foreach my $msg (@$aref) {
 				for my $fmt (keys %formats) {
 					if (($fmt =~ /%A/ and $note =~ /Day of the Week/) or
 					    ($fmt =~ /%B/ and $note =~ /Month Name/)) {
-						my $regex = $fmt;  # e.g. "%B %d"
+						my $regex = $fmt;  # e.g. "%B %d" - might have parens if non-English ambient (e.g. es)
 						$regex =~ s/%[AB]/$tempid/;
+						$regex = escape_regex($regex);
 						my $orig = $regex;
 						$regex =~ s/%d/([0-9]{1,2})/;  # Now "February ([0-9]{1,2})
 						$regex =~ s/%Y/([0-9]{4})/;
@@ -76,9 +112,7 @@ foreach my $msg (@$aref) {
 				}
 			}
 			else {
-				$tempid =~ s/'/\\'/g;
-				$tempid =~ s/([.])/\\$1/g;
-				$tempid =~ s/([()?])/\\\\$1/g;
+				$tempid = escape_regex($tempid);
 				my $orig = $tempid;
 				$tempid =~ s/%a/(<a [^>]+>[^<]+<\/a>)/g;
 				$tempid =~ s/%d/([0-9]+)/g;
