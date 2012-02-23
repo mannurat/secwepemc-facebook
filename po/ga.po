@@ -99,7 +99,7 @@ msgstr "Gairmeacha"
 
 #. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
-msgstr "Athraigh Cúlbhrat"
+msgstr "Athraigh an Grianghraf Mór"
 
 msgid "Chat (Offline)"
 msgstr "Comhrá (As Líne)"
