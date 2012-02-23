@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
+"POT-Creation-Date: 2012-02-21 22:03:27-06:00\n"
 "PO-Revision-Date: 2012-02-20 16:59:12-06:00\n"
 "Last-Translator: Edmond Kachale\n"
 "Language-Team: Chichewa\n"
@@ -12,15 +12,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#. Lines like this one beginning with "#." are comments; no need to translate!
 msgid "1 mutual friend"
 msgstr "Womudziwa mmodzi"
 
 msgid "1 NEW STORY"
 msgstr "NKHANI YATSOPANO IMODZI"
 
+#. Appears next to a post; means the post has been shared one time
 msgid "1 share"
 msgstr "Wagawa mmodzi"
 
+#. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
 msgstr "Zokhudza"
 
@@ -42,9 +45,11 @@ msgstr "Onjezani Mzanu"
 msgid "Add Photo / Video"
 msgstr "Ikani Chithunzi/Kanema"
 
+#. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
 msgstr "Malonda"
 
+#. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
 msgstr "mphindikati zingapo zapitazo"
 
@@ -86,9 +91,11 @@ msgstr "Wolemba:"
 msgid "Cancel"
 msgstr "Bwezani"
 
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
 msgstr "Ntchito"
 
+#. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
 msgstr "Sinthani Chikutiro"
 
@@ -98,66 +105,87 @@ msgstr "Mchezo (Woduka)"
 msgid "Close"
 msgstr "Tsekani"
 
+#. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
 msgstr "Tsekani Anzanu"
 
+#. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
 msgstr "Chitani ndemanga"
 
 msgid "Create an Ad"
 msgstr "Ikani Malonda"
 
+#. Link at bottom of home page (under "More")
 msgid "Create a Page"
 msgstr "Pangani Tsamba"
 
 msgid "Create Group..."
 msgstr "Pangani Gulu..."
 
+#. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
 msgstr "Amisiri"
 
+#. %d stands for a number, no need to translate it
 msgid "%d hours ago"
 msgstr "maola %d apitawo"
 
+#. %d stands for a number, no need to translate it
 msgid "%d minutes ago"
 msgstr "mphindi %s zapitazo"
 
+#. %d stands for a number, no need to translate it
 msgid "%d mutual friends"
 msgstr "Anzanu %d"
 
+#. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
 msgstr "NKHANI ZATSOPANO %d"
 
+#. %d stands for a number, no need to translate it
 msgid "%d people"
 msgstr "Anthu %d"
 
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
 msgid "%d shares"
 msgstr "Agawa ndi %d"
 
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
 msgid "Edit Options"
 msgstr "Makonzedwe"
 
+#. Attached to each post on your personal timeline
 msgid "Edit or Remove"
 msgstr "Konzani kapena Chotsani"
 
+#. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
 msgstr "Lowetsani dzina la mzanu kapena keyala ya pa utatavu"
 
+#. A link to a list of events that you've been invited to
 msgid "Events"
 msgstr "Zochitika"
 
+#. A link that shows you a list of your relatives on Facebook
 msgid "Family"
 msgstr "Banja"
 
 msgid "FAVORITES"
 msgstr "ZOKONDWERETSA"
 
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
 msgstr "Pezani Anzanu"
 
+#. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
 msgstr "Kupempha Chimnzake"
 
+#. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
 msgstr "Anzanu"
 
@@ -167,39 +195,47 @@ msgstr "MAGULU"
 msgid "Help"
 msgstr "Thandizo"
 
+#. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
 msgstr "Bwalo"
 
 msgid "Life Event"
 msgstr "Zochitika Pamoyo"
 
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
 msgid "Like"
 msgstr "Kondani"
 
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 msgid "Likes"
 msgstr "Makonda"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "AKAUNDULA"
 
 msgid "Log Out"
 msgstr "Tulukani"
 
+#. Link to a map of the places someone has been
 msgid "Map"
 msgstr "Malire"
 
+#. In the "New Message" dialog
 msgid "Message:"
 msgstr "Uthenga:"
 
 msgid "Messages"
 msgstr "Mauthenga"
 
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
 msgstr "Zambiri"
 
 msgid "MORE"
 msgstr "AMBIRI"
 
+#. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
 msgstr "Nkhani Zambiri"
 
@@ -212,6 +248,7 @@ msgstr "Uthenga Watsopano"
 msgid "News Feed"
 msgstr "Mpheketsera"
 
+#. A link that takes you to the latest posts on your timeline
 msgid "Now"
 msgstr "Pompano"
 
@@ -230,12 +267,14 @@ msgstr "Chithunzi"
 msgid "Photos"
 msgstr "Zithinzi"
 
+#. Link that allows you to "check in" somewhere
 msgid "Place"
 msgstr "Malo"
 
 msgid "Places"
 msgstr "Malo"
 
+#. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
 msgstr "Chinsinsi"
 
@@ -245,54 +284,69 @@ msgstr "Makonzedwe a Zinsinsi"
 msgid "Profile"
 msgstr "Bwalo"
 
+#. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
 msgstr "Zochitika Kumene"
 
 msgid "Recommended Pages"
 msgstr "Masamba Okuganizirani"
 
+#. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
 msgstr "Chitsani Chizirezire"
 
+#. Option on every post on your personal timeline
 msgid "Resize"
 msgstr "Kulitsani"
 
+#. Text that appears in the search box at the top of the page
 msgid "Search"
 msgstr "Fufuzani"
 
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
 msgstr "Onani Zonse"
 
 msgid "See All Messages"
 msgstr "Onani Mauthenga Onse"
 
+#. See more of a post that was truncated because it was very long
 msgid "See More"
 msgstr "Onani Zambiri"
 
+#. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
 msgstr "Onani Zotanthauzira"
 
+#. Label on button in "New Message" dialog to send the message
 msgid "Send"
 msgstr "Tumizani"
 
+#. Link that opens the "New Message" dialog
 msgid "Send a New Message"
 msgstr "Tumizani Uthenga Watsopano"
 
+#. Verb. A link that allows you to share a post with your friends
 msgid "Share"
 msgstr "Gawani"
 
+#. %a stands for a person's name
 msgid "%a likes this."
 msgstr "%a wakonda iczi."
 
+#. %a stands for something like "3 people"
 msgid "%a like this."
 msgstr "%a akonda izi."
 
+#. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "SANKHULANI"
 
+#. Appears above paid advertisements
 msgid "Sponsored"
 msgstr "Malonda"
 
+#. This is a Facebook "status update", not a relationship status
 msgid "Status"
 msgstr "Ganizo"
 
@@ -302,42 +356,54 @@ msgstr "Zobetcha"
 msgid "Tag Friends"
 msgstr "Badikani Anzanu"
 
+#. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
-msgstr "Zogwrizana"
+msgstr "Zogwirizana"
 
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 msgid "Ticker"
 msgstr "Wolemba"
 
 msgid "Timeline"
 msgstr "Malo"
 
+#. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Kwa:"
 
+#. Verb. See "Like"
 msgid "Unlike"
 msgstr "Msachikonde"
 
+#. Label on a button that allows you to edit your personal information
 msgid "Update Info"
 msgstr "Sinthani Zokhudza Inu"
 
+#. This is a Facebook "status update", not a relationship status
 msgid "Update Status"
 msgstr "Lembani Ganizo"
 
+#. %d stands for a number, no need to translate it
 msgid "View all %d comments"
 msgstr "Onani ndemanga %d zonse"
 
 msgid "Wall Photos"
 msgstr "Zithunzi za pakhoma"
 
+#. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
 msgstr "Mwalinganji?"
 
+#. Prompt when you comment on a post
 msgid "Write a comment..."
 msgstr "Lembani ndemanga"
 
+#. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
 msgstr "Dzulo"
 
+#. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Dzulo mma %s"
 
@@ -419,4 +485,3 @@ msgstr "Loweruka"
 #. Day of the Week
 msgid "Sunday"
 msgstr "Lamulungu"
-
