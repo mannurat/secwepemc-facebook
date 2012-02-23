@@ -34,17 +34,19 @@
 
 var tags = new Array();
 tags.push('a');      // many...
-//tags.push('button'); // Like, Unlike
-tags.push('span'); // Like, Unlike
 tags.push('h4');     // Sponsored, Ticker, ...
 tags.push('label');  // Comment
 
-var classes = new Array();
-classes.push('innerWrap');  // Write a comment... <textarea>
-classes.push('commentActions fsm fwn fcg'); // time stamps on comments
-classes.push('UIImageBlock_Content UIImageBlock_ICON_Content');  // 2 people like this
-//classes.push('fsm fwn fcg');  // By:
-//classes.push('uiImageBlockContent uiImageBlockSmallContent');  // "near"
+var divclasses = new Array();
+divclasses.push('innerWrap');  // Write a comment... <textarea>
+divclasses.push('commentActions fsm fwn fcg'); // time stamps on comments
+divclasses.push('UIImageBlock_Content UIImageBlock_ICON_Content');  // 2 people like this
+//divclasses.push('fsm fwn fcg');  // By:
+//divclasses.push('uiImageBlockContent uiImageBlockSmallContent');  // "near"
+
+var spanclasses = new Array();
+spanclasses.push('default_message');  // Like/Dislike
+spanclasses.push('saving_message');   // Like/Dislike
 
 // Replace the search string with the translated string
 function r(dd, s, t) {
@@ -82,11 +84,25 @@ function translateOnInsert( node ) {
   var divs = node.getElementsByTagName('div');
   for (i = 0; i < divs.length; i++ ) {
     if (!divs[i].hasAttribute('indigenous')) {
-      for (n = 0; n < classes.length; n++) {
-        if (divs[i].className == classes[n]) {
-          // logmsg = logmsg + 'DIV.' + classes[n] + ' ';
+      for (n = 0; n < divclasses.length; n++) {
+        if (divs[i].className == divclasses[n]) {
+          // logmsg = logmsg + 'DIV.' + divclasses[n] + ' ';
           divs[i].innerHTML = translate(divs[i].innerHTML);
           divs[i].setAttribute('indigenous', true);
+          break;
+        }
+      }
+    }
+  }
+
+  var spans = node.getElementsByTagName('span');
+  for (i = 0; i < spans.length; i++ ) {
+    if (!spans[i].hasAttribute('indigenous')) {
+      for (n = 0; n < spanclasses.length; n++) {
+        if (spans[i].className == spanclasses[n]) {
+          // logmsg = logmsg + 'SPAN.' + spanclasses[n] + ' ';
+          spans[i].innerHTML = translate(spans[i].innerHTML);
+          spans[i].setAttribute('indigenous', true);
           break;
         }
       }
