@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
+"POT-Creation-Date: 2012-02-23 10:52:31-06:00\n"
 "PO-Revision-Date: 2012-02-21 16:58:12-06:00\n"
 "Last-Translator: Francis Dimzon\n"
 "Language-Team: Hiligaynon\n"
@@ -12,15 +12,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#. Lines like this one beginning with "#." are comments; no need to translate!
 msgid "1 mutual friend"
 msgstr "1 ka abyan nga abyan mo man"
 
 msgid "1 NEW STORY"
 msgstr "1 ka BAG-O NGA ISTORYA"
 
+#. Appears next to a post; means the post has been shared one time
 msgid "1 share"
 msgstr "1 ka paambit"
 
+#. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
 msgstr ""
 
@@ -42,9 +45,11 @@ msgstr "Igugang nga Abyan"
 msgid "Add Photo / Video"
 msgstr "Magdugang sang Litrato/Video"
 
+#. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
 msgstr "Pasayod"
 
+#. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
 msgstr "mga pila ka gutlo nga nagligad"
 
@@ -86,9 +91,11 @@ msgstr "Ni:"
 msgid "Cancel"
 msgstr "Kanselahon"
 
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
 msgstr "Mga Karera"
 
+#. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
 msgstr "Islan ang Tabon"
 
@@ -98,66 +105,92 @@ msgstr "Magsugilanon (Offline)"
 msgid "Close"
 msgstr "Siraduhan"
 
+#. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
 msgstr "Mga Suod Nga Abyan"
 
+#. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
 msgstr "Magtugda"
 
 msgid "Create an Ad"
 msgstr "Maghimo sang Pasayod"
 
+#. Link at bottom of home page (under "More")
 msgid "Create a Page"
 msgstr "Maghimo sang Pahina"
 
 msgid "Create Group..."
 msgstr "Maghimo sang Grupo..."
 
+#. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
 msgstr ""
 
+#. %d stands for a number, no need to translate it
 msgid "%d hours ago"
 msgstr "%d ka oras nga nagligad"
 
+#. %d stands for a number, no need to translate it
 msgid "%d minutes ago"
 msgstr "%d ka minutos nga nagligad"
 
+#. %d stands for a number, no need to translate it
 msgid "%d mutual friends"
 msgstr "%d ka abyan nga abyan mo man"
 
+#. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
 msgstr "%d ka MGA BAG-O NGA ISTORYA"
 
+#. %d stands for a number, no need to translate it
 msgid "%d people"
 msgstr "%d ka tawo"
 
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
 msgid "%d shares"
 msgstr "%d ka paambit"
 
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
 msgid "Edit Options"
 msgstr ""
 
+#. Attached to each post on your personal timeline
 msgid "Edit or Remove"
 msgstr "I-edit ukon Kuhaon"
 
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+msgid "English (US)"
+msgstr "Hiligaynon"
+
+#. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
 msgstr "Ihatag ang ngalan ukon email address sang abyan"
 
+#. A link to a list of events that you've been invited to
 msgid "Events"
 msgstr "Mga Hitabo"
 
+#. A link that shows you a list of your relatives on Facebook
 msgid "Family"
 msgstr "Pamilya"
 
 msgid "FAVORITES"
 msgstr "MGA PABORITO"
 
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
 msgstr "Mangita sang mga Abyan"
 
+#. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
 msgstr "Mga Pangabay Para Mangin Abyan"
 
+#. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
 msgstr "Mga Abyan"
 
@@ -167,39 +200,47 @@ msgstr "MGA GRUPO"
 msgid "Help"
 msgstr "BULIG"
 
+#. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
 msgstr ""
 
 msgid "Life Event"
 msgstr "Hitabo sa Kabuhi"
 
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
 msgid "Like"
 msgstr "Nagustuhan"
 
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 msgid "Likes"
 msgstr "Mga Nagustuhan"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "Mga Lista"
 
 msgid "Log Out"
 msgstr ""
 
+#. Link to a map of the places someone has been
 msgid "Map"
 msgstr "Mapa"
 
+#. In the "New Message" dialog
 msgid "Message:"
 msgstr "Mensahe:"
 
 msgid "Messages"
 msgstr "Mga Mensahe"
 
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
 msgstr "Dugang pa"
 
 msgid "MORE"
 msgstr "DUGANG PA"
 
+#. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
 msgstr "Dugang pa nga mga Istorya"
 
@@ -212,6 +253,7 @@ msgstr "Bag-o nga Mensahe"
 msgid "News Feed"
 msgstr ""
 
+#. A link that takes you to the latest posts on your timeline
 msgid "Now"
 msgstr "Subong"
 
@@ -230,12 +272,14 @@ msgstr "Litrato"
 msgid "Photos"
 msgstr "Mga Litrato"
 
+#. Link that allows you to "check in" somewhere
 msgid "Place"
 msgstr "Lugar"
 
 msgid "Places"
 msgstr "Mga Lugar"
 
+#. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
 msgstr ""
 
@@ -245,54 +289,69 @@ msgstr ""
 msgid "Profile"
 msgstr ""
 
+#. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
 msgstr "Bag-o nga Ginhimo"
 
 msgid "Recommended Pages"
 msgstr "Mga Ginarekomendar nga Pahina"
 
+#. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
 msgstr "Kuhaon ang Preview"
 
+#. Option on every post on your personal timeline
 msgid "Resize"
 msgstr "Lainon ang Kadakuon"
 
+#. Text that appears in the search box at the top of the page
 msgid "Search"
 msgstr "Mangita"
 
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
 msgstr "Lantawon Tanan"
 
 msgid "See All Messages"
 msgstr "Lantawon Ang Tanan Nga Mga Mensahe"
 
+#. See more of a post that was truncated because it was very long
 msgid "See More"
 msgstr "Lantawon ang Dugang Pa"
 
+#. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
 msgstr "Lantawon ang Paglubad"
 
+#. Label on button in "New Message" dialog to send the message
 msgid "Send"
 msgstr "Ipadala"
 
+#. Link that opens the "New Message" dialog
 msgid "Send a New Message"
 msgstr "Ipadala ang Bag-o nga Mensahe"
 
+#. Verb. A link that allows you to share a post with your friends
 msgid "Share"
 msgstr "Ipaambit"
 
+#. %a stands for a person's name
 msgid "%a likes this."
 msgstr "Si %a nagustuhan ini."
 
+#. %a stands for something like "3 people"
 msgid "%a like this."
 msgstr "Sila %a nagustuhan ini."
 
+#. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "PASUNUDON"
 
+#. Appears above paid advertisements
 msgid "Sponsored"
 msgstr ""
 
+#. This is a Facebook "status update", not a relationship status
 msgid "Status"
 msgstr ""
 
@@ -302,42 +361,54 @@ msgstr ""
 msgid "Tag Friends"
 msgstr "I-tag ang mga abyan"
 
+#. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
 msgstr ""
 
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 msgid "Ticker"
 msgstr ""
 
 msgid "Timeline"
 msgstr ""
 
+#. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Para kay:"
 
+#. Verb. See "Like"
 msgid "Unlike"
 msgstr "Kuhaon ang pagkagusto"
 
+#. Label on a button that allows you to edit your personal information
 msgid "Update Info"
 msgstr "i-update ang Impormasyon"
 
+#. This is a Facebook "status update", not a relationship status
 msgid "Update Status"
 msgstr "I-update ang Status"
 
+#. %d stands for a number, no need to translate it
 msgid "View all %d comments"
 msgstr "Lantawon ang tanan nga %d ka mga tugda"
 
 msgid "Wall Photos"
 msgstr "Mga Litrato sa Wall"
 
+#. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
 msgstr "Ano ang sa imo panumduman?"
 
+#. Prompt when you comment on a post
 msgid "Write a comment..."
 msgstr "Magsulat sang tugda..."
 
+#. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
 msgstr "Kahapon"
 
+#. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Kahapon alas %s"
 
@@ -419,4 +490,3 @@ msgstr "Sabado"
 #. Day of the Week
 msgid "Sunday"
 msgstr "Domingo"
-
