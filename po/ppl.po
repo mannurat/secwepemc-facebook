@@ -97,7 +97,7 @@ msgstr ""
 
 #. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
-msgstr ""
+msgstr "Shikpata ne Wey Fotoj"
 
 msgid "Chat (Offline)"
 msgstr "Shichachalaka (Te nemi ashan)"
@@ -289,11 +289,11 @@ msgid "Recent Activity"
 msgstr "Tay Kichijtuk Yewa"
 
 msgid "Recommended Pages"
-msgstr ""
+msgstr "Nusan Weli Mugustoj"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
-msgstr "Shikishti Ini"
+msgstr "Shikishti ne Achtutachialis"
 
 #. Option on every post on your personal timeline
 msgid "Resize"
