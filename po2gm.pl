@@ -17,8 +17,8 @@ use strict;
 use warnings;
 use Locale::PO;
 
-if (scalar @ARGV != 1) {
-	die "Usage: $0 POFILE\n";
+if (scalar @ARGV != 2) {
+	die "Usage: $0 POFILE AMBIENTLANG\n";
 }
 
 sub insert_backref {
