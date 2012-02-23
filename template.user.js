@@ -34,7 +34,8 @@
 
 var tags = new Array();
 tags.push('a');      // many...
-tags.push('button'); // Like, Unlike
+//tags.push('button'); // Like, Unlike
+tags.push('span'); // Like, Unlike
 tags.push('h4');     // Sponsored, Ticker, ...
 tags.push('label');  // Comment
 
@@ -64,13 +65,14 @@ function translate(x) {
 
 function translateOnInsert( node ) {
 
+  //var logmsg = 'inserted a ' + node.nodeName + ' node; untranslated elements: ';
   for (n = 0; n < tags.length; n++) {
     var tagmatches = node.getElementsByTagName(tags[n]);
     for ( i = 0; i < tagmatches.length; i++ ) {
-      if (!tagmatches[i].hasAttribute('indigenous')) {
-        if (tagmatches[i].innerHTML.match(/Wrsifjisdjfi/)) {
-          GM_log('translating: '+tagmatches[i].innerHTML);
-        }
+      // innerHTML often empty (never null)
+      if (!tagmatches[i].hasAttribute('indigenous') &&
+           tagmatches[i].innerHTML != '') {
+        // logmsg = logmsg + tagmatches[i].nodeName + ' ';
         tagmatches[i].innerHTML = translate(tagmatches[i].innerHTML);
         tagmatches[i].setAttribute('indigenous', true);
       }
@@ -82,13 +84,15 @@ function translateOnInsert( node ) {
     if (!divs[i].hasAttribute('indigenous')) {
       for (n = 0; n < classes.length; n++) {
         if (divs[i].className == classes[n]) {
-          // GM_log('translating class match ('+classes[n]+': '+divs[i].innerHTML);
+          // logmsg = logmsg + 'DIV.' + classes[n] + ' ';
           divs[i].innerHTML = translate(divs[i].innerHTML);
           divs[i].setAttribute('indigenous', true);
+          break;
         }
       }
     }
   }
+  // GM_log(logmsg);
 }
 
 // This is (only) needed to handle updates to time stamps
@@ -104,7 +108,9 @@ function listen_for_change(evt)
 function listen_for_add(evt)
 {
   var node = evt.target;
-  if (node.nodeType == document.ELEMENT_NODE) {
+  if (node.nodeType == document.ELEMENT_NODE &&
+      node.nodeName != 'SCRIPT' &&
+      node.nodeName != 'INPUT') {
     document.body.removeEventListener( 'DOMNodeInserted', listen_for_add, false );
     translateOnInsert(node);
     document.body.addEventListener( 'DOMNodeInserted', listen_for_add, false );
