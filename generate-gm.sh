@@ -23,11 +23,11 @@ do
 	POFILE=`echo ${LANGCODE} | sed 's/-x-en$//'`
 	AMBIENTLANG=`echo $x | sed 's/^[^~]*~//' | sed 's/~.*//'`
 	ENGLISHNAME=`echo $x | sed 's/^[^~]*~[^~]*~//' | sed 's/~.*//'`
-	NATIVENAME=`echo $x | sed 's/^.*~\([^~]*\)~[^~]*$/\1/'`
+	NATIVENAME=`echo $x | sed 's/^.*~\([^~]*\)~[^~]*$/\1/'` # no longer used
 	TRANSLATORS=`echo $x | sed 's/^.*~\([^~]*\)$/\1/'`
 	echo "Generating greasemonkey for ${LANGCODE} (using po/${POFILE}.po)..."
 	perl po2gm.pl po/${POFILE}.po ${AMBIENTLANG} > ${TEMPFILE}
-	sed "/Translations go here/r ${TEMPFILE}" template.user.js | sed "s/!TEANGA!/${LANGCODE}/" | sed "s/!DATA!/`date --rfc-3339=date`/" | sed "s/!LEAGAN!/${VERSION}/" | sed "s/!ENGLISHNAME!/${ENGLISHNAME}/" | sed "s/!TRANSLATORS!/${TRANSLATORS}/" | sed "s/!NATIVENAME!/${NATIVENAME}/" > facebook-${LANGCODE}.user.js
+	sed "/Translations go here/r ${TEMPFILE}" template.user.js | sed "s/!TEANGA!/${LANGCODE}/" | sed "s/!DATA!/`date --rfc-3339=date`/" | sed "s/!LEAGAN!/${VERSION}/" | sed "s/!ENGLISHNAME!/${ENGLISHNAME}/" | sed "s/!TRANSLATORS!/${TRANSLATORS}/" > facebook-${LANGCODE}.user.js
 	rm -f ${LANGCODE}-temp.js
 done
 rm -f ${TEMPFILE}

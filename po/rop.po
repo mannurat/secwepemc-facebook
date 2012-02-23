@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-21 22:03:27-06:00\n"
+"POT-Creation-Date: 2012-02-23 10:52:31-06:00\n"
 "PO-Revision-Date: 2012-02-21 22:04:27-06:00\n"
 "Last-Translator: Greg Dickson\n"
 "Language-Team: Kriol\n"
@@ -160,6 +160,11 @@ msgstr "Bla tjeinjimbat"
 #. Attached to each post on your personal timeline
 msgid "Edit or Remove"
 msgstr "Tjeinjim o Digimat"
+
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+msgid "English (US)"
+msgstr "Kriol"
 
 #. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
@@ -485,4 +490,3 @@ msgstr "Sedadei"
 #. Day of the Week
 msgid "Sunday"
 msgstr "Sandei"
-

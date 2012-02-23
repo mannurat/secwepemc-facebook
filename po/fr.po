@@ -1,18 +1,16 @@
 # Translation of Facebook into unsupported languages
 # Copyright (C) 2012 Kevin P. Scannell
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-21 22:03:27-06:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-02-23 10:52:31-06:00\n"
+"PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
+"Last-Translator: Kevin Scannell\n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
 msgid "1 mutual friend"
@@ -162,6 +160,11 @@ msgstr ""
 #. Attached to each post on your personal timeline
 msgid "Edit or Remove"
 msgstr ""
+
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+msgid "English (US)"
+msgstr "Français"
 
 #. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
