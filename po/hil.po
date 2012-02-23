@@ -1,0 +1,422 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
+"PO-Revision-Date: 2012-02-21 16:58:12-06:00\n"
+"Last-Translator: Francis Dimzon\n"
+"Language-Team: Hiligaynon\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "1 mutual friend"
+msgstr "1 ka abyan nga abyan mo man"
+
+msgid "1 NEW STORY"
+msgstr "1 ka BAG-O NGA ISTORYA"
+
+msgid "1 share"
+msgstr "1 ka paambit"
+
+msgid "About"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr "mga isa ka oras nga nagligad"
+
+msgid "about a minute ago"
+msgstr "mga isa a minuto nga nagligad"
+
+msgid "Account Settings"
+msgstr ""
+
+msgid "Activity Log"
+msgstr ""
+
+msgid "Add Friend"
+msgstr "Igugang nga Abyan"
+
+msgid "Add Photo / Video"
+msgstr "Magdugang sang Litrato/Video"
+
+msgid "Advertising"
+msgstr "Pasayod"
+
+msgid "a few seconds ago"
+msgstr "mga pila ka gutlo nga nagligad"
+
+msgid "APPS"
+msgstr ""
+
+msgid "Apps and Games"
+msgstr "Apps kag mga Hampang"
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr "%A alas %s"
+
+msgid "Ask Question"
+msgstr "Mamangkot"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "%B %d"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "%B %d alas %s"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "%B %d, %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "%B %d, %Y alas %s"
+
+msgid "Born"
+msgstr "Natawo"
+
+msgid "By:"
+msgstr "Ni:"
+
+msgid "Cancel"
+msgstr "Kanselahon"
+
+msgid "Careers"
+msgstr "Mga Karera"
+
+msgid "Change Cover"
+msgstr "Islan ang Tabon"
+
+msgid "Chat (Offline)"
+msgstr "Magsugilanon (Offline)"
+
+msgid "Close"
+msgstr "Siraduhan"
+
+msgid "Close Friends"
+msgstr "Mga Suod Nga Abyan"
+
+msgid "Comment"
+msgstr "Magtugda"
+
+msgid "Create an Ad"
+msgstr "Maghimo sang Pasayod"
+
+msgid "Create a Page"
+msgstr "Maghimo sang Pahina"
+
+msgid "Create Group..."
+msgstr "Maghimo sang Grupo..."
+
+msgid "Developers"
+msgstr ""
+
+msgid "%d hours ago"
+msgstr "%d ka oras nga nagligad"
+
+msgid "%d minutes ago"
+msgstr "%d ka minutos nga nagligad"
+
+msgid "%d mutual friends"
+msgstr "%d ka abyan nga abyan mo man"
+
+msgid "%d NEW STORIES"
+msgstr "%d ka MGA BAG-O NGA ISTORYA"
+
+msgid "%d people"
+msgstr "%d ka tawo"
+
+msgid "%d shares"
+msgstr "%d ka paambit"
+
+msgid "Edit Options"
+msgstr ""
+
+msgid "Edit or Remove"
+msgstr "I-edit ukon Kuhaon"
+
+msgid "Enter a friend's name or email address"
+msgstr "Ihatag ang ngalan ukon email address sang abyan"
+
+msgid "Events"
+msgstr "Mga Hitabo"
+
+msgid "Family"
+msgstr "Pamilya"
+
+msgid "FAVORITES"
+msgstr "MGA PABORITO"
+
+msgid "Find Friends"
+msgstr "Mangita sang mga Abyan"
+
+msgid "Friend Requests"
+msgstr "Mga Pangabay Para Mangin Abyan"
+
+msgid "Friends"
+msgstr "Mga Abyan"
+
+msgid "GROUPS"
+msgstr "MGA GRUPO"
+
+msgid "Help"
+msgstr "BULIG"
+
+msgid "Home"
+msgstr ""
+
+msgid "Life Event"
+msgstr "Hitabo sa Kabuhi"
+
+msgid "Like"
+msgstr "Nagustuhan"
+
+msgid "Likes"
+msgstr "Mga Nagustuhan"
+
+msgid "LISTS"
+msgstr "Mga Lista"
+
+msgid "Log Out"
+msgstr ""
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Message:"
+msgstr "Mensahe:"
+
+msgid "Messages"
+msgstr "Mga Mensahe"
+
+msgid "More"
+msgstr "Dugang pa"
+
+msgid "MORE"
+msgstr "DUGANG PA"
+
+msgid "More Stories"
+msgstr "Dugang pa nga mga Istorya"
+
+msgid "New Group..."
+msgstr "Bag-o nga Grupo"
+
+msgid "New Message"
+msgstr "Bag-o nga Mensahe"
+
+msgid "News Feed"
+msgstr ""
+
+msgid "Now"
+msgstr "Subong"
+
+msgid "PAGES"
+msgstr "MAG PAHIHA"
+
+msgid "People who like this"
+msgstr "Mga tawo nga nagustuhan ini"
+
+msgid "People You May Know"
+msgstr "Mga Tawo nga Basi Kilala Mo"
+
+msgid "Photo"
+msgstr "Litrato"
+
+msgid "Photos"
+msgstr "Mga Litrato"
+
+msgid "Place"
+msgstr "Lugar"
+
+msgid "Places"
+msgstr "Mga Lugar"
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Privacy Settings"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Recent Activity"
+msgstr "Bag-o nga Ginhimo"
+
+msgid "Recommended Pages"
+msgstr "Mga Ginarekomendar nga Pahina"
+
+msgid "Remove Preview"
+msgstr "Kuhaon ang Preview"
+
+msgid "Resize"
+msgstr "Lainon ang Kadakuon"
+
+msgid "Search"
+msgstr "Mangita"
+
+msgid "See All"
+msgstr "Lantawon Tanan"
+
+msgid "See All Messages"
+msgstr "Lantawon Ang Tanan Nga Mga Mensahe"
+
+msgid "See More"
+msgstr "Lantawon ang Dugang Pa"
+
+msgid "See Translation"
+msgstr "Lantawon ang Paglubad"
+
+msgid "Send"
+msgstr "Ipadala"
+
+msgid "Send a New Message"
+msgstr "Ipadala ang Bag-o nga Mensahe"
+
+msgid "Share"
+msgstr "Ipaambit"
+
+msgid "%a likes this."
+msgstr "Si %a nagustuhan ini."
+
+msgid "%a like this."
+msgstr "Sila %a nagustuhan ini."
+
+msgid "SORT"
+msgstr "PASUNUDON"
+
+msgid "Sponsored"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Subscriptions"
+msgstr ""
+
+msgid "Tag Friends"
+msgstr "I-tag ang mga abyan"
+
+msgid "Terms"
+msgstr ""
+
+msgid "Ticker"
+msgstr ""
+
+msgid "Timeline"
+msgstr ""
+
+msgid "To:"
+msgstr "Para kay:"
+
+msgid "Unlike"
+msgstr "Kuhaon ang pagkagusto"
+
+msgid "Update Info"
+msgstr "i-update ang Impormasyon"
+
+msgid "Update Status"
+msgstr "I-update ang Status"
+
+msgid "View all %d comments"
+msgstr "Lantawon ang tanan nga %d ka mga tugda"
+
+msgid "Wall Photos"
+msgstr "Mga Litrato sa Wall"
+
+msgid "What's on your mind?"
+msgstr "Ano ang sa imo panumduman?"
+
+msgid "Write a comment..."
+msgstr "Magsulat sang tugda..."
+
+msgid "Yesterday"
+msgstr "Kahapon"
+
+msgid "Yesterday at %s"
+msgstr "Kahapon alas %s"
+
+msgid "You like this."
+msgstr "Nagustuhan mo ini."
+
+#. Month Name
+msgid "January"
+msgstr "Enero"
+
+#. Month Name
+msgid "February"
+msgstr "Pebrero"
+
+#. Month Name
+msgid "March"
+msgstr "Marso"
+
+#. Month Name
+msgid "April"
+msgstr "Abril"
+
+#. Month Name
+msgid "May"
+msgstr "Mayo"
+
+#. Month Name
+msgid "June"
+msgstr "Hunyo"
+
+#. Month Name
+msgid "July"
+msgstr "Hulyo"
+
+#. Month Name
+msgid "August"
+msgstr "Agosto"
+
+#. Month Name
+msgid "September"
+msgstr "Septyembre"
+
+#. Month Name
+msgid "October"
+msgstr "Oktubre"
+
+#. Month Name
+msgid "November"
+msgstr "Nobyembre"
+
+#. Month Name
+msgid "December"
+msgstr "Disyembre"
+
+#. Day of the Week
+msgid "Monday"
+msgstr "Lunes"
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr "Martes"
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr "Miyerkules"
+
+#. Day of the Week
+msgid "Thursday"
+msgstr "Huwebes"
+
+#. Day of the Week
+msgid "Friday"
+msgstr "Biyernes"
+
+#. Day of the Week
+msgid "Saturday"
+msgstr "Sabado"
+
+#. Day of the Week
+msgid "Sunday"
+msgstr "Domingo"
+
