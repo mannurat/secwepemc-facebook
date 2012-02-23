@@ -28,7 +28,7 @@ msgid "About"
 msgstr "Konsènan"
 
 msgid "about an hour ago"
-msgstr "a pè pre inèd tan"
+msgstr "a pe prè inèd tan"
 
 msgid "about a minute ago"
 msgstr "sa gen yon minit de sa"
