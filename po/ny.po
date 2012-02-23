@@ -1,0 +1,422 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
+"PO-Revision-Date: 2012-02-20 16:59:12-06:00\n"
+"Last-Translator: Edmond Kachale\n"
+"Language-Team: Chichewa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "1 mutual friend"
+msgstr "Womudziwa mmodzi"
+
+msgid "1 NEW STORY"
+msgstr "NKHANI YATSOPANO IMODZI"
+
+msgid "1 share"
+msgstr "Wagawa mmodzi"
+
+msgid "About"
+msgstr "Zokhudza"
+
+msgid "about an hour ago"
+msgstr "Pafupifupi ola limodzi lapitalo"
+
+msgid "about a minute ago"
+msgstr "Pafupifupi mphindi imodzi yapitayo"
+
+msgid "Account Settings"
+msgstr "Zokhudza Dambwe lanu"
+
+msgid "Activity Log"
+msgstr "Zochitikachitika"
+
+msgid "Add Friend"
+msgstr "Onjezani Mzanu"
+
+msgid "Add Photo / Video"
+msgstr "Ikani Chithunzi/Kanema"
+
+msgid "Advertising"
+msgstr "Malonda"
+
+msgid "a few seconds ago"
+msgstr "mphindikati zingapo zapitazo"
+
+msgid "APPS"
+msgstr "ZIZOMEKA"
+
+msgid "Apps and Games"
+msgstr "Zisomeka ndi Masewero"
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr "%A mma %s"
+
+msgid "Ask Question"
+msgstr "Funsani Funso"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "%d %B"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "%d %B mma %s"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "%d %B %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "%d %B %Y mma %s"
+
+msgid "Born"
+msgstr "Anabadwa"
+
+msgid "By:"
+msgstr "Wolemba:"
+
+msgid "Cancel"
+msgstr "Bwezani"
+
+msgid "Careers"
+msgstr "Ntchito"
+
+msgid "Change Cover"
+msgstr "Sinthani Chikutiro"
+
+msgid "Chat (Offline)"
+msgstr "Mchezo (Woduka)"
+
+msgid "Close"
+msgstr "Tsekani"
+
+msgid "Close Friends"
+msgstr "Tsekani Anzanu"
+
+msgid "Comment"
+msgstr "Chitani ndemanga"
+
+msgid "Create an Ad"
+msgstr "Ikani Malonda"
+
+msgid "Create a Page"
+msgstr "Pangani Tsamba"
+
+msgid "Create Group..."
+msgstr "Pangani Gulu..."
+
+msgid "Developers"
+msgstr "Amisiri"
+
+msgid "%d hours ago"
+msgstr "maola %d apitawo"
+
+msgid "%d minutes ago"
+msgstr "mphindi %s zapitazo"
+
+msgid "%d mutual friends"
+msgstr "Anzanu %d"
+
+msgid "%d NEW STORIES"
+msgstr "NKHANI ZATSOPANO %d"
+
+msgid "%d people"
+msgstr "Anthu %d"
+
+msgid "%d shares"
+msgstr "Agawa ndi %d"
+
+msgid "Edit Options"
+msgstr "Makonzedwe"
+
+msgid "Edit or Remove"
+msgstr "Konzani kapena Chotsani"
+
+msgid "Enter a friend's name or email address"
+msgstr "Lowetsani dzina la mzanu kapena keyala ya pa utatavu"
+
+msgid "Events"
+msgstr "Zochitika"
+
+msgid "Family"
+msgstr "Banja"
+
+msgid "FAVORITES"
+msgstr "ZOKONDWERETSA"
+
+msgid "Find Friends"
+msgstr "Pezani Anzanu"
+
+msgid "Friend Requests"
+msgstr "Kupempha Chimnzake"
+
+msgid "Friends"
+msgstr "Anzanu"
+
+msgid "GROUPS"
+msgstr "MAGULU"
+
+msgid "Help"
+msgstr "Thandizo"
+
+msgid "Home"
+msgstr "Bwalo"
+
+msgid "Life Event"
+msgstr "Zochitika Pamoyo"
+
+msgid "Like"
+msgstr "Kondani"
+
+msgid "Likes"
+msgstr "Makonda"
+
+msgid "LISTS"
+msgstr "AKAUNDULA"
+
+msgid "Log Out"
+msgstr "Tulukani"
+
+msgid "Map"
+msgstr "Malire"
+
+msgid "Message:"
+msgstr "Uthenga:"
+
+msgid "Messages"
+msgstr "Mauthenga"
+
+msgid "More"
+msgstr "Zambiri"
+
+msgid "MORE"
+msgstr "AMBIRI"
+
+msgid "More Stories"
+msgstr "Nkhani Zambiri"
+
+msgid "New Group..."
+msgstr "Gulu latsopano..."
+
+msgid "New Message"
+msgstr "Uthenga Watsopano"
+
+msgid "News Feed"
+msgstr "Mpheketsera"
+
+msgid "Now"
+msgstr "Pompano"
+
+msgid "PAGES"
+msgstr "MASAMBA"
+
+msgid "People who like this"
+msgstr "Anthu omwe akonda izi"
+
+msgid "People You May Know"
+msgstr "Anthu Owadziwa"
+
+msgid "Photo"
+msgstr "Chithunzi"
+
+msgid "Photos"
+msgstr "Zithinzi"
+
+msgid "Place"
+msgstr "Malo"
+
+msgid "Places"
+msgstr "Malo"
+
+msgid "Privacy"
+msgstr "Chinsinsi"
+
+msgid "Privacy Settings"
+msgstr "Makonzedwe a Zinsinsi"
+
+msgid "Profile"
+msgstr "Bwalo"
+
+msgid "Recent Activity"
+msgstr "Zochitika Kumene"
+
+msgid "Recommended Pages"
+msgstr "Masamba Okuganizirani"
+
+msgid "Remove Preview"
+msgstr "Chitsani Chizirezire"
+
+msgid "Resize"
+msgstr "Kulitsani"
+
+msgid "Search"
+msgstr "Fufuzani"
+
+msgid "See All"
+msgstr "Onani Zonse"
+
+msgid "See All Messages"
+msgstr "Onani Mauthenga Onse"
+
+msgid "See More"
+msgstr "Onani Zambiri"
+
+msgid "See Translation"
+msgstr "Onani Zotanthauzira"
+
+msgid "Send"
+msgstr "Tumizani"
+
+msgid "Send a New Message"
+msgstr "Tumizani Uthenga Watsopano"
+
+msgid "Share"
+msgstr "Gawani"
+
+msgid "%a likes this."
+msgstr "%a wakonda iczi."
+
+msgid "%a like this."
+msgstr "%a akonda izi."
+
+msgid "SORT"
+msgstr "SANKHULANI"
+
+msgid "Sponsored"
+msgstr "Malonda"
+
+msgid "Status"
+msgstr "Ganizo"
+
+msgid "Subscriptions"
+msgstr "Zobetcha"
+
+msgid "Tag Friends"
+msgstr "Badikani Anzanu"
+
+msgid "Terms"
+msgstr "Zogwrizana"
+
+msgid "Ticker"
+msgstr "Wolemba"
+
+msgid "Timeline"
+msgstr "Malo"
+
+msgid "To:"
+msgstr "Kwa:"
+
+msgid "Unlike"
+msgstr "Msachikonde"
+
+msgid "Update Info"
+msgstr "Sinthani Zokhudza Inu"
+
+msgid "Update Status"
+msgstr "Lembani Ganizo"
+
+msgid "View all %d comments"
+msgstr "Onani ndemanga %d zonse"
+
+msgid "Wall Photos"
+msgstr "Zithunzi za pakhoma"
+
+msgid "What's on your mind?"
+msgstr "Mwalinganji?"
+
+msgid "Write a comment..."
+msgstr "Lembani ndemanga"
+
+msgid "Yesterday"
+msgstr "Dzulo"
+
+msgid "Yesterday at %s"
+msgstr "Dzulo mma %s"
+
+msgid "You like this."
+msgstr "Mwakonda izi."
+
+#. Month Name
+msgid "January"
+msgstr "Januwale"
+
+#. Month Name
+msgid "February"
+msgstr "Febuluwale"
+
+#. Month Name
+msgid "March"
+msgstr "Malichi"
+
+#. Month Name
+msgid "April"
+msgstr "Epulo"
+
+#. Month Name
+msgid "May"
+msgstr "Meyi"
+
+#. Month Name
+msgid "June"
+msgstr "Juni"
+
+#. Month Name
+msgid "July"
+msgstr "Julaye"
+
+#. Month Name
+msgid "August"
+msgstr "Ogaste"
+
+#. Month Name
+msgid "September"
+msgstr "Sepitembala"
+
+#. Month Name
+msgid "October"
+msgstr "Okotobala"
+
+#. Month Name
+msgid "November"
+msgstr "Novembala"
+
+#. Month Name
+msgid "December"
+msgstr "Desembala"
+
+#. Day of the Week
+msgid "Monday"
+msgstr "Lolemba"
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr "Lachiwiri"
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr "Lachitatu"
+
+#. Day of the Week
+msgid "Thursday"
+msgstr "Lachinayi"
+
+#. Day of the Week
+msgid "Friday"
+msgstr "Lachisanu"
+
+#. Day of the Week
+msgid "Saturday"
+msgstr "Loweruka"
+
+#. Day of the Week
+msgid "Sunday"
+msgstr "Lamulungu"
+
