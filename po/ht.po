@@ -61,7 +61,7 @@ msgstr "Aplikasyon ak Jwèt"
 
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
-msgstr "%A a %"
+msgstr "%A a %s"
 
 msgid "Ask Question"
 msgstr "Poze Kesyon"
