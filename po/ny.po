@@ -133,7 +133,7 @@ msgstr "maola %d apitawo"
 
 #. %d stands for a number, no need to translate it
 msgid "%d minutes ago"
-msgstr "mphindi %s zapitazo"
+msgstr "mphindi %d zapitazo"
 
 #. %d stands for a number, no need to translate it
 msgid "%d mutual friends"
