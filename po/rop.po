@@ -47,7 +47,7 @@ msgstr "Pudum nyuwan foto o bidiyo"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
-msgstr "Pudum ads la Feisbuk"
+msgstr "Pudum Ad la Feisbuk"
 
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
@@ -192,7 +192,7 @@ msgstr "Askimbat bla bi Fren bla yu"
 
 #. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
-msgstr "FRENMOB"
+msgstr "Frenmob"
 
 msgid "GROUPS"
 msgstr "OLA GRUP"
@@ -349,7 +349,7 @@ msgstr "SOTIMAT"
 
 #. Appears above paid advertisements
 msgid "Sponsored"
-msgstr "Thei bin pei ba pudum dis Ad"
+msgstr "Ola Ad dislot iya"
 
 #. This is a Facebook "status update", not a relationship status
 msgid "Status"
@@ -368,7 +368,7 @@ msgstr "Ola rul"
 #. Real time news feed in the right-hand column
 #. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 msgid "Ticker"
-msgstr "Ola nyuwan-nyuwan stori ba yu frenmob"
+msgstr "Ola nyuwan stori ba yu frenmob"
 
 msgid "Timeline"
 msgstr "Bulurumbat yu laif"
