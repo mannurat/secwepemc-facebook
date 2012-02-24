@@ -19,7 +19,6 @@ updategms: facebook-ga.user.js
 # builds all languages
 facebook-ga.user.js: po/*.po template.user.js po2gm.pl generate-gm.sh
 	bash generate-gm.sh
-	cp -f facebook-*.js ${HOME}/public_html/obair
 
 clean:
 	rm -f facebook.pot facebook-*.user.js
