@@ -14,480 +14,480 @@ msgstr ""
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
 msgid "1 mutual friend"
-msgstr ""
+msgstr "1 ami(e) en commun"
 
 msgid "1 NEW STORY"
 msgstr ""
 
 #. Appears next to a post; means the post has been shared one time
 msgid "1 share"
-msgstr ""
+msgstr "1 partage"
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
-msgstr ""
+msgstr "À propos de"
 
 msgid "about an hour ago"
-msgstr ""
+msgstr "Il y a environ une heure"
 
 msgid "about a minute ago"
-msgstr ""
+msgstr "il y a environ une minute"
 
 msgid "Account Settings"
-msgstr ""
+msgstr "Paramètres du compte"
 
 msgid "Activity Log"
-msgstr ""
+msgstr "Historique personnel"
 
 msgid "Add Friend"
-msgstr ""
+msgstr "Ajouter"
 
 msgid "Add Photo / Video"
-msgstr ""
+msgstr "Photo/vidéo"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
-msgstr ""
+msgstr "Publicité"
 
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
-msgstr ""
+msgstr "il y a quelques secondes"
 
 msgid "APPS"
-msgstr ""
+msgstr "Applications"
 
 msgid "Apps and Games"
-msgstr ""
+msgstr "Applications et jeux"
 
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
-msgstr ""
+msgstr "%A, à %s"
 
 msgid "Ask Question"
-msgstr ""
+msgstr "Question"
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
-msgstr ""
+msgstr "%d %B"
 
 #. Format. %B and %d as above, %s = string representing the time ("3:15am")
 msgid "%B %d at %s"
-msgstr ""
+msgstr "%d %B, %s"
 
 #. Format. %B and %d as above, %Y = four digit year ("2012")
 msgid "%B %d, %Y"
-msgstr ""
+msgstr "%d %B %Y"
 
 #. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
 msgid "%B %d, %Y at %s"
-msgstr ""
+msgstr "%d %B %Y, %s"
 
 msgid "Born"
-msgstr ""
+msgstr "Naissance"
 
 msgid "By:"
-msgstr ""
+msgstr "Par :"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
-msgstr ""
+msgstr "Emplois"
 
 #. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
-msgstr ""
+msgstr "Changer la couverture"
 
 msgid "Chat (Offline)"
-msgstr ""
+msgstr "Discussion instantanée ..."
 
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
-msgstr ""
+msgstr "Amis proches"
 
 #. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
-msgstr ""
+msgstr "Commenter"
 
 msgid "Create an Ad"
-msgstr ""
+msgstr "Créer une publicité"
 
 #. Link at bottom of home page (under "More")
 msgid "Create a Page"
-msgstr ""
+msgstr "Créer une Page"
 
 msgid "Create Group..."
-msgstr ""
+msgstr "Créer un groupe..."
 
 #. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
-msgstr ""
+msgstr "Développeurs"
 
 #. %d stands for a number, no need to translate it
 msgid "%d hours ago"
-msgstr ""
+msgstr "Il y a %d heures"
 
 #. %d stands for a number, no need to translate it
 msgid "%d minutes ago"
-msgstr ""
+msgstr "Il y a %d minutes"
 
 #. %d stands for a number, no need to translate it
 msgid "%d mutual friends"
-msgstr ""
+msgstr "%d ami(e)s en commun"
 
 #. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
-msgstr ""
+msgstr "%d nouvelles actualités"
 
 #. %d stands for a number, no need to translate it
 msgid "%d people"
-msgstr ""
+msgstr "%d personnes"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "%d shares"
-msgstr ""
+msgstr "%d partages"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
 msgid "Edit Options"
-msgstr ""
+msgstr "Modifier les options"
 
 #. Attached to each post on your personal timeline
 msgid "Edit or Remove"
-msgstr ""
+msgstr "Modifier ou retirer"
 
 #. Link that lets you change your language settings
 #. Please translate to the name of your language, written in the language itself
 msgid "English (US)"
-msgstr "Français"
+msgstr "Français (France)"
 
 #. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
-msgstr ""
+msgstr "Entrez le nom ou l’adresse électronique d’un(e) ami(e)"
 
 #. A link to a list of events that you've been invited to
 msgid "Events"
-msgstr ""
+msgstr "Évènements"
 
 #. A link that shows you a list of your relatives on Facebook
 msgid "Family"
-msgstr ""
+msgstr "Famille"
 
 msgid "FAVORITES"
-msgstr ""
+msgstr "Favoris"
 
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
-msgstr ""
+msgstr "Rechercher des amis"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
-msgstr ""
+msgstr "Demandes d’ajout à la liste d’amis"
 
 #. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
-msgstr ""
+msgstr "Amis"
 
 msgid "GROUPS"
-msgstr ""
+msgstr "Groupes"
 
 msgid "Help"
-msgstr ""
+msgstr "Aide"
 
 #. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 msgid "Life Event"
-msgstr ""
+msgstr "Évènement marquant"
 
 #. Verb. A link that allows you to "like" a post or a comment; "I like this"
 msgid "Like"
-msgstr ""
+msgstr "J’aime"
 
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 msgid "Likes"
-msgstr ""
+msgstr "Mentions J’aime"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
-msgstr ""
+msgstr "Listes"
 
 msgid "Log Out"
-msgstr ""
+msgstr "Déconnexion"
 
 #. Link to a map of the places someone has been
 msgid "Map"
-msgstr ""
+msgstr "Carte"
 
 #. In the "New Message" dialog
 msgid "Message:"
-msgstr ""
+msgstr "Message :"
 
 msgid "Messages"
-msgstr ""
+msgstr "Messages"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
-msgstr ""
+msgstr "Plus"
 
 msgid "MORE"
-msgstr ""
+msgstr "Plus"
 
 #. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
-msgstr ""
+msgstr "Plus d’actualités"
 
 msgid "New Group..."
 msgstr ""
 
 msgid "New Message"
-msgstr ""
+msgstr "Nouveau message"
 
 msgid "News Feed"
-msgstr ""
+msgstr "Fil d’actualité"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
-msgstr ""
+msgstr "Maintenant"
 
 msgid "PAGES"
-msgstr ""
+msgstr "Pages"
 
 msgid "People who like this"
-msgstr ""
+msgstr "Personnes qui aiment ça"
 
 msgid "People You May Know"
-msgstr ""
+msgstr "Vous connaissez peut-être..."
 
 msgid "Photo"
-msgstr ""
+msgstr "Photo"
 
 msgid "Photos"
-msgstr ""
+msgstr "Photos"
 
 # Link that allows you to "check in" somewhere
 #. Link that allows you to "check in" somewhere
 msgid "Place"
-msgstr ""
+msgstr "Lieu"
 
 msgid "Places"
-msgstr ""
+msgstr "Lieux"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
-msgstr ""
+msgstr "Confidentialité"
 
 msgid "Privacy Settings"
-msgstr ""
+msgstr "Paramètres de confidentialité"
 
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
-msgstr ""
+msgstr "Activité récente"
 
 msgid "Recommended Pages"
-msgstr ""
+msgstr "Pages recommandées"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
-msgstr ""
+msgstr "Supprimer l’aperçu"
 
 #. Option on every post on your personal timeline
 msgid "Resize"
-msgstr ""
+msgstr "En avant"
 
 #. Text that appears in the search box at the top of the page
 msgid "Search"
-msgstr ""
+msgstr "Recherche"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
-msgstr ""
+msgstr "Afficher tout"
 
 msgid "See All Messages"
-msgstr ""
+msgstr "Afficher tous les messages"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
-msgstr ""
+msgstr "Afficher la suite"
 
 #. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
-msgstr ""
+msgstr "Voir la traduction"
 
 #. Label on button in "New Message" dialog to send the message
 msgid "Send"
-msgstr ""
+msgstr "Envoyer"
 
 #. Link that opens the "New Message" dialog
 msgid "Send a New Message"
-msgstr ""
+msgstr "Envoyer un nouveau message"
 
 #. Verb. A link that allows you to share a post with your friends
 msgid "Share"
-msgstr ""
+msgstr "Partager"
 
 #. %a stands for a person's name
 msgid "%a likes this."
-msgstr ""
+msgstr "%a aime ça."
 
 #. %a stands for something like "3 people"
 msgid "%a like this."
-msgstr ""
+msgstr "%a aiment ça."
 
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
-msgstr ""
+msgstr "Ordre"
 
 #. Appears above paid advertisements
 msgid "Sponsored"
-msgstr ""
+msgstr "Lien commercial"
 
 #. This is a Facebook "status update", not a relationship status
 msgid "Status"
-msgstr ""
+msgstr "Statut"
 
 msgid "Subscriptions"
-msgstr ""
+msgstr "Abonnements"
 
 msgid "Tag Friends"
-msgstr ""
+msgstr "Identifier des ami(e)s"
 
 #. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
-msgstr ""
+msgstr "Conditions d’utilisation"
 
 #. Real time news feed in the right-hand column
 #. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 msgid "Ticker"
-msgstr ""
+msgstr "Télex"
 
 msgid "Timeline"
-msgstr ""
+msgstr "Journal"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
-msgstr ""
+msgstr "À :"
 
 #. Verb. See "Like"
 msgid "Unlike"
-msgstr ""
+msgstr "Je n’aime plus"
 
 #. Label on a button that allows you to edit your personal information
 msgid "Update Info"
-msgstr ""
+msgstr "Actualiser mes infos"
 
 #. This is a Facebook "status update", not a relationship status
 msgid "Update Status"
-msgstr ""
+msgstr "Statut"
 
 #. %d stands for a number, no need to translate it
 msgid "View all %d comments"
-msgstr ""
+msgstr "Afficher les %d commentaires"
 
 msgid "Wall Photos"
-msgstr ""
+msgstr "Photos de couverture"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
-msgstr ""
+msgstr "Exprimez-vous"
 
 #. Prompt when you comment on a post
 msgid "Write a comment..."
-msgstr ""
+msgstr "Rédiger un commentaire..."
 
 #. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
-msgstr ""
+msgstr "Hier"
 
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
-msgstr ""
+msgstr "Hier, à %s"
 
 msgid "You like this."
-msgstr ""
+msgstr "Vous aimez."
 
 #. Month Name
 msgid "January"
-msgstr ""
+msgstr "janvier"
 
 #. Month Name
 msgid "February"
-msgstr ""
+msgstr "février"
 
 #. Month Name
 msgid "March"
-msgstr ""
+msgstr "mars"
 
 #. Month Name
 msgid "April"
-msgstr ""
+msgstr "avril"
 
 #. Month Name
 msgid "May"
-msgstr ""
+msgstr "mai"
 
 #. Month Name
 msgid "June"
-msgstr ""
+msgstr "juin"
 
 #. Month Name
 msgid "July"
-msgstr ""
+msgstr "juillet"
 
 #. Month Name
 msgid "August"
-msgstr ""
+msgstr "août"
 
 #. Month Name
 msgid "September"
-msgstr ""
+msgstr "septembre"
 
 #. Month Name
 msgid "October"
-msgstr ""
+msgstr "octobre"
 
 #. Month Name
 msgid "November"
-msgstr ""
+msgstr "novembre"
 
 #. Month Name
 msgid "December"
-msgstr ""
+msgstr "décembre"
 
 #. Day of the Week
 msgid "Monday"
-msgstr ""
+msgstr "lundi"
 
 #. Day of the Week
 msgid "Tuesday"
-msgstr ""
+msgstr "mardi"
 
 #. Day of the Week
 msgid "Wednesday"
-msgstr ""
+msgstr "mercredi"
 
 #. Day of the Week
 msgid "Thursday"
-msgstr ""
+msgstr "jeudi"
 
 #. Day of the Week
 msgid "Friday"
-msgstr ""
+msgstr "vendredi"
 
 #. Day of the Week
 msgid "Saturday"
-msgstr ""
+msgstr "samedi"
 
 #. Day of the Week
 msgid "Sunday"
-msgstr ""
+msgstr "dimanche"
