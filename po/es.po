@@ -52,7 +52,7 @@ msgstr "Publicidad"
 
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
-msgstr ""
+msgstr "Hace unos segundos"
 
 msgid "APPS"
 msgstr "APLICACIONES"
@@ -279,7 +279,7 @@ msgid "Place"
 msgstr "Lugar"
 
 msgid "Places"
-msgstr ""
+msgstr "Lugares"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
