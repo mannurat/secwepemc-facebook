@@ -10,6 +10,7 @@ about a minute ago
 Account Settings
 Activity Log
 Add Friend
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
 Add Photo / Video
 #. Link at bottom of home page (under "More") to info about Facebook ads
 Advertising
@@ -19,6 +20,7 @@ APPS
 Apps and Games
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 %A at %s
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 Ask Question
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 %B %d
@@ -90,6 +92,7 @@ Life Event
 #. Verb. A link that allows you to "like" a post or a comment; "I like this"
 Like
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
 Likes
 #. Heading above your lists of friends ("Work", "Family", etc.)
 LISTS
@@ -106,6 +109,7 @@ MORE
 More Stories
 New Group...
 New Message
+#. Appears in left-hand navigation of home page
 News Feed
 #. A link that takes you to the latest posts on your timeline
 Now
@@ -116,6 +120,7 @@ Photo
 Photos
 #. Link that allows you to "check in" somewhere
 Place
+#. Appears, e.g., on your Timeline, showing places you visited during the year
 Places
 #. Link at the bottom of home page to Facebook's privacy policy
 Privacy
@@ -153,6 +158,7 @@ SORT
 Sponsored
 #. This is a Facebook "status update", not a relationship status
 Status
+#. Top of profile, after Friends, Photos, Map, ...
 Subscriptions
 Tag Friends
 #. Link at the bottom of home page to Facebook's "Terms of Service"
@@ -168,6 +174,7 @@ Unlike
 #. Label on a button that allows you to edit your personal information
 Update Info
 #. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 Update Status
 #. %d stands for a number, no need to translate it
 View all %d comments
