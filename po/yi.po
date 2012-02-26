@@ -164,7 +164,7 @@ msgstr ""
 #. Link that lets you change your language settings
 #. Please translate to the name of your language, written in the language itself
 msgid "English (US)"
-msgstr ""
+msgstr "ייִדיש"
 
 #. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
