@@ -14,7 +14,6 @@
 #  You should have received a copy of the GNU General Public License
 #  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-VERSION=1.0.0
 TEMPFILE=`mktemp`
 cat LINGUAS | tr "\t" "~" |
 while read x
@@ -23,7 +22,7 @@ do
 	POFILE=`echo ${LANGCODE} | sed 's/-x-en$//'`
 	AMBIENTLANG=`echo $x | sed 's/^[^~]*~//' | sed 's/~.*//'`
 	ENGLISHNAME=`echo $x | sed 's/^[^~]*~[^~]*~//' | sed 's/~.*//'`
-	NATIVENAME=`echo $x | sed 's/^.*~\([^~]*\)~[^~]*$/\1/'` # no longer used
+	VERSION=`echo $x | sed 's/^.*~\([^~]*\)~[^~]*$/\1/'` # no longer used
 	TRANSLATORS=`echo $x | sed 's/^.*~\([^~]*\)$/\1/'`
 	echo "Generating greasemonkey for ${LANGCODE} (using po/${POFILE}.po)..."
 	perl po2gm.pl po/${POFILE}.po ${AMBIENTLANG} > ${TEMPFILE}
