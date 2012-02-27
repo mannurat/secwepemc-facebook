@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-23 10:52:31-06:00\n"
+"POT-Creation-Date: 2012-02-27 07:28:14-06:00\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Jordan Kutzik\n"
 "Language-Team: Yiddish\n"
@@ -42,6 +42,7 @@ msgstr ""
 msgid "Add Friend"
 msgstr ""
 
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
 msgstr ""
 
@@ -63,6 +64,7 @@ msgstr ""
 msgid "%A at %s"
 msgstr ""
 
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr ""
 
@@ -212,6 +214,7 @@ msgid "Like"
 msgstr "עס געפֿעלט מיר"
 
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr ""
 
@@ -250,6 +253,7 @@ msgstr ""
 msgid "New Message"
 msgstr ""
 
+#. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr ""
 
@@ -276,6 +280,7 @@ msgstr ""
 msgid "Place"
 msgstr ""
 
+#. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
 msgstr ""
 
@@ -355,6 +360,7 @@ msgstr ""
 msgid "Status"
 msgstr ""
 
+#. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr ""
 
@@ -386,6 +392,7 @@ msgid "Update Info"
 msgstr ""
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
 msgstr ""
 

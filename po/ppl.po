@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-23 10:52:31-06:00\n"
+"POT-Creation-Date: 2012-02-27 07:28:14-06:00\n"
 "PO-Revision-Date: 2012-02-20 17:58:12-06:00\n"
 "Last-Translator: Alan R. King\n"
 "Language-Team: Nawat\n"
@@ -42,6 +42,7 @@ msgstr "Shikita Tay Panutuk"
 msgid "Add Friend"
 msgstr "Shikchiwa mukunpa"
 
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
 msgstr "Shikpilu se Fotoj / Videoj"
 
@@ -63,6 +64,7 @@ msgstr "Ajaplicacion wan ajawilti"
 msgid "%A at %s"
 msgstr "ne %A ka %s"
 
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Shiktajtani"
 
@@ -212,6 +214,7 @@ msgid "Like"
 msgstr "Nugustoj"
 
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr "Igustoj"
 
@@ -250,6 +253,7 @@ msgstr "Yankwik Tepewa..."
 msgid "New Message"
 msgstr "Yankwik Amat"
 
+#. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "Yajyankwik"
 
@@ -276,6 +280,7 @@ msgstr "Fojfotoj"
 msgid "Place"
 msgstr "Kan tinemi?"
 
+#. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
 msgstr "Kan nentuk"
 
@@ -355,6 +360,7 @@ msgstr "Tajtashtawijtuk"
 msgid "Status"
 msgstr "Tay ina"
 
+#. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr "Tay kikwi"
 
@@ -386,6 +392,7 @@ msgid "Update Info"
 msgstr "Shikpata Tay Tinatuk Mupanpa"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
 msgstr "Shikpata tay tina"
 

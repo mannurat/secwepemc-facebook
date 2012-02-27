@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-23 10:52:31-06:00\n"
+"POT-Creation-Date: 2012-02-27 07:28:14-06:00\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -44,6 +44,7 @@ msgstr "Stair Gníomhaíochta"
 msgid "Add Friend"
 msgstr "Déan Cairdeas"
 
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
 msgstr "Cuir Grianghraf / Físeán Leis"
 
@@ -65,6 +66,7 @@ msgstr "Feidhmchláir agus Cluichí"
 msgid "%A at %s"
 msgstr "%A ag %s"
 
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Cuir Ceist"
 
@@ -214,6 +216,7 @@ msgid "Like"
 msgstr "Is Maith Liom É"
 
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr "Ceanáin"
 
@@ -252,6 +255,7 @@ msgstr "Grúpa Nua..."
 msgid "New Message"
 msgstr "Teachtaireacht Nua"
 
+#. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "Fotha Nuachta"
 
@@ -278,6 +282,7 @@ msgstr "Grianghraif"
 msgid "Place"
 msgstr "Áit"
 
+#. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
 msgstr "Áiteanna"
 
@@ -357,6 +362,7 @@ msgstr "Urraithe"
 msgid "Status"
 msgstr "Stádas"
 
+#. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr "Liostálacha"
 
@@ -388,6 +394,7 @@ msgid "Update Info"
 msgstr "Faisnéis Nua"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
 msgstr "Stádas Nua"
 

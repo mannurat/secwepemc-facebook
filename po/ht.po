@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-23 10:52:31-06:00\n"
+"POT-Creation-Date: 2012-02-27 07:28:14-06:00\n"
 "PO-Revision-Date: 2012-02-22 22:03:27-06:00\n"
 "Last-Translator: Jean Came Poulard\n"
 "Language-Team: Haitian Creole\n"
@@ -42,6 +42,7 @@ msgstr "Jounal Aktivite"
 msgid "Add Friend"
 msgstr "Ajoute Zanmi"
 
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
 msgstr "Ajoute Foto / Videyo"
 
@@ -63,6 +64,7 @@ msgstr "Aplikasyon ak Jwèt"
 msgid "%A at %s"
 msgstr "%A a %s"
 
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Poze Kesyon"
 
@@ -212,6 +214,7 @@ msgid "Like"
 msgstr "Renmen"
 
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr "Renmen"
 
@@ -250,6 +253,7 @@ msgstr "Nouvo Gwoup..."
 msgid "New Message"
 msgstr "Nouvo Mesaj"
 
+#. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "Nouvo Alimantasyon"
 
@@ -276,6 +280,7 @@ msgstr "Foto"
 msgid "Place"
 msgstr "Kote"
 
+#. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
 msgstr "Kote"
 
@@ -355,6 +360,7 @@ msgstr "Esponsorize"
 msgid "Status"
 msgstr "Estati"
 
+#. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr "Enskripsyon"
 
@@ -386,6 +392,7 @@ msgid "Update Info"
 msgstr "Modifye Enfòmasyon"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
 msgstr "Modifye Estati"
 

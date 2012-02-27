@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-23 10:52:31-06:00\n"
+"POT-Creation-Date: 2012-02-27 07:28:14-06:00\n"
 "PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Spanish\n"
@@ -43,6 +43,7 @@ msgstr "Registro de actividad"
 msgid "Add Friend"
 msgstr "Agregar a mis amigos"
 
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
 msgstr "Foto/video"
 
@@ -64,6 +65,7 @@ msgstr "Aplicaciones y juegos"
 msgid "%A at %s"
 msgstr "El %A a la(s) %s"
 
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Pregunta"
 
@@ -213,6 +215,7 @@ msgid "Like"
 msgstr "Me gusta"
 
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr "Me gusta"
 
@@ -251,6 +254,7 @@ msgstr ""
 msgid "New Message"
 msgstr "Nuevo mensaje"
 
+#. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "Noticias"
 
@@ -278,6 +282,7 @@ msgstr "Fotos"
 msgid "Place"
 msgstr "Lugar"
 
+#. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
 msgstr "Lugares"
 
@@ -357,6 +362,7 @@ msgstr "Anuncios"
 msgid "Status"
 msgstr "Estado"
 
+#. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr "Suscripciones"
 
@@ -388,6 +394,7 @@ msgid "Update Info"
 msgstr "Actualizar información"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
 msgstr "Estado"
 
