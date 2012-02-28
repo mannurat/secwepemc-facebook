@@ -3,11 +3,15 @@
 1 NEW STORY
 #. Appears next to a post; means the post has been shared one time
 1 share
+#. Both %a's stand for names of people
+%a and %a like this.
 #. Link at bottom of home page (under "More") to info about Facebook
 About
 about an hour ago
 about a minute ago
 Account Settings
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+%a commented on a %a.
 Activity Log
 Add Friend
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
@@ -16,10 +20,16 @@ Add Photo / Video
 Advertising
 #. Time stamp on a post. You might also translate as "Just now"
 a few seconds ago
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+%a likes a %a.
+#. Used in longer sentences like "John Doe shared a link"
+a link
 APPS
 Apps and Games
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 %A at %s
+#. First %a is a person, second one is something like "a link"
+%a shared %a.
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 Ask Question
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
@@ -43,6 +53,8 @@ Close
 Close Friends
 #. Verb. A link under a post that allows you to comment on the post.
 Comment
+#. Button label; confirm a friend request 
+Confirm
 Create an Ad
 #. Link at bottom of home page (under "More")
 Create a Page
@@ -57,6 +69,9 @@ Developers
 %d mutual friends
 #. %d stands for a number, no need to translate it
 %d NEW STORIES
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Used in sentences like "John Doe and 7 others like this."
+%d others
 #. %d stands for a number, no need to translate it
 %d people
 #. %d stands for a number, no need to translate it
@@ -94,6 +109,8 @@ Like
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 Likes
+#. Used in longer sentences, like "%a commented on a link."
+link
 #. Heading above your lists of friends ("Work", "Family", etc.)
 LISTS
 Log Out
@@ -102,26 +119,37 @@ Map
 #. In the "New Message" dialog
 Message:
 Messages
+#. Photographs uploaded from someone's mobile device
+Mobile Uploads
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 More
 MORE
 #. Appears at the bottom of your home time line; click to load more posts
 More Stories
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+Most Recent
 New Group...
 New Message
 #. Appears in left-hand navigation of home page
 News Feed
+Notifications
+#. Button label; postpone confirmation of a friend request 
+Not Now
 #. A link that takes you to the latest posts on your timeline
 Now
 PAGES
 People who like this
 People You May Know
 Photo
+#. Used in longer sentences, like "%a commented on a photo."
+photo
 Photos
 #. Link that allows you to "check in" somewhere
 Place
 #. Appears, e.g., on your Timeline, showing places you visited during the year
 Places
+#. Used in longer sentences, like "%a commented on a post."
+post
 #. Link at the bottom of home page to Facebook's privacy policy
 Privacy
 Privacy Settings
@@ -137,7 +165,10 @@ Resize
 Search
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 See All
+#. In the drop-down menu with recent Friend Requests
+See All Friend Requests
 See All Messages
+See All Notifications
 #. See more of a post that was truncated because it was very long
 See More
 #. Link that appears under a post in another language; click it to translate
@@ -156,6 +187,8 @@ Share
 SORT
 #. Appears above paid advertisements
 Sponsored
+#. Used in longer sentences, like "%a commented on a status."
+status
 #. This is a Facebook "status update", not a relationship status
 Status
 #. Top of profile, after Friends, Photos, Map, ...
@@ -169,6 +202,8 @@ Ticker
 Timeline
 #. Specifies recipient when you send a private message
 To:
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+Top Stories
 #. Verb. See "Like"
 Unlike
 #. Label on a button that allows you to edit your personal information

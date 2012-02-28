@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-27 07:28:14-06:00\n"
+"POT-Creation-Date: 2012-02-27 22:37:37-06:00\n"
 "PO-Revision-Date: 2012-02-24 18:31-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -30,6 +30,11 @@ msgstr "1 sgeulachd ùr"
 msgid "1 share"
 msgstr "Air a cho-roinneadh 1 turas"
 
+#. Both %a's stand for names of people
+#, fuzzy
+msgid "%a and %a like this."
+msgstr "'S toil le %a seo."
+
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
 msgstr "Mu dheidhinn"
@@ -42,6 +47,10 @@ msgstr "mu mhionaid air ais"
 
 msgid "Account Settings"
 msgstr "Roghainnean a' chunntais"
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on a %a."
+msgstr ""
 
 msgid "Activity Log"
 msgstr "Loga na gnìomhachd"
@@ -61,6 +70,15 @@ msgstr "Sanasachd"
 msgid "a few seconds ago"
 msgstr "grunn diogan air ais"
 
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a likes a %a."
+msgstr "'S toil le %a seo."
+
+#. Used in longer sentences like "John Doe shared a link"
+msgid "a link"
+msgstr ""
+
 msgid "APPS"
 msgstr "APLACAIDEAN"
 
@@ -70,6 +88,11 @@ msgstr "Aplacaidean is geamannan"
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
 msgstr "%A aig %s"
+
+#. First %a is a person, second one is something like "a link"
+#, fuzzy
+msgid "%a shared %a."
+msgstr "Air a cho-roinneadh %d tura(i)s"
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -122,6 +145,10 @@ msgstr "Dlùth-charaidean"
 msgid "Comment"
 msgstr "Beachd"
 
+#. Button label; confirm a friend request 
+msgid "Confirm"
+msgstr ""
+
 msgid "Create an Ad"
 msgstr "Cruthaich sanasachd"
 
@@ -151,6 +178,12 @@ msgstr "%d caraid(ean) an cumantas"
 #. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
 msgstr "%d sgeulachd(an) ùra"
+
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Used in sentences like "John Doe and 7 others like this."
+#, fuzzy
+msgid "%d others"
+msgstr "Air a cho-roinneadh %d tura(i)s"
 
 #. %d stands for a number, no need to translate it
 msgid "%d people"
@@ -225,6 +258,11 @@ msgstr "'S toil"
 msgid "Likes"
 msgstr "Na 's toil"
 
+#. Used in longer sentences, like "%a commented on a link."
+#, fuzzy
+msgid "link"
+msgstr "Cha toil tuilleadh"
+
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "LIOSTAICHEAN"
@@ -254,6 +292,10 @@ msgstr "BARRACHD"
 msgid "More Stories"
 msgstr "Barrachd sgeulachdan"
 
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Most Recent"
+msgstr ""
+
 msgid "New Group..."
 msgstr "Buidheann ùr..."
 
@@ -263,6 +305,14 @@ msgstr "Teachdaireachd ùr"
 #. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "Inbhir nan naidheachd"
+
+msgid "Notifications"
+msgstr ""
+
+#. Button label; postpone confirmation of a friend request 
+#, fuzzy
+msgid "Not Now"
+msgstr "An-dràsta"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
@@ -290,6 +340,10 @@ msgstr "Àite"
 #. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
 msgstr "Àitichean"
+
+#. Used in longer sentences, like "%a commented on a post."
+msgid "post"
+msgstr ""
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -324,8 +378,17 @@ msgstr "Lorg"
 msgid "See All"
 msgstr "Seall a h-uile"
 
+#. In the drop-down menu with recent Friend Requests
+#, fuzzy
+msgid "See All Friend Requests"
+msgstr "Iarrtasan càirdeis"
+
+#, fuzzy
 msgid "See All Messages"
-msgstr "Seall a h-uile teachdaireachd"
+msgstr "Teachdaireachdan"
+
+msgid "See All Notifications"
+msgstr ""
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -363,6 +426,11 @@ msgstr "SEÒRSAICH"
 msgid "Sponsored"
 msgstr "Brosnaichte"
 
+#. Used in longer sentences, like "%a commented on a status."
+#, fuzzy
+msgid "status"
+msgstr "Do naidheachd"
+
 #. This is a Facebook "status update", not a relationship status
 msgid "Status"
 msgstr "Do naidheachd"
@@ -389,6 +457,11 @@ msgstr "Loidhne-ama"
 #. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Gu:"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+#, fuzzy
+msgid "Top Stories"
+msgstr "Barrachd sgeulachdan"
 
 #. Verb. See "Like"
 msgid "Unlike"

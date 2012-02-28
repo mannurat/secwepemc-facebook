@@ -35,6 +35,7 @@
 var tags = new Array();
 tags.push('a');      // many...
 tags.push('h4');     // Sponsored, Ticker, ...
+tags.push('h6');     // %a commented on %a.
 tags.push('label');  // Comment
 
 var divclasses = new Array();

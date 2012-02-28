@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-27 07:28:14-06:00\n"
+"POT-Creation-Date: 2012-02-27 22:37:37-06:00\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Jordan Kutzik\n"
 "Language-Team: Yiddish\n"
@@ -23,6 +23,10 @@ msgstr ""
 msgid "1 share"
 msgstr ""
 
+#. Both %a's stand for names of people
+msgid "%a and %a like this."
+msgstr ""
+
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
 msgstr ""
@@ -34,6 +38,10 @@ msgid "about a minute ago"
 msgstr ""
 
 msgid "Account Settings"
+msgstr ""
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on a %a."
 msgstr ""
 
 msgid "Activity Log"
@@ -54,6 +62,14 @@ msgstr ""
 msgid "a few seconds ago"
 msgstr ""
 
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a likes a %a."
+msgstr ""
+
+#. Used in longer sentences like "John Doe shared a link"
+msgid "a link"
+msgstr ""
+
 msgid "APPS"
 msgstr ""
 
@@ -62,6 +78,10 @@ msgstr ""
 
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
+msgstr ""
+
+#. First %a is a person, second one is something like "a link"
+msgid "%a shared %a."
 msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
@@ -115,6 +135,10 @@ msgstr ""
 msgid "Comment"
 msgstr "קאָמענטאַר"
 
+#. Button label; confirm a friend request 
+msgid "Confirm"
+msgstr ""
+
 msgid "Create an Ad"
 msgstr ""
 
@@ -143,6 +167,11 @@ msgstr ""
 
 #. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
+msgstr ""
+
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Used in sentences like "John Doe and 7 others like this."
+msgid "%d others"
 msgstr ""
 
 #. %d stands for a number, no need to translate it
@@ -218,6 +247,11 @@ msgstr "עס געפֿעלט מיר"
 msgid "Likes"
 msgstr ""
 
+#. Used in longer sentences, like "%a commented on a link."
+#, fuzzy
+msgid "link"
+msgstr "ס'געפֿעלט מיר ניט מער"
+
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr ""
@@ -247,6 +281,10 @@ msgstr ""
 msgid "More Stories"
 msgstr ""
 
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Most Recent"
+msgstr ""
+
 msgid "New Group..."
 msgstr ""
 
@@ -255,6 +293,13 @@ msgstr ""
 
 #. Appears in left-hand navigation of home page
 msgid "News Feed"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+#. Button label; postpone confirmation of a friend request 
+msgid "Not Now"
 msgstr ""
 
 #. A link that takes you to the latest posts on your timeline
@@ -282,6 +327,10 @@ msgstr ""
 
 #. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
+msgstr ""
+
+#. Used in longer sentences, like "%a commented on a post."
+msgid "post"
 msgstr ""
 
 #. Link at the bottom of home page to Facebook's privacy policy
@@ -317,7 +366,14 @@ msgstr ""
 msgid "See All"
 msgstr ""
 
+#. In the drop-down menu with recent Friend Requests
+msgid "See All Friend Requests"
+msgstr ""
+
 msgid "See All Messages"
+msgstr ""
+
+msgid "See All Notifications"
 msgstr ""
 
 #. See more of a post that was truncated because it was very long
@@ -356,6 +412,10 @@ msgstr ""
 msgid "Sponsored"
 msgstr ""
 
+#. Used in longer sentences, like "%a commented on a status."
+msgid "status"
+msgstr ""
+
 #. This is a Facebook "status update", not a relationship status
 msgid "Status"
 msgstr ""
@@ -381,6 +441,10 @@ msgstr ""
 
 #. Specifies recipient when you send a private message
 msgid "To:"
+msgstr ""
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Top Stories"
 msgstr ""
 
 #. Verb. See "Like"

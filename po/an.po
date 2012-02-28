@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-27 07:28:14-06:00\n"
+"POT-Creation-Date: 2012-02-27 22:37:37-06:00\n"
 "PO-Revision-Date: 2012-02-25 02:02+0200\n"
 "Last-Translator: Juan Pablo Martínez Cortés <juanpabl@gmail.com>\n"
 "Language-Team: Softaragonés\n"
@@ -27,6 +27,11 @@ msgstr "1 HISTORIA NUEVA"
 msgid "1 share"
 msgstr "Compartiu 1 vegada"
 
+#. Both %a's stand for names of people
+#, fuzzy
+msgid "%a and %a like this."
+msgstr "A %a les ha feito goyo isto."
+
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
 msgstr "Arredol de"
@@ -39,6 +44,10 @@ msgstr "en fa bell minuto"
 
 msgid "Account Settings"
 msgstr "Achustes de cuenta"
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on a %a."
+msgstr ""
 
 msgid "Activity Log"
 msgstr "Rechistro d'actividat"
@@ -58,6 +67,15 @@ msgstr "Publicidat"
 msgid "a few seconds ago"
 msgstr "en fa bells segundos"
 
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a likes a %a."
+msgstr "A %a l'ha feito goyo isto."
+
+#. Used in longer sentences like "John Doe shared a link"
+msgid "a link"
+msgstr ""
+
 msgid "APPS"
 msgstr "APPLICACIONS"
 
@@ -67,6 +85,11 @@ msgstr "Aplicacions y chuegos"
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
 msgstr "O %A a las %s"
+
+#. First %a is a person, second one is something like "a link"
+#, fuzzy
+msgid "%a shared %a."
+msgstr "Compartiu %d vegadas"
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -119,6 +142,10 @@ msgstr "Os míos millors amigos"
 msgid "Comment"
 msgstr "Comentar"
 
+#. Button label; confirm a friend request 
+msgid "Confirm"
+msgstr ""
+
 msgid "Create an Ad"
 msgstr "Creyar un anuncio"
 
@@ -148,6 +175,12 @@ msgstr "%d amigos en común"
 #. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
 msgstr "%d HISTORIAS NUEVAS"
+
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Used in sentences like "John Doe and 7 others like this."
+#, fuzzy
+msgid "%d others"
+msgstr "Compartiu %d vegadas"
 
 #. %d stands for a number, no need to translate it
 msgid "%d people"
@@ -222,6 +255,11 @@ msgstr "Me fa goyo"
 msgid "Likes"
 msgstr "Me fa goyo"
 
+#. Used in longer sentences, like "%a commented on a link."
+#, fuzzy
+msgid "link"
+msgstr "Ya no me fa goyo"
+
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "LISTAS"
@@ -251,6 +289,10 @@ msgstr "MAS"
 msgid "More Stories"
 msgstr "Mas historias"
 
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Most Recent"
+msgstr ""
+
 msgid "New Group..."
 msgstr "Nueva colla..."
 
@@ -260,6 +302,14 @@ msgstr "Nuevo mensache"
 #. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "Nueva canal (feed)"
+
+msgid "Notifications"
+msgstr ""
+
+#. Button label; postpone confirmation of a friend request 
+#, fuzzy
+msgid "Not Now"
+msgstr "Agora"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
@@ -287,6 +337,10 @@ msgstr "Puesto"
 #. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
 msgstr "Puestos"
+
+#. Used in longer sentences, like "%a commented on a post."
+msgid "post"
+msgstr ""
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -321,8 +375,17 @@ msgstr "Mirar-lo"
 msgid "See All"
 msgstr "Veyer-los totz"
 
+#. In the drop-down menu with recent Friend Requests
+#, fuzzy
+msgid "See All Friend Requests"
+msgstr "Demandas d'amistanza"
+
+#, fuzzy
 msgid "See All Messages"
-msgstr "Veyer totz os mensaches"
+msgstr "Mensaches"
+
+msgid "See All Notifications"
+msgstr ""
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -360,6 +423,11 @@ msgstr "ORDENAR"
 msgid "Sponsored"
 msgstr "Anuncios"
 
+#. Used in longer sentences, like "%a commented on a status."
+#, fuzzy
+msgid "status"
+msgstr "Estau"
+
 #. This is a Facebook "status update", not a relationship status
 msgid "Status"
 msgstr "Estau"
@@ -386,6 +454,11 @@ msgstr "Cronolochía"
 #. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Ta:"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+#, fuzzy
+msgid "Top Stories"
+msgstr "Mas historias"
 
 #. Verb. See "Like"
 msgid "Unlike"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-27 07:28:14-06:00\n"
+"POT-Creation-Date: 2012-02-27 22:37:37-06:00\n"
 "PO-Revision-Date: 2012-02-20 17:58:12-06:00\n"
 "Last-Translator: Alan R. King\n"
 "Language-Team: Nawat\n"
@@ -23,6 +23,11 @@ msgstr "1 YANKWIK TAY INATIWIT"
 msgid "1 share"
 msgstr "Se kichijtuk compartir ini"
 
+#. Both %a's stand for names of people
+#, fuzzy
+msgid "%a and %a like this."
+msgstr "%a ingustoj ini."
+
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
 msgstr "Ken ijtuk"
@@ -34,6 +39,10 @@ msgid "about a minute ago"
 msgstr "ashan se minutoj"
 
 msgid "Account Settings"
+msgstr ""
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on a %a."
 msgstr ""
 
 msgid "Activity Log"
@@ -54,6 +63,15 @@ msgstr "Ajanuncioj"
 msgid "a few seconds ago"
 msgstr "ashanchin"
 
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a likes a %a."
+msgstr "%a igustoj ini."
+
+#. Used in longer sentences like "John Doe shared a link"
+msgid "a link"
+msgstr ""
+
 msgid "APPS"
 msgstr "AJAPLICACION"
 
@@ -63,6 +81,11 @@ msgstr "Ajaplicacion wan ajawilti"
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
 msgstr "ne %A ka %s"
+
+#. First %a is a person, second one is something like "a link"
+#, fuzzy
+msgid "%a shared %a."
+msgstr "%d kichijtiwit compartir ini"
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -115,6 +138,10 @@ msgstr "Mukunpawan yek"
 msgid "Comment"
 msgstr "Shitaketza ipanpa"
 
+#. Button label; confirm a friend request 
+msgid "Confirm"
+msgstr ""
+
 msgid "Create an Ad"
 msgstr "Shikchiwa se anuncioj"
 
@@ -144,6 +171,12 @@ msgstr "Kinhishmati %d mukunpa"
 #. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
 msgstr "%d YANKWIK TAY INATIWIT"
+
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Used in sentences like "John Doe and 7 others like this."
+#, fuzzy
+msgid "%d others"
+msgstr "%d kichijtiwit compartir ini"
 
 #. %d stands for a number, no need to translate it
 msgid "%d people"
@@ -218,6 +251,11 @@ msgstr "Nugustoj"
 msgid "Likes"
 msgstr "Igustoj"
 
+#. Used in longer sentences, like "%a commented on a link."
+#, fuzzy
+msgid "link"
+msgstr "Tea nugustoj"
+
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "MULIJLISTAJ"
@@ -247,6 +285,10 @@ msgstr "SEJSEUK"
 msgid "More Stories"
 msgstr "Sejseuk Tay Inatiwit"
 
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Most Recent"
+msgstr ""
+
 msgid "New Group..."
 msgstr "Yankwik Tepewa..."
 
@@ -256,6 +298,14 @@ msgstr "Yankwik Amat"
 #. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "Yajyankwik"
+
+msgid "Notifications"
+msgstr ""
+
+#. Button label; postpone confirmation of a friend request 
+#, fuzzy
+msgid "Not Now"
+msgstr "Ashan"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
@@ -283,6 +333,10 @@ msgstr "Kan tinemi?"
 #. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
 msgstr "Kan nentuk"
+
+#. Used in longer sentences, like "%a commented on a post."
+msgid "post"
+msgstr ""
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -317,8 +371,17 @@ msgstr "Shiktemu"
 msgid "See All"
 msgstr "Shikita Muchi"
 
+#. In the drop-down menu with recent Friend Requests
+#, fuzzy
+msgid "See All Friend Requests"
+msgstr "Ká kineki muchiwa mukunpa"
+
+#, fuzzy
 msgid "See All Messages"
-msgstr "Shikita Muchi ne Ajamat"
+msgstr "Ajamat"
+
+msgid "See All Notifications"
+msgstr ""
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -356,6 +419,11 @@ msgstr "SHIKYEKTALI"
 msgid "Sponsored"
 msgstr "Tajtashtawijtuk"
 
+#. Used in longer sentences, like "%a commented on a status."
+#, fuzzy
+msgid "status"
+msgstr "Tay ina"
+
 #. This is a Facebook "status update", not a relationship status
 msgid "Status"
 msgstr "Tay ina"
@@ -382,6 +450,11 @@ msgstr "Tay-keman"
 #. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Ká ipal:"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+#, fuzzy
+msgid "Top Stories"
+msgstr "Sejseuk Tay Inatiwit"
 
 #. Verb. See "Like"
 msgid "Unlike"
