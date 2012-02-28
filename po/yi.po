@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-27 22:37:37-06:00\n"
+"POT-Creation-Date: 2012-02-28 10:59:30-06:00\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Jordan Kutzik\n"
 "Language-Team: Yiddish\n"
@@ -66,7 +66,7 @@ msgstr ""
 msgid "%a likes a %a."
 msgstr ""
 
-#. Used in longer sentences like "John Doe shared a link"
+#. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr ""
 
@@ -170,7 +170,7 @@ msgid "%d NEW STORIES"
 msgstr ""
 
 #. %d stands for a number, no need to translate it; "%d other people"
-#. Used in sentences like "John Doe and 7 others like this."
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
 msgid "%d others"
 msgstr ""
 
@@ -247,7 +247,7 @@ msgstr "עס געפֿעלט מיר"
 msgid "Likes"
 msgstr ""
 
-#. Used in longer sentences, like "%a commented on a link."
+#. Always a link. Used in longer sentences, like "%a commented on a link."
 #, fuzzy
 msgid "link"
 msgstr "ס'געפֿעלט מיר ניט מער"
@@ -268,6 +268,10 @@ msgid "Message:"
 msgstr ""
 
 msgid "Messages"
+msgstr ""
+
+#. Photographs uploaded from someone's mobile device
+msgid "Mobile Uploads"
 msgstr ""
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
@@ -318,6 +322,10 @@ msgstr ""
 msgid "Photo"
 msgstr ""
 
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+msgid "photo"
+msgstr ""
+
 msgid "Photos"
 msgstr ""
 
@@ -329,7 +337,7 @@ msgstr ""
 msgid "Places"
 msgstr ""
 
-#. Used in longer sentences, like "%a commented on a post."
+#. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
 msgstr ""
 
@@ -412,7 +420,7 @@ msgstr ""
 msgid "Sponsored"
 msgstr ""
 
-#. Used in longer sentences, like "%a commented on a status."
+#. Always a link. Used in longer sentences, like "%a commented on a status."
 msgid "status"
 msgstr ""
 
@@ -481,6 +489,10 @@ msgstr ""
 
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
+msgstr ""
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
 msgstr ""
 
 msgid "You like this."

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-27 22:37:37-06:00\n"
+"POT-Creation-Date: 2012-02-28 10:59:30-06:00\n"
 "PO-Revision-Date: 2012-02-22 22:03:27-06:00\n"
 "Last-Translator: Jean Came Poulard\n"
 "Language-Team: Haitian Creole\n"
@@ -68,7 +68,7 @@ msgstr "sa gen kèk segond de sa"
 msgid "%a likes a %a."
 msgstr "%a renmen sa a."
 
-#. Used in longer sentences like "John Doe shared a link"
+#. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr ""
 
@@ -173,7 +173,7 @@ msgid "%d NEW STORIES"
 msgstr "%d NOUVO ISTWA"
 
 #. %d stands for a number, no need to translate it; "%d other people"
-#. Used in sentences like "John Doe and 7 others like this."
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
 #, fuzzy
 msgid "%d others"
 msgstr "%d pataj"
@@ -251,7 +251,7 @@ msgstr "Renmen"
 msgid "Likes"
 msgstr "Renmen"
 
-#. Used in longer sentences, like "%a commented on a link."
+#. Always a link. Used in longer sentences, like "%a commented on a link."
 #, fuzzy
 msgid "link"
 msgstr "Pa Renmen"
@@ -273,6 +273,10 @@ msgstr "Mesaj"
 
 msgid "Messages"
 msgstr "Mesaj"
+
+#. Photographs uploaded from someone's mobile device
+msgid "Mobile Uploads"
+msgstr ""
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
@@ -323,6 +327,11 @@ msgstr "Moun ou Ka Konnen"
 msgid "Photo"
 msgstr "Foto"
 
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+#, fuzzy
+msgid "photo"
+msgstr "Foto"
+
 msgid "Photos"
 msgstr "Foto"
 
@@ -334,7 +343,7 @@ msgstr "Kote"
 msgid "Places"
 msgstr "Kote"
 
-#. Used in longer sentences, like "%a commented on a post."
+#. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
 msgstr ""
 
@@ -419,7 +428,7 @@ msgstr "RANJE"
 msgid "Sponsored"
 msgstr "Esponsorize"
 
-#. Used in longer sentences, like "%a commented on a status."
+#. Always a link. Used in longer sentences, like "%a commented on a status."
 #, fuzzy
 msgid "status"
 msgstr "Estati"
@@ -491,6 +500,11 @@ msgstr "Ayè"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Ayè a %s"
+
+#. %a stands for something like "4 others"
+#, fuzzy
+msgid "You and %a like this."
+msgstr "%a renmen sa a."
 
 msgid "You like this."
 msgstr "Ou renmen sa a."

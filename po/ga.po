@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-27 22:37:37-06:00\n"
+"POT-Creation-Date: 2012-02-28 10:59:30-06:00\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -68,7 +68,7 @@ msgstr "cúpla soicind ó shin"
 msgid "%a likes a %a."
 msgstr "Is maith le %a %a."
 
-#. Used in longer sentences like "John Doe shared a link"
+#. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr "nasc"
 
@@ -172,7 +172,7 @@ msgid "%d NEW STORIES"
 msgstr "%d SCÉAL NUA"
 
 #. %d stands for a number, no need to translate it; "%d other people"
-#. Used in sentences like "John Doe and 7 others like this."
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
 msgid "%d others"
 msgstr "%d duine eile"
 
@@ -249,7 +249,7 @@ msgstr "Is Maith Liom É"
 msgid "Likes"
 msgstr "Ceanáin"
 
-#. Used in longer sentences, like "%a commented on a link."
+#. Always a link. Used in longer sentences, like "%a commented on a link."
 msgid "link"
 msgstr "nasc"
 
@@ -270,6 +270,10 @@ msgstr "Teachtaireacht:"
 
 msgid "Messages"
 msgstr "Teachtaireachtaí"
+
+#. Photographs uploaded from someone's mobile device
+msgid "Mobile Uploads"
+msgstr "Uasluchtuithe Soghluaiste"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
@@ -319,6 +323,10 @@ msgstr "Aithne Agat Air/Uirthi?"
 msgid "Photo"
 msgstr "Grianghraf"
 
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+msgid "photo"
+msgstr "grianghraf"
+
 msgid "Photos"
 msgstr "Grianghraif"
 
@@ -330,7 +338,7 @@ msgstr "Áit"
 msgid "Places"
 msgstr "Áiteanna"
 
-#. Used in longer sentences, like "%a commented on a post."
+#. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
 msgstr "postáil"
 
@@ -413,7 +421,7 @@ msgstr "SÓRTÁIL"
 msgid "Sponsored"
 msgstr "Urraithe"
 
-#. Used in longer sentences, like "%a commented on a status."
+#. Always a link. Used in longer sentences, like "%a commented on a status."
 msgid "status"
 msgstr "stádas"
 
@@ -483,6 +491,10 @@ msgstr "Inné"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Inné ag %s"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "Is maith leatsa agus le %a é seo."
 
 msgid "You like this."
 msgstr "Is maith leat é seo."

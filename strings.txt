@@ -22,7 +22,7 @@ Advertising
 a few seconds ago
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 %a likes a %a.
-#. Used in longer sentences like "John Doe shared a link"
+#. Always a link. Used in longer sentences like "John Doe shared a link"
 a link
 APPS
 Apps and Games
@@ -70,7 +70,7 @@ Developers
 #. %d stands for a number, no need to translate it
 %d NEW STORIES
 #. %d stands for a number, no need to translate it; "%d other people"
-#. Used in sentences like "John Doe and 7 others like this."
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
 %d others
 #. %d stands for a number, no need to translate it
 %d people
@@ -109,7 +109,7 @@ Like
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 Likes
-#. Used in longer sentences, like "%a commented on a link."
+#. Always a link. Used in longer sentences, like "%a commented on a link."
 link
 #. Heading above your lists of friends ("Work", "Family", etc.)
 LISTS
@@ -141,14 +141,14 @@ PAGES
 People who like this
 People You May Know
 Photo
-#. Used in longer sentences, like "%a commented on a photo."
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
 photo
 Photos
 #. Link that allows you to "check in" somewhere
 Place
 #. Appears, e.g., on your Timeline, showing places you visited during the year
 Places
-#. Used in longer sentences, like "%a commented on a post."
+#. Always a link. Used in longer sentences, like "%a commented on a post."
 post
 #. Link at the bottom of home page to Facebook's privacy policy
 Privacy
@@ -187,7 +187,7 @@ Share
 SORT
 #. Appears above paid advertisements
 Sponsored
-#. Used in longer sentences, like "%a commented on a status."
+#. Always a link. Used in longer sentences, like "%a commented on a status."
 status
 #. This is a Facebook "status update", not a relationship status
 Status
@@ -222,6 +222,8 @@ Write a comment...
 Yesterday
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 Yesterday at %s
+#. %a stands for something like "4 others"
+You and %a like this.
 You like this.
 #. Month Name
 January

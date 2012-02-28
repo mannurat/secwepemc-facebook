@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-27 22:37:37-06:00\n"
+"POT-Creation-Date: 2012-02-28 10:59:30-06:00\n"
 "PO-Revision-Date: 2012-02-21 16:58:12-06:00\n"
 "Last-Translator: Francis Dimzon\n"
 "Language-Team: Hiligaynon\n"
@@ -68,7 +68,7 @@ msgstr "mga pila ka gutlo nga nagligad"
 msgid "%a likes a %a."
 msgstr "Si %a nanamian sini."
 
-#. Used in longer sentences like "John Doe shared a link"
+#. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr ""
 
@@ -173,7 +173,7 @@ msgid "%d NEW STORIES"
 msgstr "%d ka MGA BAG-O NGA ISTORYA"
 
 #. %d stands for a number, no need to translate it; "%d other people"
-#. Used in sentences like "John Doe and 7 others like this."
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
 #, fuzzy
 msgid "%d others"
 msgstr "%d ka paambit"
@@ -251,7 +251,7 @@ msgstr "Kanami"
 msgid "Likes"
 msgstr "Mga Nanamian"
 
-#. Used in longer sentences, like "%a commented on a link."
+#. Always a link. Used in longer sentences, like "%a commented on a link."
 #, fuzzy
 msgid "link"
 msgstr "Ay, indi gali manami"
@@ -273,6 +273,10 @@ msgstr "Mensahe:"
 
 msgid "Messages"
 msgstr "Mga Mensahe"
+
+#. Photographs uploaded from someone's mobile device
+msgid "Mobile Uploads"
+msgstr ""
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
@@ -323,6 +327,11 @@ msgstr "Mga Tawo nga Basi Kilala Mo"
 msgid "Photo"
 msgstr "Litrato"
 
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+#, fuzzy
+msgid "photo"
+msgstr "Litrato"
+
 msgid "Photos"
 msgstr "Mga Litrato"
 
@@ -334,7 +343,7 @@ msgstr "Lugar"
 msgid "Places"
 msgstr "Mga Lugar"
 
-#. Used in longer sentences, like "%a commented on a post."
+#. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
 msgstr ""
 
@@ -419,7 +428,7 @@ msgstr "PASUNUDON"
 msgid "Sponsored"
 msgstr "Mga Binayaran Nga Pasayod"
 
-#. Used in longer sentences, like "%a commented on a status."
+#. Always a link. Used in longer sentences, like "%a commented on a status."
 msgid "status"
 msgstr ""
 
@@ -490,6 +499,11 @@ msgstr "Kagapon"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Kagapon alas %s"
+
+#. %a stands for something like "4 others"
+#, fuzzy
+msgid "You and %a like this."
+msgstr "May %a nga nanamian sini."
 
 msgid "You like this."
 msgstr "Nanamian mo ini."
