@@ -17,7 +17,7 @@ updatepos: facebook.pot
 updategms: facebook-ga.user.js
 
 # builds all languages
-facebook-ga.user.js: po/*.po template.user.js po2gm.pl generate-gm.sh
+facebook-ga.user.js: po/*.po template.user.js po2gm.pl generate-gm.sh LINGUAS
 	bash generate-gm.sh
 
 clean:
