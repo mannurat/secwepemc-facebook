@@ -1,0 +1,575 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-29 08:06:23-06:00\n"
+"PO-Revision-Date: 2012-02-29 08:07:23-06:00\n"
+"Last-Translator: Edward Owen Jones\n"
+"Language-Team: Cornish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Lines like this one beginning with "#." are comments; no need to translate!
+msgid "1 mutual friend"
+msgstr ""
+
+msgid "1 NEW STORY"
+msgstr ""
+
+#. Appears next to a post; means the post has been shared one time
+msgid "1 share"
+msgstr ""
+
+#. First %a is a name, second %a is a name or else something like "6 others"
+msgid "%a and %a like this."
+msgstr ""
+
+#. Link at bottom of home page (under "More") to info about Facebook
+msgid "About"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr ""
+
+msgid "about a minute ago"
+msgstr ""
+
+msgid "Account Settings"
+msgstr ""
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on a %a."
+msgstr ""
+
+msgid "Activity Log"
+msgstr ""
+
+msgid "Add Friend"
+msgstr ""
+
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
+msgid "Add Photo / Video"
+msgstr ""
+
+#. Link at bottom of home page (under "More") to info about Facebook ads
+msgid "Advertising"
+msgstr ""
+
+#. Time stamp on a post. You might also translate as "Just now"
+msgid "a few seconds ago"
+msgstr ""
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a likes a %a."
+msgstr ""
+
+#. Always a link. Used in longer sentences like "John Doe shared a link"
+msgid "a link"
+msgstr ""
+
+msgid "APPS"
+msgstr ""
+
+msgid "Apps and Games"
+msgstr ""
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr ""
+
+#. First %a is a person, second one is something like "a link"
+msgid "%a shared %a."
+msgstr ""
+
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+msgid "Ask Question"
+msgstr ""
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr ""
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr ""
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr ""
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr ""
+
+msgid "Born"
+msgstr ""
+
+msgid "By:"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
+msgid "Careers"
+msgstr ""
+
+#. Link that allows you to change the big photo at the top of your timeline
+msgid "Change Cover"
+msgstr ""
+
+msgid "Chat (Offline)"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+#. A link that takes you to a list of your closest friends on Facebook
+msgid "Close Friends"
+msgstr ""
+
+#. Verb. A link under a post that allows you to comment on the post.
+msgid "Comment"
+msgstr ""
+
+#. Button label; confirm a friend request 
+msgid "Confirm"
+msgstr ""
+
+msgid "Create an Ad"
+msgstr ""
+
+#. Link at bottom of home page (under "More")
+msgid "Create a Page"
+msgstr ""
+
+msgid "Create Group..."
+msgstr ""
+
+#. Link at bottom of home page (under "More") to info for software developers
+msgid "Developers"
+msgstr ""
+
+#. %d stands for a number, no need to translate it
+msgid "%d hours ago"
+msgstr ""
+
+#. %d stands for a number, no need to translate it
+msgid "%d minutes ago"
+msgstr ""
+
+#. %d stands for a number, no need to translate it
+msgid "%d mutual friends"
+msgstr ""
+
+#. %d stands for a number, no need to translate it
+msgid "%d NEW STORIES"
+msgstr ""
+
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
+msgid "%d others"
+msgstr ""
+
+#. %d stands for a number, no need to translate it
+msgid "%d people"
+msgstr ""
+
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
+msgid "%d shares"
+msgstr ""
+
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
+msgid "Edit Options"
+msgstr ""
+
+#. Attached to each post on your personal timeline
+msgid "Edit or Remove"
+msgstr ""
+
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+msgid "English (US)"
+msgstr ""
+
+#. In the "New Message" dialog
+msgid "Enter a friend's name or email address"
+msgstr ""
+
+#. A link to a list of events that you've been invited to
+msgid "Events"
+msgstr ""
+
+#. A link that shows you a list of your relatives on Facebook
+msgid "Family"
+msgstr ""
+
+msgid "FAVORITES"
+msgstr ""
+
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
+msgid "Find Friends"
+msgstr ""
+
+#. People who have asked to be your friend on Facebook; top left of screen
+msgid "Friend Requests"
+msgstr ""
+
+#. A link that takes you to a list of all your Facebook friends
+msgid "Friends"
+msgstr ""
+
+msgid "GROUPS"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+#. Link that takes you to your home timeline; always visible at top-right
+msgid "Home"
+msgstr ""
+
+msgid "Life Event"
+msgstr ""
+
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
+msgid "Like"
+msgstr ""
+
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
+msgid "Likes"
+msgstr ""
+
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+msgid "link"
+msgstr ""
+
+#. Heading above your lists of friends ("Work", "Family", etc.)
+msgid "LISTS"
+msgstr ""
+
+msgid "Log Out"
+msgstr ""
+
+#. Link to a map of the places someone has been
+msgid "Map"
+msgstr ""
+
+#. In the "New Message" dialog
+msgid "Message:"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+#. Photographs uploaded from someone's mobile device
+msgid "Mobile Uploads"
+msgstr ""
+
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
+msgid "More"
+msgstr ""
+
+msgid "MORE"
+msgstr ""
+
+#. Appears at the bottom of your home time line; click to load more posts
+msgid "More Stories"
+msgstr ""
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Most Recent"
+msgstr ""
+
+msgid "New Group..."
+msgstr ""
+
+msgid "New Message"
+msgstr ""
+
+#. Appears in left-hand navigation of home page
+msgid "News Feed"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+#. Button label; postpone confirmation of a friend request 
+msgid "Not Now"
+msgstr ""
+
+#. A link that takes you to the latest posts on your timeline
+msgid "Now"
+msgstr ""
+
+msgid "PAGES"
+msgstr ""
+
+msgid "People who like this"
+msgstr ""
+
+msgid "People You May Know"
+msgstr ""
+
+msgid "Photo"
+msgstr ""
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+msgid "photo"
+msgstr ""
+
+msgid "Photos"
+msgstr ""
+
+#. Link that allows you to "check in" somewhere
+msgid "Place"
+msgstr ""
+
+#. Appears, e.g., on your Timeline, showing places you visited during the year
+msgid "Places"
+msgstr ""
+
+#. Always a link. Used in longer sentences, like "%a commented on a post."
+msgid "post"
+msgstr ""
+
+#. Link at the bottom of home page to Facebook's privacy policy
+msgid "Privacy"
+msgstr ""
+
+msgid "Privacy Settings"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+#. Box near the top of your personal timeline showing your recent actions on FB
+msgid "Recent Activity"
+msgstr ""
+
+msgid "Recommended Pages"
+msgstr ""
+
+#. When you share a link in a comment, use this to remove the preview image
+msgid "Remove Preview"
+msgstr ""
+
+#. Option on every post on your personal timeline
+msgid "Resize"
+msgstr ""
+
+#. Text that appears in the search box at the top of the page
+msgid "Search"
+msgstr ""
+
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
+msgid "See All"
+msgstr ""
+
+#. In the drop-down menu with recent Friend Requests
+msgid "See All Friend Requests"
+msgstr ""
+
+msgid "See All Messages"
+msgstr ""
+
+msgid "See All Notifications"
+msgstr ""
+
+#. See more of a post that was truncated because it was very long
+msgid "See More"
+msgstr ""
+
+#. Link that appears under a post in another language; click it to translate
+msgid "See Translation"
+msgstr ""
+
+#. Label on button in "New Message" dialog to send the message
+msgid "Send"
+msgstr ""
+
+#. Link that opens the "New Message" dialog
+msgid "Send a New Message"
+msgstr ""
+
+#. Verb. A link that allows you to share a post with your friends
+msgid "Share"
+msgstr ""
+
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr ""
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr ""
+
+#. A link that allows your to sort posts by "most recent" or "top stories"
+msgid "SORT"
+msgstr ""
+
+#. Appears above paid advertisements
+msgid "Sponsored"
+msgstr ""
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+msgid "status"
+msgstr ""
+
+#. This is a Facebook "status update", not a relationship status
+msgid "Status"
+msgstr ""
+
+#. Top of profile, after Friends, Photos, Map, ...
+msgid "Subscriptions"
+msgstr ""
+
+msgid "Tag Friends"
+msgstr ""
+
+#. Link at the bottom of home page to Facebook's "Terms of Service"
+msgid "Terms"
+msgstr ""
+
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
+msgid "Ticker"
+msgstr ""
+
+msgid "Timeline"
+msgstr ""
+
+#. Specifies recipient when you send a private message
+msgid "To:"
+msgstr ""
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Top Stories"
+msgstr ""
+
+#. Verb. See "Like"
+msgid "Unlike"
+msgstr ""
+
+#. Label on a button that allows you to edit your personal information
+msgid "Update Info"
+msgstr ""
+
+#. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+msgid "Update Status"
+msgstr ""
+
+#. %d stands for a number, no need to translate it
+msgid "View all %d comments"
+msgstr ""
+
+msgid "Wall Photos"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "What's on your mind?"
+msgstr ""
+
+#. Prompt when you comment on a post
+msgid "Write a comment..."
+msgstr ""
+
+#. Appears next to a post or comment as a timestamp
+msgid "Yesterday"
+msgstr ""
+
+#. Appears next to a post or comment as a timestamp; %s is the time of day
+msgid "Yesterday at %s"
+msgstr ""
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr ""
+
+msgid "You like this."
+msgstr ""
+
+#. Month Name
+msgid "January"
+msgstr ""
+
+#. Month Name
+msgid "February"
+msgstr ""
+
+#. Month Name
+msgid "March"
+msgstr ""
+
+#. Month Name
+msgid "April"
+msgstr ""
+
+#. Month Name
+msgid "May"
+msgstr ""
+
+#. Month Name
+msgid "June"
+msgstr ""
+
+#. Month Name
+msgid "July"
+msgstr ""
+
+#. Month Name
+msgid "August"
+msgstr ""
+
+#. Month Name
+msgid "September"
+msgstr ""
+
+#. Month Name
+msgid "October"
+msgstr ""
+
+#. Month Name
+msgid "November"
+msgstr ""
+
+#. Month Name
+msgid "December"
+msgstr ""
+
+#. Day of the Week
+msgid "Monday"
+msgstr ""
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr ""
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr ""
+
+#. Day of the Week
+msgid "Thursday"
+msgstr ""
+
+#. Day of the Week
+msgid "Friday"
+msgstr ""
+
+#. Day of the Week
+msgid "Saturday"
+msgstr ""
+
+#. Day of the Week
+msgid "Sunday"
+msgstr ""
+
