@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-28 10:59:30-06:00\n"
+"POT-Creation-Date: 2012-02-29 08:06:23-06:00\n"
 "PO-Revision-Date: 2012-02-25 02:02+0200\n"
 "Last-Translator: Juan Pablo Martínez Cortés <juanpabl@gmail.com>\n"
 "Language-Team: Softaragonés\n"
@@ -27,7 +27,7 @@ msgstr "1 HISTORIA NUEVA"
 msgid "1 share"
 msgstr "Compartiu 1 vegada"
 
-#. Both %a's stand for names of people
+#. First %a is a name, second %a is a name or else something like "6 others"
 #, fuzzy
 msgid "%a and %a like this."
 msgstr "A %a les ha feito goyo isto."

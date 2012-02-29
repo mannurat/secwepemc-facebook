@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-28 10:59:30-06:00\n"
+"POT-Creation-Date: 2012-02-29 08:06:23-06:00\n"
 "PO-Revision-Date: 2012-02-20 16:59:12-06:00\n"
 "Last-Translator: Edmond Kachale\n"
 "Language-Team: Chichewa\n"
@@ -23,7 +23,7 @@ msgstr "NKHANI YATSOPANO IMODZI"
 msgid "1 share"
 msgstr "Wagawa mmodzi"
 
-#. Both %a's stand for names of people
+#. First %a is a name, second %a is a name or else something like "6 others"
 #, fuzzy
 msgid "%a and %a like this."
 msgstr "%a akonda izi."

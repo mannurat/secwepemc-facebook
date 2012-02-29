@@ -572,4 +572,3 @@ msgstr ""
 #. Day of the Week
 msgid "Sunday"
 msgstr ""
-

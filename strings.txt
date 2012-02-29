@@ -3,7 +3,7 @@
 1 NEW STORY
 #. Appears next to a post; means the post has been shared one time
 1 share
-#. Both %a's stand for names of people
+#. First %a is a name, second %a is a name or else something like "6 others"
 %a and %a like this.
 #. Link at bottom of home page (under "More") to info about Facebook
 About
