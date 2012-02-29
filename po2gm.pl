@@ -119,6 +119,7 @@ foreach my $msg (@$aref) {
 				$tempid =~ s/%s/([^<" ]+)/g;
 				$tempstr =~ s/"/\\"/g;
 				$tempstr = insert_all_backrefs($orig, $tempstr);
+				next if ($tempid eq $tempstr);
 				if (defined($note) and $note =~ /Always a link\./) {
 					$tempid = '(^|>)'.$tempid.'(?=($|<))';
 				}
