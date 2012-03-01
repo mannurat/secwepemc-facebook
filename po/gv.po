@@ -4,193 +4,162 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-29 08:06:23-06:00\n"
-"PO-Revision-Date: 2012-02-20 16:58:12-06:00\n"
-"Last-Translator: Kevin Scannell\n"
-"Language-Team: Manx Gaelic\n"
+"POT-Creation-Date: XXXX-XX-XX XX:XX-XXXX\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
 msgid "1 mutual friend"
-msgstr ""
+msgstr "1 cho-charrey"
 
 msgid "1 NEW STORY"
-msgstr ""
+msgstr "1 SKEEAL NOA"
 
 #. Appears next to a post; means the post has been shared one time
 msgid "1 share"
-msgstr ""
-
-#. First %a is a name, second %a is a name or else something like "6 others"
-msgid "%a and %a like this."
-msgstr ""
+msgstr "Rheynnit 1 cheayrt"
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
-msgstr ""
+msgstr "Mychione"
 
 msgid "about an hour ago"
-msgstr ""
+msgstr "mysh oor er dy henney"
 
 msgid "about a minute ago"
-msgstr ""
+msgstr "mysh minnid er dy henney"
 
 msgid "Account Settings"
-msgstr ""
-
-#. First %a is a person's name, second one is "post", "status", "photo", ...
-msgid "%a commented on a %a."
-msgstr ""
+msgstr "Reaghyssyn Coontys"
 
 msgid "Activity Log"
-msgstr ""
+msgstr "Recortys Ymmyd"
 
 msgid "Add Friend"
-msgstr ""
+msgstr "Gow Stiagh Myr Carrey"
 
-#. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
-msgstr ""
+msgstr "Cur Stiagh Jalloo / Feeshan"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
-msgstr ""
+msgstr "Soilsheenys"
 
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
-msgstr ""
-
-#. First %a is a person's name, second one is "post", "status", "photo", ...
-msgid "%a likes a %a."
-msgstr ""
-
-#. Always a link. Used in longer sentences like "John Doe shared a link"
-msgid "a link"
-msgstr ""
+msgstr "grig ny ghaa er dy henney"
 
 msgid "APPS"
-msgstr ""
+msgstr "APPYN"
 
 msgid "Apps and Games"
-msgstr ""
+msgstr "Appyn as Gammanyn"
 
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
-msgstr ""
+msgstr "%A ec %s"
 
-#. First %a is a person, second one is something like "a link"
-msgid "%a shared %a."
-msgstr ""
-
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
-msgstr ""
+msgstr "Cur Feysht"
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
-msgstr ""
+msgstr "%d %B"
 
 #. Format. %B and %d as above, %s = string representing the time ("3:15am")
 msgid "%B %d at %s"
-msgstr ""
+msgstr "%d %B ec %s"
 
 #. Format. %B and %d as above, %Y = four digit year ("2012")
 msgid "%B %d, %Y"
-msgstr ""
+msgstr "%d %B, %Y"
 
 #. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
 msgid "%B %d, %Y at %s"
-msgstr ""
+msgstr "%d %B, %Y ec %s"
 
 msgid "Born"
-msgstr ""
+msgstr "Ruggit"
 
 msgid "By:"
-msgstr ""
+msgstr "Liorish:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Doll Magh"
 
 #. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
-msgstr ""
+msgstr "Coorseyn-kiartey"
 
 #. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
-msgstr ""
+msgstr "Caghlaa Coodagh"
 
 msgid "Chat (Offline)"
-msgstr ""
+msgstr "Gow cowag (Ass-linney)"
 
 msgid "Close"
-msgstr ""
+msgstr "Dooin"
 
 #. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
-msgstr ""
+msgstr "Caarjyn Mooarey"
 
 #. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
-msgstr ""
-
-#. Button label; confirm a friend request 
-msgid "Confirm"
-msgstr ""
+msgstr "Cur baght er"
 
 msgid "Create an Ad"
-msgstr ""
+msgstr "Croo Soilsheen"
 
 #. Link at bottom of home page (under "More")
 msgid "Create a Page"
-msgstr ""
+msgstr "Croo Duillag"
 
 msgid "Create Group..."
-msgstr ""
+msgstr "Croo Possan..."
 
 #. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
-msgstr ""
+msgstr "Lhiaseyderyn"
 
 #. %d stands for a number, no need to translate it
 msgid "%d hours ago"
-msgstr ""
+msgstr "%d oor er dy henney"
 
 #. %d stands for a number, no need to translate it
 msgid "%d minutes ago"
-msgstr ""
+msgstr "%d minnid er dy henney"
 
 #. %d stands for a number, no need to translate it
 msgid "%d mutual friends"
-msgstr ""
+msgstr "%d co-charrey"
 
 #. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
-msgstr ""
-
-#. %d stands for a number, no need to translate it; "%d other people"
-#. Always a link. Used in sentences like "John Doe and 7 others like this."
-msgid "%d others"
-msgstr ""
+msgstr "%d SKEEAL NOA"
 
 #. %d stands for a number, no need to translate it
 msgid "%d people"
-msgstr ""
+msgstr "%d peiagh"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "%d shares"
-msgstr ""
+msgstr "Rheynnit %d keayrt"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
 msgid "Edit Options"
-msgstr ""
+msgstr "Jean Femblal Reihghyn"
 
 #. Attached to each post on your personal timeline
 msgid "Edit or Remove"
-msgstr ""
+msgstr "Jean Femblal ny Gow Ass"
 
 #. Link that lets you change your language settings
 #. Please translate to the name of your language, written in the language itself
@@ -199,377 +168,326 @@ msgstr "Gaelg"
 
 #. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
-msgstr ""
+msgstr "Cur stiagh ennym carrey ny enmys post-l"
 
 #. A link to a list of events that you've been invited to
 msgid "Events"
-msgstr ""
+msgstr "Taghyrtyn"
 
 #. A link that shows you a list of your relatives on Facebook
 msgid "Family"
-msgstr ""
+msgstr "Sleih-mooinjerey"
 
 msgid "FAVORITES"
-msgstr ""
+msgstr "REIH-REDDYN"
 
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
-msgstr ""
+msgstr "Fow Caarjyn"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
-msgstr ""
+msgstr "Cuirraghyn gys caarjys"
 
 #. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
-msgstr ""
+msgstr "Caarjyn"
 
 msgid "GROUPS"
-msgstr ""
+msgstr "POSSANYN"
 
 msgid "Help"
-msgstr ""
+msgstr "Cooney"
 
 #. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
-msgstr ""
+msgstr "Thie"
 
 msgid "Life Event"
-msgstr ""
+msgstr "Taghyrt Bea"
 
 #. Verb. A link that allows you to "like" a post or a comment; "I like this"
 msgid "Like"
-msgstr "S'mie lhiam eh"
+msgstr "S’mie lhiam shoh"
 
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
-#. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
-msgstr ""
-
-#. Always a link. Used in longer sentences, like "%a commented on a link."
-#, fuzzy
-msgid "link"
-msgstr "Cha mie lhiam eh"
+msgstr "Reih-reddyn"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
-msgstr ""
+msgstr "LISTYN"
 
 msgid "Log Out"
-msgstr ""
+msgstr "Log Magh"
 
 #. Link to a map of the places someone has been
 msgid "Map"
-msgstr ""
+msgstr "Kaart-cheerey"
 
 #. In the "New Message" dialog
 msgid "Message:"
-msgstr ""
+msgstr "Chaghteraght:"
 
 msgid "Messages"
-msgstr ""
-
-#. Photographs uploaded from someone's mobile device
-msgid "Mobile Uploads"
-msgstr ""
+msgstr "Chaghteraghtyn"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
-msgstr ""
+msgstr "Tooilley"
 
 msgid "MORE"
-msgstr ""
+msgstr "TOOILLEY"
 
 #. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
-msgstr ""
-
-#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
-msgid "Most Recent"
-msgstr ""
+msgstr "Tooilley Skeealyn"
 
 msgid "New Group..."
-msgstr ""
+msgstr "Possan Noa..."
 
 msgid "New Message"
-msgstr ""
+msgstr "Chaghteraght Noa"
 
-#. Appears in left-hand navigation of home page
 msgid "News Feed"
-msgstr ""
-
-msgid "Notifications"
-msgstr ""
-
-#. Button label; postpone confirmation of a friend request 
-msgid "Not Now"
-msgstr ""
+msgstr "Skeealyn Noa"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
-msgstr ""
+msgstr "Nish"
 
 msgid "PAGES"
-msgstr ""
+msgstr "DUILLAGYN"
 
 msgid "People who like this"
-msgstr ""
+msgstr "Sleih s’mie lhieu shoh"
 
 msgid "People You May Know"
-msgstr ""
+msgstr "Vel enney ayd er y cleih shoh?"
 
 msgid "Photo"
-msgstr ""
-
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
-msgid "photo"
-msgstr ""
+msgstr "Jalloo"
 
 msgid "Photos"
-msgstr ""
+msgstr "Jalloonyn"
 
 #. Link that allows you to "check in" somewhere
 msgid "Place"
-msgstr ""
+msgstr "Boayl"
 
-#. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
-msgstr ""
-
-#. Always a link. Used in longer sentences, like "%a commented on a post."
-msgid "post"
-msgstr ""
+msgstr "Buill"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
-msgstr ""
+msgstr "Preevaadjys"
 
 msgid "Privacy Settings"
-msgstr ""
+msgstr "Reaghyssyn Preevaadjys"
 
 msgid "Profile"
-msgstr ""
+msgstr "Coontys-Bea"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
-msgstr ""
+msgstr "Ymmyd Jeianagh"
 
 msgid "Recommended Pages"
-msgstr ""
+msgstr "Duillagyn Moyllit"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
-msgstr ""
+msgstr "Gyn Ro-reayrt"
 
 #. Option on every post on your personal timeline
 msgid "Resize"
-msgstr ""
+msgstr "Caghlaa mooadys"
 
 #. Text that appears in the search box at the top of the page
 msgid "Search"
-msgstr ""
+msgstr "Shir"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
-msgstr ""
-
-#. In the drop-down menu with recent Friend Requests
-msgid "See All Friend Requests"
-msgstr ""
+msgstr "Jeeagh orroo OOILLEY"
 
 msgid "See All Messages"
-msgstr ""
-
-msgid "See All Notifications"
-msgstr ""
+msgstr "Jeeagh er ny Chaghteraghtyn OOILLEY"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
-msgstr ""
+msgstr "Jeeagh er Tooilley"
 
 #. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
-msgstr ""
+msgstr "Jeeagh er Chyndaays"
 
 #. Label on button in "New Message" dialog to send the message
 msgid "Send"
-msgstr ""
+msgstr "Cur"
 
 #. Link that opens the "New Message" dialog
 msgid "Send a New Message"
-msgstr ""
+msgstr "Cur Chaghteraght Noa"
 
 #. Verb. A link that allows you to share a post with your friends
 msgid "Share"
-msgstr ""
+msgstr "Rheynn"
 
 #. %a stands for a person's name
 msgid "%a likes this."
-msgstr ""
+msgstr "S’mie lesh %a shoh."
 
 #. %a stands for something like "3 people"
 msgid "%a like this."
-msgstr ""
+msgstr "S’mie lesh %a elley shoh"
 
-#. A link that allows your to sort posts by "most recent" or "top stories"
+#. A link that allows you to sort posts by "most recent" or "top stories"
 msgid "SORT"
-msgstr ""
+msgstr "Sorch"
 
 #. Appears above paid advertisements
 msgid "Sponsored"
-msgstr ""
-
-#. Always a link. Used in longer sentences, like "%a commented on a status."
-msgid "status"
-msgstr ""
+msgstr "Eeckit son ec y toilsheeneyder"
 
 #. This is a Facebook "status update", not a relationship status
 msgid "Status"
-msgstr ""
+msgstr "Staydys"
 
-#. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
-msgstr ""
+msgstr "Fo-screeunyn"
 
 msgid "Tag Friends"
-msgstr ""
+msgstr "Cur Cowrag er Caarjyn"
 
 #. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
-msgstr ""
+msgstr "Connaantyn"
 
 #. Real time news feed in the right-hand column
 #. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 msgid "Ticker"
-msgstr ""
+msgstr "Grigeyr"
 
 msgid "Timeline"
-msgstr ""
+msgstr "Linney-traa"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
-msgstr ""
-
-#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
-msgid "Top Stories"
-msgstr ""
+msgstr "Gys:"
 
 #. Verb. See "Like"
 msgid "Unlike"
-msgstr "Cha mie lhiam eh"
+msgstr "Cha mie lhiam shoh"
 
 #. Label on a button that allows you to edit your personal information
 msgid "Update Info"
-msgstr ""
+msgstr "Fysseree Noa"
 
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
-msgstr ""
+msgstr "Staydys Noa"
 
-#. %d stands for a number, no need to translate it
+#. %d stands for a number, no need to translate it"
 msgid "View all %d comments"
-msgstr ""
+msgstr "Jeeagh er ny %d baghtyn ooilley"
 
 msgid "Wall Photos"
-msgstr ""
+msgstr "Jalloonyn Boalley"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
-msgstr ""
+msgstr "C’red t’er dty inchyn?"
 
 #. Prompt when you comment on a post
 msgid "Write a comment..."
-msgstr ""
+msgstr "Screeu baght er ..."
 
 #. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
-msgstr ""
+msgstr "Jea"
 
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
-msgstr ""
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr ""
+msgstr "Jea ec %s"
 
 msgid "You like this."
-msgstr ""
+msgstr "S’mie lhiat shoh."
 
 #. Month Name
 msgid "January"
-msgstr ""
+msgstr "Jerrey Geuree"
 
 #. Month Name
 msgid "February"
-msgstr ""
+msgstr "Toshiaght Arree"
 
 #. Month Name
 msgid "March"
-msgstr ""
+msgstr "Mayrnt"
 
 #. Month Name
 msgid "April"
-msgstr ""
+msgstr "Averil"
 
 #. Month Name
 msgid "May"
-msgstr ""
+msgstr "Boaldyn"
 
 #. Month Name
 msgid "June"
-msgstr ""
+msgstr "Mean Souree"
 
 #. Month Name
 msgid "July"
-msgstr ""
+msgstr "Jerrey Souree"
 
 #. Month Name
 msgid "August"
-msgstr ""
+msgstr "Luanistyn"
 
 #. Month Name
 msgid "September"
-msgstr ""
+msgstr "Mean Fouyir"
 
 #. Month Name
 msgid "October"
-msgstr ""
+msgstr "Jerrey Fouyir"
 
 #. Month Name
 msgid "November"
-msgstr ""
+msgstr "Mee Houney"
 
 #. Month Name
 msgid "December"
-msgstr ""
+msgstr "Mee ny Nollick"
 
 #. Day of the Week
 msgid "Monday"
-msgstr ""
+msgstr "Jelune"
 
 #. Day of the Week
 msgid "Tuesday"
-msgstr ""
+msgstr "Jemayrt"
 
 #. Day of the Week
 msgid "Wednesday"
-msgstr ""
+msgstr "Jecrean"
 
 #. Day of the Week
 msgid "Thursday"
-msgstr ""
+msgstr "Jerdein"
 
 #. Day of the Week
 msgid "Friday"
-msgstr ""
+msgstr "Jeheiney"
 
 #. Day of the Week
 msgid "Saturday"
-msgstr ""
+msgstr "Jesarn"
 
 #. Day of the Week
 msgid "Sunday"
-msgstr ""
+msgstr "Jedoonee"
+
