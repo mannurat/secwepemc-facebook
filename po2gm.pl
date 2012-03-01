@@ -115,7 +115,7 @@ foreach my $msg (@$aref) {
 				$tempid = escape_regex($tempid);
 				my $orig = $tempid;
 				$tempid =~ s/%a/(<a [^>]+>[^<]+<\/a>)/g;
-				$tempid =~ s/%d/([0-9]+)/g;
+				$tempid =~ s/%d/([0-9,]+)/g;
 				$tempid =~ s/%s/([^<" ]+)/g;
 				$tempstr =~ s/"/\\"/g;
 				$tempstr = insert_all_backrefs($orig, $tempstr);
