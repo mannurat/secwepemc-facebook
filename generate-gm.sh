@@ -22,7 +22,7 @@ do
 	POFILE=`echo ${LANGCODE} | sed 's/-x-en$//'`
 	AMBIENTLANG=`echo $x | sed 's/^[^~]*~//' | sed 's/~.*//'`
 	ENGLISHNAME=`echo $x | sed 's/^[^~]*~[^~]*~//' | sed 's/~.*//'`
-	VERSION=`echo $x | sed 's/^.*~\([^~]*\)~[^~]*$/\1/'` # no longer used
+	VERSION=`echo $x | sed 's/^.*~\([^~]*\)~[^~]*~[^~]*$/\1/'`
 	TRANSLATORS=`echo $x | sed 's/^.*~\([^~]*\)$/\1/'`
 	echo "Generating greasemonkey for ${LANGCODE} (using po/${POFILE}.po)..."
 	perl po2gm.pl po/${POFILE}.po ${AMBIENTLANG} > ${TEMPFILE}
