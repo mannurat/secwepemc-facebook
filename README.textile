@@ -5,8 +5,10 @@ It is a fork of the secwepemc-facebook project which was created by
 I've brought Neskie's script up-to-date so it works with Facebook's new design,
 and generalized it to work with any language.
 
-To do this for your own language, you just need to supply translations
-of these "words and phrases":https://github.com/kscanne/secwepemc-facebook/blob/master/strings.txt
+Here are "installation instructions":https://github.com/kscanne/secwepemc-facebook/blob/master/INSTALL.textile
+
+If your language is not yet available, it's very easy to do a translation.
+You just need to translate these "words and phrases":https://github.com/kscanne/secwepemc-facebook/blob/master/strings.txt
 
 If you've translated software before and you're familiar with PO files,
 I can provide you with an empty PO file into which you can place your
