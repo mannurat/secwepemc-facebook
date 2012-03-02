@@ -5,14 +5,25 @@ fewest bugs.  There are some instructions for other browsers at
 the bottom of this page.
 
 To install in Chrome, all you need to do is find your language in the
-table below, follow the link to the script's homepage on userscripts.org,
+table below, follow the link to the script homepage on userscripts.org,
 and click the green "Install" button on the top right-hand side of that page.
 
 Then visit facebook.com and you should see things in your language.
 No need to restart your browser, although you may need to refresh
 the page if you were already logged into Facebook.
 
-|_. Code |_. Default |_. Name (English) |_. Name (Native) |_. Version |_. Home Page |_. Translators
+Note that there is a "Default" language for each script given in the table.
+In most cases, it's "en", which means you must have your Facebook 
+language set to "English (US)" for the translation to work correctly
+(you can set you language on Facebook's "Account Settings" page).
+If the default language is "es", you need to select "Español" (no region),
+and if it's "fr", select "Français (France)".
+
+This way, anything untranslated will appear in the default language;
+the idea being that Aragonese speakers will find Spanish preferable
+to English, etc.
+
+|_. Code |_. Default |_. Name (English) |_. Name (Native) |_. Version |_. Home Page |_. Translators |
 | an | es | Aragonese | Aragonés | 1.0.0 | Not yet released | Juan Pablo Martínez |
 | gd | en | Scottish Gaelic | Gàidhlig | 1.0.2 | http://userscripts.org/scripts/show/126511 | Michael Bauer |
 | gv | en | Manx Gaelic | Gaelg | 1.0.0 | http://userscripts.org/scripts/show/127270 | Chris Sheard |
