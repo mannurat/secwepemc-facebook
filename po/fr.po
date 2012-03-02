@@ -24,9 +24,8 @@ msgid "1 share"
 msgstr "1 partage"
 
 #. First %a is a name, second %a is a name or else something like "6 others"
-#, fuzzy
 msgid "%a and %a like this."
-msgstr "%a aiment ça."
+msgstr "%a et %a aiment ça."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -43,7 +42,7 @@ msgstr "Paramètres du compte"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
-msgstr ""
+msgstr "%a a commenté un %a."
 
 msgid "Activity Log"
 msgstr "Historique personnel"
@@ -64,13 +63,12 @@ msgid "a few seconds ago"
 msgstr "il y a quelques secondes"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-#, fuzzy
 msgid "%a likes a %a."
-msgstr "%a aime ça."
+msgstr "%a aime un %a."
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
-msgstr ""
+msgstr "un lien"
 
 msgid "APPS"
 msgstr "Applications"
@@ -83,9 +81,8 @@ msgid "%A at %s"
 msgstr "%A, à %s"
 
 #. First %a is a person, second one is something like "a link"
-#, fuzzy
 msgid "%a shared %a."
-msgstr "%d partages"
+msgstr "%a a partagé le %a."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -176,9 +173,8 @@ msgstr "%d nouvelles actualités"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
-#, fuzzy
 msgid "%d others"
-msgstr "%d partages"
+msgstr "%d autres personnes"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
@@ -255,9 +251,8 @@ msgid "Likes"
 msgstr "Mentions J’aime"
 
 #. Always a link. Used in longer sentences, like "%a commented on a link."
-#, fuzzy
 msgid "link"
-msgstr "Je n’aime plus"
+msgstr "lien"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -279,7 +274,7 @@ msgstr "Messages"
 
 #. Photographs uploaded from someone's mobile device
 msgid "Mobile Uploads"
-msgstr ""
+msgstr "Téléchargements mobiles"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
@@ -294,7 +289,7 @@ msgstr "Plus d’actualités"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Most Recent"
-msgstr ""
+msgstr "Plus récentes"
 
 msgid "New Group..."
 msgstr ""
@@ -307,7 +302,7 @@ msgid "News Feed"
 msgstr "Fil d’actualité"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Notifications"
 
 #. Button label; postpone confirmation of a friend request 
 msgid "Not Now"
@@ -330,9 +325,8 @@ msgid "Photo"
 msgstr "Photo"
 
 #. Always a link. Used in longer sentences, like "%a commented on a photo."
-#, fuzzy
 msgid "photo"
-msgstr "Photo"
+msgstr "photo"
 
 msgid "Photos"
 msgstr "Photos"
@@ -348,7 +342,7 @@ msgstr "Lieux"
 
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
-msgstr ""
+msgstr "publication"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -384,16 +378,14 @@ msgid "See All"
 msgstr "Afficher tout"
 
 #. In the drop-down menu with recent Friend Requests
-#, fuzzy
 msgid "See All Friend Requests"
-msgstr "Demandes d’ajout à la liste d’amis"
+msgstr "Voir toutes les demandes de contact"
 
-#, fuzzy
 msgid "See All Messages"
-msgstr "Messages"
+msgstr "Afficher tous les messages"
 
 msgid "See All Notifications"
-msgstr ""
+msgstr "Afficher toutes les notifications"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -432,9 +424,8 @@ msgid "Sponsored"
 msgstr "Lien commercial"
 
 #. Always a link. Used in longer sentences, like "%a commented on a status."
-#, fuzzy
 msgid "status"
-msgstr "Statut"
+msgstr "statut"
 
 #. This is a Facebook "status update", not a relationship status
 msgid "Status"
@@ -464,9 +455,8 @@ msgid "To:"
 msgstr "À :"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
-#, fuzzy
 msgid "Top Stories"
-msgstr "Plus d’actualités"
+msgstr "À la une"
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -505,9 +495,8 @@ msgid "Yesterday at %s"
 msgstr "Hier, à %s"
 
 #. %a stands for something like "4 others"
-#, fuzzy
 msgid "You and %a like this."
-msgstr "%a aiment ça."
+msgstr "Vous et %a aimez ça."
 
 msgid "You like this."
 msgstr "Vous aimez."
