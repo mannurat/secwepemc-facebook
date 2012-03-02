@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-29 08:06:23-06:00\n"
+"POT-Creation-Date: 2012-03-02 10:59:20-06:00\n"
 "PO-Revision-Date: 2012-02-21 16:58:12-06:00\n"
 "Last-Translator: Francis Dimzon\n"
 "Language-Team: Hiligaynon\n"
@@ -110,9 +110,11 @@ msgstr "%B %d, %Y alas %s"
 msgid "Born"
 msgstr "Natawo"
 
+#. Appears below shared items, indicating the original author/creator
 msgid "By:"
 msgstr "Ni:"
 
+#. Button label
 msgid "Cancel"
 msgstr "Kanselahon"
 
@@ -178,7 +180,7 @@ msgstr "%d ka MGA BAG-O NGA ISTORYA"
 msgid "%d others"
 msgstr "%d ka paambit"
 
-#. %d stands for a number, no need to translate it
+#. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
 msgstr "%d ka tawo"
 
@@ -213,6 +215,7 @@ msgstr "Mga Hitabo"
 msgid "Family"
 msgstr "Pamilya"
 
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
 msgstr "MGA NAHAMUT-AN"
 

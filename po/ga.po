@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-29 08:06:23-06:00\n"
+"POT-Creation-Date: 2012-03-02 10:59:20-06:00\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -109,9 +109,11 @@ msgstr "%d %B %Y ag %s"
 msgid "Born"
 msgstr "Rugadh"
 
+#. Appears below shared items, indicating the original author/creator
 msgid "By:"
 msgstr "Le:"
 
+#. Button label
 msgid "Cancel"
 msgstr "Cealaigh"
 
@@ -176,7 +178,7 @@ msgstr "%d SCÉAL NUA"
 msgid "%d others"
 msgstr "%d duine eile"
 
-#. %d stands for a number, no need to translate it
+#. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
 msgstr "%d duine"
 
@@ -211,6 +213,7 @@ msgstr "Imeachtaí"
 msgid "Family"
 msgstr "Muintir"
 
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
 msgstr "CEANÁIN"
 

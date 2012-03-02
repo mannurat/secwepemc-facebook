@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-29 08:06:23-06:00\n"
+"POT-Creation-Date: 2012-03-02 10:59:20-06:00\n"
 "PO-Revision-Date: 2012-02-25 02:02+0200\n"
 "Last-Translator: Juan Pablo Martínez Cortés <juanpabl@gmail.com>\n"
 "Language-Team: Softaragonés\n"
@@ -114,9 +114,11 @@ msgstr "%d %B de %Y, a las %s"
 msgid "Born"
 msgstr "Naixencia"
 
+#. Appears below shared items, indicating the original author/creator
 msgid "By:"
 msgstr "Por:"
 
+#. Button label
 msgid "Cancel"
 msgstr "Cancelar"
 
@@ -182,7 +184,7 @@ msgstr "%d HISTORIAS NUEVAS"
 msgid "%d others"
 msgstr "Compartiu %d vegadas"
 
-#. %d stands for a number, no need to translate it
+#. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
 msgstr "%d personas"
 
@@ -217,6 +219,7 @@ msgstr "Eventos"
 msgid "Family"
 msgstr "Familia"
 
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
 msgstr "FAVORITOS"
 

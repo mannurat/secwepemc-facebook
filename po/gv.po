@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-29 20:25:20-06:00\n"
+"POT-Creation-Date: 2012-03-02 10:59:20-06:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -110,9 +110,11 @@ msgstr "%d %B, %Y ec %s"
 msgid "Born"
 msgstr "Ruggit"
 
+#. Appears below shared items, indicating the original author/creator
 msgid "By:"
 msgstr "Liorish:"
 
+#. Button label
 msgid "Cancel"
 msgstr "Doll Magh"
 
@@ -178,7 +180,7 @@ msgstr "%d SKEEALYN NOA"
 msgid "%d others"
 msgstr "Rheynnit %d keayrt"
 
-#. %d stands for a number, no need to translate it
+#. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
 msgstr "%d persoonyn"
 
@@ -213,6 +215,7 @@ msgstr "Taghyrtyn"
 msgid "Family"
 msgstr "Sleih-mooinjerey"
 
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
 msgstr "REIH-REDDYN"
 

@@ -41,7 +41,9 @@ Ask Question
 #. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
 %B %d, %Y at %s
 Born
+#. Appears below shared items, indicating the original author/creator
 By:
+#. Button label
 Cancel
 #. Link at bottom of home page (under "More") to info about jobs at Facebook
 Careers
@@ -72,7 +74,7 @@ Developers
 #. %d stands for a number, no need to translate it; "%d other people"
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
 %d others
-#. %d stands for a number, no need to translate it
+#. %d stands for a number; used in sentences like "%d people like this."
 %d people
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
@@ -91,6 +93,7 @@ Enter a friend's name or email address
 Events
 #. A link that shows you a list of your relatives on Facebook
 Family
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
 FAVORITES
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link

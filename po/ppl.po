@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-29 08:06:23-06:00\n"
+"POT-Creation-Date: 2012-03-02 10:59:20-06:00\n"
 "PO-Revision-Date: 2012-02-20 17:58:12-06:00\n"
 "Last-Translator: Alan R. King\n"
 "Language-Team: Nawat\n"
@@ -110,9 +110,11 @@ msgstr "ne tunal %d ipal ne %B ipal ne shiwit %Y, ka %s"
 msgid "Born"
 msgstr "Nesik"
 
+#. Appears below shared items, indicating the original author/creator
 msgid "By:"
 msgstr "Ipal:"
 
+#. Button label
 msgid "Cancel"
 msgstr "Shikajkawa"
 
@@ -178,7 +180,7 @@ msgstr "%d YANKWIK TAY INATIWIT"
 msgid "%d others"
 msgstr "%d kichijtiwit compartir ini"
 
-#. %d stands for a number, no need to translate it
+#. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
 msgstr "%d tukniwan"
 
@@ -213,6 +215,7 @@ msgstr "Tay Yawi Muchiwa"
 msgid "Family"
 msgstr "Mumiakwan"
 
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
 msgstr "FAJFAVORITOJ"
 

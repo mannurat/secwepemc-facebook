@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-29 08:06:23-06:00\n"
+"POT-Creation-Date: 2012-03-02 10:59:20-06:00\n"
 "PO-Revision-Date: 2012-02-28 19:57-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -114,9 +114,11 @@ msgstr "%d %B %Y aig %S"
 msgid "Born"
 msgstr "Là-breith"
 
+#. Appears below shared items, indicating the original author/creator
 msgid "By:"
 msgstr "Le:"
 
+#. Button label
 msgid "Cancel"
 msgstr "Sguir dheth"
 
@@ -181,7 +183,7 @@ msgstr "%d sgeulachd(an) ùra"
 msgid "%d others"
 msgstr "%d eile"
 
-#. %d stands for a number, no need to translate it
+#. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
 msgstr "%d daoine"
 
@@ -216,6 +218,7 @@ msgstr "Tachartasan"
 msgid "Family"
 msgstr "Teaghlach"
 
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
 msgstr "ANNSACHDAN"
 
