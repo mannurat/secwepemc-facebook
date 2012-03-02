@@ -38,3 +38,12 @@ to English, etc.
 | rop | en | Kriol | Kriol | 1.0.0 | "http://userscripts.org/scripts/show/126589":http://userscripts.org/scripts/show/126589 | Greg Dickson |
 | shs | en | Secwepemctsín | Secwepemctsín | 1.0.0 | Not yet released | Neskie Manuel |
 | yi | en | Yiddish | ייִדיש | 1.0.0 | Not yet released | Jordan Kutzik |
+
+
+To use these scripts in other browsers, you'll first need to install
+a special addon. Then, you should be able to install using the
+instructions above.  I've only tested this with Firefox.
+
+* "Firefox":http://www.mozilla.com/en-US/firefox/firefox.html ("Addon":https://addons.mozilla.org/firefox/addon/748)
+* "Internet Explorer":http://windows.microsoft.com/en-us/internet-explorer/products/ie/home ("Addon":http://www.bhelpuri.net/Trixie/)
+* "Safari":http://www.apple.com/safari/ ("Addon":http://8-p.info/greasekit/)

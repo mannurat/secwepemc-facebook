@@ -24,3 +24,12 @@ the idea being that Aragonese speakers will find Spanish preferable
 to English, etc.
 
 |_. Code |_. Default |_. Name (English) |_. Name (Native) |_. Version |_. Home Page |_. Translators |
+
+
+To use these scripts in other browsers, you'll first need to install
+a special addon. Then, you should be able to install using the
+instructions above.  I've only tested this with Firefox.
+
+* "Firefox":http://www.mozilla.com/en-US/firefox/firefox.html ("Addon":https://addons.mozilla.org/firefox/addon/748)
+* "Internet Explorer":http://windows.microsoft.com/en-us/internet-explorer/products/ie/home ("Addon":http://www.bhelpuri.net/Trixie/)
+* "Safari":http://www.apple.com/safari/ ("Addon":http://8-p.info/greasekit/)
