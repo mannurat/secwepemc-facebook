@@ -170,7 +170,7 @@ msgstr "%d amigos en común"
 
 #. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
-msgstr ""
+msgstr "%d HISTORIAS NUEVAS"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
