@@ -1,0 +1,581 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+# Mohomodou Houssouba <mh@bollag-areal.ch>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-03-02 10:59:20-06:00\n"
+"PO-Revision-Date: 2012-03-02 23:54+0200\n"
+"Last-Translator: Mohomodou Houssouba <mh@bollag-areal.ch>\n"
+"Language-Team: Songhay.org\n"
+"Language: son\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.0-mac-beta-1\n"
+
+#. Lines like this one beginning with "#." are comments; no need to translate!
+msgid "1 mutual friend"
+msgstr "marga cere 1"
+
+msgid "1 NEW STORY"
+msgstr "FILLA TAAGA 1"
+
+#. Appears next to a post; means the post has been shared one time
+msgid "1 share"
+msgstr "žemnari 1"
+
+#. First %a is a name, second %a is a name or else something like "6 others"
+msgid "%a and %a like this."
+msgstr "%a nda %a ga baa woo."
+
+#. Link at bottom of home page (under "More") to info about Facebook
+msgid "About"
+msgstr "Woo ga"
+
+msgid "about an hour ago"
+msgstr "a ga hima ka too guuru foo"
+
+msgid "about a minute ago"
+msgstr "a ga hima ka too miniti foo"
+
+msgid "Account Settings"
+msgstr "Kontu šilbayhayey"
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on a %a."
+msgstr "%a daara %a foo ga."
+
+msgid "Activity Log"
+msgstr "Teera zaaritiira"
+
+msgid "Add Friend"
+msgstr "Cere tonton"
+
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
+msgid "Add Photo / Video"
+msgstr "Bii / widewo tonton"
+
+#. Link at bottom of home page (under "More") to info about Facebook ads
+msgid "Advertising"
+msgstr "Feeyan"
+
+#. Time stamp on a post. You might also translate as "Just now"
+msgid "a few seconds ago"
+msgstr "a ga too segonduyaŋ"
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a likes a %a."
+msgstr "%a ga baa %a foo."
+
+#. Always a link. Used in longer sentences like "John Doe shared a link"
+msgid "a link"
+msgstr "dobu foo"
+
+msgid "APPS"
+msgstr "POROGARAMEY"
+
+msgid "Apps and Games"
+msgstr "Porogaramey nda hoorawey"
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr "%A hane %s waate"
+
+#. First %a is a person, second one is something like "a link"
+msgid "%a shared %a."
+msgstr "%a na %a Zemna."
+
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+msgid "Ask Question"
+msgstr "Hãayan foo hantum"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "%B %d"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "%B %d %s waate"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "%B %d, %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "%B %d %s waate"
+
+msgid "Born"
+msgstr "Hay han"
+
+#. Appears below shared items, indicating the original author/creator
+msgid "By:"
+msgstr "Teekaw:"
+
+#. Button label
+msgid "Cancel"
+msgstr "Naŋ"
+
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
+msgid "Careers"
+msgstr "Goymiɲey"
+
+#. Link that allows you to change the big photo at the top of your timeline
+msgid "Change Cover"
+msgstr "Biikunga barmay"
+
+msgid "Chat (Offline)"
+msgstr "Faakaaray (bila nda ciyari)"
+
+msgid "Close"
+msgstr "Daabu"
+
+#. A link that takes you to a list of your closest friends on Facebook
+msgid "Close Friends"
+msgstr "Cere kaaney"
+
+#. Verb. A link under a post that allows you to comment on the post.
+msgid "Comment"
+msgstr "Daara"
+
+#. Button label; confirm a friend request 
+msgid "Confirm"
+msgstr "Tabantandi"
+
+msgid "Create an Ad"
+msgstr "Feeyan tee"
+
+#. Link at bottom of home page (under "More")
+msgid "Create a Page"
+msgstr "Moo moo tee"
+
+msgid "Create Group..."
+msgstr "Marga tee…"
+
+#. Link at bottom of home page (under "More") to info for software developers
+msgid "Developers"
+msgstr "Cinakey"
+
+#. %d stands for a number, no need to translate it
+msgid "%d hours ago"
+msgstr "A ga too guuru %d"
+
+#. %d stands for a number, no need to translate it
+msgid "%d minutes ago"
+msgstr "A ga too miniti %d"
+
+#. %d stands for a number, no need to translate it
+msgid "%d mutual friends"
+msgstr "A ga too miniti %d"
+
+#. %d stands for a number, no need to translate it
+msgid "%d NEW STORIES"
+msgstr "ALHABAR TAAGA %d"
+
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
+msgid "%d others"
+msgstr "%d tanayaŋ"
+
+#. %d stands for a number; used in sentences like "%d people like this."
+msgid "%d people"
+msgstr "Boro %d"
+
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
+msgid "%d shares"
+msgstr "žemnari %d"
+
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
+msgid "Edit Options"
+msgstr "Suubarey fasal"
+
+#. Attached to each post on your personal timeline
+msgid "Edit or Remove"
+msgstr "Fasal waa kaa"
+
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+msgid "English (US)"
+msgstr "Soŋay"
+
+#. In the "New Message" dialog
+msgid "Enter a friend's name or email address"
+msgstr "Cere foo maa wala bataga aderesu dam"
+
+#. A link to a list of events that you've been invited to
+msgid "Events"
+msgstr "Batey"
+
+#. A link that shows you a list of your relatives on Facebook
+msgid "Family"
+msgstr "Alaayaney"
+
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
+msgid "FAVORITES"
+msgstr "KAASEY"
+
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
+msgid "Find Friends"
+msgstr "Cerey guna"
+
+#. People who have asked to be your friend on Facebook; top left of screen
+msgid "Friend Requests"
+msgstr "Cerey hãayaney"
+
+#. A link that takes you to a list of all your Facebook friends
+msgid "Friends"
+msgstr "Cerey"
+
+msgid "GROUPS"
+msgstr "MARGAWEY"
+
+msgid "Help"
+msgstr "Faaba"
+
+#. Link that takes you to your home timeline; always visible at top-right
+msgid "Home"
+msgstr "Šintin"
+
+msgid "Life Event"
+msgstr "Hunay teera"
+
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
+msgid "Like"
+msgstr "Ga baa"
+
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
+msgid "Likes"
+msgstr "Ga baa wey"
+
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+msgid "link"
+msgstr "dobu"
+
+#. Heading above your lists of friends ("Work", "Family", etc.)
+msgid "LISTS"
+msgstr "MAAŠEEDAWEY"
+
+msgid "Log Out"
+msgstr "Fatta"
+
+#. Link to a map of the places someone has been
+msgid "Map"
+msgstr "Katta"
+
+#. In the "New Message" dialog
+msgid "Message:"
+msgstr "Alhabar:"
+
+msgid "Messages"
+msgstr "Alhabarey"
+
+#. Photographs uploaded from someone's mobile device
+msgid "Mobile Uploads"
+msgstr "Kanbe-jinay zijandey"
+
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
+msgid "More"
+msgstr "Dii ka tonton"
+
+msgid "MORE"
+msgstr "DII KA TONTON"
+
+#. Appears at the bottom of your home time line; click to load more posts
+msgid "More Stories"
+msgstr "Filla korawey"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Most Recent"
+msgstr "Ikul kokorantey"
+
+msgid "New Group..."
+msgstr "Marga taaga..."
+
+msgid "New Message"
+msgstr "Alhabar taaga"
+
+#. Appears in left-hand navigation of home page
+msgid "News Feed"
+msgstr "Alhabar šilli  "
+
+msgid "Notifications"
+msgstr "Bayrandiyaney"
+
+#. Button label; postpone confirmation of a friend request 
+msgid "Not Now"
+msgstr "Manti sohõda"
+
+#. A link that takes you to the latest posts on your timeline
+msgid "Now"
+msgstr "Sohõ"
+
+msgid "PAGES"
+msgstr "MOƝEY"
+
+msgid "People who like this"
+msgstr "Borey kaŋ ga baa woo"
+
+msgid "People You May Know"
+msgstr "Borey kaŋ war ga hima k'i bay"
+
+msgid "Photo"
+msgstr "Bii"
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+msgid "photo"
+msgstr "bii"
+
+msgid "Photos"
+msgstr "Biyey"
+
+#. Link that allows you to "check in" somewhere
+msgid "Place"
+msgstr "Doo"
+
+#. Appears, e.g., on your Timeline, showing places you visited during the year
+msgid "Places"
+msgstr "Dogey"
+
+#. Always a link. Used in longer sentences, like "%a commented on a post."
+msgid "post"
+msgstr "filla cebante"
+
+#. Link at the bottom of home page to Facebook's privacy policy
+msgid "Privacy"
+msgstr "Sutura"
+
+msgid "Privacy Settings"
+msgstr "Sutura kayandiyaney"
+
+msgid "Profile"
+msgstr "Alhaali"
+
+#. Box near the top of your personal timeline showing your recent actions on FB
+msgid "Recent Activity"
+msgstr "Teera kokorante"
+
+msgid "Recommended Pages"
+msgstr "Moo yaamarantey"
+
+#. When you share a link in a comment, use this to remove the preview image
+msgid "Remove Preview"
+msgstr "Moo-furyan kaa"
+
+#. Option on every post on your personal timeline
+msgid "Resize"
+msgstr "Alkadar sasawandi"
+
+#. Text that appears in the search box at the top of the page
+msgid "Search"
+msgstr "Ceeci"
+
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
+msgid "See All"
+msgstr "Ikul guna"
+
+#. In the drop-down menu with recent Friend Requests
+msgid "See All Friend Requests"
+msgstr "Cere hãayaney kul guna"
+
+msgid "See All Messages"
+msgstr "Alhabrey kul guna"
+
+msgid "See All Notifications"
+msgstr "Bayrandiyaney kul guna"
+
+#. See more of a post that was truncated because it was very long
+msgid "See More"
+msgstr "Dii ka tonton"
+
+#. Link that appears under a post in another language; click it to translate
+msgid "See Translation"
+msgstr "Berandiyanoo guna"
+
+#. Label on button in "New Message" dialog to send the message
+msgid "Send"
+msgstr "Sanba"
+
+#. Link that opens the "New Message" dialog
+msgid "Send a New Message"
+msgstr "Alhabar sanba"
+
+#. Verb. A link that allows you to share a post with your friends
+msgid "Share"
+msgstr "Žemna"
+
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "%a ga baa woo."
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "%a ga baa woo."
+
+#. A link that allows your to sort posts by "most recent" or "top stories"
+msgid "SORT"
+msgstr "FAY"
+
+#. Appears above paid advertisements
+msgid "Sponsored"
+msgstr "Kanbuzaamante"
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+msgid "status"
+msgstr "assariya"
+
+#. This is a Facebook "status update", not a relationship status
+msgid "Status"
+msgstr "Assariya"
+
+#. Top of profile, after Friends, Photos, Map, ...
+msgid "Subscriptions"
+msgstr "Boŋ-hantumyaney"
+
+msgid "Tag Friends"
+msgstr "Cerey gana"
+
+#. Link at the bottom of home page to Facebook's "Terms of Service"
+msgid "Terms"
+msgstr "Goy waafakey"
+
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
+msgid "Ticker"
+msgstr "Alhabar taya"
+
+msgid "Timeline"
+msgstr "Waatibii"
+
+#. Specifies recipient when you send a private message
+msgid "To:"
+msgstr "Do:"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Top Stories"
+msgstr "Filla korawey"
+
+#. Verb. See "Like"
+msgid "Unlike"
+msgstr "Kaŋ manti"
+
+#. Label on a button that allows you to edit your personal information
+msgid "Update Info"
+msgstr "Taagandiyan alhabar"
+
+#. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+msgid "Update Status"
+msgstr "Taagandiyan assariya"
+
+#. %d stands for a number, no need to translate it
+msgid "View all %d comments"
+msgstr "Daara %d kul guna"
+
+msgid "Wall Photos"
+msgstr "Ceeta biyey"
+
+#. Main prompt when you enter in a new status update
+msgid "What's on your mind?"
+msgstr "Cin ti war lakkaloo?"
+
+#. Prompt when you comment on a post
+msgid "Write a comment..."
+msgstr "Daara foo hantum..."
+
+#. Appears next to a post or comment as a timestamp
+msgid "Yesterday"
+msgstr "Bi"
+
+#. Appears next to a post or comment as a timestamp; %s is the time of day
+msgid "Yesterday at %s"
+msgstr "Bi %s waate"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "Agay nda %a ga baa woo."
+
+msgid "You like this."
+msgstr "N' ga baa woo."
+
+#. Month Name
+msgid "January"
+msgstr "Žanwiye"
+
+#. Month Name
+msgid "February"
+msgstr "Fewiriye"
+
+#. Month Name
+msgid "March"
+msgstr "Marsi"
+
+#. Month Name
+msgid "April"
+msgstr "Awiril"
+
+#. Month Name
+msgid "May"
+msgstr "Me"
+
+#. Month Name
+msgid "June"
+msgstr "Žuweŋ"
+
+#. Month Name
+msgid "July"
+msgstr "Žuyye"
+
+#. Month Name
+msgid "August"
+msgstr "Ut"
+
+#. Month Name
+msgid "September"
+msgstr "Sektanbur"
+
+#. Month Name
+msgid "October"
+msgstr "Oktoobur"
+
+#. Month Name
+msgid "November"
+msgstr "Noowanbur"
+
+#. Month Name
+msgid "December"
+msgstr "Deesanbur"
+
+#. Day of the Week
+msgid "Monday"
+msgstr "Atinni"
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr "Atalaata"
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr "Alarba"
+
+#. Day of the Week
+msgid "Thursday"
+msgstr "Alhamiisa"
+
+#. Day of the Week
+msgid "Friday"
+msgstr "Alzuma"
+
+#. Day of the Week
+msgid "Saturday"
+msgstr "Asibti"
+
+#. Day of the Week
+msgid "Sunday"
+msgstr "Alhadi"
