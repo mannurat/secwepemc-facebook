@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-04 21:06:42-06:00\n"
+"POT-Creation-Date: 2012-03-04 21:50:27-06:00\n"
 "PO-Revision-Date: 2012-02-25 02:02+0200\n"
 "Last-Translator: Juan Pablo Martínez Cortés <juanpabl@gmail.com>\n"
 "Language-Team: Softaragonés\n"
@@ -27,10 +27,24 @@ msgstr "1 HISTORIA NUEVA"
 msgid "1 share"
 msgstr "Compartiu 1 vegada"
 
+#. First two %a's are names, third is something like "5 others"
+#, fuzzy
+msgid "%a, %a and %a like this."
+msgstr "A %a les ha feito goyo isto."
+
+#. %a is someone's name
+msgid "%a added a new photo."
+msgstr ""
+
 #. First %a is a name, second %a is a name or else something like "6 others"
 #, fuzzy
 msgid "%a and %a like this."
 msgstr "A %a les ha feito goyo isto."
+
+#. First two as above, and final %a is something like "a link"
+#, fuzzy
+msgid "%a and %a shared %a."
+msgstr "Compartiu %d vegadas"
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -66,6 +80,11 @@ msgstr "Publicidat"
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
 msgstr "en fa bells segundos"
+
+#. For example, "John Doe likes Linux."
+#, fuzzy
+msgid "%a likes %a."
+msgstr "A %a l'ha feito goyo isto."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 #, fuzzy
@@ -189,6 +208,11 @@ msgid "%d people"
 msgstr "%d personas"
 
 #. %d stands for a number, no need to translate it
+#, fuzzy
+msgid "%d seconds ago"
+msgstr "en fa bells segundos"
+
+#. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "%d shares"
 msgstr "Compartiu %d vegadas"
@@ -228,6 +252,9 @@ msgstr "FAVORITOS"
 msgid "Find Friends"
 msgstr "Trobar amigos míos"
 
+msgid "Find More Pages"
+msgstr ""
+
 #. In search box that lets you search for friends that are available to chat
 #, fuzzy
 msgid "Friends on Chat"
@@ -263,10 +290,17 @@ msgstr "Me fa goyo"
 msgid "Likes"
 msgstr "Me fa goyo"
 
+msgid "Like This Page"
+msgstr ""
+
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 #, fuzzy
 msgid "link"
 msgstr "Ya no me fa goyo"
+
+#, fuzzy
+msgid "Links"
+msgstr "Me fa goyo"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -305,6 +339,9 @@ msgstr "Mas historias"
 msgid "Most Recent"
 msgstr ""
 
+msgid "Music"
+msgstr ""
+
 msgid "New Group..."
 msgstr "Nueva colla..."
 
@@ -314,6 +351,9 @@ msgstr "Nuevo mensache"
 #. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "Nueva canal (feed)"
+
+msgid "Notes"
+msgstr ""
 
 msgid "Notifications"
 msgstr ""
@@ -355,6 +395,10 @@ msgstr "Puesto"
 msgid "Places"
 msgstr "Puestos"
 
+#, fuzzy
+msgid "Pokes"
+msgstr "Me fa goyo"
+
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
 msgstr ""
@@ -368,6 +412,10 @@ msgstr "Achustes de privacidat"
 
 msgid "Profile"
 msgstr "Perfil"
+
+#, fuzzy
+msgid "Questions"
+msgstr "Fe una pregunta"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
@@ -403,6 +451,11 @@ msgstr "Mensaches"
 
 msgid "See All Notifications"
 msgstr ""
+
+#. A link that shows interactions and photos involving two Facebook friends
+#, fuzzy
+msgid "See Friendship"
+msgstr "Os míos millors amigos"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -495,12 +548,18 @@ msgstr "Esviellar a información"
 msgid "Update Status"
 msgstr "Esviella lo estau"
 
+msgid "Use Facebook as:"
+msgstr ""
+
 #. %d stands for a number, no need to translate it
 msgid "View all %d comments"
 msgstr "Veyer totz os %d comentarios"
 
 msgid "Wall Photos"
 msgstr "Fotos de paret"
+
+msgid "Welcome"
+msgstr ""
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-04 21:06:42-06:00\n"
+"POT-Creation-Date: 2012-03-04 21:50:27-06:00\n"
 "PO-Revision-Date: 2012-02-28 19:57-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -30,9 +30,23 @@ msgstr "1 sgeulachd ùr"
 msgid "1 share"
 msgstr "Air a cho-roinneadh 1 turas"
 
+#. First two %a's are names, third is something like "5 others"
+#, fuzzy
+msgid "%a, %a and %a like this."
+msgstr "'S toil le %a is %a seo."
+
+#. %a is someone's name
+msgid "%a added a new photo."
+msgstr ""
+
 #. First %a is a name, second %a is a name or else something like "6 others"
 msgid "%a and %a like this."
 msgstr "'S toil le %a is %a seo."
+
+#. First two as above, and final %a is something like "a link"
+#, fuzzy
+msgid "%a and %a shared %a."
+msgstr "Cho-roinn %a %a."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -68,6 +82,11 @@ msgstr "Sanasachd"
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
 msgstr "grunn diogan air ais"
+
+#. For example, "John Doe likes Linux."
+#, fuzzy
+msgid "%a likes %a."
+msgstr "'S toil le %a %a."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a likes a %a."
@@ -188,6 +207,11 @@ msgid "%d people"
 msgstr "%d daoine"
 
 #. %d stands for a number, no need to translate it
+#, fuzzy
+msgid "%d seconds ago"
+msgstr "grunn diogan air ais"
+
+#. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "%d shares"
 msgstr "Air a cho-roinneadh %d tura(i)s"
@@ -227,6 +251,9 @@ msgstr "ANNSACHDAN"
 msgid "Find Friends"
 msgstr "Lorg caraidean"
 
+msgid "Find More Pages"
+msgstr ""
+
 #. In search box that lets you search for friends that are available to chat
 #, fuzzy
 msgid "Friends on Chat"
@@ -262,9 +289,16 @@ msgstr "'S toil"
 msgid "Likes"
 msgstr "Na 's toil"
 
+msgid "Like This Page"
+msgstr ""
+
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 msgid "link"
 msgstr "ceangal"
+
+#, fuzzy
+msgid "Links"
+msgstr "Na 's toil"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -303,6 +337,9 @@ msgstr "Barrachd sgeulachdan"
 msgid "Most Recent"
 msgstr "An fheadhainn as ùire"
 
+msgid "Music"
+msgstr ""
+
 msgid "New Group..."
 msgstr "Buidheann ùr..."
 
@@ -312,6 +349,9 @@ msgstr "Teachdaireachd ùr"
 #. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "Inbhir nan naidheachd"
+
+msgid "Notes"
+msgstr ""
 
 msgid "Notifications"
 msgstr "Brathan"
@@ -351,6 +391,10 @@ msgstr "Àite"
 msgid "Places"
 msgstr "Àitichean"
 
+#, fuzzy
+msgid "Pokes"
+msgstr "Na 's toil"
+
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
 msgstr "post"
@@ -364,6 +408,10 @@ msgstr "Roghainnean prìobhaideachd"
 
 msgid "Profile"
 msgstr "Pròifil"
+
+#, fuzzy
+msgid "Questions"
+msgstr "Cum cunntas-bheachd"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
@@ -397,6 +445,11 @@ msgstr "Seall gach teachdaireachd"
 
 msgid "See All Notifications"
 msgstr "Seall gach brath"
+
+#. A link that shows interactions and photos involving two Facebook friends
+#, fuzzy
+msgid "See Friendship"
+msgstr "Dlùth-charaidean"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -487,12 +540,18 @@ msgstr "Ùraich am fiosrachadh"
 msgid "Update Status"
 msgstr "Dè do naidheachd?"
 
+msgid "Use Facebook as:"
+msgstr ""
+
 #. %d stands for a number, no need to translate it
 msgid "View all %d comments"
 msgstr "Seall a h-uile %d beachd(an)"
 
 msgid "Wall Photos"
 msgstr "Balla nan dealbhan"
+
+msgid "Welcome"
+msgstr ""
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

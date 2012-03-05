@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-04 21:06:42-06:00\n"
+"POT-Creation-Date: 2012-03-04 21:50:27-06:00\n"
 "PO-Revision-Date: 2012-02-21 16:58:12-06:00\n"
 "Last-Translator: Francis Dimzon\n"
 "Language-Team: Hiligaynon\n"
@@ -23,10 +23,24 @@ msgstr "1 ka BAG-O NGA ISTORYA"
 msgid "1 share"
 msgstr "1 ka paambit"
 
+#. First two %a's are names, third is something like "5 others"
+#, fuzzy
+msgid "%a, %a and %a like this."
+msgstr "May %a nga nanamian sini."
+
+#. %a is someone's name
+msgid "%a added a new photo."
+msgstr ""
+
 #. First %a is a name, second %a is a name or else something like "6 others"
 #, fuzzy
 msgid "%a and %a like this."
 msgstr "May %a nga nanamian sini."
+
+#. First two as above, and final %a is something like "a link"
+#, fuzzy
+msgid "%a and %a shared %a."
+msgstr "%d ka paambit"
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -62,6 +76,11 @@ msgstr "Pasayod"
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
 msgstr "mga pila ka gutlo ang nakaligad"
+
+#. For example, "John Doe likes Linux."
+#, fuzzy
+msgid "%a likes %a."
+msgstr "Si %a nanamian sini."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 #, fuzzy
@@ -185,6 +204,11 @@ msgid "%d people"
 msgstr "%d ka tawo"
 
 #. %d stands for a number, no need to translate it
+#, fuzzy
+msgid "%d seconds ago"
+msgstr "mga pila ka gutlo ang nakaligad"
+
+#. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "%d shares"
 msgstr "%d ka paambit"
@@ -224,6 +248,9 @@ msgstr "MGA NAHAMUT-AN"
 msgid "Find Friends"
 msgstr "Mangita sang mga Kaabyanan"
 
+msgid "Find More Pages"
+msgstr ""
+
 #. In search box that lets you search for friends that are available to chat
 #, fuzzy
 msgid "Friends on Chat"
@@ -259,10 +286,17 @@ msgstr "Kanami"
 msgid "Likes"
 msgstr "Mga Nanamian"
 
+msgid "Like This Page"
+msgstr "Nanamian ka sini nga Pahina"
+
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 #, fuzzy
 msgid "link"
 msgstr "Ay, indi gali manami"
+
+#, fuzzy
+msgid "Links"
+msgstr "Mga Nanamian"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -301,6 +335,9 @@ msgstr "Dugang pa nga mga Istorya"
 msgid "Most Recent"
 msgstr ""
 
+msgid "Music"
+msgstr ""
+
 msgid "New Group..."
 msgstr "Bag-o nga Grupo..."
 
@@ -310,6 +347,9 @@ msgstr "Bag-o nga Mensahe"
 #. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "Mga Balita"
+
+msgid "Notes"
+msgstr ""
 
 msgid "Notifications"
 msgstr ""
@@ -351,6 +391,10 @@ msgstr "Lugar"
 msgid "Places"
 msgstr "Mga Lugar"
 
+#, fuzzy
+msgid "Pokes"
+msgstr "Mga Nanamian"
+
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
 msgstr ""
@@ -364,6 +408,10 @@ msgstr "Settings sang Husa"
 
 msgid "Profile"
 msgstr ""
+
+#, fuzzy
+msgid "Questions"
+msgstr "Mamangkot"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
@@ -398,6 +446,11 @@ msgstr "Lantawon Ang Tanan Nga Mga Mensahe"
 
 msgid "See All Notifications"
 msgstr ""
+
+#. A link that shows interactions and photos involving two Facebook friends
+#, fuzzy
+msgid "See Friendship"
+msgstr "Mga Suod Nga Kaabyanan"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -489,12 +542,18 @@ msgstr "I-update ang Impormasyon"
 msgid "Update Status"
 msgstr "I-update ang Status"
 
+msgid "Use Facebook as:"
+msgstr "Gamiton ang Facebook bilang:"
+
 #. %d stands for a number, no need to translate it
 msgid "View all %d comments"
 msgstr "Lantawon ang tanan nga %d ka mga tugda"
 
 msgid "Wall Photos"
 msgstr "Mga Litrato sa Wall"
+
+msgid "Welcome"
+msgstr ""
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

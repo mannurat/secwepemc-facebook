@@ -3,8 +3,14 @@
 1 NEW STORY
 #. Appears next to a post; means the post has been shared one time
 1 share
+#. First two %a's are names, third is something like "5 others"
+%a, %a and %a like this.
+#. %a is someone's name
+%a added a new photo.
 #. First %a is a name, second %a is a name or else something like "6 others"
 %a and %a like this.
+#. First two as above, and final %a is something like "a link"
+%a and %a shared %a.
 #. Link at bottom of home page (under "More") to info about Facebook
 About
 about an hour ago
@@ -20,6 +26,8 @@ Add Photo / Video
 Advertising
 #. Time stamp on a post. You might also translate as "Just now"
 a few seconds ago
+#. For example, "John Doe likes Linux."
+%a likes %a.
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 %a likes a %a.
 #. Always a link. Used in longer sentences like "John Doe shared a link"
@@ -77,6 +85,8 @@ Developers
 #. %d stands for a number; used in sentences like "%d people like this."
 %d people
 #. %d stands for a number, no need to translate it
+%d seconds ago
+#. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 %d shares
 #. Appears at the bottom of your home time line, opposite "More Stories"
@@ -98,6 +108,7 @@ FAVORITES
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 Find Friends
+Find More Pages
 #. In search box that lets you search for friends that are available to chat
 Friends on Chat
 #. People who have asked to be your friend on Facebook; top left of screen
@@ -114,8 +125,10 @@ Like
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 Likes
+Like This Page
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 link
+Links
 #. Heading above your lists of friends ("Work", "Family", etc.)
 LISTS
 Log Out
@@ -133,10 +146,12 @@ MORE
 More Stories
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 Most Recent
+Music
 New Group...
 New Message
 #. Appears in left-hand navigation of home page
 News Feed
+Notes
 Notifications
 #. Button label; postpone confirmation of a friend request 
 Not Now
@@ -153,12 +168,14 @@ Photos
 Place
 #. Appears, e.g., on your Timeline, showing places you visited during the year
 Places
+Pokes
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 post
 #. Link at the bottom of home page to Facebook's privacy policy
 Privacy
 Privacy Settings
 Profile
+Questions
 #. Box near the top of your personal timeline showing your recent actions on FB
 Recent Activity
 Recommended Pages
@@ -174,6 +191,8 @@ See All
 See All Friend Requests
 See All Messages
 See All Notifications
+#. A link that shows interactions and photos involving two Facebook friends
+See Friendship
 #. See more of a post that was truncated because it was very long
 See More
 #. Link that appears under a post in another language; click it to translate
@@ -218,9 +237,11 @@ Update Info
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 Update Status
+Use Facebook as:
 #. %d stands for a number, no need to translate it
 View all %d comments
 Wall Photos
+Welcome
 #. Main prompt when you enter in a new status update
 What's on your mind?
 #. Prompt when you comment on a post
