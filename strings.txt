@@ -205,6 +205,8 @@ Terms
 #. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 Ticker
 Timeline
+#. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
+%T near %a
 #. Specifies recipient when you send a private message
 To:
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"

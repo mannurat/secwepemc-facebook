@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-04 20:29:00-06:00\n"
+"POT-Creation-Date: 2012-03-04 21:06:42-06:00\n"
 "PO-Revision-Date: 2012-02-29 08:07:23-06:00\n"
 "Last-Translator: Edward Owen Jones\n"
 "Language-Team: Cornish\n"
@@ -451,6 +451,10 @@ msgid "Ticker"
 msgstr ""
 
 msgid "Timeline"
+msgstr ""
+
+#. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
+msgid "%T near %a"
 msgstr ""
 
 #. Specifies recipient when you send a private message
