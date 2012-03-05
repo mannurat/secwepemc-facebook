@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-02 10:59:20-06:00\n"
+"POT-Creation-Date: 2012-03-04 20:29:00-06:00\n"
 "PO-Revision-Date: 2012-02-29 08:07:23-06:00\n"
 "Last-Translator: Edward Owen Jones\n"
 "Language-Team: Cornish\n"
@@ -218,6 +218,10 @@ msgstr ""
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
+msgstr ""
+
+#. In search box that lets you search for friends that are available to chat
+msgid "Friends on Chat"
 msgstr ""
 
 #. People who have asked to be your friend on Facebook; top left of screen

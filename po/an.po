@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-02 10:59:20-06:00\n"
+"POT-Creation-Date: 2012-03-04 20:29:00-06:00\n"
 "PO-Revision-Date: 2012-02-25 02:02+0200\n"
 "Last-Translator: Juan Pablo Martínez Cortés <juanpabl@gmail.com>\n"
 "Language-Team: Softaragonés\n"
@@ -227,6 +227,11 @@ msgstr "FAVORITOS"
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
 msgstr "Trobar amigos míos"
+
+#. In search box that lets you search for friends that are available to chat
+#, fuzzy
+msgid "Friends on Chat"
+msgstr "Amigos"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"

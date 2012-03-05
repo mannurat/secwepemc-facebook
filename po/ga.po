@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-02 10:59:20-06:00\n"
+"POT-Creation-Date: 2012-03-04 20:29:00-06:00\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -221,6 +221,10 @@ msgstr "CEANÁIN"
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
 msgstr "Aimsigh Cairde"
+
+#. In search box that lets you search for friends that are available to chat
+msgid "Friends on Chat"
+msgstr "Cairde Ar Líne"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"

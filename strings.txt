@@ -98,6 +98,8 @@ FAVORITES
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 Find Friends
+#. In search box that lets you search for friends that are available to chat
+Friends on Chat
 #. People who have asked to be your friend on Facebook; top left of screen
 Friend Requests
 #. A link that takes you to a list of all your Facebook friends

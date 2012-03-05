@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-02 10:59:20-06:00\n"
+"POT-Creation-Date: 2012-03-04 20:29:00-06:00\n"
 "PO-Revision-Date: 2012-02-22 22:03:27-06:00\n"
 "Last-Translator: Neskie Manuel\n"
 "Language-Team: Secwepemctsín\n"
@@ -219,6 +219,11 @@ msgstr ""
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
 msgstr ""
+
+#. In search box that lets you search for friends that are available to chat
+#, fuzzy
+msgid "Friends on Chat"
+msgstr "Kweselkten"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
