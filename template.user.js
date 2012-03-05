@@ -48,6 +48,7 @@ divclasses.push('UIImageBlock_Content UIImageBlock_ICON_Content');  // 2 people 
 var spanclasses = new Array();
 spanclasses.push('default_message');  // Like/Dislike
 spanclasses.push('saving_message');   // Like/Dislike
+spanclasses.push('uiStreamSource');   // %T near %a
 
 // Replace the search string with the translated string
 function r(dd, s, t) {

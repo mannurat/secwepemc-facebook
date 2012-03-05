@@ -114,6 +114,7 @@ foreach my $msg (@$aref) {
 			else {
 				$tempid = escape_regex($tempid);
 				my $orig = $tempid;
+				$tempid =~ s/%T/(<a [^>]+><abbr [^>]+>[^<]+<\/abbr><\/a>)/g;
 				$tempid =~ s/%a/(<a [^>]+>[^<]+<\/a>)/g;
 				$tempid =~ s/%d/([0-9,]+)/g;
 				$tempid =~ s/%s/([^<" ]+)/g;
