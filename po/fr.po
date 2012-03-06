@@ -24,13 +24,12 @@ msgid "1 share"
 msgstr "1 partage"
 
 #. First two %a's are names, third is something like "5 others"
-#, fuzzy
 msgid "%a, %a and %a like this."
-msgstr "%a et %a aiment ça."
+msgstr "%a, %a et %a aiment ça."
 
 #. %a is someone's name
 msgid "%a added a new photo."
-msgstr ""
+msgstr "%a a ajouté une photo."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
 msgid "%a and %a like this."
@@ -76,9 +75,8 @@ msgid "a few seconds ago"
 msgstr "il y a quelques secondes"
 
 #. For example, "John Doe likes Linux."
-#, fuzzy
 msgid "%a likes %a."
-msgstr "%a aime un %a."
+msgstr "%a aime %a."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a likes a %a."
@@ -246,9 +244,8 @@ msgid "Find More Pages"
 msgstr ""
 
 #. In search box that lets you search for friends that are available to chat
-#, fuzzy
 msgid "Friends on Chat"
-msgstr "Amis"
+msgstr "Amis présents"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
@@ -281,15 +278,14 @@ msgid "Likes"
 msgstr "Mentions J’aime"
 
 msgid "Like This Page"
-msgstr ""
+msgstr "J’aime cette Page"
 
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 msgid "link"
 msgstr "lien"
 
-#, fuzzy
 msgid "Links"
-msgstr "Mentions J’aime"
+msgstr "Liens"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -329,7 +325,7 @@ msgid "Most Recent"
 msgstr "Plus récentes"
 
 msgid "Music"
-msgstr ""
+msgstr "Musique"
 
 msgid "New Group..."
 msgstr ""
@@ -383,9 +379,8 @@ msgstr "Lieu"
 msgid "Places"
 msgstr "Lieux"
 
-#, fuzzy
 msgid "Pokes"
-msgstr "Mentions J’aime"
+msgstr "Pokes"
 
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
@@ -401,9 +396,8 @@ msgstr "Paramètres de confidentialité"
 msgid "Profile"
 msgstr "Profil"
 
-#, fuzzy
 msgid "Questions"
-msgstr "Question"
+msgstr "Questions"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
@@ -439,9 +433,8 @@ msgid "See All Notifications"
 msgstr "Afficher toutes les notifications"
 
 #. A link that shows interactions and photos involving two Facebook friends
-#, fuzzy
 msgid "See Friendship"
-msgstr "Amis proches"
+msgstr "Voir les liens d’amitié"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -507,9 +500,8 @@ msgid "Timeline"
 msgstr "Journal"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
-#, fuzzy
 msgid "%T near %a"
-msgstr "%a a partagé le %a."
+msgstr "%T, à proximité de %a"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
@@ -533,7 +525,7 @@ msgid "Update Status"
 msgstr "Statut"
 
 msgid "Use Facebook as:"
-msgstr ""
+msgstr "Utiliser Facebook en tant que :"
 
 #. %d stands for a number, no need to translate it
 msgid "View all %d comments"
@@ -543,7 +535,7 @@ msgid "Wall Photos"
 msgstr "Photos de couverture"
 
 msgid "Welcome"
-msgstr ""
+msgstr "Bienvenue"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
