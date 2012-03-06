@@ -168,6 +168,7 @@ Photos
 Place
 #. Appears, e.g., on your Timeline, showing places you visited during the year
 Places
+#. Appears in left-hand navigation for some users
 Pokes
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 post
@@ -192,6 +193,7 @@ See All Friend Requests
 See All Messages
 See All Notifications
 #. A link that shows interactions and photos involving two Facebook friends
+#. One place it appears is in the "gear" menu on a friend's profile
 See Friendship
 #. See more of a post that was truncated because it was very long
 See More
@@ -241,6 +243,7 @@ Use Facebook as:
 #. %d stands for a number, no need to translate it
 View all %d comments
 Wall Photos
+#. Appears in left-hand navigation for new users
 Welcome
 #. Main prompt when you enter in a new status update
 What's on your mind?
