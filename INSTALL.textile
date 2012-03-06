@@ -25,6 +25,7 @@ to English, etc.
 
 |_. Code |_. Default |_. Name (English) |_. Name (Native) |_. Version |_. Home Page |_. Translators |
 | an | es | Aragonese | Aragonés | 1.0.0 | Not yet released | Juan Pablo Martínez |
+| br | fr | Breton | Brezhoneg | 1.0.0 | Not yet released | Fulup Jakez |
 | ga | en | Irish | Gaeilge | 1.0.0 | For testing only | Kevin Scannell |
 | gd | en | Scottish Gaelic | Gàidhlig | 1.0.2 | "http://userscripts.org/scripts/show/126511":http://userscripts.org/scripts/show/126511 | Michael Bauer |
 | gv | en | Manx Gaelic | Gaelg | 1.0.0 | "http://userscripts.org/scripts/show/127270":http://userscripts.org/scripts/show/127270 | Chris Sheard |
@@ -36,7 +37,8 @@ to English, etc.
 | ppl | es | Nawat | Nawat | 1.0.0 | "http://userscripts.org/scripts/show/126587":http://userscripts.org/scripts/show/126587 | Alan King |
 | ppl-x-en | en | Nawat | Nawat | 1.0.0 | "http://userscripts.org/scripts/show/126588":http://userscripts.org/scripts/show/126588 | Alan King |
 | rop | en | Kriol | Kriol | 1.0.0 | "http://userscripts.org/scripts/show/126589":http://userscripts.org/scripts/show/126589 | Greg Dickson |
-| shs | en | Secwepemctsín | Secwepemctsín | 1.0.0 | Not yet released | Neskie Manuel |
+| shs | en | Secwepemctsín | Secwepemctsín | 1.0.0 | Not yet released | Neskie Manuel, Gabriel Archie |
+| son | en | Songhay | Soŋay | 1.0.0 | Not yet released | Mohomodou Houssouba, Abdoul Cissé |
 | yi | en | Yiddish | ייִדיש | 1.0.0 | Not yet released | Jordan Kutzik |
 
 
