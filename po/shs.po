@@ -14,14 +14,14 @@ msgstr ""
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
 msgid "1 mutual friend"
-msgstr ""
+msgstr "k̓wseltktnéws"
 
 msgid "1 NEW STORY"
-msgstr ""
+msgstr "slexéy̓em"
 
 #. Appears next to a post; means the post has been shared one time
 msgid "1 share"
-msgstr ""
+msgstr "milct.s"
 
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
@@ -41,30 +41,30 @@ msgstr ""
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
-msgstr ""
+msgstr "t̓ékwelc"
 
 msgid "about an hour ago"
-msgstr ""
+msgstr "le q̓7áses"
 
 msgid "about a minute ago"
 msgstr ""
 
 msgid "Account Settings"
-msgstr ""
+msgstr "n7ek̓"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
 msgstr ""
 
 msgid "Activity Log"
-msgstr ""
+msgstr "tsúwet te stsq̓ey̓"
 
 msgid "Add Friend"
-msgstr ""
+msgstr "ma7 q̓atác te stemét"
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
-msgstr ""
+msgstr "ma7 q̓atác te spiqw"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
@@ -72,7 +72,7 @@ msgstr ""
 
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
-msgstr ""
+msgstr "tsw7ay"
 
 #. For example, "John Doe likes Linux."
 msgid "%a likes %a."
@@ -84,13 +84,13 @@ msgstr ""
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
-msgstr ""
+msgstr "yegímen"
 
 msgid "APPS"
 msgstr ""
 
 msgid "Apps and Games"
-msgstr ""
+msgstr "séyse"
 
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
@@ -102,7 +102,7 @@ msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
-msgstr ""
+msgstr "séwem"
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -121,11 +121,11 @@ msgid "%B %d, %Y at %s"
 msgstr ""
 
 msgid "Born"
-msgstr ""
+msgstr "sitq̓t ne k̓últ-ucw"
 
 #. Appears below shared items, indicating the original author/creator
 msgid "By:"
-msgstr ""
+msgstr "tel-"
 
 #. Button label
 msgid "Cancel"
@@ -143,7 +143,7 @@ msgid "Chat (Offline)"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "cálem"
 
 #. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
@@ -151,7 +151,7 @@ msgstr ""
 
 #. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
-msgstr ""
+msgstr "me7 Iexéxyen̓"
 
 #. Button label; confirm a friend request 
 msgid "Confirm"
@@ -225,15 +225,15 @@ msgstr ""
 
 #. A link to a list of events that you've been invited to
 msgid "Events"
-msgstr ""
+msgstr "kek̓tésq̓t"
 
 #. A link that shows you a list of your relatives on Facebook
 msgid "Family"
-msgstr ""
+msgstr "nek̓w7úsem"
 
 #. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
-msgstr ""
+msgstr "sxwixwyém"
 
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
@@ -257,10 +257,10 @@ msgid "Friends"
 msgstr "Kweselkten"
 
 msgid "GROUPS"
-msgstr ""
+msgstr "nek̓w7úsems"
 
 msgid "Help"
-msgstr ""
+msgstr "knúcwem"
 
 #. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
