@@ -50,21 +50,21 @@ msgid "about a minute ago"
 msgstr "E-tro ur munut zo"
 
 msgid "Account Settings"
-msgstr "Arventennoů ar gont"
+msgstr "Arventennoù ar gont"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
 msgstr "Un tamm poz zo bet lezet gant %a e %a."
 
 msgid "Activity Log"
-msgstr "Marilh obereriantiz"
+msgstr "Marilh oberiantiz"
 
 msgid "Add Friend"
-msgstr "Ouzhpennań ur mignon"
+msgstr "Ouzhpennañ ur mignon"
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
-msgstr "Ouzhpennań ur Skeudenn / Video"
+msgstr "Ouzhpennañ ur Skeudenn / Video"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
@@ -87,10 +87,10 @@ msgid "a link"
 msgstr "ul liamm"
 
 msgid "APPS"
-msgstr "Arloadoů"
+msgstr "Arloadoù"
 
 msgid "Apps and Games"
-msgstr "Arloadoů ha c'hoarioů"
+msgstr "Arloadoù ha c'hoarioù"
 
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
@@ -129,25 +129,25 @@ msgstr "Gant"
 
 #. Button label
 msgid "Cancel"
-msgstr "Nullań"
+msgstr "Nullañ"
 
 #. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
-msgstr "Labourioů"
+msgstr "Labourioù"
 
 #. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
-msgstr "Cheńch ar golo"
+msgstr "Cheñch ar golo"
 
 msgid "Chat (Offline)"
 msgstr "Flap (Ezlinenn)"
 
 msgid "Close"
-msgstr "Serriń"
+msgstr "Serriñ"
 
 #. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
-msgstr "Mignoned tostań"
+msgstr "Mignoned tostañ"
 
 #. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
@@ -158,14 +158,14 @@ msgid "Confirm"
 msgstr "Kadarnaat"
 
 msgid "Create an Ad"
-msgstr "Krouiń ur bomm brudań"
+msgstr "Krouiñ ur bomm brudañ"
 
 #. Link at bottom of home page (under "More")
 msgid "Create a Page"
-msgstr "Krouiń ur bajenn"
+msgstr "Krouiñ ur bajenn"
 
 msgid "Create Group..."
-msgstr "Krouiń ur strollad"
+msgstr "Krouiñ ur strollad"
 
 #. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
@@ -208,11 +208,11 @@ msgstr "Kenrannet %d"
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
 msgid "Edit Options"
-msgstr "Dibaboů aozań"
+msgstr "Dibaboù aozañ"
 
 #. Attached to each post on your personal timeline
 msgid "Edit or Remove"
-msgstr "Aozań pe diverkań"
+msgstr "Aozañ pe diverkañ"
 
 #. Link that lets you change your language settings
 #. Please translate to the name of your language, written in the language itself
@@ -225,7 +225,7 @@ msgstr "Lakait anv ur mignon pe ur chomlec'h postel"
 
 #. A link to a list of events that you've been invited to
 msgid "Events"
-msgstr "Darvoudoů"
+msgstr "Darvoudoù"
 
 #. A link that shows you a list of your relatives on Facebook
 msgid "Family"
@@ -233,7 +233,7 @@ msgstr "Familh"
 
 #. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
-msgstr "Ar RE GARETAŃ"
+msgstr "AR RE GARETAÑ"
 
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
@@ -241,22 +241,22 @@ msgid "Find Friends"
 msgstr "Kavout mignoned"
 
 msgid "Find More Pages"
-msgstr "Kavout pajennoů all"
+msgstr "Kavout pajennoù all"
 
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
-msgstr "Mignoned o flapiń"
+msgstr "Mignoned o flapiñ"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
-msgstr "Goulennoů ar vignoned"
+msgstr "Goulennoù ar vignoned"
 
 #. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
-msgstr "Migoned"
+msgstr "Mignoned"
 
 msgid "GROUPS"
-msgstr "STROLLADOŮ"
+msgstr "STROLLADOÙ"
 
 msgid "Help"
 msgstr "Skoazell"
@@ -275,24 +275,24 @@ msgstr "Plijus"
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
-msgstr "Plijadurioů"
+msgstr "Plijadurioù"
 
 msgid "Like This Page"
-msgstr "Karet ar bajenn-mań"
+msgstr "Karet ar bajenn-mañ"
 
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 msgid "link"
 msgstr "liamm"
 
 msgid "Links"
-msgstr "Liammoů"
+msgstr "Liammoù"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
-msgstr "ROLLOŮ"
+msgstr "ROLLOÙ"
 
 msgid "Log Out"
-msgstr "Digevreań"
+msgstr "Digevreañ"
 
 #. Link to a map of the places someone has been
 msgid "Map"
@@ -303,7 +303,7 @@ msgid "Message:"
 msgstr "Kemennadenn"
 
 msgid "Messages"
-msgstr "Kemennadennoů"
+msgstr "Kemennadennoù"
 
 #. Photographs uploaded from someone's mobile device
 msgid "Mobile Uploads"
@@ -318,11 +318,11 @@ msgstr "MUIOC'H"
 
 #. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
-msgstr "Istorioů all"
+msgstr "Istorioù all"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Most Recent"
-msgstr "Ar re nevesań"
+msgstr "Ar re nevesañ"
 
 msgid "Music"
 msgstr "Sonerezh"
@@ -338,10 +338,10 @@ msgid "News Feed"
 msgstr "Red ar c'heleier"
 
 msgid "Notes"
-msgstr "Notennoů"
+msgstr "Notennoù"
 
 msgid "Notifications"
-msgstr "Embannoů"
+msgstr "Embannoù"
 
 #. Button label; postpone confirmation of a friend request 
 msgid "Not Now"
@@ -349,10 +349,10 @@ msgstr "Diwezhatoc'hik"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
-msgstr "Bremań"
+msgstr "Bremañ"
 
 msgid "PAGES"
-msgstr "PAJENNOŮ"
+msgstr "PAJENNOÙ"
 
 msgid "People who like this"
 msgstr "Tud a blij an dra-se dezho"
@@ -368,7 +368,7 @@ msgid "photo"
 msgstr "Luc'hskeudenn"
 
 msgid "Photos"
-msgstr "Luc'hskeudennoů"
+msgstr "Luc'hskeudennoù"
 
 #. Link that allows you to "check in" somewhere
 msgid "Place"
@@ -376,7 +376,7 @@ msgstr "Lec'h"
 
 #. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
-msgstr "Lec'hioů"
+msgstr "Lec'hioù"
 
 msgid "Pokes"
 msgstr "Broud"
@@ -390,20 +390,20 @@ msgid "Privacy"
 msgstr "Prevezded"
 
 msgid "Privacy Settings"
-msgstr "Arventennoů prevezded"
+msgstr "Arventennoù prevezded"
 
 msgid "Profile"
 msgstr "Profil"
 
 msgid "Questions"
-msgstr "Goulennoů"
+msgstr "Goulennoù"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
-msgstr "Obererezh nevesań"
+msgstr "Obererezh nevesañ"
 
 msgid "Recommended Pages"
-msgstr "Pajennoů erbedet"
+msgstr "Pajennoù erbedet"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
@@ -411,7 +411,7 @@ msgstr "Lemel ar rakweled"
 
 #. Option on every post on your personal timeline
 msgid "Resize"
-msgstr "Adventań"
+msgstr "Adventañ"
 
 #. Text that appears in the search box at the top of the page
 msgid "Search"
@@ -423,13 +423,13 @@ msgstr "Gwelet an holl"
 
 #. In the drop-down menu with recent Friend Requests
 msgid "See All Friend Requests"
-msgstr "Gwelet an holl c'houlennoů mignoned"
+msgstr "Gwelet an holl c'houlennoù mignoned"
 
 msgid "See All Messages"
-msgstr "Gwelet an holl gemennadennoů"
+msgstr "Gwelet an holl gemennadennoù"
 
 msgid "See All Notifications"
-msgstr "Gwelet an holl embannoů"
+msgstr "Gwelet an holl embannoù"
 
 #. A link that shows interactions and photos involving two Facebook friends
 msgid "See Friendship"
@@ -437,7 +437,7 @@ msgstr "Gwelet ar vignoniezh"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
-msgstr "Gwelet hiroc'h"
+msgstr "Gwelet traoñoc'h"
 
 #. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
@@ -453,7 +453,7 @@ msgstr "Kas ur gemennadenn nevez"
 
 #. Verb. A link that allows you to share a post with your friends
 msgid "Share"
-msgstr "Kenrannań"
+msgstr "Kenrannañ"
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -465,7 +465,7 @@ msgstr "Plijout a ra da %a"
 
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
-msgstr "URZHIAŃ"
+msgstr "URZHIAÑ"
 
 #. Appears above paid advertisements
 msgid "Sponsored"
@@ -481,14 +481,14 @@ msgstr "Statud"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
-msgstr "Enskrivadurioů"
+msgstr "Enskrivadurioù"
 
 msgid "Tag Friends"
-msgstr "Tikedenniń mignoned"
+msgstr "Tikedenniñ mignoned"
 
 #. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
-msgstr "Termenoů"
+msgstr "Termenoù"
 
 #. Real time news feed in the right-hand column
 #. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
@@ -508,7 +508,7 @@ msgstr "Da"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Top Stories"
-msgstr "Istorioů pennań"
+msgstr "Istorioù pennañ"
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -531,7 +531,7 @@ msgid "View all %d comments"
 msgstr "Gwelet an %d poz"
 
 msgid "Wall Photos"
-msgstr "Skeudennoů ar voger"
+msgstr "Skeudennoù ar voger"
 
 msgid "Welcome"
 msgstr "Degemer mat"
@@ -542,7 +542,7 @@ msgstr "Petra a fell deoc'h ober ?"
 
 #. Prompt when you comment on a post
 msgid "Write a comment..."
-msgstr "Skrivań un tamm poz"
+msgstr "Skrivañ un tamm poz"
 
 #. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
