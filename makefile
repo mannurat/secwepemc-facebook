@@ -2,7 +2,7 @@
 # Copyright 2012 Kevin Scannell
 # License: GPLv3+
 
-all: updategms
+all: updategms INSTALL.textile
 
 facebook.pot: strings.txt header.pot
 	sed "s/XXXX-XX-XX XX:XX-XXXX/`date --rfc-3339=seconds`/" header.pot > $@
