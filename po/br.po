@@ -44,10 +44,10 @@ msgid "About"
 msgstr "Diwar-benn"
 
 msgid "about an hour ago"
-msgstr "un eurvezh bennak zo"
+msgstr "e-tro un eurvezh zo"
 
 msgid "about a minute ago"
-msgstr "ur munut bennak zo"
+msgstr "E-tro ur munut zo"
 
 msgid "Account Settings"
 msgstr "Arventennoů ar gont"
@@ -72,7 +72,7 @@ msgstr "Bruderezh"
 
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
-msgstr "un eilenn bennak zo"
+msgstr "E-tro un eilenn zo"
 
 #. For example, "John Doe likes Linux."
 msgid "%a likes %a."
@@ -121,7 +121,7 @@ msgid "%B %d, %Y at %s"
 msgstr "%d a viz %B %Y da %s"
 
 msgid "Born"
-msgstr "Bet ganet"
+msgstr "Ganedigezh"
 
 #. Appears below shared items, indicating the original author/creator
 msgid "By:"
@@ -263,7 +263,7 @@ msgstr "Skoazell"
 
 #. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
-msgstr "Du-mań"
+msgstr "Degemer"
 
 msgid "Life Event"
 msgstr "Darvoud buhez"
