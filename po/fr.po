@@ -54,7 +54,7 @@ msgstr "Paramètres du compte"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
-msgstr "%a a commenté un %a."
+msgstr "%a a commenté une? %a."
 
 msgid "Activity Log"
 msgstr "Historique personnel"
@@ -80,7 +80,7 @@ msgstr "%a aime %a."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a likes a %a."
-msgstr "%a aime un %a."
+msgstr "%a aime une? %a."
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
@@ -96,9 +96,10 @@ msgstr "Applications et jeux"
 msgid "%A at %s"
 msgstr "%A, à %s"
 
+# or msgstr "%a a partagé le %a."?
 #. First %a is a person, second one is something like "a link"
 msgid "%a shared %a."
-msgstr "%a a partagé le %a."
+msgstr "%a a partagé %a."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
