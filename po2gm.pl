@@ -22,28 +22,35 @@ if (scalar @ARGV != 2) {
 }
 
 sub insert_backref {
-	(my $str, my $var, my $backref) = @_;
-	$str =~ s/^$var/\$$backref"+"/;
-	$str =~ s/$var$/"+"\$$backref/;
-	$str =~ s/$var/"+"\$$backref"+"/;
-	return $str;
+	(my $target, my $var, my $var_number) = @_;
+	$target =~ s/$var/"+"\$$var_number"+"/;
+	return $target;
 }
 
+# First argument is the escaped source string, e.g. %a likes %a\.
+# or in case of an alternate source language, %a aime %a\.
+# Second argument is the escaped target string, e.g. Plijet eo %a gant %a
+# Returns the target string, double-quoted, with each % variable
+# replaced by a backref $2, $3, $4, ...  ($1 reserved for left-hand boundary)
 sub insert_all_backrefs {
-	(my $orig, my $str) = @_;
-	my $vars = 1;
-	while ($orig =~ m/(%[A-Za-z])/g) {
-		$vars++;
-		$str = insert_backref($str, $1, $vars);
+	(my $source, my $target) = @_;
+	$target = "\"$target\"";
+	my $var_number = 1;
+	while ($source =~ m/(%[A-Za-z])/g) {
+		$var_number++;
+		$target = insert_backref($target, $1, $var_number);
 	}
-	return $str;
+	$target =~ s/""\+//g;
+	$target =~ s/\+""$//;
+	return $target;
 }
 
 sub escape_regex {
 	(my $r) = @_;
 	$r =~ s/'/\\'/g;
 	$r =~ s/([.])/\\$1/g;
-	$r =~ s/([()?])/\\\\$1/g;
+	$r =~ s/[?]$/\\\\?/g;  # don't escape non-terminal ? (see fr.po)
+	$r =~ s/([()])/\\\\$1/g;
 	return $r;
 }
 
@@ -97,8 +104,8 @@ foreach my $msg (@$aref) {
 					if (($fmt =~ /%A/ and $note =~ /Day of the Week/) or
 					    ($fmt =~ /%B/ and $note =~ /Month Name/)) {
 						my $regex = $fmt;  # e.g. "%B %d" - might have parens if non-English ambient (e.g. es)
-						$regex =~ s/%[AB]/$tempid/;
-						$regex = escape_regex($regex);
+						$regex =~ s/%[AB]/$tempid/; # February %d
+						$regex = escape_regex($regex); # might be needed eventually for new alternate source languages
 						my $orig = $regex;
 						$regex =~ s/%d/([0-9]{1,2})/;  # Now "February ([0-9]{1,2})
 						$regex =~ s/%Y/([0-9]{4})/;
@@ -107,7 +114,7 @@ foreach my $msg (@$aref) {
 						my $repl = $formats{$fmt};        # e.g. "%d %B"
 						$repl =~ s/%[AB]/$tempstr/;       # Now "%d Feabhra"
 						$repl = insert_all_backrefs($orig, $repl);
-						push @outputlines, "  d = r(d, '$regex', \"\$1\"+\"$repl\");\n";
+						push @outputlines, "  d = r(d, '$regex', \"\$1\"+$repl);\n";
 					}
 				}
 			}
@@ -119,15 +126,15 @@ foreach my $msg (@$aref) {
 				$tempid =~ s/%d/([0-9,]+)/g;
 				$tempid =~ s/%s/([^<" ]+)/g;
 				$tempstr =~ s/"/\\"/g;
-				$tempstr = insert_all_backrefs($orig, $tempstr);
 				next if ($tempid eq $tempstr);
+				$tempstr = insert_all_backrefs($orig, $tempstr);
 				if (defined($note) and $note =~ /Always a link\./) {
 					$tempid = '(^|>)'.$tempid.'(?=($|<))';
 				}
 				else {
 					$tempid = '(^|="|>)'.$tempid.'(?=($|"|<))';
 				}
-				push @outputlines, "  d = r(d, '$tempid', \"\$1\"+\"$tempstr\");\n";
+				push @outputlines, "  d = r(d, '$tempid', \"\$1\"+$tempstr);\n";
 			}
 		}
 	}
