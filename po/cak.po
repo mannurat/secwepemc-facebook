@@ -1,0 +1,587 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-29 08:06:23-06:00\n"
+"PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
+"Last-Translator: Peter Rohloff\n"
+"Language-Team: Kaqchikel\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Lines like this one beginning with "#." are comments; no need to translate!
+msgid "1 mutual friend"
+msgstr "re 1 re' qachib'il"
+
+msgid "1 NEW STORY"
+msgstr "1 k'ak'a' rutzijol"
+
+#. Appears next to a post; means the post has been shared one time
+msgid "1 share"
+msgstr "1 jumul jacho'n"
+
+#. First %a is a name, second %a is a name or else something like "6 others"
+#, fuzzy
+msgid "%a and %a like this."
+msgstr "%a jeb'ël nikitz'ët re re'"
+
+# also user information: Información
+#. Link at bottom of home page (under "More") to info about Facebook
+msgid "About"
+msgstr "Chi rij"
+
+msgid "about an hour ago"
+msgstr "jun ramaj ik'owinäq"
+
+msgid "about a minute ago"
+msgstr "jun ch'uti ramaj ik'owinäq"
+
+msgid "Account Settings"
+msgstr "Runuk'ulem jun okib'äl"
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on a %a."
+msgstr ""
+
+msgid "Activity Log"
+msgstr "Registro de actividad"
+
+msgid "Add Friend"
+msgstr "ruyakik kikin wachib'il"
+
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
+msgid "Add Photo / Video"
+msgstr "wachib'äl/silon wachib'äl"
+
+#. Link at bottom of home page (under "More") to info about Facebook ads
+msgid "Advertising"
+msgstr "Tzijol"
+
+#. Time stamp on a post. You might also translate as "Just now"
+msgid "a few seconds ago"
+msgstr "Ka'i' oxi' ch'utaq ramaj ik'owinäq"
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a likes a %a."
+msgstr "%a niqa chi ruwäch re re'"
+
+#. Always a link. Used in longer sentences like "John Doe shared a link"
+msgid "a link"
+msgstr "un q'axel"
+
+msgid "APPS"
+msgstr "SAMAJIB'ÄL"
+
+msgid "Apps and Games"
+msgstr "Taq samajib'äl chuqa' taq etz'anem"
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr "Ri %A pa %s"
+
+#. First %a is a person, second one is something like "a link"
+#, fuzzy
+msgid "%a shared %a."
+msgstr "%d mul jacho'n"
+
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+msgid "Ask Question"
+msgstr "K'utunïk"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "%d richin %B"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "%d richin %B pa (taq) %s"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "%d richin %B richin %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "%d richin %B richin %Y pa (taq) %s"
+
+msgid "Born"
+msgstr "Xaläx"
+
+msgid "By:"
+msgstr "Richin:"
+
+msgid "Cancel"
+msgstr "Ruq'atik"
+
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
+msgid "Careers"
+msgstr "Samaj"
+
+#. Link that allows you to change the big photo at the top of your timeline
+msgid "Change Cover"
+msgstr "Rujalik rutzub'al"
+
+msgid "Chat (Offline)"
+msgstr "Tz'ib'anem (chupül)"
+
+msgid "Close"
+msgstr "Rutz'apixik"
+
+#. A link that takes you to a list of your closest friends on Facebook
+msgid "Close Friends"
+msgstr "Utziläj taq achib'il"
+
+#. Verb. A link under a post that allows you to comment on the post.
+msgid "Comment"
+msgstr "Ka'i' oxi' tzij"
+
+#. Button label; confirm a friend request
+msgid "Confirm"
+msgstr "Jikib'axïk"
+
+msgid "Create an Ad"
+msgstr "Rutz'ukik jun tzijol"
+
+#. Link at bottom of home page (under "More")
+msgid "Create a Page"
+msgstr "Rutz'ukik jun ruxaq"
+
+msgid "Create Group..."
+msgstr "Rutz'ukik jun molaj..."
+
+#. Link at bottom of home page (under "More") to info for software developers
+msgid "Developers"
+msgstr "Nuk'unela'"
+
+#. %d stands for a number, no need to translate it
+msgid "%d hours ago"
+msgstr "%d taq ramaj ik'owinäq"
+
+#. %d stands for a number, no need to translate it
+msgid "%d minutes ago"
+msgstr "%d ch'utaq ramaj ik'owinäq"
+
+#. %d stands for a number, no need to translate it
+msgid "%d mutual friends"
+msgstr "%d qachib'il"
+
+#. %d stands for a number, no need to translate it
+msgid "%d NEW STORIES"
+msgstr "k'ak'a' taq rutzijol"
+
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
+#, fuzzy
+msgid "%d others"
+msgstr "%d mul jacho'n"
+
+#. %d stands for a number, no need to translate it
+msgid "%d people"
+msgstr "%d winäq"
+
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
+msgid "%d shares"
+msgstr "%d mul jacho'n"
+
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
+msgid "Edit Options"
+msgstr "K'exoj taq b'eyal"
+
+#. Attached to each post on your personal timeline
+msgid "Edit or Remove"
+msgstr "K'exoj o relesaxik"
+
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+msgid "English (US)"
+msgstr "Kaxlan tzij"
+
+#. In the "New Message" dialog
+msgid "Enter a friend's name or email address"
+msgstr "Tatz'ib'aj rub'i' o rutaqoya'l jun awachib'il"
+
+#. A link to a list of events that you've been invited to
+msgid "Events"
+msgstr "Taq molojri'ïl"
+
+#. A link that shows you a list of your relatives on Facebook
+msgid "Family"
+msgstr "Ach'alalri'ïl"
+
+msgid "FAVORITES"
+msgstr "TAQ JEB'ËL"
+
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
+msgid "Find Friends"
+msgstr "Kikanoxik achib'il"
+
+#. People who have asked to be your friend on Facebook; top left of screen
+msgid "Friend Requests"
+msgstr "Taqoj richin ajowab'äl"
+
+#. A link that takes you to a list of all your Facebook friends
+msgid "Friends"
+msgstr "Taq achib'il"
+
+msgid "GROUPS"
+msgstr "TAQ MOLAJ"
+
+msgid "Help"
+msgstr "To'ïk"
+
+#. Link that takes you to your home timeline; always visible at top-right
+msgid "Home"
+msgstr "Rutikirib'al"
+
+msgid "Life Event"
+msgstr "Nima'q taq nimaq'ij"
+
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
+msgid "Like"
+msgstr "Jeb'ël"
+
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
+msgid "Likes"
+msgstr "Jeb'ël"
+
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+#, fuzzy
+msgid "link"
+msgstr "Man jeb'ël ta chik"
+
+#. Heading above your lists of friends ("Work", "Family", etc.)
+msgid "LISTS"
+msgstr "TAQ CHOLAJ"
+
+msgid "Log Out"
+msgstr "Elem"
+
+#. Link to a map of the places someone has been
+msgid "Map"
+msgstr "Ruwäch setul"
+
+#. In the "New Message" dialog
+msgid "Message:"
+msgstr "Taqo'n:"
+
+msgid "Messages"
+msgstr "Taq taqo'n"
+
+#. Photographs uploaded from someone's mobile device
+msgid "Mobile Uploads"
+msgstr "Q'axäy pan oyonib'äl"
+
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
+msgid "More"
+msgstr "Ch'aqa' chik"
+
+msgid "MORE"
+msgstr "CH'AQA' CHIK"
+
+#. Appears at the bottom of your home time line; click to load more posts
+msgid "More Stories"
+msgstr "Ch'aqa' chik taq b'anob'äl"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Most Recent"
+msgstr "re re' k'ak'a'"
+
+msgid "New Group..."
+msgstr "k'ak'a' molaj"
+
+msgid "New Message"
+msgstr "Jun chik taqo'n"
+
+#. Appears in left-hand navigation of home page
+msgid "News Feed"
+msgstr "Taq rutzijol"
+
+msgid "Notifications"
+msgstr "Taq tz'iba'nem"
+
+#. Button label; postpone confirmation of a friend request
+msgid "Not Now"
+msgstr "Wakami manäq"
+
+#. A link that takes you to the latest posts on your timeline
+msgid "Now"
+msgstr "Wakami"
+
+msgid "PAGES"
+msgstr "TAQ RUXAQ"
+
+msgid "People who like this"
+msgstr "Winäq ri ütz nikitz'ët"
+
+msgid "People You May Know"
+msgstr "Winäq rik'in jub'a' awetaman kiwäch"
+
+msgid "Photo"
+msgstr "Wachib'äl"
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+#, fuzzy
+msgid "photo"
+msgstr "Wachib'äl"
+
+msgid "Photos"
+msgstr "Taq wachib'äl"
+
+# Link that allows you to "check in" somewhere
+#. Link that allows you to "check in" somewhere
+msgid "Place"
+msgstr "K'ojlib'äl"
+
+#. Appears, e.g., on your Timeline, showing places you visited during the year
+msgid "Places"
+msgstr "Taq k'ojlib'äl"
+
+#. Always a link. Used in longer sentences, like "%a commented on a post."
+msgid "post"
+msgstr "chi rij"
+
+#. Link at the bottom of home page to Facebook's privacy policy
+msgid "Privacy"
+msgstr "Rajawalil"
+
+msgid "Privacy Settings"
+msgstr "Runuk'ulem ri rajawalil"
+
+msgid "Profile"
+msgstr "b'anikil"
+
+#. Box near the top of your personal timeline showing your recent actions on FB
+msgid "Recent Activity"
+msgstr "K'ak'a' samaj"
+
+msgid "Recommended Pages"
+msgstr "Peyon taq ruxaq"
+
+#. When you share a link in a comment, use this to remove the preview image
+msgid "Remove Preview"
+msgstr "Relesaxik nab'ey tz'etb'äl"
+
+#. Option on every post on your personal timeline
+msgid "Resize"
+msgstr "Ruk'exik runimilem"
+
+#. Text that appears in the search box at the top of the page
+msgid "Search"
+msgstr "Kanoxïk"
+
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
+msgid "See All"
+msgstr "Rutz'etik ronojel"
+
+#. In the drop-down menu with recent Friend Requests
+#, fuzzy
+msgid "See All Friend Requests"
+msgstr " Taqoj richin ajowab'äl"
+
+#, fuzzy
+msgid "See All Messages"
+msgstr "Rutz'etik ronojel taq taqo'n"
+
+msgid "See All Notifications"
+msgstr "Rutz'etik ronojel ri taq tz'ib'anem"
+
+#. See more of a post that was truncated because it was very long
+msgid "See More"
+msgstr "Rutz'etik ch'aqa' chik"
+
+#. Link that appears under a post in another language; click it to translate
+msgid "See Translation"
+msgstr "Rutz'etik tzalq'omanïk"
+
+#. Label on button in "New Message" dialog to send the message
+msgid "Send"
+msgstr "Rutaqik"
+
+#. Link that opens the "New Message" dialog
+msgid "Send a New Message"
+msgstr "Rutaqik jun k'ak'a' taqo'n"
+
+#. Verb. A link that allows you to share a post with your friends
+msgid "Share"
+msgstr "Q'axaxïk"
+
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "%a jeb'ël nutz'ët re re'"
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "%a jeb'ël nikitz'ët re re'"
+
+#. A link that allows your to sort posts by "most recent" or "top stories"
+msgid "SORT"
+msgstr "RUCHOLANIK"
+
+#. Appears above paid advertisements
+msgid "Sponsored"
+msgstr "Taq tzijol"
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+#, fuzzy
+msgid "status"
+msgstr "Rub'eyal"
+
+#. This is a Facebook "status update", not a relationship status
+msgid "Status"
+msgstr "Rub'eyal"
+
+#. Top of profile, after Friends, Photos, Map, ...
+msgid "Subscriptions"
+msgstr "Tz'ib'an taq b'i'aj"
+
+msgid "Tag Friends"
+msgstr "Rub'i' pa taq achib'il"
+
+#. Link at the bottom of home page to Facebook's "Terms of Service"
+msgid "Terms"
+msgstr "Taq chilab'exïk"
+
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
+msgid "Ticker"
+msgstr "Aninäq rutzijol"
+
+msgid "Timeline"
+msgstr "K'aslemal"
+
+#. Specifies recipient when you send a private message
+msgid "To:"
+msgstr "Chi re:"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+#, fuzzy
+msgid "Top Stories"
+msgstr "Ch'aqa' chik b'anob'äl"
+
+#. Verb. See "Like"
+msgid "Unlike"
+msgstr "Man ütz ta"
+
+#. Label on a button that allows you to edit your personal information
+msgid "Update Info"
+msgstr "Rutz'aqatisaxik rutzijol"
+
+#. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+msgid "Update Status"
+msgstr "Rub'eyal"
+
+#. %d stands for a number, no need to translate it
+msgid "View all %d comments"
+msgstr "Rutz'etik %d ka'i' oxi' taq tzij"
+
+msgid "Wall Photos"
+msgstr "Wachib'äl pa xaqwachib'äl"
+
+#. Main prompt when you enter in a new status update
+msgid "What's on your mind?"
+msgstr "¿Achike tajin nana'ojij?"
+
+#. Prompt when you comment on a post
+msgid "Write a comment..."
+msgstr "Tatz'ib'aj jun ka'i' oxi' taq tzij..."
+
+#. Appears next to a post or comment as a timestamp
+msgid "Yesterday"
+msgstr "Iwir"
+
+#. Appears next to a post or comment as a timestamp; %s is the time of day
+msgid "Yesterday at %s"
+msgstr "Iwir pa %s "
+
+#. %a stands for something like "4 others"
+#, fuzzy
+msgid "You and %a like this."
+msgstr "%a jeb'ël nikitz'ët re re'."
+
+msgid "You like this."
+msgstr "Jeb'ël natz'ët re re'."
+
+#. Month Name
+msgid "January"
+msgstr "nab'ey ik'"
+
+#. Month Name
+msgid "February"
+msgstr "ruka'n ik'"
+
+#. Month Name
+msgid "March"
+msgstr "rox ik'"
+
+#. Month Name
+msgid "April"
+msgstr "rukaj ik'"
+
+#. Month Name
+msgid "May"
+msgstr "ro' ik'"
+
+#. Month Name
+msgid "June"
+msgstr "ruwaq ik'"
+
+#. Month Name
+msgid "July"
+msgstr "ruwuq ik'"
+
+#. Month Name
+msgid "August"
+msgstr "ruwaqxaq ik'"
+
+#. Month Name
+msgid "September"
+msgstr "rub'elej ik'"
+
+#. Month Name
+msgid "October"
+msgstr "rulaj ik'"
+
+#. Month Name
+msgid "November"
+msgstr "rujulaj ik'"
+
+#. Month Name
+msgid "December"
+msgstr "rukab'laj ik'"
+
+#. Day of the Week
+msgid "Monday"
+msgstr "luq'ij"
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr "maq'ij"
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr "miq'ij"
+
+#. Day of the Week
+msgid "Thursday"
+msgstr "juq'ij"
+
+#. Day of the Week
+msgid "Friday"
+msgstr "wiq'ij"
+
+#. Day of the Week
+msgid "Saturday"
+msgstr " saq'ij"
+
+#. Day of the Week
+msgid "Sunday"
+msgstr "toq'ij"
