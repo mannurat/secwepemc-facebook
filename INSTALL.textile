@@ -26,6 +26,7 @@ to English, etc.
 |_. Code |_. Default |_. Name (English) |_. Name (Native) |_. Version |_. Home Page |_. Translators |
 | an | es | Aragonese | Aragonés | 1.0.0 | Not yet released | Juan Pablo Martínez |
 | br | fr | Breton | Brezhoneg | 1.0.1 | "http://userscripts.org/scripts/show/127734":http://userscripts.org/scripts/show/127734 | Fulup Jakez |
+| cak | es | Cakchiquel | Kaqchikel | 1.0.0 | Not yet released | Peter Rohloff |
 | ga | en | Irish | Gaeilge | 1.0.0 | For testing only | Kevin Scannell |
 | gd | en | Scottish Gaelic | Gàidhlig | 1.0.2 | "http://userscripts.org/scripts/show/126511":http://userscripts.org/scripts/show/126511 | Michael Bauer |
 | gv | en | Manx Gaelic | Gaelg | 1.0.0 | "http://userscripts.org/scripts/show/127270":http://userscripts.org/scripts/show/127270 | Chris Sheard |
