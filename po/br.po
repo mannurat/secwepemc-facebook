@@ -400,7 +400,7 @@ msgstr "Goulennoù"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
-msgstr "Obererezh nevesañ"
+msgstr "Divizoù nevesañ"
 
 msgid "Recommended Pages"
 msgstr "Pajennoù erbedet"
