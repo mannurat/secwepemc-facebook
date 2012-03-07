@@ -380,6 +380,7 @@ msgstr "Lieu"
 msgid "Places"
 msgstr "Lieux"
 
+# sic
 msgid "Pokes"
 msgstr "Pokes"
 
@@ -397,6 +398,7 @@ msgstr "Paramètres de confidentialité"
 msgid "Profile"
 msgstr "Profil"
 
+# sic
 msgid "Questions"
 msgstr "Questions"
 

@@ -326,7 +326,7 @@ msgid "Most Recent"
 msgstr "Más recientes"
 
 msgid "Music"
-msgstr "Musico"
+msgstr "Música"
 
 msgid "New Group..."
 msgstr ""
@@ -381,7 +381,7 @@ msgid "Places"
 msgstr "Lugares"
 
 msgid "Pokes"
-msgstr ""
+msgstr "Toques"
 
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
@@ -398,7 +398,7 @@ msgid "Profile"
 msgstr "Perfil"
 
 msgid "Questions"
-msgstr ""
+msgstr "Preguntas"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
@@ -536,7 +536,7 @@ msgid "Wall Photos"
 msgstr "Fotos del muro"
 
 msgid "Welcome"
-msgstr ""
+msgstr "Te damos la bienvenida"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
