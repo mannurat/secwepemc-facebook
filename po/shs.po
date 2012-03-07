@@ -25,19 +25,19 @@ msgstr "milct.s"
 
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
-msgstr ""
+msgstr "%a, %a ell %a lestéses"
 
 #. %a is someone's name
 msgid "%a added a new photo."
-msgstr ""
+msgstr "%a q̓entéses te spiqw"
 
 #. First %a is a name, second %a is a name or else something like "6 others"
 msgid "%a and %a like this."
-msgstr ""
+msgstr "%a ell %a lestéses"
 
 #. First two as above, and final %a is something like "a link"
 msgid "%a and %a shared %a."
-msgstr ""
+msgstr "%a ell %a milct.s %a"
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -54,7 +54,7 @@ msgstr "n7ek̓"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
-msgstr ""
+msgstr "%a tsunses re %a"
 
 msgid "Activity Log"
 msgstr "tsúwet te stsq̓ey̓"
@@ -76,11 +76,11 @@ msgstr "tsw7ay"
 
 #. For example, "John Doe likes Linux."
 msgid "%a likes %a."
-msgstr ""
+msgstr "%a lestéses te %a"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a likes a %a."
-msgstr ""
+msgstr "%a lestéses %a"
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
@@ -90,7 +90,7 @@ msgid "APPS"
 msgstr ""
 
 msgid "Apps and Games"
-msgstr "séyse"
+msgstr "Séyse"
 
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
@@ -98,11 +98,11 @@ msgstr ""
 
 #. First %a is a person, second one is something like "a link"
 msgid "%a shared %a."
-msgstr ""
+msgstr "%a m-milct.s %a"
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
-msgstr "séwem"
+msgstr "Séwem"
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -147,13 +147,13 @@ msgstr "cálem"
 
 #. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
-msgstr ""
+msgstr "k̓wséltkten"
 
 #. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
-msgstr "me7 Iexéxyen̓"
+msgstr "me7 lexéxyen̓"
 
-#. Button label; confirm a friend request 
+#. Button label; confirm a friend request
 msgid "Confirm"
 msgstr ""
 
@@ -225,11 +225,11 @@ msgstr ""
 
 #. A link to a list of events that you've been invited to
 msgid "Events"
-msgstr "kek̓tésq̓t"
+msgstr "Kek̓tésq̓t"
 
 #. A link that shows you a list of your relatives on Facebook
 msgid "Family"
-msgstr "nek̓w7úsem"
+msgstr "Nek̓w7úsem"
 
 #. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
@@ -257,7 +257,7 @@ msgid "Friends"
 msgstr "Kweselkten"
 
 msgid "GROUPS"
-msgstr "nek̓w7úsems"
+msgstr "Nek̓w7úsems"
 
 msgid "Help"
 msgstr "knúcwem"
@@ -276,7 +276,7 @@ msgstr "Xwexwisten"
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
-msgstr ""
+msgstr "Xwexwistens"
 
 msgid "Like This Page"
 msgstr ""
@@ -345,7 +345,7 @@ msgstr ""
 msgid "Notifications"
 msgstr ""
 
-#. Button label; postpone confirmation of a friend request 
+#. Button label; postpone confirmation of a friend request
 msgid "Not Now"
 msgstr ""
 
@@ -449,7 +449,7 @@ msgstr ""
 
 #. Label on button in "New Message" dialog to send the message
 msgid "Send"
-msgstr ""
+msgstr "Tektal̓menékstmens"
 
 #. Link that opens the "New Message" dialog
 msgid "Send a New Message"
@@ -457,15 +457,15 @@ msgstr ""
 
 #. Verb. A link that allows you to share a post with your friends
 msgid "Share"
-msgstr ""
+msgstr "Milct.s"
 
 #. %a stands for a person's name
 msgid "%a likes this."
-msgstr ""
+msgstr "%a lestéses ye7éne"
 
 #. %a stands for something like "3 people"
 msgid "%a like this."
-msgstr ""
+msgstr "%a lestéses"
 
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
@@ -538,7 +538,7 @@ msgid "Wall Photos"
 msgstr ""
 
 msgid "Welcome"
-msgstr ""
+msgstr "Tsucwmíntlmen"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
@@ -554,30 +554,30 @@ msgstr "Le pexwéyt"
 
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
-msgstr ""
+msgstr "Le pexwéyt te"
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
-msgstr ""
+msgstr "ke ell %a lestés ye7éne"
 
 msgid "You like this."
-msgstr ""
+msgstr "lestéts-ken"
 
 #. Month Name
 msgid "January"
-msgstr ""
+msgstr "pellkwet̓mín"
 
 #. Month Name
 msgid "February"
-msgstr ""
+msgstr "Pup"
 
 #. Month Name
 msgid "March"
-msgstr ""
+msgstr "pelltkélayiten"
 
 #. Month Name
 msgid "April"
-msgstr ""
+msgstr "pell-tsek̓úlecwten"
 
 #. Month Name
 msgid "May"
