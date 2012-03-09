@@ -221,7 +221,7 @@ msgstr "Secwepemctsín"
 
 #. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
-msgstr ""
+msgstr "Q’yentéke re skwest ne7ene"
 
 #. A link to a list of events that you've been invited to
 msgid "Events"
@@ -279,7 +279,7 @@ msgid "Likes"
 msgstr "Xwexwistens"
 
 msgid "Like This Page"
-msgstr ""
+msgstr "xwexwísten re stsq’eý"
 
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 msgid "link"
@@ -298,7 +298,7 @@ msgstr ""
 
 #. Link to a map of the places someone has been
 msgid "Map"
-msgstr ""
+msgstr "Tk’meqs"
 
 #. In the "New Message" dialog
 msgid "Message:"
@@ -330,7 +330,7 @@ msgid "Music"
 msgstr ""
 
 msgid "New Group..."
-msgstr ""
+msgstr "tsítslem te nekw7usem"
 
 msgid "New Message"
 msgstr ""
@@ -347,11 +347,11 @@ msgstr ""
 
 #. Button label; postpone confirmation of a friend request
 msgid "Not Now"
-msgstr ""
+msgstr "ta7ks pyin"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
-msgstr ""
+msgstr "pyin"
 
 msgid "PAGES"
 msgstr ""
@@ -363,14 +363,14 @@ msgid "People You May Know"
 msgstr ""
 
 msgid "Photo"
-msgstr ""
+msgstr "spiqw"
 
 #. Always a link. Used in longer sentences, like "%a commented on a photo."
 msgid "photo"
-msgstr ""
+msgstr "spiqw"
 
 msgid "Photos"
-msgstr ""
+msgstr "spipíqw"
 
 #. Link that allows you to "check in" somewhere
 msgid "Place"
