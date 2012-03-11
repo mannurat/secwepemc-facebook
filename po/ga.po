@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-04 21:48:26-06:00\n"
+"POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -380,6 +380,7 @@ msgstr "Áit"
 msgid "Places"
 msgstr "Áiteanna"
 
+#. Appears in left-hand navigation for some users
 msgid "Pokes"
 msgstr "Soncanna"
 
@@ -434,6 +435,7 @@ msgid "See All Notifications"
 msgstr "Gach Fógra"
 
 #. A link that shows interactions and photos involving two Facebook friends
+#. One place it appears is in the "gear" menu on a friend's profile
 msgid "See Friendship"
 msgstr "Féach ar Chairdeas"
 
@@ -535,6 +537,7 @@ msgstr "Féach ar na %d nóta tráchta"
 msgid "Wall Photos"
 msgstr "Grianghraif Bhalla"
 
+#. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Fáilte"
 

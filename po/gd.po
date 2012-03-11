@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-04 21:50:27-06:00\n"
+"POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
 "PO-Revision-Date: 2012-02-28 19:57-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -391,6 +391,7 @@ msgstr "Àite"
 msgid "Places"
 msgstr "Àitichean"
 
+#. Appears in left-hand navigation for some users
 #, fuzzy
 msgid "Pokes"
 msgstr "Na 's toil"
@@ -447,6 +448,7 @@ msgid "See All Notifications"
 msgstr "Seall gach brath"
 
 #. A link that shows interactions and photos involving two Facebook friends
+#. One place it appears is in the "gear" menu on a friend's profile
 #, fuzzy
 msgid "See Friendship"
 msgstr "Dlùth-charaidean"
@@ -550,6 +552,7 @@ msgstr "Seall a h-uile %d beachd(an)"
 msgid "Wall Photos"
 msgstr "Balla nan dealbhan"
 
+#. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr ""
 

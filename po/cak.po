@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-29 08:06:23-06:00\n"
+"POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
 "PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
 "Last-Translator: Peter Rohloff\n"
 "Language-Team: Kaqchikel\n"
@@ -23,10 +23,24 @@ msgstr "1 k'ak'a' rutzijol"
 msgid "1 share"
 msgstr "1 jumul jacho'n"
 
+#. First two %a's are names, third is something like "5 others"
+#, fuzzy
+msgid "%a, %a and %a like this."
+msgstr "%a jeb'ël nikitz'ët re re'"
+
+#. %a is someone's name
+msgid "%a added a new photo."
+msgstr ""
+
 #. First %a is a name, second %a is a name or else something like "6 others"
 #, fuzzy
 msgid "%a and %a like this."
 msgstr "%a jeb'ël nikitz'ët re re'"
+
+#. First two as above, and final %a is something like "a link"
+#, fuzzy
+msgid "%a and %a shared %a."
+msgstr "%d mul jacho'n"
 
 # also user information: Información
 #. Link at bottom of home page (under "More") to info about Facebook
@@ -63,6 +77,11 @@ msgstr "Tzijol"
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
 msgstr "Ka'i' oxi' ch'utaq ramaj ik'owinäq"
+
+#. For example, "John Doe likes Linux."
+#, fuzzy
+msgid "%a likes %a."
+msgstr "%a niqa chi ruwäch re re'"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 #, fuzzy
@@ -111,9 +130,11 @@ msgstr "%d richin %B richin %Y pa (taq) %s"
 msgid "Born"
 msgstr "Xaläx"
 
+#. Appears below shared items, indicating the original author/creator
 msgid "By:"
 msgstr "Richin:"
 
+#. Button label
 msgid "Cancel"
 msgstr "Ruq'atik"
 
@@ -139,7 +160,7 @@ msgstr "Utziläj taq achib'il"
 msgid "Comment"
 msgstr "Ka'i' oxi' tzij"
 
-#. Button label; confirm a friend request
+#. Button label; confirm a friend request 
 msgid "Confirm"
 msgstr "Jikib'axïk"
 
@@ -179,9 +200,14 @@ msgstr "k'ak'a' taq rutzijol"
 msgid "%d others"
 msgstr "%d mul jacho'n"
 
-#. %d stands for a number, no need to translate it
+#. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
 msgstr "%d winäq"
+
+#. %d stands for a number, no need to translate it
+#, fuzzy
+msgid "%d seconds ago"
+msgstr "Ka'i' oxi' ch'utaq ramaj ik'owinäq"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
@@ -214,6 +240,7 @@ msgstr "Taq molojri'ïl"
 msgid "Family"
 msgstr "Ach'alalri'ïl"
 
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
 msgstr "TAQ JEB'ËL"
 
@@ -221,6 +248,14 @@ msgstr "TAQ JEB'ËL"
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
 msgstr "Kikanoxik achib'il"
+
+msgid "Find More Pages"
+msgstr ""
+
+#. In search box that lets you search for friends that are available to chat
+#, fuzzy
+msgid "Friends on Chat"
+msgstr "Taq achib'il"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
@@ -252,10 +287,17 @@ msgstr "Jeb'ël"
 msgid "Likes"
 msgstr "Jeb'ël"
 
+msgid "Like This Page"
+msgstr ""
+
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 #, fuzzy
 msgid "link"
 msgstr "Man jeb'ël ta chik"
+
+#, fuzzy
+msgid "Links"
+msgstr "Jeb'ël"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -294,6 +336,9 @@ msgstr "Ch'aqa' chik taq b'anob'äl"
 msgid "Most Recent"
 msgstr "re re' k'ak'a'"
 
+msgid "Music"
+msgstr ""
+
 msgid "New Group..."
 msgstr "k'ak'a' molaj"
 
@@ -304,10 +349,13 @@ msgstr "Jun chik taqo'n"
 msgid "News Feed"
 msgstr "Taq rutzijol"
 
+msgid "Notes"
+msgstr ""
+
 msgid "Notifications"
 msgstr "Taq tz'iba'nem"
 
-#. Button label; postpone confirmation of a friend request
+#. Button label; postpone confirmation of a friend request 
 msgid "Not Now"
 msgstr "Wakami manäq"
 
@@ -344,6 +392,11 @@ msgstr "K'ojlib'äl"
 msgid "Places"
 msgstr "Taq k'ojlib'äl"
 
+#. Appears in left-hand navigation for some users
+#, fuzzy
+msgid "Pokes"
+msgstr "Jeb'ël"
+
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
 msgstr "chi rij"
@@ -357,6 +410,10 @@ msgstr "Runuk'ulem ri rajawalil"
 
 msgid "Profile"
 msgstr "b'anikil"
+
+#, fuzzy
+msgid "Questions"
+msgstr "K'utunïk"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
@@ -392,6 +449,12 @@ msgstr "Rutz'etik ronojel taq taqo'n"
 
 msgid "See All Notifications"
 msgstr "Rutz'etik ronojel ri taq tz'ib'anem"
+
+#. A link that shows interactions and photos involving two Facebook friends
+#. One place it appears is in the "gear" menu on a friend's profile
+#, fuzzy
+msgid "See Friendship"
+msgstr "Utziläj taq achib'il"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -457,6 +520,11 @@ msgstr "Aninäq rutzijol"
 msgid "Timeline"
 msgstr "K'aslemal"
 
+#. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
+#, fuzzy
+msgid "%T near %a"
+msgstr "%d mul jacho'n"
+
 #. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Chi re:"
@@ -479,12 +547,19 @@ msgstr "Rutz'aqatisaxik rutzijol"
 msgid "Update Status"
 msgstr "Rub'eyal"
 
+msgid "Use Facebook as:"
+msgstr ""
+
 #. %d stands for a number, no need to translate it
 msgid "View all %d comments"
 msgstr "Rutz'etik %d ka'i' oxi' taq tzij"
 
 msgid "Wall Photos"
 msgstr "Wachib'äl pa xaqwachib'äl"
+
+#. Appears in left-hand navigation for new users
+msgid "Welcome"
+msgstr ""
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

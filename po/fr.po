@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-04 21:50:27-06:00\n"
+"POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: French\n"
@@ -381,6 +381,7 @@ msgid "Places"
 msgstr "Lieux"
 
 # sic
+#. Appears in left-hand navigation for some users
 msgid "Pokes"
 msgstr "Pokes"
 
@@ -436,6 +437,7 @@ msgid "See All Notifications"
 msgstr "Afficher toutes les notifications"
 
 #. A link that shows interactions and photos involving two Facebook friends
+#. One place it appears is in the "gear" menu on a friend's profile
 msgid "See Friendship"
 msgstr "Voir les liens d’amitié"
 
@@ -537,6 +539,7 @@ msgstr "Afficher les %d commentaires"
 msgid "Wall Photos"
 msgstr "Photos de couverture"
 
+#. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Bienvenue"
 

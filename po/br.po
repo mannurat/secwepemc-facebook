@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-04 21:50:27-06:00\n"
+"POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
 "PO-Revision-Date: 2012-03-05 21:50:27-06:00\n"
 "Last-Translator: Fulup Jakez\n"
 "Language-Team: Brezhoneg\n"
@@ -378,6 +378,7 @@ msgstr "Lec'h"
 msgid "Places"
 msgstr "Lec'hioù"
 
+#. Appears in left-hand navigation for some users
 msgid "Pokes"
 msgstr "Broud"
 
@@ -432,6 +433,7 @@ msgid "See All Notifications"
 msgstr "Gwelet an holl embannoù"
 
 #. A link that shows interactions and photos involving two Facebook friends
+#. One place it appears is in the "gear" menu on a friend's profile
 msgid "See Friendship"
 msgstr "Gwelet ar vignoniezh"
 
@@ -533,6 +535,7 @@ msgstr "Gwelet an %d poz"
 msgid "Wall Photos"
 msgstr "Skeudennoù ar voger"
 
+#. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Degemer mat"
 
