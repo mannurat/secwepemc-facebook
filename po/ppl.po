@@ -24,23 +24,20 @@ msgid "1 share"
 msgstr "Se kichijtuk compartir ini"
 
 #. First two %a's are names, third is something like "5 others"
-#, fuzzy
 msgid "%a, %a and %a like this."
-msgstr "%a ingustoj ini."
+msgstr "%a, %a wan %a ingustoj ini."
 
 #. %a is someone's name
 msgid "%a added a new photo."
-msgstr ""
+msgstr "%a kitalijtuk se yankwik fotoj."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
-#, fuzzy
 msgid "%a and %a like this."
-msgstr "%a ingustoj ini."
+msgstr "%a wan %a ingustoj ini."
 
 #. First two as above, and final %a is something like "a link"
-#, fuzzy
 msgid "%a and %a shared %a."
-msgstr "%d kichijtiwit compartir ini"
+msgstr "%a wan %a kichijtiwit compartir %a."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -53,11 +50,11 @@ msgid "about a minute ago"
 msgstr "ashan se minutoj"
 
 msgid "Account Settings"
-msgstr ""
+msgstr "Ne mucuentaj"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
-msgstr ""
+msgstr "%a taketzki ipanpa se %a."
 
 msgid "Activity Log"
 msgstr "Shikita Tay Panutuk"
@@ -78,18 +75,16 @@ msgid "a few seconds ago"
 msgstr "ashanchin"
 
 #. For example, "John Doe likes Linux."
-#, fuzzy
 msgid "%a likes %a."
-msgstr "%a igustoj ini."
+msgstr "%a igustoj %a."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-#, fuzzy
 msgid "%a likes a %a."
-msgstr "%a igustoj ini."
+msgstr "%a igustoj se %a."
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
-msgstr ""
+msgstr "se ilpika"
 
 msgid "APPS"
 msgstr "AJAPLICACION"
@@ -102,13 +97,12 @@ msgid "%A at %s"
 msgstr "ne %A ka %s"
 
 #. First %a is a person, second one is something like "a link"
-#, fuzzy
 msgid "%a shared %a."
-msgstr "%d kichijtiwit compartir ini"
+msgstr "%a kichijtuk compartir se %a."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
-msgstr "Shiktajtani"
+msgstr "Shiktajtani Se"
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -139,7 +133,7 @@ msgstr "Shikajkawa"
 
 #. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
-msgstr ""
+msgstr "Puejpuestoj"
 
 #. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
@@ -161,7 +155,7 @@ msgstr "Shitaketza ipanpa"
 
 #. Button label; confirm a friend request 
 msgid "Confirm"
-msgstr ""
+msgstr "Shikwi ken mukunpa"
 
 msgid "Create an Ad"
 msgstr "Shikchiwa se anuncioj"
@@ -195,18 +189,16 @@ msgstr "%d YANKWIK TAY INATIWIT"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
-#, fuzzy
 msgid "%d others"
-msgstr "%d kichijtiwit compartir ini"
+msgstr "uk %d"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
 msgstr "%d tukniwan"
 
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%d seconds ago"
-msgstr "ashanchin"
+msgstr "ashan %d segundoj"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
@@ -216,7 +208,7 @@ msgstr "%d kichijtiwit compartir ini"
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
 msgid "Edit Options"
-msgstr ""
+msgstr "Pal Tikpata Ini"
 
 #. Attached to each post on your personal timeline
 msgid "Edit or Remove"
@@ -249,12 +241,11 @@ msgid "Find Friends"
 msgstr "Shiktemu Mukunpawan"
 
 msgid "Find More Pages"
-msgstr ""
+msgstr "Shikajsi Uksejse Iswat"
 
 #. In search box that lets you search for friends that are available to chat
-#, fuzzy
 msgid "Friends on Chat"
-msgstr "Ikunpawan"
+msgstr "Mukunpawan Ashan Nemit"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
@@ -287,16 +278,14 @@ msgid "Likes"
 msgstr "Igustoj"
 
 msgid "Like This Page"
-msgstr ""
+msgstr "Igustoj Ini Iswat"
 
 #. Always a link. Used in longer sentences, like "%a commented on a link."
-#, fuzzy
 msgid "link"
-msgstr "Tea nugustoj"
+msgstr "ilpika"
 
-#, fuzzy
 msgid "Links"
-msgstr "Igustoj"
+msgstr "Ijilpika"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -318,7 +307,7 @@ msgstr "Ajamat"
 
 #. Photographs uploaded from someone's mobile device
 msgid "Mobile Uploads"
-msgstr ""
+msgstr "Iwan se Celular"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
@@ -333,10 +322,10 @@ msgstr "Sejseuk Tay Inatiwit"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Most Recent"
-msgstr ""
+msgstr "Yajyankwik Tay Inatiwit"
 
 msgid "Music"
-msgstr ""
+msgstr "Musicaj"
 
 msgid "New Group..."
 msgstr "Yankwik Tepewa..."
@@ -349,15 +338,14 @@ msgid "News Feed"
 msgstr "Yajyankwik"
 
 msgid "Notes"
-msgstr ""
+msgstr "Tajtajkwilul"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Tajtanawatilis"
 
 #. Button label; postpone confirmation of a friend request 
-#, fuzzy
 msgid "Not Now"
-msgstr "Ashan"
+msgstr "Ashan Te"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
@@ -376,9 +364,8 @@ msgid "Photo"
 msgstr "Fotoj"
 
 #. Always a link. Used in longer sentences, like "%a commented on a photo."
-#, fuzzy
 msgid "photo"
-msgstr "Fotoj"
+msgstr "fotoj"
 
 msgid "Photos"
 msgstr "Fojfotoj"
@@ -392,25 +379,23 @@ msgid "Places"
 msgstr "Kan nentuk"
 
 #. Appears in left-hand navigation for some users
-#, fuzzy
 msgid "Pokes"
-msgstr "Igustoj"
+msgstr "Ká Metztzupintuk"
 
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
-msgstr ""
+msgstr "tay inatiwit"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
-msgstr ""
+msgstr "Ijichtaka"
 
 msgid "Privacy Settings"
-msgstr ""
+msgstr "Muijichtaka"
 
 msgid "Profile"
 msgstr "Iswat"
 
-#, fuzzy
 msgid "Questions"
 msgstr "Shiktajtani"
 
@@ -438,22 +423,19 @@ msgid "See All"
 msgstr "Shikita Muchi"
 
 #. In the drop-down menu with recent Friend Requests
-#, fuzzy
 msgid "See All Friend Requests"
 msgstr "Ká kineki muchiwa mukunpa"
 
-#, fuzzy
 msgid "See All Messages"
-msgstr "Ajamat"
+msgstr "Muchi ne ajamat"
 
 msgid "See All Notifications"
-msgstr ""
+msgstr "Muchi ne tajtanawatilis"
 
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
-#, fuzzy
 msgid "See Friendship"
-msgstr "Mukunpawan yek"
+msgstr "Tay Tajtaketztiwit"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -461,7 +443,7 @@ msgstr "Shikita Chiupiuk"
 
 #. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
-msgstr "Shikpata"
+msgstr "Shikpata tik ukse taketzalis"
 
 #. Label on button in "New Message" dialog to send the message
 msgid "Send"
@@ -492,20 +474,19 @@ msgid "Sponsored"
 msgstr "Tajtashtawijtuk"
 
 #. Always a link. Used in longer sentences, like "%a commented on a status."
-#, fuzzy
 msgid "status"
-msgstr "Tay ina"
+msgstr "ken ijtuk"
 
 #. This is a Facebook "status update", not a relationship status
 msgid "Status"
-msgstr "Tay ina"
+msgstr "Ken Ijtuk"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr "Tay kikwi"
 
 msgid "Tag Friends"
-msgstr "Shiktali Ejetiquetaj"
+msgstr "Shiktukayti Mukunpawan"
 
 #. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
@@ -520,18 +501,16 @@ msgid "Timeline"
 msgstr "Tay-keman"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
-#, fuzzy
 msgid "%T near %a"
-msgstr "%d kichijtiwit compartir ini"
+msgstr "Ka %T nepa %a"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Ká ipal:"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
-#, fuzzy
 msgid "Top Stories"
-msgstr "Sejseuk Tay Inatiwit"
+msgstr "Sejse Tay Inatiwit"
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -544,10 +523,10 @@ msgstr "Shikpata Tay Tinatuk Mupanpa"
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
-msgstr "Shikpata tay tina"
+msgstr "Shikpata ken itztuk"
 
 msgid "Use Facebook as:"
-msgstr ""
+msgstr "Shikwi Ishkalamat ken:"
 
 #. %d stands for a number, no need to translate it
 msgid "View all %d comments"
@@ -558,7 +537,7 @@ msgstr "Fojfotoj ipal ne Tapepechul"
 
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
-msgstr ""
+msgstr "Yek shiajsi"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
@@ -577,9 +556,8 @@ msgid "Yesterday at %s"
 msgstr "Yalua ka %s"
 
 #. %a stands for something like "4 others"
-#, fuzzy
 msgid "You and %a like this."
-msgstr "%a ingustoj ini."
+msgstr "Taja wan uk %a anmugustoj ini."
 
 msgid "You like this."
 msgstr "Mugustoj ini."
