@@ -523,7 +523,7 @@ msgstr "Shikpata Tay Tinatuk Mupanpa"
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
-msgstr "Shikpata ken itztuk"
+msgstr "Shikpata ken ijtuk"
 
 msgid "Use Facebook as:"
 msgstr "Shikwi Ishkalamat ken:"
