@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
+"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
 "PO-Revision-Date: 2012-03-05 21:50:27-06:00\n"
 "Last-Translator: Fulup Jakez\n"
 "Language-Team: Brezhoneg\n"
@@ -153,7 +153,7 @@ msgstr "Mignoned tostañ"
 msgid "Comment"
 msgstr "Poz"
 
-#. Button label; confirm a friend request 
+#. Button label; confirm a friend request
 msgid "Confirm"
 msgstr "Kadarnaat"
 
@@ -343,7 +343,7 @@ msgstr "Notennoù"
 msgid "Notifications"
 msgstr "Embannoù"
 
-#. Button label; postpone confirmation of a friend request 
+#. Button label; postpone confirmation of a friend request
 msgid "Not Now"
 msgstr "Diwezhatoc'hik"
 

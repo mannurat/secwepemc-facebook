@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
+"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
 "PO-Revision-Date: 2012-02-21 22:04:27-06:00\n"
 "Last-Translator: Greg Dickson\n"
 "Language-Team: Kriol\n"
@@ -153,7 +153,7 @@ msgstr "Besfrenmob"
 msgid "Comment"
 msgstr "Raitim samting"
 
-#. Button label; confirm a friend request 
+#. Button label; confirm a friend request
 msgid "Confirm"
 msgstr "Im rait"
 
@@ -343,7 +343,7 @@ msgstr "Enikain stori"
 msgid "Notifications"
 msgstr "Guyu!"
 
-#. Button label; postpone confirmation of a friend request 
+#. Button label; postpone confirmation of a friend request
 msgid "Not Now"
 msgstr "Bambai"
 

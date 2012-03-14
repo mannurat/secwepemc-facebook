@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
+"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
 "PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
 "Last-Translator: Peter Rohloff\n"
 "Language-Team: Kaqchikel\n"
@@ -160,7 +160,7 @@ msgstr "Utziläj taq achib'il"
 msgid "Comment"
 msgstr "Ka'i' oxi' tzij"
 
-#. Button label; confirm a friend request 
+#. Button label; confirm a friend request
 msgid "Confirm"
 msgstr "Jikib'axïk"
 
@@ -355,7 +355,7 @@ msgstr ""
 msgid "Notifications"
 msgstr "Taq tz'iba'nem"
 
-#. Button label; postpone confirmation of a friend request 
+#. Button label; postpone confirmation of a friend request
 msgid "Not Now"
 msgstr "Wakami manäq"
 
