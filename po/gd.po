@@ -6,15 +6,14 @@ msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
-"PO-Revision-Date: 2012-02-28 19:57-0000\n"
+"PO-Revision-Date: 2012-03-14 12:34-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: gd\n"
-"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
-"(n > 2 && n < 20) ? 2 : 3;\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : (n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Virtaal 0.7.1-beta1\n"
 "X-Poedit-Language: Gaelic\n"
 "X-Poedit-Country: UNITED KINGDOM\n"
@@ -31,22 +30,20 @@ msgid "1 share"
 msgstr "Air a cho-roinneadh 1 turas"
 
 #. First two %a's are names, third is something like "5 others"
-#, fuzzy
 msgid "%a, %a and %a like this."
-msgstr "'S toil le %a is %a seo."
+msgstr "'S toil le %a, %a is %a seo."
 
 #. %a is someone's name
 msgid "%a added a new photo."
-msgstr ""
+msgstr "Chuir %d dealbh ùr ris."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
 msgid "%a and %a like this."
 msgstr "'S toil le %a is %a seo."
 
 #. First two as above, and final %a is something like "a link"
-#, fuzzy
 msgid "%a and %a shared %a."
-msgstr "Cho-roinn %a %a."
+msgstr "Cho-roinn %a is %a %a."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -84,7 +81,6 @@ msgid "a few seconds ago"
 msgstr "grunn diogan air ais"
 
 #. For example, "John Doe likes Linux."
-#, fuzzy
 msgid "%a likes %a."
 msgstr "'S toil le %a %a."
 
@@ -163,7 +159,7 @@ msgstr "Dlùth-charaidean"
 msgid "Comment"
 msgstr "Beachd"
 
-#. Button label; confirm a friend request 
+#. Button label; confirm a friend request
 msgid "Confirm"
 msgstr "Dearbh"
 
@@ -207,9 +203,8 @@ msgid "%d people"
 msgstr "%d daoine"
 
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%d seconds ago"
-msgstr "grunn diogan air ais"
+msgstr "%d diog(an) air ais"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
@@ -252,12 +247,11 @@ msgid "Find Friends"
 msgstr "Lorg caraidean"
 
 msgid "Find More Pages"
-msgstr ""
+msgstr "Lorg barrachd dhuilleagan"
 
 #. In search box that lets you search for friends that are available to chat
-#, fuzzy
 msgid "Friends on Chat"
-msgstr "Caraidean"
+msgstr "Caraidean a' cabadaich"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
@@ -290,15 +284,14 @@ msgid "Likes"
 msgstr "Na 's toil"
 
 msgid "Like This Page"
-msgstr ""
+msgstr "'S toil leam an duilleag seo"
 
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 msgid "link"
 msgstr "ceangal"
 
-#, fuzzy
 msgid "Links"
-msgstr "Na 's toil"
+msgstr "Ceanglaichean"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -338,7 +331,7 @@ msgid "Most Recent"
 msgstr "An fheadhainn as ùire"
 
 msgid "Music"
-msgstr ""
+msgstr "Ceòl"
 
 msgid "New Group..."
 msgstr "Buidheann ùr..."
@@ -351,12 +344,12 @@ msgid "News Feed"
 msgstr "Inbhir nan naidheachd"
 
 msgid "Notes"
-msgstr ""
+msgstr "Nòtaichean"
 
 msgid "Notifications"
 msgstr "Brathan"
 
-#. Button label; postpone confirmation of a friend request 
+#. Button label; postpone confirmation of a friend request
 msgid "Not Now"
 msgstr "Chan ann an-dràsta"
 
@@ -392,9 +385,8 @@ msgid "Places"
 msgstr "Àitichean"
 
 #. Appears in left-hand navigation for some users
-#, fuzzy
 msgid "Pokes"
-msgstr "Na 's toil"
+msgstr "Brogaidhean"
 
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
@@ -410,9 +402,8 @@ msgstr "Roghainnean prìobhaideachd"
 msgid "Profile"
 msgstr "Pròifil"
 
-#, fuzzy
 msgid "Questions"
-msgstr "Cum cunntas-bheachd"
+msgstr "Ceistean"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
@@ -449,9 +440,8 @@ msgstr "Seall gach brath"
 
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
-#, fuzzy
 msgid "See Friendship"
-msgstr "Dlùth-charaidean"
+msgstr "An dàimh eadaraibh"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -517,9 +507,8 @@ msgid "Timeline"
 msgstr "Loidhne-ama"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
-#, fuzzy
 msgid "%T near %a"
-msgstr "Cho-roinn %a %a."
+msgstr "%T faisg air %a"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
@@ -543,7 +532,7 @@ msgid "Update Status"
 msgstr "Dè do naidheachd?"
 
 msgid "Use Facebook as:"
-msgstr ""
+msgstr "Cleachd Facebook mar:"
 
 #. %d stands for a number, no need to translate it
 msgid "View all %d comments"
@@ -554,7 +543,7 @@ msgstr "Balla nan dealbhan"
 
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
-msgstr ""
+msgstr "Fàilte ort"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
@@ -654,3 +643,4 @@ msgstr "DiSathairne"
 #. Day of the Week
 msgid "Sunday"
 msgstr "DiDòmhnaich"
+
