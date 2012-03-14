@@ -63,7 +63,7 @@ Close
 Close Friends
 #. Verb. A link under a post that allows you to comment on the post.
 Comment
-#. Button label; confirm a friend request 
+#. Button label; confirm a friend request
 Confirm
 Create an Ad
 #. Link at bottom of home page (under "More")
@@ -153,7 +153,7 @@ New Message
 News Feed
 Notes
 Notifications
-#. Button label; postpone confirmation of a friend request 
+#. Button label; postpone confirmation of a friend request
 Not Now
 #. A link that takes you to the latest posts on your timeline
 Now
