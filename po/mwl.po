@@ -1,0 +1,640 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: XXXX-XX-XX XX:XX-XXXX\n"
+"PO-Revision-Date: 2012-03-15 15:18-0600\n"
+"Last-Translator: José Pedro Ferreira\n"
+"Language-Team: Mirandese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Lines like this one beginning with "#." are comments; no need to translate!
+msgid "1 mutual friend"
+msgstr "1 amigo quemun"
+
+msgid "1 NEW STORY"
+msgstr "1 NUOBA STÓRIA"
+
+#. Appears next to a post; means the post has been shared one time
+msgid "1 share"
+msgstr "1 partilha"
+
+#. First two %a's are names, third is something like "5 others"
+msgid "%a, %a and %a like this."
+msgstr "%a, %a i %a gústan disto."
+
+#. %a is someone's name
+msgid "%a added a new photo."
+msgstr "%a ajuntou un retrato nuobo."
+
+#. First %a is a name, second %a is a name or else something like "6 others"
+msgid "%a and %a like this."
+msgstr "%a i %a gústan disto."
+
+#. First two as above, and final %a is something like "a link"
+msgid "%a and %a shared %a."
+msgstr "%a i %a amostrórun %a."
+
+#. Link at bottom of home page (under "More") to info about Facebook
+msgid "About"
+msgstr "suobre"
+
+msgid "about an hour ago"
+msgstr "alredor de ua hora atrás"
+
+msgid "about a minute ago"
+msgstr "alredor de un minuto atrás"
+
+msgid "Account Settings"
+msgstr "Oupçones"
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on a %a."
+msgstr "%a dixo cousas suobre %a."
+
+msgid "Activity Log"
+msgstr "Muostras de atibidade"
+
+msgid "Add Friend"
+msgstr "Ajuntar amigo"
+
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
+msgid "Add Photo / Video"
+msgstr "Ajuntar retrato / amigo"
+
+#. Link at bottom of home page (under "More") to info about Facebook ads
+msgid "Advertising"
+msgstr "Publicidade"
+
+#. Time stamp on a post. You might also translate as "Just now"
+msgid "a few seconds ago"
+msgstr "hai alguns segundos"
+
+#. For example, "John Doe likes Linux."
+msgid "%a likes %a."
+msgstr "%a guosta de %a."
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a likes a %a."
+msgstr "%a guosta de %a."
+
+#. Always a link. Used in longer sentences like "John Doe shared a link"
+msgid "a link"
+msgstr "ua lhigaçon"
+
+msgid "APPS"
+msgstr "APPS"
+
+msgid "Apps and Games"
+msgstr "Apps i jogos"
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr "%A a las %s"
+
+#. First %a is a person, second one is something like "a link"
+msgid "%a shared %a."
+msgstr "%a patilhou %a."
+
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+msgid "Ask Question"
+msgstr "Poner pregunta"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "%d de %B"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "%d de %B a las %s"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "%d de %B de %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "%d de %B de %Y a las %s"
+
+msgid "Born"
+msgstr "Naciu"
+
+#. Appears below shared items, indicating the original author/creator
+msgid "By:"
+msgstr "Por:"
+
+#. Button label
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
+msgid "Careers"
+msgstr "Oucupaçones"
+
+#. Link that allows you to change the big photo at the top of your timeline
+msgid "Change Cover"
+msgstr "Mudar retrato de capa"
+
+msgid "Chat (Offline)"
+msgstr "Cumbersa (Fuora)"
+
+msgid "Close"
+msgstr "Cerrar"
+
+#. A link that takes you to a list of your closest friends on Facebook
+msgid "Close Friends"
+msgstr "Amigos achigados"
+
+#. Verb. A link under a post that allows you to comment on the post.
+msgid "Comment"
+msgstr "Dezi cousas"
+
+#. Button label; confirm a friend request
+msgid "Confirm"
+msgstr "Cunfirmar"
+
+msgid "Create an Ad"
+msgstr "Amponer publicidade"
+
+#. Link at bottom of home page (under "More")
+msgid "Create a Page"
+msgstr "Amponer página"
+
+msgid "Create Group..."
+msgstr "Amponer grupo..."
+
+#. Link at bottom of home page (under "More") to info for software developers
+msgid "Developers"
+msgstr "Zambulbedores"
+
+#. %d stands for a number, no need to translate it
+msgid "%d hours ago"
+msgstr "Hai %d horas"
+
+#. %d stands for a number, no need to translate it
+msgid "%d minutes ago"
+msgstr "Hai %d minutos"
+
+#. %d stands for a number, no need to translate it
+msgid "%d mutual friends"
+msgstr "%d amigo quemuns"
+
+#. %d stands for a number, no need to translate it
+msgid "%d NEW STORIES"
+msgstr "%d STÓRIAS NUOBAS"
+
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
+msgid "%d others"
+msgstr "%d outros"
+
+#. %d stands for a number; used in sentences like "%d people like this."
+msgid "%d people"
+msgstr "%d pessonas"
+
+#. %d stands for a number, no need to translate it
+msgid "%d seconds ago"
+msgstr "Hai %d segundos"
+
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
+msgid "%d shares"
+msgstr "%d partilha"
+
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
+msgid "Edit Options"
+msgstr "Eiditar oupciones"
+
+#. Attached to each post on your personal timeline
+msgid "Edit or Remove"
+msgstr "Eiditar ou botar fuora"
+
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+msgid "English (US)"
+msgstr "Mirandés"
+
+#. In the "New Message" dialog
+msgid "Enter a friend's name or email address"
+msgstr "Poner l nome de un amigo ou cuntato"
+
+#. A link to a list of events that you've been invited to
+msgid "Events"
+msgstr "Acuntecimientos"
+
+#. A link that shows you a list of your relatives on Facebook
+msgid "Family"
+msgstr "Parientes"
+
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
+msgid "FAVORITES"
+msgstr "PREFERIDOS"
+
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
+msgid "Find Friends"
+msgstr "Achas amigos"
+
+msgid "Find More Pages"
+msgstr "Achar mais páginas"
+
+#. In search box that lets you search for friends that are available to chat
+msgid "Friends on Chat"
+msgstr "Amigos a la cumbersa"
+
+#. People who have asked to be your friend on Facebook; top left of screen
+msgid "Friend Requests"
+msgstr "Pedidos de amizade"
+
+#. A link that takes you to a list of all your Facebook friends
+msgid "Friends"
+msgstr "Amigos"
+
+msgid "GROUPS"
+msgstr "GRUPOS"
+
+msgid "Help"
+msgstr "Ajuda"
+
+#. Link that takes you to your home timeline; always visible at top-right
+msgid "Home"
+msgstr "Casa"
+
+msgid "Life Event"
+msgstr "Acuntecimiento"
+
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
+msgid "Like"
+msgstr "Guosto"
+
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
+msgid "Likes"
+msgstr "Guostos"
+
+msgid "Like This Page"
+msgstr "Gostar desta página"
+
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+msgid "link"
+msgstr "Lhicaçon"
+
+msgid "Links"
+msgstr "Lhigaçones"
+
+#. Heading above your lists of friends ("Work", "Family", etc.)
+msgid "LISTS"
+msgstr "LHISTAS"
+
+msgid "Log Out"
+msgstr "Salir"
+
+#. Link to a map of the places someone has been
+msgid "Map"
+msgstr "Mapa"
+
+#. In the "New Message" dialog
+msgid "Message:"
+msgstr "Mensaige:"
+
+msgid "Messages"
+msgstr "Mensaiges"
+
+#. Photographs uploaded from someone's mobile device
+msgid "Mobile Uploads"
+msgstr "Atualizaçones móbeles"
+
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
+msgid "More"
+msgstr "Mais"
+
+msgid "MORE"
+msgstr "MAIS"
+
+#. Appears at the bottom of your home time line; click to load more posts
+msgid "More Stories"
+msgstr "Mais Stórias"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Most Recent"
+msgstr "Mais reciente"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "New Group..."
+msgstr "Grupo nuobo..."
+
+msgid "New Message"
+msgstr "Mensaige nuoba"
+
+#. Appears in left-hand navigation of home page
+msgid "News Feed"
+msgstr "Lhista de amboras"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Notifications"
+msgstr "Chamadas de atento"
+
+#. Button label; postpone confirmation of a friend request
+msgid "Not Now"
+msgstr "Agora nó"
+
+#. A link that takes you to the latest posts on your timeline
+msgid "Now"
+msgstr "Agora"
+
+msgid "PAGES"
+msgstr "PÁGINAS"
+
+msgid "People who like this"
+msgstr "Pessonas que gústan disto"
+
+msgid "People You May Know"
+msgstr "Pessonas que talbeç conheças"
+
+msgid "Photo"
+msgstr "Retrato"
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+msgid "photo"
+msgstr "retrato"
+
+msgid "Photos"
+msgstr "Retratos"
+
+#. Link that allows you to "check in" somewhere
+msgid "Place"
+msgstr "Sítio"
+
+#. Appears, e.g., on your Timeline, showing places you visited during the year
+msgid "Places"
+msgstr "Sítios"
+
+#. Appears in left-hand navigation for some users
+msgid "Pokes"
+msgstr "Toque"
+
+#. Always a link. Used in longer sentences, like "%a commented on a post."
+msgid "post"
+msgstr "puosta"
+
+#. Link at the bottom of home page to Facebook's privacy policy
+msgid "Privacy"
+msgstr "Pribacidade"
+
+msgid "Privacy Settings"
+msgstr "Oupçones de pribacidade"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Questions"
+msgstr "Questones"
+
+#. Box near the top of your personal timeline showing your recent actions on FB
+msgid "Recent Activity"
+msgstr "Atibidade reciente"
+
+msgid "Recommended Pages"
+msgstr "Páginas recomendadas"
+
+#. When you share a link in a comment, use this to remove the preview image
+msgid "Remove Preview"
+msgstr "Tirar prebison"
+
+#. Option on every post on your personal timeline
+msgid "Resize"
+msgstr "Mudar tamanho"
+
+#. Text that appears in the search box at the top of the page
+msgid "Search"
+msgstr "Achar"
+
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
+msgid "See All"
+msgstr "Ber Todos"
+
+#. In the drop-down menu with recent Friend Requests
+msgid "See All Friend Requests"
+msgstr "Ber to ls pedidos de amisade"
+
+msgid "See All Messages"
+msgstr "Ber to las mensaiges"
+
+msgid "See All Notifications"
+msgstr "Ber to las chamadas de atento"
+
+#. A link that shows interactions and photos involving two Facebook friends
+#. One place it appears is in the "gear" menu on a friend's profile
+msgid "See Friendship"
+msgstr "Ber Amisade"
+
+#. See more of a post that was truncated because it was very long
+msgid "See More"
+msgstr "Ber Mais"
+
+#. Link that appears under a post in another language; click it to translate
+msgid "See Translation"
+msgstr "Ber traducion"
+
+#. Label on button in "New Message" dialog to send the message
+msgid "Send"
+msgstr "Mandar"
+
+#. Link that opens the "New Message" dialog
+msgid "Send a New Message"
+msgstr "Mandar nuoba mensaige"
+
+#. Verb. A link that allows you to share a post with your friends
+msgid "Share"
+msgstr "Partilhar"
+
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "%a guosta desto."
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "%a guosta disto."
+
+#. A link that allows your to sort posts by "most recent" or "top stories"
+msgid "SORT"
+msgstr "OURDENAR"
+
+#. Appears above paid advertisements
+msgid "Sponsored"
+msgstr "Pago"
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+msgid "status"
+msgstr "estado"
+
+#. This is a Facebook "status update", not a relationship status
+msgid "Status"
+msgstr "Estado"
+
+#. Top of profile, after Friends, Photos, Map, ...
+msgid "Subscriptions"
+msgstr "Suscriçones"
+
+msgid "Tag Friends"
+msgstr "Marcar amigos"
+
+#. Link at the bottom of home page to Facebook's "Terms of Service"
+msgid "Terms"
+msgstr "Cundiçones"
+
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
+msgid "Ticker"
+msgstr "Amboras anstantáneas"
+
+msgid "Timeline"
+msgstr "Cronologie"
+
+#. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
+msgid "%T near %a"
+msgstr "%T cerca de %a"
+
+#. Specifies recipient when you send a private message
+msgid "To:"
+msgstr "Para:"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Top Stories"
+msgstr "Stórias mais amportantes"
+
+#. Verb. See "Like"
+msgid "Unlike"
+msgstr "Zgostar"
+
+#. Label on a button that allows you to edit your personal information
+msgid "Update Info"
+msgstr "Atualizar Anformaçon"
+
+#. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+msgid "Update Status"
+msgstr "Atualizar Estado"
+
+msgid "Use Facebook as:"
+msgstr "Ousar Facebook cumo:"
+
+#. %d stands for a number, no need to translate it
+msgid "View all %d comments"
+msgstr "Ber to ls %d comentairos"
+
+msgid "Wall Photos"
+msgstr "Retratos de la Parede"
+
+#. Appears in left-hand navigation for new users
+msgid "Welcome"
+msgstr "Bien benido"
+
+#. Main prompt when you enter in a new status update
+msgid "What's on your mind?"
+msgstr "An que pensas?"
+
+#. Prompt when you comment on a post
+msgid "Write a comment..."
+msgstr "Screbir un comentairo..."
+
+#. Appears next to a post or comment as a timestamp
+msgid "Yesterday"
+msgstr "Onte"
+
+#. Appears next to a post or comment as a timestamp; %s is the time of day
+msgid "Yesterday at %s"
+msgstr "Onte a las %s"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "Tu i %a gústan disto."
+
+msgid "You like this."
+msgstr "Tu guostas disto."
+
+#. Month Name
+msgid "January"
+msgstr "janeiro"
+
+#. Month Name
+msgid "February"
+msgstr "febreiro"
+
+#. Month Name
+msgid "March"
+msgstr "márcio"
+
+#. Month Name
+msgid "April"
+msgstr "abril"
+
+#. Month Name
+msgid "May"
+msgstr "maio"
+
+#. Month Name
+msgid "June"
+msgstr "júnio"
+
+#. Month Name
+msgid "July"
+msgstr "júlio"
+
+#. Month Name
+msgid "August"
+msgstr "agosto"
+
+#. Month Name
+msgid "September"
+msgstr "setembre"
+
+#. Month Name
+msgid "October"
+msgstr "outubre"
+
+#. Month Name
+msgid "November"
+msgstr "nobembre"
+
+#. Month Name
+msgid "December"
+msgstr "dezembre"
+
+#. Day of the Week
+msgid "Monday"
+msgstr "segunda"
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr "terça"
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr "quarta"
+
+#. Day of the Week
+msgid "Thursday"
+msgstr "quinta"
+
+#. Day of the Week
+msgid "Friday"
+msgstr "sesta"
+
+#. Day of the Week
+msgid "Saturday"
+msgstr "sábado"
+
+#. Day of the Week
+msgid "Sunday"
+msgstr "deimingo"
+
