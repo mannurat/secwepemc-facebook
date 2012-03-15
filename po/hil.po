@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
+"POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
 "PO-Revision-Date: 2012-02-21 16:58:12-06:00\n"
 "Last-Translator: Francis Dimzon\n"
 "Language-Team: Hiligaynon\n"
@@ -24,23 +24,20 @@ msgid "1 share"
 msgstr "1 ka paambit"
 
 #. First two %a's are names, third is something like "5 others"
-#, fuzzy
 msgid "%a, %a and %a like this."
-msgstr "May %a nga nanamian sini."
+msgstr "Si %a, %a kag %a nanamian sini."
 
 #. %a is someone's name
 msgid "%a added a new photo."
-msgstr ""
+msgstr "Si %a nagdugang sang bag-o nga litrato."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
-#, fuzzy
 msgid "%a and %a like this."
-msgstr "May %a nga nanamian sini."
+msgstr "Si %a kag %a nanamian sini."
 
 #. First two as above, and final %a is something like "a link"
-#, fuzzy
 msgid "%a and %a shared %a."
-msgstr "%d ka paambit"
+msgstr "Si %a kag %a nagpaambit sang %a."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -57,7 +54,7 @@ msgstr "Mga Settings sang Account"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
-msgstr ""
+msgstr "Si %a nagtugda sa isa ka %a."
 
 msgid "Activity Log"
 msgstr "Lista sang Ginpanghimo"
@@ -78,18 +75,16 @@ msgid "a few seconds ago"
 msgstr "mga pila ka gutlo ang nakaligad"
 
 #. For example, "John Doe likes Linux."
-#, fuzzy
 msgid "%a likes %a."
-msgstr "Si %a nanamian sini."
+msgstr "Si %a nanamian sang %a."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-#, fuzzy
 msgid "%a likes a %a."
-msgstr "Si %a nanamian sini."
+msgstr "Si %a nanamian sang isa ka %a."
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
-msgstr ""
+msgstr "isa ka link"
 
 msgid "APPS"
 msgstr ""
@@ -102,9 +97,8 @@ msgid "%A at %s"
 msgstr "%A alas %s"
 
 #. First %a is a person, second one is something like "a link"
-#, fuzzy
 msgid "%a shared %a."
-msgstr "%d ka paambit"
+msgstr "Si %a nagpaambit sang %a."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -159,9 +153,9 @@ msgstr "Mga Suod Nga Kaabyanan"
 msgid "Comment"
 msgstr "Magtugda"
 
-#. Button label; confirm a friend request
+#. Button label; confirm a friend request 
 msgid "Confirm"
-msgstr ""
+msgstr "Batunon"
 
 msgid "Create an Ad"
 msgstr "Maghimo sang Pasayod"
@@ -195,23 +189,21 @@ msgstr "%d ka MGA BAG-O NGA ISTORYA"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
-#, fuzzy
 msgid "%d others"
-msgstr "%d ka paambit"
+msgstr "%d ka iban pa"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
 msgstr "%d ka tawo"
 
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%d seconds ago"
 msgstr "mga pila ka gutlo ang nakaligad"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "%d shares"
-msgstr "%d ka paambit"
+msgstr "%d ka mga paambit"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -249,12 +241,11 @@ msgid "Find Friends"
 msgstr "Mangita sang mga Kaabyanan"
 
 msgid "Find More Pages"
-msgstr ""
+msgstr "Mangita sang dugang pa nga mga Pahina"
 
 #. In search box that lets you search for friends that are available to chat
-#, fuzzy
 msgid "Friends on Chat"
-msgstr "Mga Kaabyanan"
+msgstr "Mga Kaabyanan nga Mahimo Sugilanonon"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
@@ -290,11 +281,9 @@ msgid "Like This Page"
 msgstr "Nanamian ka sini nga Pahina"
 
 #. Always a link. Used in longer sentences, like "%a commented on a link."
-#, fuzzy
 msgid "link"
-msgstr "Ay, indi gali manami"
+msgstr ""
 
-#, fuzzy
 msgid "Links"
 msgstr "Mga Nanamian"
 
@@ -333,10 +322,10 @@ msgstr "Dugang pa nga mga Istorya"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Most Recent"
-msgstr ""
+msgstr "Pinakabag-o"
 
 msgid "Music"
-msgstr ""
+msgstr "Musika"
 
 msgid "New Group..."
 msgstr "Bag-o nga Grupo..."
@@ -352,19 +341,18 @@ msgid "Notes"
 msgstr ""
 
 msgid "Notifications"
-msgstr ""
+msgstr "Mga Pahibalo"
 
-#. Button label; postpone confirmation of a friend request
-#, fuzzy
+#. Button label; postpone confirmation of a friend request 
 msgid "Not Now"
-msgstr "Subong"
+msgstr "Indi Lang Anay"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
 msgstr "Subong"
 
 msgid "PAGES"
-msgstr "MAG PAHIHA"
+msgstr "MGA PAHIHA"
 
 msgid "People who like this"
 msgstr "Mga tawo nga nanamian sini"
@@ -376,9 +364,8 @@ msgid "Photo"
 msgstr "Litrato"
 
 #. Always a link. Used in longer sentences, like "%a commented on a photo."
-#, fuzzy
 msgid "photo"
-msgstr "Litrato"
+msgstr "litrato"
 
 msgid "Photos"
 msgstr "Mga Litrato"
@@ -392,9 +379,8 @@ msgid "Places"
 msgstr "Mga Lugar"
 
 #. Appears in left-hand navigation for some users
-#, fuzzy
 msgid "Pokes"
-msgstr "Mga Nanamian"
+msgstr "Mga Pagdukol"
 
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
@@ -410,9 +396,8 @@ msgstr "Settings sang Husa"
 msgid "Profile"
 msgstr ""
 
-#, fuzzy
 msgid "Questions"
-msgstr "Mamangkot"
+msgstr "Mga Pamangkot"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
@@ -438,21 +423,19 @@ msgid "See All"
 msgstr "Lantawon Tanan"
 
 #. In the drop-down menu with recent Friend Requests
-#, fuzzy
 msgid "See All Friend Requests"
-msgstr "Mga Pangabay Para Mangin Abyan"
+msgstr "Tanan Ang Mga Pangabay Para Mangin Abyan"
 
 msgid "See All Messages"
-msgstr "Lantawon Ang Tanan Nga Mga Mensahe"
+msgstr "Tanan Nga Mga Mensahe"
 
 msgid "See All Notifications"
-msgstr ""
+msgstr "Tanan Nga Mga Pahibalo"
 
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
-#, fuzzy
 msgid "See Friendship"
-msgstr "Mga Suod Nga Kaabyanan"
+msgstr "Lantawon Ang Pag-abyanay"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -518,18 +501,16 @@ msgid "Timeline"
 msgstr ""
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
-#, fuzzy
 msgid "%T near %a"
-msgstr "%d ka paambit"
+msgstr "Mga %T malapit sa %a"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Para kay:"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
-#, fuzzy
 msgid "Top Stories"
-msgstr "Dugang pa nga mga Istorya"
+msgstr "Nagapanguna nga mga Istorya"
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -556,7 +537,7 @@ msgstr "Mga Litrato sa Wall"
 
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
-msgstr ""
+msgstr "Pag-abiabi"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
@@ -575,9 +556,8 @@ msgid "Yesterday at %s"
 msgstr "Kagapon alas %s"
 
 #. %a stands for something like "4 others"
-#, fuzzy
 msgid "You and %a like this."
-msgstr "Nanamian mo ini."
+msgstr "Ikaw kag %a nanamian sini."
 
 msgid "You like this."
 msgstr "Nanamian mo ini."
