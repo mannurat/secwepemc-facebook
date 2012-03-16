@@ -31,7 +31,7 @@ to English, etc.
 | ga | en | Irish | Gaeilge | 1.0.0 | For testing only | Kevin Scannell |
 | gd | en | Scottish Gaelic | Gàidhlig | 1.0.3 | "http://userscripts.org/scripts/show/126511":http://userscripts.org/scripts/show/126511 | Michael Bauer |
 | gv | en | Manx Gaelic | Gaelg | 1.0.0 | "http://userscripts.org/scripts/show/127270":http://userscripts.org/scripts/show/127270 | Chris Sheard |
-| hil | en | Hiligaynon | Hiligaynon | 1.0.3 | "http://userscripts.org/scripts/show/127142":http://userscripts.org/scripts/show/127142 | Francis Dimzon, Eliodora Dimzon, Edgar Siscar, Ofelia Libo-on-Salaya, Blomar Rain Catipunan, Essan Labos, Emmanuel Lerona, Ruben Magan Gamala |
+| hil | en | Hiligaynon | Hiligaynon | 1.0.4 | "http://userscripts.org/scripts/show/127142":http://userscripts.org/scripts/show/127142 | Francis Dimzon, Eliodora Dimzon, Edgar Siscar, Ofelia Libo-on-Salaya, Blomar Rain Catipunan, Essan Labos, Emmanuel Lerona, Ruben Magan Gamala |
 | ht | fr | Haitian Creole | Kreyòl Ayisyen | 1.0.0 | Not yet released | Jean Came Poulard |
 | ht-x-en | en | Haitian Creole | Kreyòl Ayisyen | 1.0.0 | "http://userscripts.org/scripts/show/126548":http://userscripts.org/scripts/show/126548 | Jean Came Poulard |
 | mwl | es | Mirandese | Mirandés | 1.0.0 | Not yet released | José Pedro Ferreira |
