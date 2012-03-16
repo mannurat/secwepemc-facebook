@@ -60,7 +60,7 @@ msgid "Activity Log"
 msgstr "Lista sang Ginpanghimo"
 
 msgid "Add Friend"
-msgstr "Igugang nga Abyan"
+msgstr "Idugang nga Abyan"
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
