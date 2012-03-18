@@ -41,7 +41,7 @@ to English, etc.
 | ppl-x-en | en | Nawat | Nawat | 1.0.0 | "http://userscripts.org/scripts/show/126588":http://userscripts.org/scripts/show/126588 | Alan King |
 | rop | en | Kriol | Kriol | 1.0.1 | "http://userscripts.org/scripts/show/126589":http://userscripts.org/scripts/show/126589 | Greg Dickson |
 | shs | en | Secwepemctsín | Secwepemctsín | 1.0.1 | "http://userscripts.org/scripts/show/127738":http://userscripts.org/scripts/show/127738 | Neskie Manuel, Gabe Archie, Carl Archie |
-| son | en | Songhay | Soŋay | 1.0.0 | Not yet released | Mohomodou Houssouba, Abdoul Cissé |
+| son | en | Songhay | Soŋay | 1.0.1 | Not yet released | Mohomodou Houssouba, Abdoul Cissé |
 | yi | en | Yiddish | ייִדיש | 1.0.0 | Not yet released | Jordan Kutzik |
 
 
