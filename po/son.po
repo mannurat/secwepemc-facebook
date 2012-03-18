@@ -40,9 +40,8 @@ msgid "%a and %a like this."
 msgstr "%a nda %a ga baa woo."
 
 #. First two as above, and final %a is something like "a link"
-#, fuzzy
 msgid "%a and %a shared %a."
-msgstr "%a na %a žemna."
+msgstr "%a nda %a na %a žemna."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -508,9 +507,8 @@ msgid "Timeline"
 msgstr "Waatibii"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
-#, fuzzy
 msgid "%T near %a"
-msgstr "%a na %a Zemna."
+msgstr "%T %a here."
 
 #. Specifies recipient when you send a private message
 msgid "To:"
