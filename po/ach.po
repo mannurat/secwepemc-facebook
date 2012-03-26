@@ -1,0 +1,425 @@
+# Translation of Facebook into Luganda
+# Copyright (C) 2012 Kevin P. Scannell
+# DAVID OJARA PRINCE <brianfordug@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
+"PO-Revision-Date: 2012-03-11 20:15-0700\n"
+"Last-Translator: DAVID OJARA PRINCE <brianfordug@gmail.com>\n"
+"Language-Team: translation group\n"
+"Language: lg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Virtaal 0.7.0-beta4\n"
+"X-Project-Style: default\n"
+
+msgid "1 mutual friend"
+msgstr "Larema macok"
+
+msgid "1 NEW STORY"
+msgstr "Lok mutime nyen"
+
+msgid "1 share"
+msgstr "Nywako"
+
+msgid "About"
+msgstr "Lok kom"
+
+msgid "about an hour ago"
+msgstr "Cawa acel mukato "
+
+msgid "about a minute ago"
+msgstr "Dakika acel angec"
+
+msgid "Account Settings"
+msgstr "Tero akaount"
+
+msgid "Activity Log"
+msgstr "Gin later tic"
+
+msgid "Add Friend"
+msgstr "Med Larem"
+
+msgid "Add Photo / Video"
+msgstr "Med cal/Cal ma woto"
+
+msgid "Advertising"
+msgstr "Pokongec"
+
+msgid "a few seconds ago"
+msgstr "Dakika manok mukato"
+
+msgid "APPS"
+msgstr ""
+
+msgid "Apps and Games"
+msgstr "Kit me tuko"
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr ""
+
+msgid "Ask Question"
+msgstr "Peny Lapeny"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "%d %B"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "%d %B at %s"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "%d %B, %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "%d %B, %Y at %s"
+
+msgid "Born"
+msgstr "nywalo"
+
+msgid "By:"
+msgstr "ngadi"
+
+msgid "Cancel"
+msgstr "ngolo"
+
+msgid "Careers"
+msgstr "dog tic"
+
+msgid "Change Cover"
+msgstr "lok ngeye"
+
+msgid "Chat (Offline)"
+msgstr "lok ma pe ikube i yamo"
+
+msgid "Close"
+msgstr "lor"
+
+msgid "Close Friends"
+msgstr "luremi ma cok"
+
+msgid "Comment"
+msgstr "mi tam"
+
+msgid "Create an Ad"
+msgstr "yub Ad"
+
+msgid "Create a Page"
+msgstr "yub pot buk"
+
+msgid "Create Group..."
+msgstr "yub dul"
+
+msgid "Developers"
+msgstr "lodong lobo"
+
+msgid "%d hours ago"
+msgstr "%d cawa ma okato angec"
+
+msgid "%d minutes ago"
+msgstr "%d dakika ma okato angec"
+
+msgid "%d mutual friends"
+msgstr "lurem ma inywako kwedgi jami"
+
+msgid "%d NEW STORIES"
+msgstr "%d lok manyen ma okat"
+
+msgid "%d people"
+msgstr "%d dano"
+
+msgid "%d shares"
+msgstr "%d cul"
+
+msgid "Edit Options"
+msgstr "yun yo mukene"
+
+msgid "Edit or Remove"
+msgstr "yubi onyo kwany"
+
+msgid "Enter a friend's name or email address"
+msgstr "ket nying laremi onyo kabedo me kubene i yamo"
+
+msgid "Events"
+msgstr "jami ma time"
+
+msgid "Family"
+msgstr "gang"
+
+msgid "FAVORITES"
+msgstr "jami maimaro"
+
+msgid "Find Friends"
+msgstr "yeny lurem"
+
+msgid "Friend Requests"
+msgstr "leg pi larem"
+
+msgid "Friends"
+msgstr "Lurem"
+
+msgid "GROUPS"
+msgstr "dule"
+
+msgid "Help"
+msgstr "kony"
+
+msgid "Home"
+msgstr "Gang"
+
+msgid "Life Event"
+msgstr "kit me kwo"
+
+msgid "Like"
+msgstr "maro"
+
+msgid "Likes"
+msgstr "jami ma imaro"
+
+msgid "LISTS"
+msgstr "kit ma kiryeo kwede"
+
+msgid "Log Out"
+msgstr "Juk woko"
+
+msgid "Map"
+msgstr "kit me yubo"
+
+msgid "Message:"
+msgstr "kwena"
+
+msgid "Messages"
+msgstr "kwena mapol"
+
+msgid "More"
+msgstr "Mukene"
+
+msgid "MORE"
+msgstr "MUKENE"
+
+msgid "More Stories"
+msgstr "lok ma okato mukene"
+
+msgid "New Group..."
+msgstr "Dul manyen"
+
+msgid "New Message"
+msgstr "kwena manyen"
+
+msgid "News Feed"
+msgstr "adwogi me lok manyen"
+
+msgid "Now"
+msgstr "kombedi"
+
+msgid "PAGES"
+msgstr "Pot buk mapol"
+
+msgid "People who like this"
+msgstr "Jo ma gimaro man"
+
+msgid "People You May Know"
+msgstr "dano mogo ma nyo ingeyo"
+
+msgid "Photo"
+msgstr "cal"
+
+msgid "Photos"
+msgstr "cal mapol"
+
+msgid "Place"
+msgstr "kabedo"
+
+msgid "Places"
+msgstr "kabedo"
+
+msgid "Privacy"
+msgstr "mung"
+
+msgid "Privacy Settings"
+msgstr "tero imung"
+
+msgid "Profile"
+msgstr "jami mapat pat ma tye"
+
+msgid "Recent Activity"
+msgstr "tic ma otime cok-cok"
+
+msgid "Recommended Pages"
+msgstr "pot buk ma kicwako"
+
+msgid "Remove Preview"
+msgstr "kwany gin ma ineno"
+
+msgid "Resize"
+msgstr "dwok dite odoco"
+
+msgid "Search"
+msgstr "yeny"
+
+msgid "See All"
+msgstr "nen weng"
+
+msgid "See All Messages"
+msgstr "nen kwena weng"
+
+msgid "See More"
+msgstr "nen mukene"
+
+msgid "See Translation"
+msgstr "nen lagony"
+
+msgid "Send"
+msgstr "cwal"
+
+msgid "Send a New Message"
+msgstr "cwal kwena manyen"
+
+msgid "Share"
+msgstr "nywako"
+
+msgid "%a likes this."
+msgstr "%a maro man"
+
+msgid "%a like this."
+msgstr "$a rom ki man"
+
+msgid "SORT"
+msgstr "yero"
+
+msgid "Sponsored"
+msgstr "culo pire"
+
+msgid "Status"
+msgstr "kit ma tye kwede"
+
+msgid "Subscriptions"
+msgstr "ajog"
+
+msgid "Tag Friends"
+msgstr "lurem ma imaro lok kwedgi"
+
+msgid "Terms"
+msgstr "kite"
+
+msgid "Ticker"
+msgstr "gin ma omoko"
+
+msgid "Timeline"
+msgstr "cawa me agiki"
+
+msgid "To:"
+msgstr "bot"
+
+msgid "Unlike"
+msgstr "pe kumeno"
+
+msgid "Update Info"
+msgstr "ket lok"
+
+msgid "Update Status"
+msgstr "ket kit ma tye kwede"
+
+msgid "View all %d comments"
+msgstr "nen %d tam weng"
+
+msgid "Wall Photos"
+msgstr "cal me kor ot"
+
+msgid "What's on your mind?"
+msgstr "itye katamo ng"
+
+msgid "Write a comment..."
+msgstr "coo tami"
+
+msgid "Yesterday"
+msgstr "laworo"
+
+msgid "Yesterday at %s"
+msgstr "laworo i %s"
+
+msgid "You like this."
+msgstr "maro man"
+
+#. Month Name
+msgid "January"
+msgstr "dwe me acel"
+
+#. Month Name
+msgid "February"
+msgstr "dwe me aryo"
+
+#. Month Name
+msgid "March"
+msgstr "dwe me adek"
+
+#. Month Name
+msgid "April"
+msgstr "dwe me angwen"
+
+#. Month Name
+msgid "May"
+msgstr "dwe me abic"
+
+#. Month Name
+msgid "June"
+msgstr "dwe me abicel"
+
+#. Month Name
+msgid "July"
+msgstr "dwe me abiro"
+
+#. Month Name
+msgid "August"
+msgstr "dwe me aboro"
+
+#. Month Name
+msgid "September"
+msgstr "dwe me abonwen"
+
+#. Month Name
+msgid "October"
+msgstr "dwe me apar"
+
+#. Month Name
+msgid "November"
+msgstr "dwe me apar wiye acel"
+
+#. Month Name
+msgid "December"
+msgstr "dwe me apar wiye aryo"
+
+#. Day of the Week
+msgid "Monday"
+msgstr "ceng baraja"
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr "cng aryo"
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr "ceng adek"
+
+#. Day of the Week
+msgid "Thursday"
+msgstr "ceng angwen"
+
+#. Day of the Week
+msgid "Friday"
+msgstr "ceng abic"
+
+#. Day of the Week
+msgid "Saturday"
+msgstr "ceng abicel"
+
+#. Day of the Week
+msgid "Sunday"
+msgstr "ceng cabit"
