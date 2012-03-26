@@ -1,0 +1,640 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
+"PO-Revision-Date: 2012-03-25 10:34:52-05:00\n"
+"Last-Translator: Tony Scott Warren\n"
+"Language-Team: Jèrriais\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Lines like this one beginning with "#." are comments; no need to translate!
+msgid "1 mutual friend"
+msgstr "1 anmîn châré"
+
+msgid "1 NEW STORY"
+msgstr "1 nouvelle histouaithe"
+
+#. Appears next to a post; means the post has been shared one time
+msgid "1 share"
+msgstr "Châré 1 fais"
+
+#. First two %a's are names, third is something like "5 others"
+msgid "%a, %a and %a like this."
+msgstr "%a, %a et %a aiment chennechîn"
+
+#. %a is someone's name
+msgid "%a added a new photo."
+msgstr "%a ajouôtit un neu photo"
+
+#. First %a is a name, second %a is a name or else something like "6 others"
+msgid "%a and %a like this."
+msgstr "%a et %a aiment chennechîn"
+
+#. First two as above, and final %a is something like "a link"
+msgid "%a and %a shared %a."
+msgstr "%a et %a chârîtent %a"
+
+#. Link at bottom of home page (under "More") to info about Facebook
+msgid "About"
+msgstr "Entouor"
+
+msgid "about an hour ago"
+msgstr "Y'a vèrs eune heuthe"
+
+msgid "about a minute ago"
+msgstr "Y'a vèrs eune minnute"
+
+msgid "Account Settings"
+msgstr "Êtal'lie de compte"
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on a %a."
+msgstr "%a fit un commentaithe sus %a"
+
+msgid "Activity Log"
+msgstr "R'cord d'activité"
+
+msgid "Add Friend"
+msgstr "Ajouôte comme anmîn"
+
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
+msgid "Add Photo / Video"
+msgstr "Ajouôte photo / vidgo"
+
+#. Link at bottom of home page (under "More") to info about Facebook ads
+msgid "Advertising"
+msgstr "Annonce"
+
+#. Time stamp on a post. You might also translate as "Just now"
+msgid "a few seconds ago"
+msgstr "Y'a tchiques s'gondes"
+
+#. For example, "John Doe likes Linux."
+msgid "%a likes %a."
+msgstr "%a aime %a"
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a likes a %a."
+msgstr "%a aime %a"
+
+#. Always a link. Used in longer sentences like "John Doe shared a link"
+msgid "a link"
+msgstr "un lian"
+
+msgid "APPS"
+msgstr "Applyicâtions"
+
+msgid "Apps and Games"
+msgstr "Applyicâtions et gammes"
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr "%A à %s"
+
+#. First %a is a person, second one is something like "a link"
+msgid "%a shared %a."
+msgstr "%a chârit %a"
+
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+msgid "Ask Question"
+msgstr "D'mande eune tchestchion"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "%d %B"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "%d %B à %s"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "%d %B %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "%d %B %Y à %s"
+
+# msgstr "né" for a male or "née" for a female
+msgid "Born"
+msgstr "né"
+
+#. Appears below shared items, indicating the original author/creator
+msgid "By:"
+msgstr "Par"
+
+#. Button label
+msgid "Cancel"
+msgstr "Suprînme"
+
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
+msgid "Careers"
+msgstr "Carriéthes"
+
+#. Link that allows you to change the big photo at the top of your timeline
+msgid "Change Cover"
+msgstr "Change dé couvèrtuthe"
+
+msgid "Chat (Offline)"
+msgstr "D'vis (hors lîngne)"
+
+msgid "Close"
+msgstr "Freunme"
+
+#. A link that takes you to a list of your closest friends on Facebook
+msgid "Close Friends"
+msgstr "Bouôns anmîns"
+
+#. Verb. A link under a post that allows you to comment on the post.
+msgid "Comment"
+msgstr "Commentaithe"
+
+#. Button label; confirm a friend request 
+msgid "Confirm"
+msgstr "Confirme"
+
+msgid "Create an Ad"
+msgstr "Crée eune Annonche"
+
+#. Link at bottom of home page (under "More")
+msgid "Create a Page"
+msgstr "Crée eune Page"
+
+msgid "Create Group..."
+msgstr "Crée eune Groupe"
+
+#. Link at bottom of home page (under "More") to info for software developers
+msgid "Developers"
+msgstr "Dêveloppeurs"
+
+#. %d stands for a number, no need to translate it
+msgid "%d hours ago"
+msgstr "Y'a %d heuthes"
+
+#. %d stands for a number, no need to translate it
+msgid "%d minutes ago"
+msgstr "Y'a %d minnutes"
+
+#. %d stands for a number, no need to translate it
+msgid "%d mutual friends"
+msgstr "%d anmîns chârés"
+
+#. %d stands for a number, no need to translate it
+msgid "%d NEW STORIES"
+msgstr "%d NOUVELLES HISTOUAITHES"
+
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
+msgid "%d others"
+msgstr "%d aut's"
+
+#. %d stands for a number; used in sentences like "%d people like this."
+msgid "%d people"
+msgstr "%d gens"
+
+#. %d stands for a number, no need to translate it
+msgid "%d seconds ago"
+msgstr "Y'a %d s'gondes"
+
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
+msgid "%d shares"
+msgstr "châré %d fais"
+
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
+msgid "Edit Options"
+msgstr "Chouaix d'rédaction"
+
+#. Attached to each post on your personal timeline
+msgid "Edit or Remove"
+msgstr "Éditer ou haller"
+
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+msgid "English (US)"
+msgstr "Jèrriais"
+
+#. In the "New Message" dialog
+msgid "Enter a friend's name or email address"
+msgstr "Entre lé nom ou l'e-mail d'un anmîn"
+
+#. A link to a list of events that you've been invited to
+msgid "Events"
+msgstr "Êvénements"
+
+#. A link that shows you a list of your relatives on Facebook
+msgid "Family"
+msgstr "Fanmil'ye"
+
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
+msgid "FAVORITES"
+msgstr "FAVORIS"
+
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
+msgid "Find Friends"
+msgstr "Trouve d's anmîns"
+
+msgid "Find More Pages"
+msgstr "Trouve d'aut's pâges"
+
+#. In search box that lets you search for friends that are available to chat
+msgid "Friends on Chat"
+msgstr "Anmîns sus D'vis"
+
+#. People who have asked to be your friend on Facebook; top left of screen
+msgid "Friend Requests"
+msgstr "D'mandes d'anmîn"
+
+#. A link that takes you to a list of all your Facebook friends
+msgid "Friends"
+msgstr "Anmîns"
+
+msgid "GROUPS"
+msgstr "GROUPES"
+
+msgid "Help"
+msgstr "Aîgue"
+
+#. Link that takes you to your home timeline; always visible at top-right
+msgid "Home"
+msgstr "Siez-mé"
+
+msgid "Life Event"
+msgstr "Êvénement d'la vie"
+
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
+msgid "Like"
+msgstr "Aime"
+
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
+msgid "Likes"
+msgstr "Choses aîmées"
+
+msgid "Like This Page"
+msgstr "Aime chutte pâge"
+
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+msgid "link"
+msgstr "Lian"
+
+msgid "Links"
+msgstr "Des Lians"
+
+#. Heading above your lists of friends ("Work", "Family", etc.)
+msgid "LISTS"
+msgstr "LISTES"
+
+msgid "Log Out"
+msgstr "Sorti"
+
+#. Link to a map of the places someone has been
+msgid "Map"
+msgstr "La carte"
+
+#. In the "New Message" dialog
+msgid "Message:"
+msgstr "M'sage"
+
+msgid "Messages"
+msgstr "Des m'sages"
+
+#. Photographs uploaded from someone's mobile device
+msgid "Mobile Uploads"
+msgstr "Abantchi dé téléphone d'pouchette"
+
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
+msgid "More"
+msgstr "Pus acouo"
+
+msgid "MORE"
+msgstr "PUS ACOUO"
+
+#. Appears at the bottom of your home time line; click to load more posts
+msgid "More Stories"
+msgstr "Pus d'histouaithes"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Most Recent"
+msgstr "Dreines"
+
+msgid "Music"
+msgstr "Mûsique"
+
+msgid "New Group..."
+msgstr "Nouvelle Groupe"
+
+msgid "New Message"
+msgstr "Neu M'sage"
+
+#. Appears in left-hand navigation of home page
+msgid "News Feed"
+msgstr "Les Nouvelles"
+
+msgid "Notes"
+msgstr "Les Notes"
+
+msgid "Notifications"
+msgstr "Les Dgèrnissements"
+
+#. Button label; postpone confirmation of a friend request 
+msgid "Not Now"
+msgstr "Pas à ch't heu"
+
+#. A link that takes you to the latest posts on your timeline
+msgid "Now"
+msgstr "Aniet"
+
+msgid "PAGES"
+msgstr "PAGES"
+
+msgid "People who like this"
+msgstr "Gens tch'aiment chennechîn"
+
+msgid "People You May Know"
+msgstr "Gens qu'tu pouôrrais connaître"
+
+msgid "Photo"
+msgstr "Photo"
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+msgid "photo"
+msgstr "photo"
+
+msgid "Photos"
+msgstr "Des photos"
+
+#. Link that allows you to "check in" somewhere
+msgid "Place"
+msgstr "Endrait"
+
+#. Appears, e.g., on your Timeline, showing places you visited during the year
+msgid "Places"
+msgstr "Endraits"
+
+#. Appears in left-hand navigation for some users
+msgid "Pokes"
+msgstr "Fourgottes"
+
+#. Always a link. Used in longer sentences, like "%a commented on a post."
+msgid "post"
+msgstr "poste"
+
+#. Link at the bottom of home page to Facebook's privacy policy
+msgid "Privacy"
+msgstr "En Privé"
+
+msgid "Privacy Settings"
+msgstr "Êtal'lie Privêment"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Questions"
+msgstr "Tchestchions"
+
+#. Box near the top of your personal timeline showing your recent actions on FB
+msgid "Recent Activity"
+msgstr "Activité dreinement"
+
+msgid "Recommended Pages"
+msgstr "Pages èrquémandés"
+
+#. When you share a link in a comment, use this to remove the preview image
+msgid "Remove Preview"
+msgstr "Ôte la Préveue"
+
+#. Option on every post on your personal timeline
+msgid "Resize"
+msgstr "Raggrandi"
+
+#. Text that appears in the search box at the top of the page
+msgid "Search"
+msgstr "Èrchèrche"
+
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
+msgid "See All"
+msgstr "Vaie Touos"
+
+#. In the drop-down menu with recent Friend Requests
+msgid "See All Friend Requests"
+msgstr "Vaie touos les D'mandes d'Anmîns"
+
+msgid "See All Messages"
+msgstr "Vaie touos les M'sages"
+
+msgid "See All Notifications"
+msgstr "Vaie touos les Notificâtions"
+
+#. A link that shows interactions and photos involving two Facebook friends
+#. One place it appears is in the "gear" menu on a friend's profile
+msgid "See Friendship"
+msgstr "Vaie l'Amiêtchi"
+
+#. See more of a post that was truncated because it was very long
+msgid "See More"
+msgstr "Vaie pus"
+
+#. Link that appears under a post in another language; click it to translate
+msgid "See Translation"
+msgstr "Vaie Traduction"
+
+#. Label on button in "New Message" dialog to send the message
+msgid "Send"
+msgstr "Env'ye"
+
+#. Link that opens the "New Message" dialog
+msgid "Send a New Message"
+msgstr "Env'ye un neu M'sage"
+
+#. Verb. A link that allows you to share a post with your friends
+msgid "Share"
+msgstr "Châre"
+
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "%a aime chennechîn"
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "%a aiment chennechîn"
+
+#. A link that allows your to sort posts by "most recent" or "top stories"
+msgid "SORT"
+msgstr "ARRANGE"
+
+#. Appears above paid advertisements
+msgid "Sponsored"
+msgstr "Sponsorisé"
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+msgid "status"
+msgstr "prestige"
+
+#. This is a Facebook "status update", not a relationship status
+msgid "Status"
+msgstr "Prestige"
+
+#. Top of profile, after Friends, Photos, Map, ...
+msgid "Subscriptions"
+msgstr "Souscriptions"
+
+msgid "Tag Friends"
+msgstr "Mèrque d's Anmîns"
+
+#. Link at the bottom of home page to Facebook's "Terms of Service"
+msgid "Terms"
+msgstr "Conditions"
+
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
+msgid "Ticker"
+msgstr "Nouvelles du coup"
+
+msgid "Timeline"
+msgstr "Rangie d'Temps"
+
+#. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
+msgid "%T near %a"
+msgstr "%T auprès d'%a"
+
+#. Specifies recipient when you send a private message
+msgid "To:"
+msgstr "À"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Top Stories"
+msgstr "Hautes Histouaithes"
+
+#. Verb. See "Like"
+msgid "Unlike"
+msgstr "Dêpliaîsance"
+
+#. Label on a button that allows you to edit your personal information
+msgid "Update Info"
+msgstr "Èrnouvelle l'Înfo"
+
+#. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+msgid "Update Status"
+msgstr "Èrnouvelle Prestige"
+
+msgid "Use Facebook as:"
+msgstr "Fai sèrvi Facebook coumme:"
+
+#. %d stands for a number, no need to translate it
+msgid "View all %d comments"
+msgstr "Vaie touos les %d commentaithes"
+
+msgid "Wall Photos"
+msgstr "Photos d'Muthâle"
+
+#. Appears in left-hand navigation for new users
+msgid "Welcome"
+msgstr "La Beinv'nue"
+
+#. Main prompt when you enter in a new status update
+msgid "What's on your mind?"
+msgstr "À tch'est qu'tu pense?"
+
+#. Prompt when you comment on a post
+msgid "Write a comment..."
+msgstr "Êcris un Commentaithe"
+
+#. Appears next to a post or comment as a timestamp
+msgid "Yesterday"
+msgstr "Hièr"
+
+#. Appears next to a post or comment as a timestamp; %s is the time of day
+msgid "Yesterday at %s"
+msgstr "Hièr à %s"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "Té et %a aiment chennechîn"
+
+msgid "You like this."
+msgstr "Tu'aime chennechîn"
+
+#. Month Name
+msgid "January"
+msgstr "Janvyi"
+
+#. Month Name
+msgid "February"
+msgstr "Févri"
+
+#. Month Name
+msgid "March"
+msgstr "Mar"
+
+#. Month Name
+msgid "April"
+msgstr "Avri"
+
+#. Month Name
+msgid "May"
+msgstr "Mai"
+
+#. Month Name
+msgid "June"
+msgstr "Juîn"
+
+#. Month Name
+msgid "July"
+msgstr "Juilet"
+
+#. Month Name
+msgid "August"
+msgstr "Août"
+
+#. Month Name
+msgid "September"
+msgstr "Septembre"
+
+#. Month Name
+msgid "October"
+msgstr "Octobre"
+
+#. Month Name
+msgid "November"
+msgstr "Novembre"
+
+#. Month Name
+msgid "December"
+msgstr "Dézembre"
+
+#. Day of the Week
+msgid "Monday"
+msgstr "Lundi"
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr "Mardi"
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr "Mêcrédi"
+
+#. Day of the Week
+msgid "Thursday"
+msgstr "Jeudi"
+
+#. Day of the Week
+msgid "Friday"
+msgstr "Vendrédi"
+
+#. Day of the Week
+msgid "Saturday"
+msgstr "Sanm'di"
+
+#. Day of the Week
+msgid "Sunday"
+msgstr "Dînmanche"
