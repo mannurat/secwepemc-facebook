@@ -637,4 +637,3 @@ msgstr "sábado"
 #. Day of the Week
 msgid "Sunday"
 msgstr "deimingo"
-

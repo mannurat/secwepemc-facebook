@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
+"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
 "PO-Revision-Date: 2012-03-15 09:29:52-0500\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Emiliano-Romagnolo\n"
@@ -32,8 +32,9 @@ msgid "%a added a new photo."
 msgstr "%a l'à miss sö'na foto."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
-msgid "A %a e %a agh piäs."
-msgstr ""
+#, fuzzy
+msgid "%a and %a like this."
+msgstr "A %a, %a e %a agh piäs."
 
 #. First two as above, and final %a is something like "a link"
 msgid "%a and %a shared %a."
@@ -153,7 +154,7 @@ msgstr "Amîgh cül e pataja"
 msgid "Comment"
 msgstr "Dì cuèl"
 
-#. Button label; confirm a friend request 
+#. Button label; confirm a friend request
 msgid "Confirm"
 msgstr "Dîgh ad sé"
 
@@ -343,7 +344,7 @@ msgstr "Scaraboc'"
 msgid "Notifications"
 msgstr "Avîs"
 
-#. Button label; postpone confirmation of a friend request 
+#. Button label; postpone confirmation of a friend request
 msgid "Not Now"
 msgstr "Miga adèss"
 

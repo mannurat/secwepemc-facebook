@@ -5,26 +5,47 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
+"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
 "PO-Revision-Date: 2012-03-11 20:15-0700\n"
 "Last-Translator: DAVID OJARA PRINCE <brianfordug@gmail.com>\n"
 "Language-Team: translation group\n"
-"Language: lg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: lg\n"
 "X-Generator: Virtaal 0.7.0-beta4\n"
 "X-Project-Style: default\n"
 
+#. Lines like this one beginning with "#." are comments; no need to translate!
 msgid "1 mutual friend"
 msgstr "Larema macok"
 
 msgid "1 NEW STORY"
 msgstr "Lok mutime nyen"
 
+#. Appears next to a post; means the post has been shared one time
 msgid "1 share"
 msgstr "Nywako"
 
+#. First two %a's are names, third is something like "5 others"
+#, fuzzy
+msgid "%a, %a and %a like this."
+msgstr "$a rom ki man"
+
+#. %a is someone's name
+msgid "%a added a new photo."
+msgstr ""
+
+#. First %a is a name, second %a is a name or else something like "6 others"
+#, fuzzy
+msgid "%a and %a like this."
+msgstr "$a rom ki man"
+
+#. First two as above, and final %a is something like "a link"
+msgid "%a and %a shared %a."
+msgstr ""
+
+#. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
 msgstr "Lok kom"
 
@@ -37,20 +58,41 @@ msgstr "Dakika acel angec"
 msgid "Account Settings"
 msgstr "Tero akaount"
 
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on a %a."
+msgstr ""
+
 msgid "Activity Log"
 msgstr "Gin later tic"
 
 msgid "Add Friend"
 msgstr "Med Larem"
 
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
 msgstr "Med cal/Cal ma woto"
 
+#. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
 msgstr "Pokongec"
 
+#. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
 msgstr "Dakika manok mukato"
+
+#. For example, "John Doe likes Linux."
+#, fuzzy
+msgid "%a likes %a."
+msgstr "%a maro man"
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a likes a %a."
+msgstr "%a maro man"
+
+#. Always a link. Used in longer sentences like "John Doe shared a link"
+msgid "a link"
+msgstr ""
 
 msgid "APPS"
 msgstr ""
@@ -62,6 +104,12 @@ msgstr "Kit me tuko"
 msgid "%A at %s"
 msgstr ""
 
+#. First %a is a person, second one is something like "a link"
+#, fuzzy
+msgid "%a shared %a."
+msgstr "%d cul"
+
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Peny Lapeny"
 
@@ -84,15 +132,19 @@ msgstr "%d %B, %Y at %s"
 msgid "Born"
 msgstr "nywalo"
 
+#. Appears below shared items, indicating the original author/creator
 msgid "By:"
 msgstr "ngadi"
 
+#. Button label
 msgid "Cancel"
 msgstr "ngolo"
 
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
 msgstr "dog tic"
 
+#. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
 msgstr "lok ngeye"
 
@@ -102,66 +154,116 @@ msgstr "lok ma pe ikube i yamo"
 msgid "Close"
 msgstr "lor"
 
+#. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
 msgstr "luremi ma cok"
 
+#. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
 msgstr "mi tam"
+
+#. Button label; confirm a friend request
+msgid "Confirm"
+msgstr ""
 
 msgid "Create an Ad"
 msgstr "yub Ad"
 
+#. Link at bottom of home page (under "More")
 msgid "Create a Page"
 msgstr "yub pot buk"
 
 msgid "Create Group..."
 msgstr "yub dul"
 
+#. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
 msgstr "lodong lobo"
 
+#. %d stands for a number, no need to translate it
 msgid "%d hours ago"
 msgstr "%d cawa ma okato angec"
 
+#. %d stands for a number, no need to translate it
 msgid "%d minutes ago"
 msgstr "%d dakika ma okato angec"
 
+#. %d stands for a number, no need to translate it
 msgid "%d mutual friends"
 msgstr "lurem ma inywako kwedgi jami"
 
+#. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
 msgstr "%d lok manyen ma okat"
 
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
+#, fuzzy
+msgid "%d others"
+msgstr "%d cul"
+
+#. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
 msgstr "%d dano"
 
+#. %d stands for a number, no need to translate it
+#, fuzzy
+msgid "%d seconds ago"
+msgstr "Dakika manok mukato"
+
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
 msgid "%d shares"
 msgstr "%d cul"
 
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
 msgid "Edit Options"
 msgstr "yun yo mukene"
 
+#. Attached to each post on your personal timeline
 msgid "Edit or Remove"
 msgstr "yubi onyo kwany"
 
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+msgid "English (US)"
+msgstr ""
+
+#. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
 msgstr "ket nying laremi onyo kabedo me kubene i yamo"
 
+#. A link to a list of events that you've been invited to
 msgid "Events"
 msgstr "jami ma time"
 
+#. A link that shows you a list of your relatives on Facebook
 msgid "Family"
 msgstr "gang"
 
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
 msgstr "jami maimaro"
 
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
 msgstr "yeny lurem"
 
+msgid "Find More Pages"
+msgstr ""
+
+#. In search box that lets you search for friends that are available to chat
+#, fuzzy
+msgid "Friends on Chat"
+msgstr "Lurem"
+
+#. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
 msgstr "leg pi larem"
 
+#. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
 msgstr "Lurem"
 
@@ -171,41 +273,73 @@ msgstr "dule"
 msgid "Help"
 msgstr "kony"
 
+#. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
 msgstr "Gang"
 
 msgid "Life Event"
 msgstr "kit me kwo"
 
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
 msgid "Like"
 msgstr "maro"
 
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr "jami ma imaro"
 
+msgid "Like This Page"
+msgstr ""
+
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+#, fuzzy
+msgid "link"
+msgstr "pe kumeno"
+
+#, fuzzy
+msgid "Links"
+msgstr "jami ma imaro"
+
+#. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "kit ma kiryeo kwede"
 
 msgid "Log Out"
 msgstr "Juk woko"
 
+#. Link to a map of the places someone has been
 msgid "Map"
 msgstr "kit me yubo"
 
+#. In the "New Message" dialog
 msgid "Message:"
 msgstr "kwena"
 
 msgid "Messages"
 msgstr "kwena mapol"
 
+#. Photographs uploaded from someone's mobile device
+msgid "Mobile Uploads"
+msgstr ""
+
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
 msgstr "Mukene"
 
 msgid "MORE"
 msgstr "MUKENE"
 
+#. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
 msgstr "lok ma okato mukene"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Most Recent"
+msgstr ""
+
+msgid "Music"
+msgstr ""
 
 msgid "New Group..."
 msgstr "Dul manyen"
@@ -213,9 +347,22 @@ msgstr "Dul manyen"
 msgid "New Message"
 msgstr "kwena manyen"
 
+#. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "adwogi me lok manyen"
 
+msgid "Notes"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+#. Button label; postpone confirmation of a friend request
+#, fuzzy
+msgid "Not Now"
+msgstr "kombedi"
+
+#. A link that takes you to the latest posts on your timeline
 msgid "Now"
 msgstr "kombedi"
 
@@ -231,15 +378,32 @@ msgstr "dano mogo ma nyo ingeyo"
 msgid "Photo"
 msgstr "cal"
 
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+#, fuzzy
+msgid "photo"
+msgstr "cal"
+
 msgid "Photos"
 msgstr "cal mapol"
 
+#. Link that allows you to "check in" somewhere
 msgid "Place"
 msgstr "kabedo"
 
+#. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
 msgstr "kabedo"
 
+#. Appears in left-hand navigation for some users
+#, fuzzy
+msgid "Pokes"
+msgstr "jami ma imaro"
+
+#. Always a link. Used in longer sentences, like "%a commented on a post."
+msgid "post"
+msgstr ""
+
+#. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
 msgstr "mung"
 
@@ -249,101 +413,174 @@ msgstr "tero imung"
 msgid "Profile"
 msgstr "jami mapat pat ma tye"
 
+#, fuzzy
+msgid "Questions"
+msgstr "Peny Lapeny"
+
+#. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
 msgstr "tic ma otime cok-cok"
 
 msgid "Recommended Pages"
 msgstr "pot buk ma kicwako"
 
+#. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
 msgstr "kwany gin ma ineno"
 
+#. Option on every post on your personal timeline
 msgid "Resize"
 msgstr "dwok dite odoco"
 
+#. Text that appears in the search box at the top of the page
 msgid "Search"
 msgstr "yeny"
 
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
 msgstr "nen weng"
+
+#. In the drop-down menu with recent Friend Requests
+#, fuzzy
+msgid "See All Friend Requests"
+msgstr "leg pi larem"
 
 msgid "See All Messages"
 msgstr "nen kwena weng"
 
+msgid "See All Notifications"
+msgstr ""
+
+#. A link that shows interactions and photos involving two Facebook friends
+#. One place it appears is in the "gear" menu on a friend's profile
+#, fuzzy
+msgid "See Friendship"
+msgstr "luremi ma cok"
+
+#. See more of a post that was truncated because it was very long
 msgid "See More"
 msgstr "nen mukene"
 
+#. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
 msgstr "nen lagony"
 
+#. Label on button in "New Message" dialog to send the message
 msgid "Send"
 msgstr "cwal"
 
+#. Link that opens the "New Message" dialog
 msgid "Send a New Message"
 msgstr "cwal kwena manyen"
 
+#. Verb. A link that allows you to share a post with your friends
 msgid "Share"
 msgstr "nywako"
 
+#. %a stands for a person's name
 msgid "%a likes this."
 msgstr "%a maro man"
 
+#. %a stands for something like "3 people"
 msgid "%a like this."
 msgstr "$a rom ki man"
 
+#. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "yero"
 
+#. Appears above paid advertisements
 msgid "Sponsored"
 msgstr "culo pire"
 
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+#, fuzzy
+msgid "status"
+msgstr "kit ma tye kwede"
+
+#. This is a Facebook "status update", not a relationship status
 msgid "Status"
 msgstr "kit ma tye kwede"
 
+#. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr "ajog"
 
 msgid "Tag Friends"
 msgstr "lurem ma imaro lok kwedgi"
 
+#. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
 msgstr "kite"
 
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 msgid "Ticker"
 msgstr "gin ma omoko"
 
 msgid "Timeline"
 msgstr "cawa me agiki"
 
+#. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
+msgid "%T near %a"
+msgstr ""
+
+#. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "bot"
 
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+#, fuzzy
+msgid "Top Stories"
+msgstr "lok ma okato mukene"
+
+#. Verb. See "Like"
 msgid "Unlike"
 msgstr "pe kumeno"
 
+#. Label on a button that allows you to edit your personal information
 msgid "Update Info"
 msgstr "ket lok"
 
+#. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
 msgstr "ket kit ma tye kwede"
 
+msgid "Use Facebook as:"
+msgstr ""
+
+#. %d stands for a number, no need to translate it
 msgid "View all %d comments"
 msgstr "nen %d tam weng"
 
 msgid "Wall Photos"
 msgstr "cal me kor ot"
 
+#. Appears in left-hand navigation for new users
+msgid "Welcome"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
 msgstr "itye katamo ng"
 
+#. Prompt when you comment on a post
 msgid "Write a comment..."
 msgstr "coo tami"
 
+#. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
 msgstr "laworo"
 
+#. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "laworo i %s"
+
+#. %a stands for something like "4 others"
+#, fuzzy
+msgid "You and %a like this."
+msgstr "maro man"
 
 msgid "You like this."
 msgstr "maro man"
