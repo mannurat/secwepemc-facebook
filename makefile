@@ -21,7 +21,7 @@ facebook-ga.user.js: po/*.po template.user.js po2gm.pl generate-gm.sh LINGUAS
 	bash generate-gm.sh
 
 INSTALL.textile: LINGUAS INSTALL-template
-	cat LINGUAS | egrep -v '^(es|fr)[^a-z-]' | sed 's/\t/ | /g' | sed 's/^/| /; s/$$/ |/' | sed 's/\(http:[^ ]*\)/"&":&/g' > table.txt
+	cat LINGUAS | egrep -v '^(es|fr|it)[^a-z-]' | sed 's/\t/ | /g' | sed 's/^/| /; s/$$/ |/' | sed 's/\(http:[^ ]*\)/"&":&/g' > table.txt
 	sed '/^|_\./r table.txt' INSTALL-template > $@
 	rm -f table.txt
 
