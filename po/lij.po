@@ -41,7 +41,7 @@ msgstr "%a e %a àn condivîzo %a."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
-msgstr "Informaçión"
+msgstr "Informaçioìn"
 
 msgid "about an hour ago"
 msgstr "Ciù o mêno 'n'ôa fa"
@@ -299,7 +299,7 @@ msgstr "Ghe piâxe sta pàgina"
 
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 msgid "link"
-msgstr "colegaménto"
+msgstr "'n colegaménto"
 
 msgid "Links"
 msgstr "Colegaménti"
@@ -355,7 +355,7 @@ msgstr "Nêuvo Mesàggio"
 
 #. Appears in left-hand navigation of home page
 msgid "News Feed"
-msgstr "Nêuvo Feed"
+msgstr "Ùrtime notìçie"
 
 msgid "Notes"
 msgstr "Nòtte"
@@ -387,7 +387,7 @@ msgstr "Föto"
 
 #. Always a link. Used in longer sentences, like "%a commented on a photo."
 msgid "photo"
-msgstr "föto"
+msgstr "'na föto"
 
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
@@ -408,7 +408,7 @@ msgstr "Pokes"
 
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
-msgstr "diciaraçión"
+msgstr "'na diciaraçión"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -494,7 +494,7 @@ msgstr "Publiçitæ"
 
 #. Always a link. Used in longer sentences, like "%a commented on a status."
 msgid "status"
-msgstr "stæto"
+msgstr "'n stæto"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
