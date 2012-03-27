@@ -26,13 +26,19 @@ Add Photo / Video
 Advertising
 #. Time stamp on a post. You might also translate as "Just now"
 a few seconds ago
-#. For example, "John Doe likes Linux."
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
 %a likes %a.
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 %a likes a %a.
+#. %a stands for a person's name
+%a likes this.
+#. %a stands for something like "3 people"
+%a like this.
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 a link
+#. Heading above the apps you use, in left-hand navigation on home page
 APPS
+#. One of the entries in the APPS list for some users
 Apps and Games
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 %A at %s
@@ -115,7 +121,11 @@ Friends on Chat
 Friend Requests
 #. A link that takes you to a list of all your Facebook friends
 Friends
+#. Heading above your lists of friends ("Work", "Family", etc.)
+FRIENDS
+#. Heading above the groups you're in, left-hand navigation on home page
 GROUPS
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 Help
 #. Link that takes you to your home timeline; always visible at top-right
 Home
@@ -129,7 +139,7 @@ Like This Page
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 link
 Links
-#. Heading above your lists of friends ("Work", "Family", etc.)
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
 LISTS
 Log Out
 #. Link to a map of the places someone has been
@@ -141,12 +151,15 @@ Messages
 Mobile Uploads
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 More
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 MORE
 #. Appears at the bottom of your home time line; click to load more posts
 More Stories
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 Most Recent
+#. Appears in left-hand navigation for some users
 Music
+#. Not sure now where this appears, a figment?
 New Group...
 New Message
 #. Appears in left-hand navigation of home page
@@ -157,32 +170,39 @@ Notifications
 Not Now
 #. A link that takes you to the latest posts on your timeline
 Now
+#. Heading above the list of your FB pages; left-hand navigation on home page
 PAGES
 People who like this
 People You May Know
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
 Photo
 #. Always a link. Used in longer sentences, like "%a commented on a photo."
 photo
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
 Photos
 #. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 Place
 #. Appears, e.g., on your Timeline, showing places you visited during the year
 Places
-#. Appears in left-hand navigation for some users
+#. Appears in left-hand navigation for some users, under "APPS"
 Pokes
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 post
 #. Link at the bottom of home page to Facebook's privacy policy
 Privacy
 Privacy Settings
+#. Appears when you mouse over your name in the top navigation
 Profile
+#. Appears under APPS for some users in left-hand navigation
 Questions
 #. Box near the top of your personal timeline showing your recent actions on FB
 Recent Activity
+#. Appears in right-hand navigation (sometimes)
 Recommended Pages
 #. When you share a link in a comment, use this to remove the preview image
 Remove Preview
-#. Option on every post on your personal timeline
+#. Option on every post on your personal timeline (now "Highlight"?)
 Resize
 #. Text that appears in the search box at the top of the page
 Search
@@ -205,10 +225,6 @@ Send
 Send a New Message
 #. Verb. A link that allows you to share a post with your friends
 Share
-#. %a stands for a person's name
-%a likes this.
-#. %a stands for something like "3 people"
-%a like this.
 #. A link that allows your to sort posts by "most recent" or "top stories"
 SORT
 #. Appears above paid advertisements
@@ -216,6 +232,7 @@ Sponsored
 #. Always a link. Used in longer sentences, like "%a commented on a status."
 status
 #. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
 Status
 #. Top of profile, after Friends, Photos, Map, ...
 Subscriptions
@@ -225,6 +242,7 @@ Terms
 #. Real time news feed in the right-hand column
 #. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 Ticker
+#. Appears as a link when you scroll down on your profile, next to "Now"
 Timeline
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
 %T near %a
