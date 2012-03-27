@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
+"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Murray Garde\n"
 "Language-Team: Gundjeihmi\n"
@@ -76,7 +76,7 @@ msgstr "Gabarri-bayahme"
 msgid "a few seconds ago"
 msgstr "bolkkime"
 
-#. For example, "John Doe likes Linux."
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
 #, fuzzy
 msgid "%a likes %a."
 msgstr "%a ga-djare"
@@ -86,13 +86,23 @@ msgstr "%a ga-djare"
 msgid "%a likes a %a."
 msgstr "%a ga-djare"
 
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "%a ga-djare"
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "%a gabarri-djare"
+
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr ""
 
+#. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
 msgstr "nawu gabarri-dirri an-buiga"
 
+#. One of the entries in the APPS list for some users
 msgid "Apps and Games"
 msgstr "An-buihbuiga Gabarri-dirri"
 
@@ -263,9 +273,16 @@ msgstr "Nawu Ngundi-djawan Yiban-ngeigurrme"
 msgid "Friends"
 msgstr "Nawu Yiban-burrbun"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
+#, fuzzy
+msgid "FRIENDS"
+msgstr "NAWU YI-DJAREHDJARE"
+
+#. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
 msgstr "MIRNDEWERN"
 
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
 msgstr "Ngundi-bidyigarrme"
 
@@ -297,7 +314,7 @@ msgstr "Minj a-djare"
 msgid "Links"
 msgstr "Nawu a-djare"
 
-#. Heading above your lists of friends ("Work", "Family", etc.)
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "GABARRI-NGEIHNGEIDI"
 
@@ -323,6 +340,7 @@ msgstr ""
 msgid "More"
 msgstr "An-buiga ga-djale"
 
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr "AN-BUIGA GA-DJALE"
 
@@ -334,9 +352,11 @@ msgstr "Gun-wokbuiga"
 msgid "Most Recent"
 msgstr ""
 
+#. Appears in left-hand navigation for some users
 msgid "Music"
 msgstr ""
 
+#. Not sure now where this appears, a figment?
 msgid "New Group..."
 msgstr "Mirndewern An-gerrnge..."
 
@@ -362,6 +382,7 @@ msgstr "Bolkkime"
 msgid "Now"
 msgstr "Bolkkime"
 
+#. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES"
 msgstr "PAGES"
 
@@ -371,6 +392,7 @@ msgstr "Gabarri-ngeidi Nawu Gabarri-djare"
 msgid "People You May Know"
 msgstr "Gare nuk Yiban-burrbun"
 
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr "Bim"
 
@@ -379,10 +401,12 @@ msgstr "Bim"
 msgid "photo"
 msgstr "Bim"
 
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "An-wern bim"
 
 #. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
 msgstr "Gun-bolk"
 
@@ -390,7 +414,7 @@ msgstr "Gun-bolk"
 msgid "Places"
 msgstr "Gun-bolk rouk"
 
-#. Appears in left-hand navigation for some users
+#. Appears in left-hand navigation for some users, under "APPS"
 #, fuzzy
 msgid "Pokes"
 msgstr "Nawu a-djare"
@@ -406,9 +430,11 @@ msgstr "Bu yiga minj yi-djare gabarri-nan"
 msgid "Privacy Settings"
 msgstr "Yi-marnbun ba minj gabarri-nan"
 
+#. Appears when you mouse over your name in the top navigation
 msgid "Profile"
 msgstr "Djal Aye"
 
+#. Appears under APPS for some users in left-hand navigation
 #, fuzzy
 msgid "Questions"
 msgstr "Yiban-djawan"
@@ -417,6 +443,7 @@ msgstr "Yiban-djawan"
 msgid "Recent Activity"
 msgstr "Njanjuk Yi-marnbom"
 
+#. Appears in right-hand navigation (sometimes)
 msgid "Recommended Pages"
 msgstr "Andehne A-djare"
 
@@ -424,7 +451,7 @@ msgstr "Andehne A-djare"
 msgid "Remove Preview"
 msgstr "Yi-bimbularrbu"
 
-#. Option on every post on your personal timeline
+#. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
 msgstr "Yi-marnbun an-gimuk dja an-yahwurd"
 
@@ -473,14 +500,6 @@ msgstr "Yi-mun.gewe gun-wokgerrnge"
 msgid "Share"
 msgstr "Gabarri-nan rouk gun-wok ge"
 
-#. %a stands for a person's name
-msgid "%a likes this."
-msgstr "%a ga-djare"
-
-#. %a stands for something like "3 people"
-msgid "%a like this."
-msgstr "%a gabarri-djare"
-
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "YI-MARNBUN"
@@ -495,6 +514,7 @@ msgid "status"
 msgstr "Ngayed a-yimerran"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Ngayed a-yimerran"
 
@@ -514,6 +534,7 @@ msgstr "An-ngarre bedberre"
 msgid "Ticker"
 msgstr "Bolkki ga-bebme gun-wok"
 
+#. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
 msgstr "Ga-rrungbelbbelbmerren"
 

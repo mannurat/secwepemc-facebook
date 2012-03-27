@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-11 09:29:52-05:00\n"
+"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
 "PO-Revision-Date: 2012-03-14 12:34-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -13,7 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: gd\n"
-"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : (n > 2 && n < 20) ? 2 : 3;\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Virtaal 0.7.1-beta1\n"
 "X-Poedit-Language: Gaelic\n"
 "X-Poedit-Country: UNITED KINGDOM\n"
@@ -80,7 +81,7 @@ msgstr "Sanasachd"
 msgid "a few seconds ago"
 msgstr "grunn diogan air ais"
 
-#. For example, "John Doe likes Linux."
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a likes %a."
 msgstr "'S toil le %a %a."
 
@@ -88,13 +89,23 @@ msgstr "'S toil le %a %a."
 msgid "%a likes a %a."
 msgstr "'S toil le %a %a."
 
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "'S toil le %a seo."
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "'S toil le %a seo."
+
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr "ceangal"
 
+#. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
 msgstr "APLACAIDEAN"
 
+#. One of the entries in the APPS list for some users
 msgid "Apps and Games"
 msgstr "Aplacaidean is geamannan"
 
@@ -261,9 +272,16 @@ msgstr "Iarrtasan càirdeis"
 msgid "Friends"
 msgstr "Caraidean"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
+#, fuzzy
+msgid "FRIENDS"
+msgstr "ANNSACHDAN"
+
+#. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
 msgstr "BUIDHNEAN"
 
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
 msgstr "Cobhair"
 
@@ -293,7 +311,7 @@ msgstr "ceangal"
 msgid "Links"
 msgstr "Ceanglaichean"
 
-#. Heading above your lists of friends ("Work", "Family", etc.)
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "LIOSTAICHEAN"
 
@@ -319,6 +337,7 @@ msgstr "Luchdadh o inneal-làimhe"
 msgid "More"
 msgstr "Barrachd"
 
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr "BARRACHD"
 
@@ -330,9 +349,11 @@ msgstr "Barrachd sgeulachdan"
 msgid "Most Recent"
 msgstr "An fheadhainn as ùire"
 
+#. Appears in left-hand navigation for some users
 msgid "Music"
 msgstr "Ceòl"
 
+#. Not sure now where this appears, a figment?
 msgid "New Group..."
 msgstr "Buidheann ùr..."
 
@@ -357,6 +378,7 @@ msgstr "Chan ann an-dràsta"
 msgid "Now"
 msgstr "An-dràsta"
 
+#. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES"
 msgstr "DUILLEAGAN"
 
@@ -366,6 +388,7 @@ msgstr "Daoine as toil leotha seo"
 msgid "People You May Know"
 msgstr "Saoil an aithne dhut..."
 
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr "Dealbh"
 
@@ -373,10 +396,12 @@ msgstr "Dealbh"
 msgid "photo"
 msgstr "dealbh"
 
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Dealbhan"
 
 #. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
 msgstr "Àite"
 
@@ -384,7 +409,7 @@ msgstr "Àite"
 msgid "Places"
 msgstr "Àitichean"
 
-#. Appears in left-hand navigation for some users
+#. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
 msgstr "Brogaidhean"
 
@@ -399,9 +424,11 @@ msgstr "Prìobhaideachd"
 msgid "Privacy Settings"
 msgstr "Roghainnean prìobhaideachd"
 
+#. Appears when you mouse over your name in the top navigation
 msgid "Profile"
 msgstr "Pròifil"
 
+#. Appears under APPS for some users in left-hand navigation
 msgid "Questions"
 msgstr "Ceistean"
 
@@ -409,6 +436,7 @@ msgstr "Ceistean"
 msgid "Recent Activity"
 msgstr "Gnìomhachd ùr"
 
+#. Appears in right-hand navigation (sometimes)
 msgid "Recommended Pages"
 msgstr "Duilleagan molta"
 
@@ -416,7 +444,7 @@ msgstr "Duilleagan molta"
 msgid "Remove Preview"
 msgstr "Thoir air falbh an ro-shealladh"
 
-#. Option on every post on your personal timeline
+#. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
 msgstr "Atharraich am meud"
 
@@ -463,14 +491,6 @@ msgstr "Cuir teachdaireachd ùr"
 msgid "Share"
 msgstr "Co-roinn"
 
-#. %a stands for a person's name
-msgid "%a likes this."
-msgstr "'S toil le %a seo."
-
-#. %a stands for something like "3 people"
-msgid "%a like this."
-msgstr "'S toil le %a seo."
-
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "SEÒRSAICH"
@@ -484,6 +504,7 @@ msgid "status"
 msgstr "naidheachd"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Do naidheachd"
 
@@ -503,6 +524,7 @@ msgstr "Teirmichean"
 msgid "Ticker"
 msgstr "Teacsa ruith"
 
+#. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
 msgstr "Loidhne-ama"
 

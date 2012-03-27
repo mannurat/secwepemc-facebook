@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
+"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
 "PO-Revision-Date: 2012-02-21 22:04:27-06:00\n"
 "Last-Translator: Greg Dickson\n"
 "Language-Team: Kriol\n"
@@ -74,7 +74,7 @@ msgstr "Pudum Ad la Feisbuk"
 msgid "a few seconds ago"
 msgstr "not long"
 
-#. For example, "John Doe likes Linux."
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a likes %a."
 msgstr "%a im laigim %a"
 
@@ -82,13 +82,23 @@ msgstr "%a im laigim %a"
 msgid "%a likes a %a."
 msgstr "%a im laigim wanbala %a"
 
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "%a im laigim dijan"
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "%a laigim dijan."
+
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr "wanbala lingk"
 
+#. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
 msgstr "APPS"
 
+#. One of the entries in the APPS list for some users
 msgid "Apps and Games"
 msgstr "Geim"
 
@@ -255,9 +265,16 @@ msgstr "Askimbat bla bi Fren bla yu"
 msgid "Friends"
 msgstr "Frenmob"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
+#, fuzzy
+msgid "FRIENDS"
+msgstr "FEIBRIT"
+
+#. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
 msgstr "OLA GRUP"
 
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
 msgstr "Album mi"
 
@@ -287,7 +304,7 @@ msgstr "lingk"
 msgid "Links"
 msgstr "Ola Lingk"
 
-#. Heading above your lists of friends ("Work", "Family", etc.)
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "DIFREN-DIFRENWAN PIPUL"
 
@@ -313,6 +330,7 @@ msgstr "Burrum Mobail Fon"
 msgid "More"
 msgstr "Mo"
 
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr "MO"
 
@@ -324,9 +342,11 @@ msgstr "Mo Stori"
 msgid "Most Recent"
 msgstr "Nyuwan-nyuwan"
 
+#. Appears in left-hand navigation for some users
 msgid "Music"
 msgstr "Myusik"
 
+#. Not sure now where this appears, a figment?
 msgid "New Group..."
 msgstr "Nyuwan Grup..."
 
@@ -351,6 +371,7 @@ msgstr "Bambai"
 msgid "Now"
 msgstr "Dideiwan"
 
+#. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES"
 msgstr "OLA PEIJ"
 
@@ -360,6 +381,7 @@ msgstr "Dislot laigim dijan"
 msgid "People You May Know"
 msgstr "Maitbi yu sabi dismob iya"
 
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr "Foto"
 
@@ -367,10 +389,12 @@ msgstr "Foto"
 msgid "photo"
 msgstr "Foto"
 
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Fotomob"
 
 #. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
 msgstr "Weya yu na?"
 
@@ -378,7 +402,7 @@ msgstr "Weya yu na?"
 msgid "Places"
 msgstr "Ola difren pleis"
 
-#. Appears in left-hand navigation for some users
+#. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
 msgstr "Bugumbat"
 
@@ -393,9 +417,11 @@ msgstr "Blanga gibum sikrit"
 msgid "Privacy Settings"
 msgstr "Blanga gibum sikrit"
 
+#. Appears when you mouse over your name in the top navigation
 msgid "Profile"
 msgstr "Peij"
 
+#. Appears under APPS for some users in left-hand navigation
 msgid "Questions"
 msgstr "Askim kwesjin"
 
@@ -403,6 +429,7 @@ msgstr "Askim kwesjin"
 msgid "Recent Activity"
 msgstr "Ola Dideiwan Stori"
 
+#. Appears in right-hand navigation (sometimes)
 msgid "Recommended Pages"
 msgstr "Dislot maitbi gudwan bla yu bla luk"
 
@@ -410,7 +437,7 @@ msgstr "Dislot maitbi gudwan bla yu bla luk"
 msgid "Remove Preview"
 msgstr "Digimat lilwan pitja"
 
-#. Option on every post on your personal timeline
+#. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
 msgstr "Tjeinjim sais"
 
@@ -457,14 +484,6 @@ msgstr "Jendim nyuwan mesij"
 msgid "Share"
 msgstr "Shoim dijan la yu frenmob"
 
-#. %a stands for a person's name
-msgid "%a likes this."
-msgstr "%a im laigim dijan"
-
-#. %a stands for something like "3 people"
-msgid "%a like this."
-msgstr "%a laigim dijan."
-
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "SOTIMAT"
@@ -478,6 +497,7 @@ msgid "status"
 msgstr "lilwan stori"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Lilwan stori"
 
@@ -497,6 +517,7 @@ msgstr "Ola rul"
 msgid "Ticker"
 msgstr "Ola nyuwan stori ba yu frenmob"
 
+#. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
 msgstr "Laif Stori"
 

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
+"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
 "PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
 "Last-Translator: Peter Rohloff\n"
 "Language-Team: Kaqchikel\n"
@@ -78,7 +78,7 @@ msgstr "Tzijol"
 msgid "a few seconds ago"
 msgstr "Ka'i' oxi' ch'utaq ramaj ik'owinäq"
 
-#. For example, "John Doe likes Linux."
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
 #, fuzzy
 msgid "%a likes %a."
 msgstr "%a niqa chi ruwäch re re'"
@@ -88,13 +88,23 @@ msgstr "%a niqa chi ruwäch re re'"
 msgid "%a likes a %a."
 msgstr "%a niqa chi ruwäch re re'"
 
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "%a jeb'ël nutz'ët re re'"
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "%a jeb'ël nikitz'ët re re'"
+
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr "un q'axel"
 
+#. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
 msgstr "SAMAJIB'ÄL"
 
+#. One of the entries in the APPS list for some users
 msgid "Apps and Games"
 msgstr "Taq samajib'äl chuqa' taq etz'anem"
 
@@ -265,9 +275,16 @@ msgstr "Taqoj richin ajowab'äl"
 msgid "Friends"
 msgstr "Taq achib'il"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
+#, fuzzy
+msgid "FRIENDS"
+msgstr "TAQ JEB'ËL"
+
+#. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
 msgstr "TAQ MOLAJ"
 
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
 msgstr "To'ïk"
 
@@ -299,7 +316,7 @@ msgstr "Man jeb'ël ta chik"
 msgid "Links"
 msgstr "Jeb'ël"
 
-#. Heading above your lists of friends ("Work", "Family", etc.)
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "TAQ CHOLAJ"
 
@@ -325,6 +342,7 @@ msgstr "Q'axäy pan oyonib'äl"
 msgid "More"
 msgstr "Ch'aqa' chik"
 
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr "CH'AQA' CHIK"
 
@@ -336,9 +354,11 @@ msgstr "Ch'aqa' chik taq b'anob'äl"
 msgid "Most Recent"
 msgstr "re re' k'ak'a'"
 
+#. Appears in left-hand navigation for some users
 msgid "Music"
 msgstr ""
 
+#. Not sure now where this appears, a figment?
 msgid "New Group..."
 msgstr "k'ak'a' molaj"
 
@@ -363,6 +383,7 @@ msgstr "Wakami manäq"
 msgid "Now"
 msgstr "Wakami"
 
+#. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES"
 msgstr "TAQ RUXAQ"
 
@@ -372,6 +393,7 @@ msgstr "Winäq ri ütz nikitz'ët"
 msgid "People You May Know"
 msgstr "Winäq rik'in jub'a' awetaman kiwäch"
 
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr "Wachib'äl"
 
@@ -380,11 +402,13 @@ msgstr "Wachib'äl"
 msgid "photo"
 msgstr "Wachib'äl"
 
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Taq wachib'äl"
 
 # Link that allows you to "check in" somewhere
 #. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
 msgstr "K'ojlib'äl"
 
@@ -392,7 +416,7 @@ msgstr "K'ojlib'äl"
 msgid "Places"
 msgstr "Taq k'ojlib'äl"
 
-#. Appears in left-hand navigation for some users
+#. Appears in left-hand navigation for some users, under "APPS"
 #, fuzzy
 msgid "Pokes"
 msgstr "Jeb'ël"
@@ -408,9 +432,11 @@ msgstr "Rajawalil"
 msgid "Privacy Settings"
 msgstr "Runuk'ulem ri rajawalil"
 
+#. Appears when you mouse over your name in the top navigation
 msgid "Profile"
 msgstr "b'anikil"
 
+#. Appears under APPS for some users in left-hand navigation
 #, fuzzy
 msgid "Questions"
 msgstr "K'utunïk"
@@ -419,6 +445,7 @@ msgstr "K'utunïk"
 msgid "Recent Activity"
 msgstr "K'ak'a' samaj"
 
+#. Appears in right-hand navigation (sometimes)
 msgid "Recommended Pages"
 msgstr "Peyon taq ruxaq"
 
@@ -426,7 +453,7 @@ msgstr "Peyon taq ruxaq"
 msgid "Remove Preview"
 msgstr "Relesaxik nab'ey tz'etb'äl"
 
-#. Option on every post on your personal timeline
+#. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
 msgstr "Ruk'exik runimilem"
 
@@ -476,14 +503,6 @@ msgstr "Rutaqik jun k'ak'a' taqo'n"
 msgid "Share"
 msgstr "Q'axaxïk"
 
-#. %a stands for a person's name
-msgid "%a likes this."
-msgstr "%a jeb'ël nutz'ët re re'"
-
-#. %a stands for something like "3 people"
-msgid "%a like this."
-msgstr "%a jeb'ël nikitz'ët re re'"
-
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "RUCHOLANIK"
@@ -498,6 +517,7 @@ msgid "status"
 msgstr "Rub'eyal"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Rub'eyal"
 
@@ -517,6 +537,7 @@ msgstr "Taq chilab'exïk"
 msgid "Ticker"
 msgstr "Aninäq rutzijol"
 
+#. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
 msgstr "K'aslemal"
 

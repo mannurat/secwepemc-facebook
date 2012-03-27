@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
+"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
 "PO-Revision-Date: 2012-03-05 21:50:27-06:00\n"
 "Last-Translator: Fulup Jakez\n"
 "Language-Team: Brezhoneg\n"
@@ -74,7 +74,7 @@ msgstr "Bruderezh"
 msgid "a few seconds ago"
 msgstr "E-tro un eilenn zo"
 
-#. For example, "John Doe likes Linux."
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a likes %a."
 msgstr "Plijet eo %a gant %a"
 
@@ -82,13 +82,23 @@ msgstr "Plijet eo %a gant %a"
 msgid "%a likes a %a."
 msgstr "Plijet eo %a gant ur %a"
 
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "plijout a ra da %a"
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "Plijout a ra da %a"
+
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr "ul liamm"
 
+#. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
 msgstr "Arloadoù"
 
+#. One of the entries in the APPS list for some users
 msgid "Apps and Games"
 msgstr "Arloadoù ha c'hoarioù"
 
@@ -255,9 +265,16 @@ msgstr "Goulennoù ar vignoned"
 msgid "Friends"
 msgstr "Mignoned"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
+#, fuzzy
+msgid "FRIENDS"
+msgstr "AR RE GARETAÑ"
+
+#. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
 msgstr "STROLLADOÙ"
 
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
 msgstr "Skoazell"
 
@@ -287,7 +304,7 @@ msgstr "liamm"
 msgid "Links"
 msgstr "Liammoù"
 
-#. Heading above your lists of friends ("Work", "Family", etc.)
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "ROLLOÙ"
 
@@ -313,6 +330,7 @@ msgstr "Enporzhiet diwar un hezoug"
 msgid "More"
 msgstr "Muioc'h"
 
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr "MUIOC'H"
 
@@ -324,9 +342,11 @@ msgstr "Istorioù all"
 msgid "Most Recent"
 msgstr "Ar re nevesañ"
 
+#. Appears in left-hand navigation for some users
 msgid "Music"
 msgstr "Sonerezh"
 
+#. Not sure now where this appears, a figment?
 msgid "New Group..."
 msgstr "Strollad nevez"
 
@@ -351,6 +371,7 @@ msgstr "Diwezhatoc'hik"
 msgid "Now"
 msgstr "Bremañ"
 
+#. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES"
 msgstr "PAJENNOÙ"
 
@@ -360,6 +381,7 @@ msgstr "Tud a blij an dra-se dezho"
 msgid "People You May Know"
 msgstr "Tud a c'hallit anavezout"
 
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr "Luc'hskeudenn"
 
@@ -367,10 +389,12 @@ msgstr "Luc'hskeudenn"
 msgid "photo"
 msgstr "Luc'hskeudenn"
 
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Luc'hskeudennoù"
 
 #. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
 msgstr "Lec'h"
 
@@ -378,7 +402,7 @@ msgstr "Lec'h"
 msgid "Places"
 msgstr "Lec'hioù"
 
-#. Appears in left-hand navigation for some users
+#. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
 msgstr "Broud"
 
@@ -393,9 +417,11 @@ msgstr "Prevezded"
 msgid "Privacy Settings"
 msgstr "Arventennoù prevezded"
 
+#. Appears when you mouse over your name in the top navigation
 msgid "Profile"
 msgstr "Profil"
 
+#. Appears under APPS for some users in left-hand navigation
 msgid "Questions"
 msgstr "Goulennoù"
 
@@ -403,6 +429,7 @@ msgstr "Goulennoù"
 msgid "Recent Activity"
 msgstr "Divizoù nevesañ"
 
+#. Appears in right-hand navigation (sometimes)
 msgid "Recommended Pages"
 msgstr "Pajennoù erbedet"
 
@@ -410,7 +437,7 @@ msgstr "Pajennoù erbedet"
 msgid "Remove Preview"
 msgstr "Lemel ar rakweled"
 
-#. Option on every post on your personal timeline
+#. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
 msgstr "Adventañ"
 
@@ -457,14 +484,6 @@ msgstr "Kas ur gemennadenn nevez"
 msgid "Share"
 msgstr "Kenrannañ"
 
-#. %a stands for a person's name
-msgid "%a likes this."
-msgstr "plijout a ra da %a"
-
-#. %a stands for something like "3 people"
-msgid "%a like this."
-msgstr "Plijout a ra da %a"
-
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "URZHIAÑ"
@@ -478,6 +497,7 @@ msgid "status"
 msgstr "statud"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Statud"
 
@@ -497,6 +517,7 @@ msgstr "Termenoù"
 msgid "Ticker"
 msgstr "War-eeun"
 
+#. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
 msgstr "Kronologiezh"
 

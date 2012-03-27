@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
+"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
 "PO-Revision-Date: 2012-03-16 07:45-05:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Italian\n"
@@ -75,7 +75,7 @@ msgstr "Pubblicità"
 msgid "a few seconds ago"
 msgstr "pochi secondi fa"
 
-#. For example, "John Doe likes Linux."
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a likes %a."
 msgstr "A %a piace %a."
 
@@ -84,13 +84,23 @@ msgstr "A %a piace %a."
 msgid "%a likes a %a."
 msgstr "A %a piace un[ao]? %a."
 
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "A %a piace questo elemento."
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "A %a piace questo elemento."
+
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr "un link"
 
+#. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
 msgstr "Applicazioni"
 
+#. One of the entries in the APPS list for some users
 msgid "Apps and Games"
 msgstr "Applicazioni e giochi"
 
@@ -257,9 +267,16 @@ msgstr "Richieste di amicizia"
 msgid "Friends"
 msgstr "Amici"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
+#, fuzzy
+msgid "FRIENDS"
+msgstr "Preferiti"
+
+#. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
 msgstr "Gruppi"
 
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
 msgstr "Centro assistenza"
 
@@ -289,7 +306,7 @@ msgstr "link"
 msgid "Links"
 msgstr ""
 
-#. Heading above your lists of friends ("Work", "Family", etc.)
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr ""
 
@@ -315,6 +332,7 @@ msgstr "Caricamenti dal cellulare"
 msgid "More"
 msgstr "Altro"
 
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr "Altro"
 
@@ -326,9 +344,11 @@ msgstr "Altre notizie"
 msgid "Most Recent"
 msgstr "Più recenti"
 
+#. Appears in left-hand navigation for some users
 msgid "Music"
 msgstr ""
 
+#. Not sure now where this appears, a figment?
 msgid "New Group..."
 msgstr ""
 
@@ -353,6 +373,7 @@ msgstr "Non ora"
 msgid "Now"
 msgstr "Adesso"
 
+#. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES"
 msgstr "Pagine"
 
@@ -362,6 +383,7 @@ msgstr "Persone a cui piace"
 msgid "People You May Know"
 msgstr "Persone che potresti conoscere"
 
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr "Foto"
 
@@ -370,10 +392,12 @@ msgid "photo"
 msgstr "foto"
 
 # sic
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Foto"
 
 #. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
 msgstr "Luogo"
 
@@ -382,7 +406,7 @@ msgid "Places"
 msgstr "Luoghi"
 
 # sic
-#. Appears in left-hand navigation for some users
+#. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
 msgstr "Poke"
 
@@ -397,9 +421,11 @@ msgstr "Privacy"
 msgid "Privacy Settings"
 msgstr "Impostazioni sulla privacy"
 
+#. Appears when you mouse over your name in the top navigation
 msgid "Profile"
 msgstr "Profilo"
 
+#. Appears under APPS for some users in left-hand navigation
 msgid "Questions"
 msgstr "Domande"
 
@@ -407,6 +433,7 @@ msgstr "Domande"
 msgid "Recent Activity"
 msgstr "Attività recenti"
 
+#. Appears in right-hand navigation (sometimes)
 msgid "Recommended Pages"
 msgstr "Suggerimenti per le Pagine"
 
@@ -414,7 +441,7 @@ msgstr "Suggerimenti per le Pagine"
 msgid "Remove Preview"
 msgstr "Rimuovi anteprima"
 
-#. Option on every post on your personal timeline
+#. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
 msgstr ""
 
@@ -461,14 +488,6 @@ msgstr "Invia un nuovo messaggio"
 msgid "Share"
 msgstr "Condividi"
 
-#. %a stands for a person's name
-msgid "%a likes this."
-msgstr "A %a piace questo elemento."
-
-#. %a stands for something like "3 people"
-msgid "%a like this."
-msgstr "A %a piace questo elemento."
-
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "ORDINA"
@@ -482,6 +501,7 @@ msgid "status"
 msgstr "stato"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Stato"
 
@@ -501,6 +521,7 @@ msgstr "Condizioni"
 msgid "Ticker"
 msgstr ""
 
+#. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
 msgstr "Diario"
 

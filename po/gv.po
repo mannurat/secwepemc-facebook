@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
+"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,7 +77,7 @@ msgstr "Soilsheenys"
 msgid "a few seconds ago"
 msgstr "grig ny ghaa er dy henney"
 
-#. For example, "John Doe likes Linux."
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
 #, fuzzy
 msgid "%a likes %a."
 msgstr "S’mie lesh %a shoh."
@@ -87,13 +87,23 @@ msgstr "S’mie lesh %a shoh."
 msgid "%a likes a %a."
 msgstr "S’mie lesh %a shoh."
 
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "S’mie lesh %a shoh."
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "S’mie lesh %a shoh."
+
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr ""
 
+#. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
 msgstr "APPYN"
 
+#. One of the entries in the APPS list for some users
 msgid "Apps and Games"
 msgstr "Appyn as Gammanyn"
 
@@ -264,9 +274,16 @@ msgstr "Cuirraghyn gys caarjys"
 msgid "Friends"
 msgstr "Caarjyn"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
+#, fuzzy
+msgid "FRIENDS"
+msgstr "REIH-REDDYN"
+
+#. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
 msgstr "POSSANYN"
 
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
 msgstr "Cooney"
 
@@ -298,7 +315,7 @@ msgstr "Cha mie lhiam shoh"
 msgid "Links"
 msgstr "Reih-reddyn"
 
-#. Heading above your lists of friends ("Work", "Family", etc.)
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "LISTYN"
 
@@ -324,6 +341,7 @@ msgstr ""
 msgid "More"
 msgstr "Tooilley"
 
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr "TOOILLEY"
 
@@ -335,9 +353,11 @@ msgstr "Tooilley Skeealyn"
 msgid "Most Recent"
 msgstr ""
 
+#. Appears in left-hand navigation for some users
 msgid "Music"
 msgstr ""
 
+#. Not sure now where this appears, a figment?
 msgid "New Group..."
 msgstr "Possan Noa..."
 
@@ -363,6 +383,7 @@ msgstr "Nish"
 msgid "Now"
 msgstr "Nish"
 
+#. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES"
 msgstr "DUILLAGYN"
 
@@ -372,6 +393,7 @@ msgstr "Sleih s’mie lhieu shoh"
 msgid "People You May Know"
 msgstr "Vel enney ayd er y cleih shoh?"
 
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr "Jalloo"
 
@@ -380,10 +402,12 @@ msgstr "Jalloo"
 msgid "photo"
 msgstr "Jalloo"
 
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Jalloonyn"
 
 #. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
 msgstr "Boayl"
 
@@ -391,7 +415,7 @@ msgstr "Boayl"
 msgid "Places"
 msgstr "Buill"
 
-#. Appears in left-hand navigation for some users
+#. Appears in left-hand navigation for some users, under "APPS"
 #, fuzzy
 msgid "Pokes"
 msgstr "Reih-reddyn"
@@ -407,9 +431,11 @@ msgstr "Preevaadjys"
 msgid "Privacy Settings"
 msgstr "Reaghyssyn Preevaadjys"
 
+#. Appears when you mouse over your name in the top navigation
 msgid "Profile"
 msgstr "Coontys-Bea"
 
+#. Appears under APPS for some users in left-hand navigation
 #, fuzzy
 msgid "Questions"
 msgstr "Cur Feysht"
@@ -418,6 +444,7 @@ msgstr "Cur Feysht"
 msgid "Recent Activity"
 msgstr "Ymmyd Jeianagh"
 
+#. Appears in right-hand navigation (sometimes)
 msgid "Recommended Pages"
 msgstr "Duillagyn Moyllit"
 
@@ -425,7 +452,7 @@ msgstr "Duillagyn Moyllit"
 msgid "Remove Preview"
 msgstr "Gyn Ro-reayrt"
 
-#. Option on every post on your personal timeline
+#. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
 msgstr "Caghlaa mooadys"
 
@@ -474,14 +501,6 @@ msgstr "Cur Chaghteraght Noa"
 msgid "Share"
 msgstr "Rheynn"
 
-#. %a stands for a person's name
-msgid "%a likes this."
-msgstr "S’mie lesh %a shoh."
-
-#. %a stands for something like "3 people"
-msgid "%a like this."
-msgstr "S’mie lesh %a shoh."
-
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "Sorch"
@@ -496,6 +515,7 @@ msgid "status"
 msgstr "Staydys"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Staydys"
 
@@ -515,6 +535,7 @@ msgstr "Connaantyn"
 msgid "Ticker"
 msgstr "Grigeyr"
 
+#. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
 msgstr "Linney-traa"
 

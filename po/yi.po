@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
+"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Jordan Kutzik\n"
 "Language-Team: Yiddish\n"
@@ -74,7 +74,7 @@ msgstr ""
 msgid "a few seconds ago"
 msgstr ""
 
-#. For example, "John Doe likes Linux."
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a likes %a."
 msgstr ""
 
@@ -82,13 +82,23 @@ msgstr ""
 msgid "%a likes a %a."
 msgstr ""
 
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr ""
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr ""
+
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr ""
 
+#. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
 msgstr ""
 
+#. One of the entries in the APPS list for some users
 msgid "Apps and Games"
 msgstr ""
 
@@ -255,9 +265,15 @@ msgstr ""
 msgid "Friends"
 msgstr ""
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
+msgid "FRIENDS"
+msgstr ""
+
+#. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
 msgstr ""
 
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
 msgstr ""
 
@@ -289,7 +305,7 @@ msgstr "ס'געפֿעלט מיר ניט מער"
 msgid "Links"
 msgstr "עס געפֿעלט מיר"
 
-#. Heading above your lists of friends ("Work", "Family", etc.)
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr ""
 
@@ -315,6 +331,7 @@ msgstr ""
 msgid "More"
 msgstr ""
 
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr ""
 
@@ -326,9 +343,11 @@ msgstr ""
 msgid "Most Recent"
 msgstr ""
 
+#. Appears in left-hand navigation for some users
 msgid "Music"
 msgstr ""
 
+#. Not sure now where this appears, a figment?
 msgid "New Group..."
 msgstr ""
 
@@ -353,6 +372,7 @@ msgstr ""
 msgid "Now"
 msgstr ""
 
+#. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES"
 msgstr ""
 
@@ -362,6 +382,7 @@ msgstr ""
 msgid "People You May Know"
 msgstr ""
 
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr ""
 
@@ -369,10 +390,12 @@ msgstr ""
 msgid "photo"
 msgstr ""
 
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr ""
 
 #. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
 msgstr ""
 
@@ -380,7 +403,7 @@ msgstr ""
 msgid "Places"
 msgstr ""
 
-#. Appears in left-hand navigation for some users
+#. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
 msgstr ""
 
@@ -395,9 +418,11 @@ msgstr ""
 msgid "Privacy Settings"
 msgstr ""
 
+#. Appears when you mouse over your name in the top navigation
 msgid "Profile"
 msgstr ""
 
+#. Appears under APPS for some users in left-hand navigation
 msgid "Questions"
 msgstr ""
 
@@ -405,6 +430,7 @@ msgstr ""
 msgid "Recent Activity"
 msgstr ""
 
+#. Appears in right-hand navigation (sometimes)
 msgid "Recommended Pages"
 msgstr ""
 
@@ -412,7 +438,7 @@ msgstr ""
 msgid "Remove Preview"
 msgstr ""
 
-#. Option on every post on your personal timeline
+#. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
 msgstr ""
 
@@ -459,14 +485,6 @@ msgstr ""
 msgid "Share"
 msgstr ""
 
-#. %a stands for a person's name
-msgid "%a likes this."
-msgstr ""
-
-#. %a stands for something like "3 people"
-msgid "%a like this."
-msgstr ""
-
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr ""
@@ -480,6 +498,7 @@ msgid "status"
 msgstr ""
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr ""
 
@@ -499,6 +518,7 @@ msgstr ""
 msgid "Ticker"
 msgstr ""
 
+#. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
 msgstr ""
 

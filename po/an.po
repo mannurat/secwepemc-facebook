@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
+"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
 "PO-Revision-Date: 2012-02-25 02:02+0200\n"
 "Last-Translator: Juan Pablo Martínez Cortés <juanpabl@gmail.com>\n"
 "Language-Team: Softaragonés\n"
@@ -81,7 +81,7 @@ msgstr "Publicidat"
 msgid "a few seconds ago"
 msgstr "en fa bells segundos"
 
-#. For example, "John Doe likes Linux."
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
 #, fuzzy
 msgid "%a likes %a."
 msgstr "A %a l'ha feito goyo isto."
@@ -91,13 +91,23 @@ msgstr "A %a l'ha feito goyo isto."
 msgid "%a likes a %a."
 msgstr "A %a l'ha feito goyo isto."
 
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "A %a l'ha feito goyo isto."
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "A %a les ha feito goyo isto."
+
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr ""
 
+#. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
 msgstr "APPLICACIONS"
 
+#. One of the entries in the APPS list for some users
 msgid "Apps and Games"
 msgstr "Aplicacions y chuegos"
 
@@ -268,9 +278,16 @@ msgstr "Demandas d'amistanza"
 msgid "Friends"
 msgstr "Amigos"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
+#, fuzzy
+msgid "FRIENDS"
+msgstr "FAVORITOS"
+
+#. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
 msgstr "COLLAS"
 
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
 msgstr "Aduya"
 
@@ -302,7 +319,7 @@ msgstr "Ya no me fa goyo"
 msgid "Links"
 msgstr "Me fa goyo"
 
-#. Heading above your lists of friends ("Work", "Family", etc.)
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "LISTAS"
 
@@ -328,6 +345,7 @@ msgstr ""
 msgid "More"
 msgstr "Mas"
 
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr "MAS"
 
@@ -339,9 +357,11 @@ msgstr "Mas historias"
 msgid "Most Recent"
 msgstr ""
 
+#. Appears in left-hand navigation for some users
 msgid "Music"
 msgstr ""
 
+#. Not sure now where this appears, a figment?
 msgid "New Group..."
 msgstr "Nueva colla..."
 
@@ -367,6 +387,7 @@ msgstr "Agora"
 msgid "Now"
 msgstr "Agora"
 
+#. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES"
 msgstr "PACHINAS"
 
@@ -376,6 +397,7 @@ msgstr "Chent que l'ha feito goyo"
 msgid "People You May Know"
 msgstr "Chent que talment conoixcas"
 
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr "Foto"
 
@@ -384,10 +406,12 @@ msgstr "Foto"
 msgid "photo"
 msgstr "Foto"
 
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Fotos"
 
 #. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
 msgstr "Puesto"
 
@@ -395,7 +419,7 @@ msgstr "Puesto"
 msgid "Places"
 msgstr "Puestos"
 
-#. Appears in left-hand navigation for some users
+#. Appears in left-hand navigation for some users, under "APPS"
 #, fuzzy
 msgid "Pokes"
 msgstr "Me fa goyo"
@@ -411,9 +435,11 @@ msgstr "Privacidat"
 msgid "Privacy Settings"
 msgstr "Achustes de privacidat"
 
+#. Appears when you mouse over your name in the top navigation
 msgid "Profile"
 msgstr "Perfil"
 
+#. Appears under APPS for some users in left-hand navigation
 #, fuzzy
 msgid "Questions"
 msgstr "Fe una pregunta"
@@ -422,6 +448,7 @@ msgstr "Fe una pregunta"
 msgid "Recent Activity"
 msgstr "Actividat recient"
 
+#. Appears in right-hand navigation (sometimes)
 msgid "Recommended Pages"
 msgstr "Pachinas recomendadas"
 
@@ -429,7 +456,7 @@ msgstr "Pachinas recomendadas"
 msgid "Remove Preview"
 msgstr "Borrar l'anvista previa"
 
-#. Option on every post on your personal timeline
+#. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
 msgstr "Cambiar a mida"
 
@@ -479,14 +506,6 @@ msgstr "Ninviar un nuevo mensache"
 msgid "Share"
 msgstr "Compartir"
 
-#. %a stands for a person's name
-msgid "%a likes this."
-msgstr "A %a l'ha feito goyo isto."
-
-#. %a stands for something like "3 people"
-msgid "%a like this."
-msgstr "A %a les ha feito goyo isto."
-
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "ORDENAR"
@@ -501,6 +520,7 @@ msgid "status"
 msgstr "Estau"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Estau"
 
@@ -520,6 +540,7 @@ msgstr "Condicions d'uso"
 msgid "Ticker"
 msgstr "Noticias a l'inte"
 
+#. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
 msgstr "Cronolochía"
 

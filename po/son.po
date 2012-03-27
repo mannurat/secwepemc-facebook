@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-14 11:28:13-05:00\n"
+"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
 "PO-Revision-Date: 2012-03-17 23:02+0200\n"
 "Last-Translator: Mohomodou Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: Songhay.org\n"
@@ -78,7 +78,7 @@ msgstr "Feeyan"
 msgid "a few seconds ago"
 msgstr "a ga too segonduyaŋ"
 
-#. For example, "John Doe likes Linux."
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a likes %a."
 msgstr "%a ga baa %a."
 
@@ -86,13 +86,23 @@ msgstr "%a ga baa %a."
 msgid "%a likes a %a."
 msgstr "%a ga baa %a foo."
 
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "%a ga baa woo."
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "%a ga baa woo."
+
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
 msgstr "dobu foo"
 
+#. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
 msgstr "POROGARAMEY"
 
+#. One of the entries in the APPS list for some users
 msgid "Apps and Games"
 msgstr "Porogaramey nda hoorawey"
 
@@ -260,9 +270,16 @@ msgstr "Cerey hãayaney"
 msgid "Friends"
 msgstr "Cerey"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
+#, fuzzy
+msgid "FRIENDS"
+msgstr "KAASEY"
+
+#. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
 msgstr "MARGAWEY"
 
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
 msgstr "Faaba"
 
@@ -292,7 +309,7 @@ msgstr "dobu"
 msgid "Links"
 msgstr "Dobey"
 
-#. Heading above your lists of friends ("Work", "Family", etc.)
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "MAAŠEEDAWEY"
 
@@ -318,6 +335,7 @@ msgstr "Kanbe-jinay zijandey"
 msgid "More"
 msgstr "Dii ka tonton"
 
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr "DII KA TONTON"
 
@@ -329,9 +347,11 @@ msgstr "Filla korawey"
 msgid "Most Recent"
 msgstr "Ikul kokorantey"
 
+#. Appears in left-hand navigation for some users
 msgid "Music"
 msgstr "Miziki"
 
+#. Not sure now where this appears, a figment?
 msgid "New Group..."
 msgstr "Marga taaga..."
 
@@ -356,6 +376,7 @@ msgstr "Manti sohõda"
 msgid "Now"
 msgstr "Sohõ"
 
+#. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES"
 msgstr "MOƝEY"
 
@@ -365,6 +386,7 @@ msgstr "Borey kaŋ ga baa woo"
 msgid "People You May Know"
 msgstr "Borey kaŋ war ga hima k'i bay"
 
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr "Bii"
 
@@ -372,10 +394,12 @@ msgstr "Bii"
 msgid "photo"
 msgstr "bii"
 
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Biyey"
 
 #. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
 msgstr "Doo"
 
@@ -383,7 +407,7 @@ msgstr "Doo"
 msgid "Places"
 msgstr "Dogey"
 
-#. Appears in left-hand navigation for some users
+#. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
 msgstr "Murkuti"
 
@@ -398,9 +422,11 @@ msgstr "Sutura"
 msgid "Privacy Settings"
 msgstr "Sutura kayandiyaney"
 
+#. Appears when you mouse over your name in the top navigation
 msgid "Profile"
 msgstr "Alhaali"
 
+#. Appears under APPS for some users in left-hand navigation
 msgid "Questions"
 msgstr "Hãayaney"
 
@@ -408,6 +434,7 @@ msgstr "Hãayaney"
 msgid "Recent Activity"
 msgstr "Teera kokorante"
 
+#. Appears in right-hand navigation (sometimes)
 msgid "Recommended Pages"
 msgstr "Moo yaamarantey"
 
@@ -415,7 +442,7 @@ msgstr "Moo yaamarantey"
 msgid "Remove Preview"
 msgstr "Moo-furyan kaa"
 
-#. Option on every post on your personal timeline
+#. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
 msgstr "Alkadar sasawandi"
 
@@ -463,14 +490,6 @@ msgstr "Alhabar sanba"
 msgid "Share"
 msgstr "Žemna"
 
-#. %a stands for a person's name
-msgid "%a likes this."
-msgstr "%a ga baa woo."
-
-#. %a stands for something like "3 people"
-msgid "%a like this."
-msgstr "%a ga baa woo."
-
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "FAY"
@@ -484,6 +503,7 @@ msgid "status"
 msgstr "assariya"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Assariya"
 
@@ -503,6 +523,7 @@ msgstr "Goy waafakey"
 msgid "Ticker"
 msgstr "Alhabar taya"
 
+#. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
 msgstr "Waatibii"
 
