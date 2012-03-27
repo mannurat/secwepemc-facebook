@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
 "PO-Revision-Date: 2012-03-15 09:29:52-0500\n"
-"Last-Translator: Kevin Scannell\n"
+"Last-Translator: Federico Faroldi\n"
 "Language-Team: Emiliano-Romagnolo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,7 +21,7 @@ msgstr "1 STORIA NÖVA"
 
 #. Appears next to a post; means the post has been shared one time
 msgid "1 share"
-msgstr ""
+msgstr "1 cundivision"
 
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
@@ -32,17 +32,16 @@ msgid "%a added a new photo."
 msgstr "%a l'à miss sö'na foto."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
-#, fuzzy
 msgid "%a and %a like this."
-msgstr "A %a, %a e %a agh piäs."
+msgstr "A %a e %a agh piäs."
 
 #. First two as above, and final %a is something like "a link"
 msgid "%a and %a shared %a."
-msgstr ""
+msgstr "%a e %a j'an cundivis %a."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
-msgstr ""
+msgstr "Infurmasion"
 
 msgid "about an hour ago"
 msgstr "'n urten-na fa"
@@ -51,7 +50,7 @@ msgid "about a minute ago"
 msgstr "un minüd fa"
 
 msgid "Account Settings"
-msgstr "Impustasion dall'Account"
+msgstr "Impustasion dal Cont"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
@@ -61,7 +60,7 @@ msgid "Activity Log"
 msgstr ""
 
 msgid "Add Friend"
-msgstr ""
+msgstr "Metta in-t-j amîgh"
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
@@ -97,7 +96,7 @@ msgstr "un ligàm"
 
 #. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
-msgstr ""
+msgstr "Applicasion"
 
 #. One of the entries in the APPS list for some users
 msgid "Apps and Games"
@@ -136,7 +135,7 @@ msgstr "Nassì"
 
 #. Appears below shared items, indicating the original author/creator
 msgid "By:"
-msgstr "By"
+msgstr "Fat da"
 
 #. Button label
 msgid "Cancel"
@@ -144,14 +143,14 @@ msgstr "Scansèlla"
 
 #. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
-msgstr ""
+msgstr "Mastér"
 
 #. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
 msgstr "Müda la foto"
 
 msgid "Chat (Offline)"
-msgstr ""
+msgstr "Ciciarament (mia adess)"
 
 msgid "Close"
 msgstr "Sèra"
@@ -214,7 +213,7 @@ msgstr "%d sgònd fa"
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "%d shares"
-msgstr ""
+msgstr "%d cundivision"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -236,7 +235,7 @@ msgstr "Scriva 'l num ad 'n amîgh o 'n imeil"
 
 #. A link to a list of events that you've been invited to
 msgid "Events"
-msgstr ""
+msgstr "Evént"
 
 #. A link that shows you a list of your relatives on Facebook
 msgid "Family"
@@ -273,7 +272,7 @@ msgstr "CUL C'AT PIÄS PUSSÈ"
 
 #. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
-msgstr ""
+msgstr "GRUP"
 
 #. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
@@ -428,11 +427,11 @@ msgstr "Admandi"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
-msgstr ""
+msgstr "Apena fat"
 
 #. Appears in right-hand navigation (sometimes)
 msgid "Recommended Pages"
-msgstr ""
+msgstr "Pagini par te"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
@@ -487,11 +486,11 @@ msgstr ""
 
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
-msgstr ""
+msgstr "ORDINA"
 
 #. Appears above paid advertisements
 msgid "Sponsored"
-msgstr ""
+msgstr "Spunsurisè"
 
 #. Always a link. Used in longer sentences, like "%a commented on a status."
 msgid "status"
@@ -520,11 +519,11 @@ msgstr ""
 
 #. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
-msgstr ""
+msgstr "Diäri"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
 msgid "%T near %a"
-msgstr ""
+msgstr "%T vsén a %a"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
@@ -536,7 +535,7 @@ msgstr ""
 
 #. Verb. See "Like"
 msgid "Unlike"
-msgstr "Am piäs po"
+msgstr "Am piäs mia po"
 
 #. Label on a button that allows you to edit your personal information
 msgid "Update Info"
@@ -555,7 +554,7 @@ msgid "View all %d comments"
 msgstr "Veda tutt %d cumént"
 
 msgid "Wall Photos"
-msgstr ""
+msgstr "Wall Foto"
 
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
@@ -563,7 +562,7 @@ msgstr "Benvgnì"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
-msgstr "Cusa sét adré a pinsär?"
+msgstr "Cusa gh'èt in mént?"
 
 #. Prompt when you comment on a post
 msgid "Write a comment..."
@@ -594,7 +593,7 @@ msgstr "Farvèr"
 
 #. Month Name
 msgid "March"
-msgstr "Märd"
+msgstr "Märs"
 
 #. Month Name
 msgid "April"
