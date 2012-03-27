@@ -38,7 +38,7 @@ to English, etc.
 | hil | en | Hiligaynon | Hiligaynon | 1.0.4 | "http://userscripts.org/scripts/show/127142":http://userscripts.org/scripts/show/127142 | Francis Dimzon, Eliodora Dimzon, Edgar Siscar, Ofelia Libo-on-Salaya, Blomar Rain Catipunan, Essan Labos, Emmanuel Lerona, Ruben Magan Gamala |
 | ht | fr | Haitian Creole | Kreyòl Ayisyen | 1.0.0 | Not yet released | Jean Came Poulard |
 | ht-x-en | en | Haitian Creole | Kreyòl Ayisyen | 1.0.0 | "http://userscripts.org/scripts/show/126548":http://userscripts.org/scripts/show/126548 | Jean Came Poulard |
-| lij | it | Ligurian | Ligure | 1.0.0 | Not yet released | Alessio Gastaldi |
+| lij | it | Ligurian | Ligure | 1.0.0 | "http://userscripts.org/scripts/show/129397":http://userscripts.org/scripts/show/129397 | Alessio Gastaldi |
 | mwl | es | Mirandese | Mirandés | 1.0.0 | Not yet released | José Pedro Ferreira |
 | nv | en | Navajo | Diné bizaad | 1.0.0 | Not yet released | @NavajoNow |
 | ny | en | Chichewa | Chicheŵa | 1.0.0 | "http://userscripts.org/scripts/show/126642":http://userscripts.org/scripts/show/126642 | Edmond Kachale |
