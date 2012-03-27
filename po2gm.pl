@@ -109,7 +109,7 @@ foreach my $msg (@$aref) {
 						my $orig = $regex;
 						$regex =~ s/%d/([0-9]{1,2})/;  # Now "February ([0-9]{1,2})
 						$regex =~ s/%Y/([0-9]{4})/;
-						$regex =~ s/%s/([0-9:apm]+)/;
+						$regex =~ s/%s/([0-9:.apm]+)/;
 						$regex = '(^|="|>)'.$regex.'(?=($|"|<))';
 						my $repl = $formats{$fmt};        # e.g. "%d %B"
 						$repl =~ s/%[AB]/$tempstr/;       # Now "%d Feabhra"
