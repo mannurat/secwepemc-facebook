@@ -28,7 +28,7 @@ to English, etc.
 | an | es | Aragonese | Aragonés | 1.0.0 | Not yet released | Juan Pablo Martínez |
 | br | fr | Breton | Brezhoneg | 1.0.1 | "http://userscripts.org/scripts/show/127734":http://userscripts.org/scripts/show/127734 | Fulup Jakez |
 | cak | es | Cakchiquel | Kaqchikel | 1.0.0 | Not yet released | Peter Rohloff |
-| eml | it | Emiliano-Romagnolo | Emiliàn e Rumagnòl | 1.0.0 | Not yet released | Federico L. G. Faroldi |
+| eml | it | Emiliano-Romagnolo | Emiliàn e Rumagnòl | 1.0.0 | "http://userscripts.org/scripts/show/129394":http://userscripts.org/scripts/show/129394 | Federico L. G. Faroldi |
 | fr-x-jer | en | Jèrriais | Jèrriais | 1.0.0 | Not yet released | Tony Scott Warren |
 | ga | en | Irish | Gaeilge | 1.0.0 | For testing only | Kevin Scannell |
 | gd | en | Scottish Gaelic | Gàidhlig | 1.0.4 | "http://userscripts.org/scripts/show/126511":http://userscripts.org/scripts/show/126511 | Michael Bauer |
