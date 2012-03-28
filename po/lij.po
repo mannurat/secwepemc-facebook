@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
+"POT-Creation-Date: 2012-03-28 07:50:52-05:00\n"
 "PO-Revision-Date: 2012-03-27 11:28:13-05:00\n"
 "Last-Translator: Alessio Gastaldi\n"
 "Language-Team: Ligurian\n"
@@ -149,6 +149,8 @@ msgstr "Cariêra"
 msgid "Change Cover"
 msgstr "Càngia covertìnn-a"
 
+#. Label on tab for chatting with friends
+#. "Offline" means you're not currently logged into the chat system
 msgid "Chat (Offline)"
 msgstr "Ciæti (Fêua lìnea)"
 
@@ -227,7 +229,7 @@ msgstr "Càngia ò Scancélla"
 #. Link that lets you change your language settings
 #. Please translate to the name of your language, written in the language itself
 msgid "English (US)"
-msgstr "Ingléize (US)"
+msgstr "Lìgure"
 
 #. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
@@ -429,7 +431,7 @@ msgstr "Domànde"
 msgid "Recent Activity"
 msgstr "Ativitæ reçénti"
 
-#. Appears in right-hand navigation (sometimes)
+#. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
 msgstr "Pàgine consegiæ"
 
@@ -480,7 +482,7 @@ msgstr "Mànda"
 msgid "Send a New Message"
 msgstr "Mànda 'n mesàggio"
 
-#. Verb. A link that allows you to share a post with your friends
+#. Verb. A link that allows you to share (usually someone else's)  post with your friends
 msgid "Share"
 msgstr "Condivìddi"
 
