@@ -63,6 +63,8 @@ Cancel
 Careers
 #. Link that allows you to change the big photo at the top of your timeline
 Change Cover
+#. Label on tab for chatting with friends
+#. "Offline" means you're not currently logged into the chat system
 Chat (Offline)
 Close
 #. A link that takes you to a list of your closest friends on Facebook
@@ -198,7 +200,7 @@ Profile
 Questions
 #. Box near the top of your personal timeline showing your recent actions on FB
 Recent Activity
-#. Appears in right-hand navigation (sometimes)
+#. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 Recommended Pages
 #. When you share a link in a comment, use this to remove the preview image
 Remove Preview
@@ -223,7 +225,7 @@ See Translation
 Send
 #. Link that opens the "New Message" dialog
 Send a New Message
-#. Verb. A link that allows you to share a post with your friends
+#. Verb. A link that allows you to share (usually someone else's)  post with your friends
 Share
 #. A link that allows your to sort posts by "most recent" or "top stories"
 SORT

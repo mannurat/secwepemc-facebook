@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
+"POT-Creation-Date: 2012-03-28 07:50:52-05:00\n"
 "PO-Revision-Date: 2012-03-25 10:34:52-05:00\n"
 "Last-Translator: Tony Scott Warren\n"
 "Language-Team: Jèrriais\n"
@@ -149,6 +149,8 @@ msgstr "Empl'yés"
 msgid "Change Cover"
 msgstr "Change lé portrait"
 
+#. Label on tab for chatting with friends
+#. "Offline" means you're not currently logged into the chat system
 msgid "Chat (Offline)"
 msgstr "Tchaute (hors lîngne)"
 
@@ -428,7 +430,7 @@ msgstr "Tchestchions"
 msgid "Recent Activity"
 msgstr "Fait dreinement"
 
-#. Appears in right-hand navigation (sometimes)
+#. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
 msgstr "Pages èrquémandées"
 
@@ -479,7 +481,7 @@ msgstr "Env'yie"
 msgid "Send a New Message"
 msgstr "Env'yie un neu M'sage"
 
-#. Verb. A link that allows you to share a post with your friends
+#. Verb. A link that allows you to share (usually someone else's)  post with your friends
 msgid "Share"
 msgstr "Èrpèqu'te"
 

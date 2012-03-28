@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
+"POT-Creation-Date: 2012-03-28 07:50:52-05:00\n"
 "PO-Revision-Date: 2012-02-20 16:59:12-06:00\n"
 "Last-Translator: Edmond Kachale\n"
 "Language-Team: Chichewa\n"
@@ -155,6 +155,8 @@ msgstr "Ntchito"
 msgid "Change Cover"
 msgstr "Sinthani Chikutiro"
 
+#. Label on tab for chatting with friends
+#. "Offline" means you're not currently logged into the chat system
 msgid "Chat (Offline)"
 msgstr "Mchezo (Woduka)"
 
@@ -444,7 +446,7 @@ msgstr "Funsani Funso"
 msgid "Recent Activity"
 msgstr "Zochitika Kumene"
 
-#. Appears in right-hand navigation (sometimes)
+#. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
 msgstr "Masamba Okuganizirani"
 
@@ -498,7 +500,7 @@ msgstr "Tumizani"
 msgid "Send a New Message"
 msgstr "Tumizani Uthenga Watsopano"
 
-#. Verb. A link that allows you to share a post with your friends
+#. Verb. A link that allows you to share (usually someone else's)  post with your friends
 msgid "Share"
 msgstr "Gawani"
 

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-03-27 01:04:32-05:00\n"
+"POT-Creation-Date: 2012-03-28 07:50:52-05:00\n"
 "PO-Revision-Date: 2012-03-17 23:02+0200\n"
 "Last-Translator: Mohomodou Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: Songhay.org\n"
@@ -153,6 +153,8 @@ msgstr "Goymiɲey"
 msgid "Change Cover"
 msgstr "Biikunga barmay"
 
+#. Label on tab for chatting with friends
+#. "Offline" means you're not currently logged into the chat system
 msgid "Chat (Offline)"
 msgstr "Faakaaray (bila nda ciyari)"
 
@@ -434,7 +436,7 @@ msgstr "Hãayaney"
 msgid "Recent Activity"
 msgstr "Teera kokorante"
 
-#. Appears in right-hand navigation (sometimes)
+#. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
 msgstr "Moo yaamarantey"
 
@@ -486,7 +488,7 @@ msgstr "Sanba"
 msgid "Send a New Message"
 msgstr "Alhabar sanba"
 
-#. Verb. A link that allows you to share a post with your friends
+#. Verb. A link that allows you to share (usually someone else's)  post with your friends
 msgid "Share"
 msgstr "Žemna"
 
