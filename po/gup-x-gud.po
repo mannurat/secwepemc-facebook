@@ -276,9 +276,8 @@ msgid "Friends"
 msgstr "Nawu Yiban-burrbun"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
-#, fuzzy
 msgid "FRIENDS"
-msgstr "NAWU YI-DJAREHDJARE"
+msgstr "NAWU YIBAN-BURRBUN"
 
 #. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"

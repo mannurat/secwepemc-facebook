@@ -278,9 +278,8 @@ msgid "Friends"
 msgstr "Taq achib'il"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
-#, fuzzy
 msgid "FRIENDS"
-msgstr "TAQ JEB'ËL"
+msgstr "TAQ ACHIB'IL"
 
 #. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"

@@ -277,9 +277,8 @@ msgid "Friends"
 msgstr "Zanmi"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
-#, fuzzy
 msgid "FRIENDS"
-msgstr "FAVORI"
+msgstr "ZANMI"
 
 #. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
