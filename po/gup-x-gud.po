@@ -100,11 +100,11 @@ msgstr ""
 
 #. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
-msgstr "nawu gabarri-dirri an-buiga"
+msgstr "nawu gabarri-dirri an-buyiga"
 
 #. One of the entries in the APPS list for some users
 msgid "Apps and Games"
-msgstr "An-buihbuiga Gabarri-dirri"
+msgstr "An-buyihbuyiga Gabarri-dirri"
 
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
@@ -152,12 +152,12 @@ msgstr "Yi-rrurrkmirri"
 
 #. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
-msgstr "Yi-bimbularrbu An-buiga Yi-namen"
+msgstr "Yi-bimbularrbu An-buyiga Yi-namen"
 
 #. Label on tab for chatting with friends
 #. "Offline" means you're not currently logged into the chat system
 msgid "Chat (Offline)"
-msgstr "Ngurri-wokmun.gewerren (barri-buiga minj gabarri-nan)"
+msgstr "Ngurri-wokmun.gewerren (ba-rromburrinj)"
 
 msgid "Close"
 msgstr "Yi-balhmen"
@@ -179,7 +179,7 @@ msgstr "Yi-marnbu ba gabarri-bayahme"
 
 #. Link at bottom of home page (under "More")
 msgid "Create a Page"
-msgstr "An-buiga yi-marnbu"
+msgstr "An-buyiga yi-marnbu"
 
 msgid "Create Group..."
 msgstr "Yi-marnbu bu Ngurri-djarrkwokdi..."
@@ -340,15 +340,15 @@ msgstr ""
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
-msgstr "An-buiga ga-djale"
+msgstr "An-buyiga ga-djale"
 
 #. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
-msgstr "AN-BUIGA GA-DJALE"
+msgstr "AN-BUYIGA GA-DJALE"
 
 #. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
-msgstr "Gun-wokbuiga"
+msgstr "Gun-wokbuyiga"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Most Recent"
@@ -447,7 +447,7 @@ msgstr "Njanjuk Yi-marnbom"
 
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
-msgstr "Andehne A-djare"
+msgstr "Gubuyiga ngundi-bukkan"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
@@ -522,7 +522,7 @@ msgstr "Ngayed a-yimerran"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
-msgstr "An-buiga a-djare"
+msgstr "An-buyiga a-djare"
 
 msgid "Tag Friends"
 msgstr "Yiban-ngeinamen"
@@ -551,7 +551,7 @@ msgstr "Ga-re gore:"
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 #, fuzzy
 msgid "Top Stories"
-msgstr "Gun-wokbuiga"
+msgstr "Gun-wokbuyiga"
 
 #. Verb. See "Like"
 msgid "Unlike"

@@ -156,7 +156,7 @@ msgstr "Yi-bimborledkemen"
 #. Label on tab for chatting with friends
 #. "Offline" means you're not currently logged into the chat system
 msgid "Chat (Offline)"
-msgstr "Ngurri-wokmunkewerren (birri-buyika minj kabirri-nan)"
+msgstr "Ngurri-wokmunkewerren (domburrinj)"
 
 msgid "Close"
 msgstr "Yi-balhmen"
@@ -446,7 +446,7 @@ msgstr "Bolkki nga-djalmarnbom"
 
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
-msgstr "Ngaye nga-djare mahni"
+msgstr "Kubuyika ngundi-bukkan"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
