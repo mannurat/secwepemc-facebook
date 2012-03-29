@@ -143,7 +143,7 @@ msgstr "Flianque"
 
 #. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
-msgstr "Empl'yés"
+msgstr "Empliais"
 
 #. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
@@ -197,7 +197,7 @@ msgstr "%d couôsîns en c'meun"
 
 #. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
-msgstr "%d NOUVELLES ATRICL'YES"
+msgstr "%d NOUVELLES ARTICL'YES"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
@@ -206,7 +206,7 @@ msgstr "acouo %d"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
-msgstr "%d personnes"
+msgstr "%d pèrsonnes"
 
 #. %d stands for a number, no need to translate it
 msgid "%d seconds ago"
@@ -215,7 +215,7 @@ msgstr "Y'a %d s'gondes"
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "%d shares"
-msgstr "%d èrpèqué'tethies"
+msgstr "%d èrpèqu'téthies"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -253,7 +253,7 @@ msgid "Find Friends"
 msgstr "Souotre des couôsîns"
 
 msgid "Find More Pages"
-msgstr "Souotre acouo d'pâges"
+msgstr "Souotre acouo d'pages"
 
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
@@ -296,7 +296,7 @@ msgid "Likes"
 msgstr "M's affits"
 
 msgid "Like This Page"
-msgstr "Enfile chutte pâge"
+msgstr "Enfile chutte page"
 
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 msgid "link"
@@ -416,7 +416,7 @@ msgid "Privacy"
 msgstr "Tan Partitchulyi"
 
 msgid "Privacy Settings"
-msgstr "Contrôle dé Partitchulyi"
+msgstr "Contrôle du Partitchulyi"
 
 #. Appears when you mouse over your name in the top navigation
 msgid "Profile"
@@ -567,7 +567,7 @@ msgstr "Tch'est qu'tu en crai?"
 
 #. Prompt when you comment on a post
 msgid "Write a comment..."
-msgstr "Èrpique-y"
+msgstr "Èrplyique-y"
 
 #. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
