@@ -45,7 +45,7 @@ msgid "About"
 msgstr "Acerca de"
 
 msgid "about an hour ago"
-msgstr "hace aproximadamente una hora"
+msgstr "Hace aproximadamente una hora"
 
 msgid "about a minute ago"
 msgstr "Hace un minuto aproximadamente"
@@ -278,7 +278,7 @@ msgstr "GRUPOS"
 
 #. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
-msgstr "Servicio de ayuda"
+msgstr "Ayuda"
 
 #. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
