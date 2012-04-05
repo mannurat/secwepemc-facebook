@@ -39,6 +39,7 @@ to English, etc.
 | ht | fr | Haitian Creole | Kreyòl Ayisyen | 1.0.1 | "http://userscripts.org/scripts/show/130010":http://userscripts.org/scripts/show/130010 | Jean Came Poulard |
 | ht-x-en | en | Haitian Creole | Kreyòl Ayisyen | 1.0.1 | "http://userscripts.org/scripts/show/126548":http://userscripts.org/scripts/show/126548 | Jean Came Poulard |
 | lij | it | Ligurian | Lìgure | 1.0.1 | "http://userscripts.org/scripts/show/129397":http://userscripts.org/scripts/show/129397 | Alessio Gastaldi |
+| mus | en | Muskogee | Mvskoke | 1.0.0 | Not yet released | James Fife |
 | mwl | es | Mirandese | Mirandés | 1.0.0 | Not yet released | José Pedro Ferreira |
 | nv | en | Navajo | Diné bizaad | 1.0.0 | Not yet released | @NavajoNow |
 | ny | en | Chichewa | Chicheŵa | 1.0.0 | "http://userscripts.org/scripts/show/126642":http://userscripts.org/scripts/show/126642 | Edmond Kachale |
