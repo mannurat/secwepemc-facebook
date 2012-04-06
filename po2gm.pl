@@ -18,7 +18,7 @@ use warnings;
 use Locale::PO;
 
 if (scalar @ARGV != 2) {
-	die "Usage: $0 POFILE AMBIENTLANG\n";
+	die "Usage: $0 TARGETLANG AMBIENTLANG\n";
 }
 
 sub insert_backref {
@@ -56,6 +56,7 @@ sub escape_regex {
 
 my @outputlines;
 my %formats;
+my $target = $ARGV[0];
 my $ambient = $ARGV[1];
 my %source; # maps English to whatever ambient language is (maybe en!)
 $formats{'%A'} = '%A'; # simple days of the week: "Saturday"
@@ -85,7 +86,7 @@ sub get_source_string {
 	}
 }
 
-my $aref = Locale::PO->load_file_asarray($ARGV[0]);
+my $aref = Locale::PO->load_file_asarray("po/$target.po");
 foreach my $msg (@$aref) {
 	next if $msg->fuzzy();
 	my $id = $msg->msgid();

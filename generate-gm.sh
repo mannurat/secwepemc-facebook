@@ -19,13 +19,13 @@ cat LINGUAS | tr "\t" "~" |
 while read x
 do
 	LANGCODE=`echo $x | sed 's/~.*//'`
-	POFILE=`echo ${LANGCODE} | sed 's/-x-en$//'`
+	POFILECODE=`echo ${LANGCODE} | sed 's/-x-en$//'`
 	AMBIENTLANG=`echo $x | sed 's/^[^~]*~//' | sed 's/~.*//'`
 	ENGLISHNAME=`echo $x | sed 's/^[^~]*~[^~]*~//' | sed 's/~.*//'`
 	VERSION=`echo $x | sed 's/^.*~\([^~]*\)~[^~]*~[^~]*$/\1/'`
 	TRANSLATORS=`echo $x | sed 's/^.*~\([^~]*\)$/\1/'`
-	echo "Generating greasemonkey for ${LANGCODE} (using po/${POFILE}.po)..."
-	perl po2gm.pl po/${POFILE}.po ${AMBIENTLANG} > ${TEMPFILE}
+	echo "Generating greasemonkey for ${LANGCODE} (using po/${POFILECODE}.po)..."
+	perl po2gm.pl ${POFILECODE} ${AMBIENTLANG} > ${TEMPFILE}
 	sed "/Translations go here/r ${TEMPFILE}" template.user.js | sed "s/!TEANGA!/${LANGCODE}/" | sed "s/!DATA!/`date --rfc-3339=date`/" | sed "s/!LEAGAN!/${VERSION}/" | sed "s/!ENGLISHNAME!/${ENGLISHNAME}/" | sed "s/!TRANSLATORS!/${TRANSLATORS}/" > facebook-${LANGCODE}.user.js
 	rm -f ${LANGCODE}-temp.js
 done
