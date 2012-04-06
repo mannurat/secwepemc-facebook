@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2012-03-28 07:50:52-05:00\n"
-"PO-Revision-Date: 2012-04-05 01:44+0200\n"
+"PO-Revision-Date: 2012-04-06 01:16+0200\n"
 "Last-Translator: Juan Pablo Martínez Cortés <juanpabl@gmail.com>\n"
 "Language-Team: Softaragonés\n"
 "MIME-Version: 1.0\n"
@@ -58,7 +58,7 @@ msgstr "Achustes de cuenta"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
-msgstr "%a ha comentau una? %a."
+msgstr "%a ha comentau una %a."
 
 msgid "Activity Log"
 msgstr "Rechistro d'actividatz"
@@ -84,7 +84,7 @@ msgstr "A %a le ha feito goyo %a."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a likes a %a."
-msgstr "A %a le ha feito goyo una? %a."
+msgstr "A %a le ha feito goyo una %a."
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -147,7 +147,7 @@ msgstr "Cancelar"
 
 #. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
-msgstr "Treballo"
+msgstr "Treballar-ie"
 
 #. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
@@ -297,7 +297,7 @@ msgstr "Me fa goyo"
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
-msgstr "Me fan goyo"
+msgstr "Me fa goyo"
 
 msgid "Like This Page"
 msgstr "Me fa goyo ista pachina"
@@ -384,11 +384,11 @@ msgid "People who like this"
 msgstr "Chent que le ha feito goyo isto"
 
 msgid "People You May Know"
-msgstr "Chent que talment conoixcas"
+msgstr "Chent que talment conoixes"
 
 #. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
-msgstr "Foto"
+msgstr "Adhibe una foto"
 
 #. Always a link. Used in longer sentences, like "%a commented on a photo."
 msgid "photo"
@@ -452,7 +452,7 @@ msgstr "Mirar-lo"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
-msgstr "Veyer-los totz"
+msgstr "Veyer-las todas"
 
 #. In the drop-down menu with recent Friend Requests
 msgid "See All Friend Requests"
@@ -536,7 +536,7 @@ msgstr "Ta:"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Top Stories"
-msgstr "Historias mas relevants"
+msgstr "Mas importants"
 
 #. Verb. See "Like"
 msgid "Unlike"
