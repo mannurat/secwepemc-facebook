@@ -114,6 +114,9 @@ foreach my $msg (@$aref) {
 						$regex = '(^|="|>)'.$regex.'(?=($|"|<))';
 						my $repl = $formats{$fmt};        # e.g. "%d %B"
 						$repl =~ s/%[AB]/$tempstr/;       # Now "%d Feabhra"
+						if ($target =~ m/^(an|ast)$/) {
+							$repl =~ s/de ([aeiou])/d'$1/;
+						}
 						$repl = insert_all_backrefs($orig, $repl);
 						push @outputlines, "  d = r(d, '$regex', \"\$1\"+$repl);\n";
 					}
