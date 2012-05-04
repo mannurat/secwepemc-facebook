@@ -5,7 +5,7 @@
 all: updategms INSTALL.textile
 
 facebook.pot: strings.txt header.pot
-	sed "s/XXXX-XX-XX XX:XX-XXXX/`date --rfc-3339=seconds`/" header.pot > $@
+	sed "s/XXXX-XX-XX XX:XX-XXXX/`date '+%Y-%m-%d %H:%M:%S%z' | sed 's/00$$/:00/'`/" header.pot > $@
 	cat strings.txt | sed '/^[^#]/{s/"/\\"/g; s/.*/msgid "&"\nmsgstr ""\n/}' >> $@
 
 updatepos: facebook.pot

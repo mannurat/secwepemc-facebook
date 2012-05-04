@@ -26,7 +26,7 @@ do
 	TRANSLATORS=`echo $x | sed 's/^.*~\([^~]*\)$/\1/'`
 	echo "Generating greasemonkey for ${LANGCODE} (using po/${POFILECODE}.po)..."
 	perl po2gm.pl ${POFILECODE} ${AMBIENTLANG} > ${TEMPFILE}
-	sed "/Translations go here/r ${TEMPFILE}" template.user.js | sed "s/!TEANGA!/${LANGCODE}/" | sed "s/!DATA!/`date --rfc-3339=date`/" | sed "s/!LEAGAN!/${VERSION}/" | sed "s/!ENGLISHNAME!/${ENGLISHNAME}/" | sed "s/!TRANSLATORS!/${TRANSLATORS}/" > facebook-${LANGCODE}.user.js
+	sed "/Translations go here/r ${TEMPFILE}" template.user.js | sed "s/!TEANGA!/${LANGCODE}/" | sed "s/!DATA!/`date +%Y-%m-%d`/" | sed "s/!LEAGAN!/${VERSION}/" | sed "s/!ENGLISHNAME!/${ENGLISHNAME}/" | sed "s/!TRANSLATORS!/${TRANSLATORS}/" > facebook-${LANGCODE}.user.js
 	rm -f ${LANGCODE}-temp.js
 done
 rm -f ${TEMPFILE}
