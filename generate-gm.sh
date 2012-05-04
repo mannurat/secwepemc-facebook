@@ -14,7 +14,7 @@
 #  You should have received a copy of the GNU General Public License
 #  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-TEMPFILE=`mktemp`
+TEMPFILE=`mktemp /tmp/tmp.XXXXXXXXXX`
 cat LINGUAS | tr "\t" "~" |
 while read x
 do
