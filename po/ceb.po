@@ -1,0 +1,492 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-23 10:52:31-06:00\n"
+"PO-Revision-Date: 2012-05-12 10:52:31-06:00\n"
+"Last-Translator: JOSHUA VERANO\n"
+"Language-Team: BISAYA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Lines like this one beginning with "#." are comments; no need to translate!
+msgid "1 mutual friend"
+msgstr "1 ka parehang higala"
+
+msgid "1 NEW STORY"
+msgstr "Bag-ong istorya"
+
+#. Appears next to a post; means the post has been shared one time
+msgid "1 share"
+msgstr ""
+
+#. Link at bottom of home page (under "More") to info about Facebook
+msgid "About"
+msgstr "Kahitungod"
+
+msgid "about an hour ago"
+msgstr "oras ang nilabay"
+
+msgid "about a minute ago"
+msgstr "minuto ang nilabay"
+
+msgid "Account Settings"
+msgstr "Ang setting sa akong Account"
+
+msgid "Activity Log"
+msgstr "Mga Panghitabo"
+
+msgid "Add Friend"
+msgstr "Ihigala"
+
+msgid "Add Photo / Video"
+msgstr "Magbutang ug Litrato/Bidyo"
+
+#. Link at bottom of home page (under "More") to info about Facebook ads
+msgid "Advertising"
+msgstr "Pahinumdum"
+
+#. Time stamp on a post. You might also translate as "Just now"
+msgid "a few seconds ago"
+msgstr "mga sigundo ang nilabay"
+
+msgid "APPS"
+msgstr "APPS"
+
+msgid "Apps and Games"
+msgstr "Apps ug mga duwa"
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr "%A sa %s"
+
+msgid "Ask Question"
+msgstr "Pangutana"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "%B %d"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "%B %d sa %s"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "%B %d, %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "%B %d, %Y sa %s"
+
+msgid "Born"
+msgstr "Natawo"
+
+msgid "By:"
+msgstr "Ni:"
+
+msgid "Cancel"
+msgstr "Ihunong"
+
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
+msgid "Careers"
+msgstr "Karera"
+
+#. Link that allows you to change the big photo at the top of your timeline
+msgid "Change Cover"
+msgstr "Usbon and Kabir"
+
+msgid "Chat (Offline)"
+msgstr ""
+
+msgid "Close"
+msgstr "Isira"
+
+#. A link that takes you to a list of your closest friends on Facebook
+msgid "Close Friends"
+msgstr "Suod nga higala"
+
+#. Verb. A link under a post that allows you to comment on the post.
+msgid "Comment"
+msgstr "Komento"
+
+msgid "Create an Ad"
+msgstr "Magbuhat ug Ad"
+
+#. Link at bottom of home page (under "More")
+msgid "Create a Page"
+msgstr "Magbuhat ug pahina"
+
+msgid "Create Group..."
+msgstr "Magbuhat ug grupo"
+
+#. Link at bottom of home page (under "More") to info for software developers
+msgid "Developers"
+msgstr "Tigbuhat"
+
+#. %d stands for a number, no need to translate it
+msgid "%d hours ago"
+msgstr "%d ka oras ang nilabay"
+
+#. %d stands for a number, no need to translate it
+msgid "%d minutes ago"
+msgstr "%d ka minuto ang nilabay"
+
+#. %d stands for a number, no need to translate it
+msgid "%d mutual friends"
+msgstr "%d parehang higala"
+
+#. %d stands for a number, no need to translate it
+msgid "%d NEW STORIES"
+msgstr "%d BAG-ONG MGA ISTORYA"
+
+#. %d stands for a number, no need to translate it
+msgid "%d people"
+msgstr "%d ka mga taw"
+
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
+msgid "%d shares"
+msgstr "%d nga pag-ambit"
+
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
+msgid "Edit Options"
+msgstr "Pag-usab sa Option"
+
+#. Attached to each post on your personal timeline
+msgid "Edit or Remove"
+msgstr "Usabon or Pagtangtang"
+
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+msgid "English (US)"
+msgstr "Bisaya"
+
+#. In the "New Message" dialog
+msgid "Enter a friend's name or email address"
+msgstr "Ibutang ang email or pangalan sa higala"
+
+#. A link to a list of events that you've been invited to
+msgid "Events"
+msgstr "Panghitabo"
+
+#. A link that shows you a list of your relatives on Facebook
+msgid "Family"
+msgstr "Pamilya"
+
+msgid "FAVORITES"
+msgstr "MGA GANAHAN"
+
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
+msgid "Find Friends"
+msgstr "Mangitag higala"
+
+#. People who have asked to be your friend on Facebook; top left of screen
+msgid "Friend Requests"
+msgstr "Mga Makighigala"
+
+#. A link that takes you to a list of all your Facebook friends
+msgid "Friends"
+msgstr "Mga higala"
+
+msgid "GROUPS"
+msgstr "GRUPO"
+
+msgid "Help"
+msgstr "Magpatabang"
+
+#. Link that takes you to your home timeline; always visible at top-right
+msgid "Home"
+msgstr "Home"
+
+msgid "Life Event"
+msgstr "Panghitabo sa kinabuhi"
+
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
+msgid "Like"
+msgstr "Ganahan"
+
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+msgid "Likes"
+msgstr "Giganahan"
+
+#. Heading above your lists of friends ("Work", "Family", etc.)
+msgid "LISTS"
+msgstr "MGA LISTA"
+
+msgid "Log Out"
+msgstr "Log Out"
+
+#. Link to a map of the places someone has been
+msgid "Map"
+msgstr "Mapa"
+
+#. In the "New Message" dialog
+msgid "Message:"
+msgstr "Sugilon:"
+
+msgid "Messages"
+msgstr "Mga Sugilanon"
+
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
+msgid "More"
+msgstr "Daghan pa"
+
+msgid "MORE"
+msgstr "DAGHAN PA"
+
+#. Appears at the bottom of your home time line; click to load more posts
+msgid "More Stories"
+msgstr ""
+
+msgid "New Group..."
+msgstr "Bag-ong grupo...."
+
+msgid "New Message"
+msgstr "Bag-ong Mensahe"
+
+msgid "News Feed"
+msgstr "Mga Bag-o"
+
+#. A link that takes you to the latest posts on your timeline
+msgid "Now"
+msgstr "Karon"
+
+msgid "PAGES"
+msgstr "Mga Palid"
+
+msgid "People who like this"
+msgstr "Tawng ganahan ani"
+
+msgid "People You May Know"
+msgstr "Basin Kaila Nimo"
+
+msgid "Photo"
+msgstr "Litrato"
+
+msgid "Photos"
+msgstr "Mga Litrato"
+
+#. Link that allows you to "check in" somewhere
+msgid "Place"
+msgstr "Lugar"
+
+msgid "Places"
+msgstr "Mga lugar"
+
+#. Link at the bottom of home page to Facebook's privacy policy
+msgid "Privacy"
+msgstr "Pagkapribado"
+
+msgid "Privacy Settings"
+msgstr "Setting sa pagkabribado"
+
+msgid "Profile"
+msgstr "Profile"
+
+#. Box near the top of your personal timeline showing your recent actions on FB
+msgid "Recent Activity"
+msgstr "Bagong nahitabo"
+
+msgid "Recommended Pages"
+msgstr "Recomendar"
+
+#. When you share a link in a comment, use this to remove the preview image
+msgid "Remove Preview"
+msgstr "Tangtangon ang Preview"
+
+#. Option on every post on your personal timeline
+msgid "Resize"
+msgstr "i-resize"
+
+#. Text that appears in the search box at the top of the page
+msgid "Search"
+msgstr "Pangita"
+
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
+msgid "See All"
+msgstr "Tanan"
+
+msgid "See All Messages"
+msgstr "Tanang mensahe"
+
+#. See more of a post that was truncated because it was very long
+msgid "See More"
+msgstr "Ang tanan"
+
+#. Link that appears under a post in another language; click it to translate
+msgid "See Translation"
+msgstr "Ang Paghubad"
+
+#. Label on button in "New Message" dialog to send the message
+msgid "Send"
+msgstr "Ipada"
+
+#. Link that opens the "New Message" dialog
+msgid "Send a New Message"
+msgstr "Padal-i ug mensahe"
+
+#. Verb. A link that allows you to share a post with your friends
+msgid "Share"
+msgstr "E-share"
+
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "Ganahan si %a ani."
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "Ganahan sila %a ani."
+
+#. A link that allows your to sort posts by "most recent" or "top stories"
+msgid "SORT"
+msgstr "Paghan-ay"
+
+#. Appears above paid advertisements
+msgid "Sponsored"
+msgstr "Sponsored"
+
+#. This is a Facebook "status update", not a relationship status
+msgid "Status"
+msgstr "Kahimtang"
+
+msgid "Subscriptions"
+msgstr "Ma gisabsrayb"
+
+msgid "Tag Friends"
+msgstr "Na-tag nga higala"
+
+#. Link at the bottom of home page to Facebook's "Terms of Service"
+msgid "Terms"
+msgstr "Kasabutan"
+
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
+msgid "Ticker"
+msgstr "Ticker"
+
+msgid "Timeline"
+msgstr "Timeline"
+
+#. Specifies recipient when you send a private message
+msgid "To:"
+msgstr "Para kang"
+
+#. Verb. See "Like"
+msgid "Unlike"
+msgstr "dili ganahan"
+
+#. Label on a button that allows you to edit your personal information
+msgid "Update Info"
+msgstr "Pag-usab sa Impormasyon"
+
+#. This is a Facebook "status update", not a relationship status
+msgid "Update Status"
+msgstr "Pagusab sa Kahimtang"
+
+#. %d stands for a number, no need to translate it
+msgid "View all %d comments"
+msgstr ""
+
+msgid "Wall Photos"
+msgstr "Litrato sa pader"
+
+#. Main prompt when you enter in a new status update
+msgid "What's on your mind?"
+msgstr "Unsa imong ginaisip?"
+
+#. Prompt when you comment on a post
+msgid "Write a comment..."
+msgstr "Magkomento"
+
+#. Appears next to a post or comment as a timestamp
+msgid "Yesterday"
+msgstr "Gahapon"
+
+#. Appears next to a post or comment as a timestamp; %s is the time of day
+msgid "Yesterday at %s"
+msgstr "Gahapon sa %s"
+
+msgid "You like this."
+msgstr "Ganahan ka ani"
+
+#. Month Name
+msgid "January"
+msgstr "Enero"
+
+#. Month Name
+msgid "February"
+msgstr "Pebrero"
+
+#. Month Name
+msgid "March"
+msgstr "Marso"
+
+#. Month Name
+msgid "April"
+msgstr "Abril"
+
+#. Month Name
+msgid "May"
+msgstr "Mayo"
+
+#. Month Name
+msgid "June"
+msgstr "Hunyo"
+
+#. Month Name
+msgid "July"
+msgstr "Hulyo"
+
+#. Month Name
+msgid "August"
+msgstr "Agosto"
+
+#. Month Name
+msgid "September"
+msgstr "Setyembre"
+
+#. Month Name
+msgid "October"
+msgstr "Oktobre"
+
+#. Month Name
+msgid "November"
+msgstr "Nobyembre"
+
+#. Month Name
+msgid "December"
+msgstr "Disyembre"
+
+#. Day of the Week
+msgid "Monday"
+msgstr "Lunes"
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr "Martes"
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr "Miyerkules"
+
+#. Day of the Week
+msgid "Thursday"
+msgstr "Huybes"
+
+#. Day of the Week
+msgid "Friday"
+msgstr "Biyernes"
+
+#. Day of the Week
+msgid "Saturday"
+msgstr "Sabado"
+
+#. Day of the Week
+msgid "Sunday"
+msgstr "Domingo"
