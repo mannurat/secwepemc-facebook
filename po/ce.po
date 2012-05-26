@@ -4,10 +4,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-02-23 10:52:31-06:00\n"
+"POT-Creation-Date: 2012-05-03 21:43:25-05:00\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Sarah Slye\n"
 "Language-Team: Chechen\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,6 +24,22 @@ msgstr "1 КЕРЛА ИСТОРИ"
 msgid "1 share"
 msgstr "1 д1асадекъар"
 
+#. First two %a's are names, third is something like "5 others"
+msgid "%a, %a and %a like this."
+msgstr ""
+
+#. %a is someone's name
+msgid "%a added a new photo."
+msgstr ""
+
+#. First %a is a name, second %a is a name or else something like "6 others"
+msgid "%a and %a like this."
+msgstr ""
+
+#. First two as above, and final %a is something like "a link"
+msgid "%a and %a shared %a."
+msgstr ""
+
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
 msgstr "Лаьцна"
@@ -36,12 +53,17 @@ msgstr "1 минот хьалха гергга"
 msgid "Account Settings"
 msgstr "Чот х1оттор"
 
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on a %a."
+msgstr ""
+
 msgid "Activity Log"
 msgstr "Ардаман журнал"
 
 msgid "Add Friend"
 msgstr "Доттаг1 т1етоха"
 
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
 msgstr "Т1етоxа Сурт / Видео"
 
@@ -53,9 +75,31 @@ msgstr "Материал яржор (Реклама)"
 msgid "a few seconds ago"
 msgstr "х1инццехь"
 
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
+msgid "%a likes %a."
+msgstr ""
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a likes a %a."
+msgstr ""
+
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "%a х1ара хазахета"
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "%a стаганна х1ара хазахета"
+
+#. Always a link. Used in longer sentences like "John Doe shared a link"
+msgid "a link"
+msgstr ""
+
+#. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
 msgstr "Компютерна улледиллар"
 
+#. One of the entries in the APPS list for some users
 msgid "Apps and Games"
 msgstr "Компютерна улле дехкинарш, ловзарш а"
 
@@ -63,6 +107,11 @@ msgstr "Компютерна улле дехкинарш, ловзарш а"
 msgid "%A at %s"
 msgstr "%A, %s"
 
+#. First %a is a person, second one is something like "a link"
+msgid "%a shared %a."
+msgstr ""
+
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Хаттар де"
 
@@ -85,9 +134,11 @@ msgstr "%d %B %Y, %s"
 msgid "Born"
 msgstr "Вина / Йина"
 
+#. Appears below shared items, indicating the original author/creator
 msgid "By:"
 msgstr "Цхьаьнца:"
 
+#. Button label
 msgid "Cancel"
 msgstr "Юхавалар"
 
@@ -99,6 +150,8 @@ msgstr "Белханаш"
 msgid "Change Cover"
 msgstr "Хийца сурт"
 
+#. Label on tab for chatting with friends
+#. "Offline" means you're not currently logged into the chat system
 msgid "Chat (Offline)"
 msgstr "Къамеле валар (Офлайн)"
 
@@ -112,6 +165,10 @@ msgstr "Уллера доттаг1ий"
 #. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
 msgstr "Хетарг ала"
+
+#. Button label; confirm a friend request
+msgid "Confirm"
+msgstr ""
 
 msgid "Create an Ad"
 msgstr "Реклама е"
@@ -143,9 +200,18 @@ msgstr "%d юкъара доттаг1ий"
 msgid "%d NEW STORIES"
 msgstr "%d Керла историш"
 
-#. %d stands for a number, no need to translate it
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
+msgid "%d others"
+msgstr ""
+
+#. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
 msgstr "%d стаг / нах"
+
+#. %d stands for a number, no need to translate it
+msgid "%d seconds ago"
+msgstr ""
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
@@ -176,8 +242,9 @@ msgstr "Вовшахтохарш"
 
 #. A link that shows you a list of your relatives on Facebook
 msgid "Family"
-msgstr "Гергарнаш" 
+msgstr "Гергарнаш"
 
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
 msgstr "Безарш"
 
@@ -185,6 +252,13 @@ msgstr "Безарш"
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
 msgstr "Доттаг1ий лаха"
+
+msgid "Find More Pages"
+msgstr ""
+
+#. In search box that lets you search for friends that are available to chat
+msgid "Friends on Chat"
+msgstr ""
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
@@ -194,9 +268,15 @@ msgstr "Доттаг1алла кховдор"
 msgid "Friends"
 msgstr "Доттаг1ий"
 
+#. Heading above your lists of friends ("Work", "Family", etc.)
+msgid "FRIENDS"
+msgstr ""
+
+#. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
 msgstr "ТОБАНАШ"
 
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
 msgstr "Г1о"
 
@@ -212,10 +292,21 @@ msgid "Like"
 msgstr "Хазахета"
 
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr "Хазахетарш"
 
-#. Heading above your lists of friends ("Work", "Family", etc.)
+msgid "Like This Page"
+msgstr ""
+
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+msgid "link"
+msgstr ""
+
+msgid "Links"
+msgstr ""
+
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "Гуларш"
 
@@ -233,10 +324,15 @@ msgstr "Хаам"
 msgid "Messages"
 msgstr "Хаамаш"
 
+#. Photographs uploaded from someone's mobile device
+msgid "Mobile Uploads"
+msgstr ""
+
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
 msgstr "Кхин а"
 
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr "КХИН А"
 
@@ -244,19 +340,40 @@ msgstr "КХИН А"
 msgid "More Stories"
 msgstr "Кхин историш"
 
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Most Recent"
+msgstr ""
+
+#. Appears in left-hand navigation for some users
+msgid "Music"
+msgstr ""
+
+#. Not sure now where this appears, a figment?
 msgid "New Group..."
 msgstr "Керла Тоба"
 
 msgid "New Message"
 msgstr "Керла хаам"
 
+#. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "Хаамийн билзиг"
+
+msgid "Notes"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+#. Button label; postpone confirmation of a friend request
+msgid "Not Now"
+msgstr ""
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
 msgstr "X1инца"
 
+#. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES"
 msgstr "АГ1ОНАШ"
 
@@ -266,17 +383,33 @@ msgstr "Х1ара хазахета нах"
 msgid "People You May Know"
 msgstr "Хьуна бевзаш хила тарло нах"
 
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr "Сурт"
 
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+msgid "photo"
+msgstr ""
+
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr ""
 
 #. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
 msgstr ""
 
+#. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
+msgstr ""
+
+#. Appears in left-hand navigation for some users, under "APPS"
+msgid "Pokes"
+msgstr ""
+
+#. Always a link. Used in longer sentences, like "%a commented on a post."
+msgid "post"
 msgstr ""
 
 #. Link at the bottom of home page to Facebook's privacy policy
@@ -286,13 +419,19 @@ msgstr "Къайладахьар"
 msgid "Privacy Settings"
 msgstr ""
 
+#. Appears when you mouse over your name in the top navigation
 msgid "Profile"
+msgstr ""
+
+#. Appears under APPS for some users in left-hand navigation
+msgid "Questions"
 msgstr ""
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 msgid "Recent Activity"
 msgstr "Къайладахьаран нисдарш"
 
+#. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
 msgstr "Магийна Aг1онаш"
 
@@ -300,7 +439,7 @@ msgstr "Магийна Aг1онаш"
 msgid "Remove Preview"
 msgstr "Д1аяккха хьалххе хьажар"
 
-#. Option on every post on your personal timeline
+#. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
 msgstr "Барам хийцар"
 
@@ -312,8 +451,20 @@ msgstr "Лаха"
 msgid "See All"
 msgstr "Mассаьрга хьажа"
 
+#. In the drop-down menu with recent Friend Requests
+msgid "See All Friend Requests"
+msgstr ""
+
 msgid "See All Messages"
 msgstr "Массо хаамашка хьажа"
+
+msgid "See All Notifications"
+msgstr ""
+
+#. A link that shows interactions and photos involving two Facebook friends
+#. One place it appears is in the "gear" menu on a friend's profile
+msgid "See Friendship"
+msgstr ""
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -331,17 +482,9 @@ msgstr "Д1атаса"
 msgid "Send a New Message"
 msgstr "Керла хаам д1абахьийта"
 
-#. Verb. A link that allows you to share a post with your friends
+#. Verb. A link that allows you to share (usually someone else's)  post with your friends
 msgid "Share"
 msgstr "Декъа"
-
-#. %a stands for a person's name
-msgid "%a likes this."
-msgstr "%a х1ара хазахета"
-
-#. %a stands for something like "3 people"
-msgid "%a like this."
-msgstr "%a стаганна х1ара хазахета"
 
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
@@ -351,10 +494,16 @@ msgstr "Къастаде"
 msgid "Sponsored"
 msgstr "Спонсоралла хилла"
 
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+msgid "status"
+msgstr ""
+
 #. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Статус / Хьал"
 
+#. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr "Т1еяздаларш"
 
@@ -370,12 +519,21 @@ msgstr "Г1уллакъхан Таронаш"
 msgid "Ticker"
 msgstr "М1аьрагонан Хаам"
 
+#. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
 msgstr "Заман Mог1а"
+
+#. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
+msgid "%T near %a"
+msgstr ""
 
 #. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Хьаьнга:"
+
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+msgid "Top Stories"
+msgstr ""
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -386,8 +544,12 @@ msgid "Update Info"
 msgstr "Xаам карлабаккха"
 
 #. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
 msgstr "Статус карлаяккхаp"
+
+msgid "Use Facebook as:"
+msgstr ""
 
 #. %d stands for a number, no need to translate it
 msgid "View all %d comments"
@@ -395,6 +557,10 @@ msgstr "Массо %d комментаришка хьажа"
 
 msgid "Wall Photos"
 msgstr "Пена т1ера суьрташ"
+
+#. Appears in left-hand navigation for new users
+msgid "Welcome"
+msgstr ""
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
@@ -411,6 +577,10 @@ msgstr "Cелхана"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Селхана %s сахьт даьлча"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr ""
 
 msgid "You like this."
 msgstr "Суна хазахета х1ара"
@@ -468,8 +638,8 @@ msgid "Monday"
 msgstr "Оршотде"
 
 #. Day of the Week
-msgid "Еарин деTuesday"
-msgstr "Шинарин де"
+msgid "Tuesday"
+msgstr ""
 
 #. Day of the Week
 msgid "Wednesday"
