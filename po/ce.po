@@ -1,0 +1,492 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-23 10:52:31-06:00\n"
+"PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
+"Last-Translator: Sarah Slye\n"
+"Language-Team: Chechen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Lines like this one beginning with "#." are comments; no need to translate!
+msgid "1 mutual friend"
+msgstr "1 юкъара доттаг1"
+
+msgid "1 NEW STORY"
+msgstr "1 КЕРЛА ИСТОРИ"
+
+#. Appears next to a post; means the post has been shared one time
+msgid "1 share"
+msgstr "1 д1асадекъар"
+
+#. Link at bottom of home page (under "More") to info about Facebook
+msgid "About"
+msgstr "Лаьцна"
+
+msgid "about an hour ago"
+msgstr "1 сахьт хьалха гергга"
+
+msgid "about a minute ago"
+msgstr "1 минот хьалха гергга"
+
+msgid "Account Settings"
+msgstr "Чот х1оттор"
+
+msgid "Activity Log"
+msgstr "Ардаман журнал"
+
+msgid "Add Friend"
+msgstr "Доттаг1 т1етоха"
+
+msgid "Add Photo / Video"
+msgstr "Т1етоxа Сурт / Видео"
+
+#. Link at bottom of home page (under "More") to info about Facebook ads
+msgid "Advertising"
+msgstr "Материал яржор (Реклама)"
+
+#. Time stamp on a post. You might also translate as "Just now"
+msgid "a few seconds ago"
+msgstr "х1инццехь"
+
+msgid "APPS"
+msgstr "Компютерна улледиллар"
+
+msgid "Apps and Games"
+msgstr "Компютерна улле дехкинарш, ловзарш а"
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr "%A, %s"
+
+msgid "Ask Question"
+msgstr "Хаттар де"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "%d %B"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "%d %B, %s"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "%d %B %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "%d %B %Y, %s"
+
+msgid "Born"
+msgstr "Вина / Йина"
+
+msgid "By:"
+msgstr "Цхьаьнца:"
+
+msgid "Cancel"
+msgstr "Юхавалар"
+
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
+msgid "Careers"
+msgstr "Белханаш"
+
+#. Link that allows you to change the big photo at the top of your timeline
+msgid "Change Cover"
+msgstr "Хийца сурт"
+
+msgid "Chat (Offline)"
+msgstr "Къамеле валар (Офлайн)"
+
+msgid "Close"
+msgstr "Д1акъовла"
+
+#. A link that takes you to a list of your closest friends on Facebook
+msgid "Close Friends"
+msgstr "Уллера доттаг1ий"
+
+#. Verb. A link under a post that allows you to comment on the post.
+msgid "Comment"
+msgstr "Хетарг ала"
+
+msgid "Create an Ad"
+msgstr "Реклама е"
+
+#. Link at bottom of home page (under "More")
+msgid "Create a Page"
+msgstr "Аг1о кхолла"
+
+msgid "Create Group..."
+msgstr "Тоба вовшахтоха"
+
+#. Link at bottom of home page (under "More") to info for software developers
+msgid "Developers"
+msgstr "Вовшахтоьхнарш"
+
+#. %d stands for a number, no need to translate it
+msgid "%d hours ago"
+msgstr "%d сахьт хьалха"
+
+#. %d stands for a number, no need to translate it
+msgid "%d minutes ago"
+msgstr "%d минот хьалха"
+
+#. %d stands for a number, no need to translate it
+msgid "%d mutual friends"
+msgstr "%d юкъара доттаг1ий"
+
+#. %d stands for a number, no need to translate it
+msgid "%d NEW STORIES"
+msgstr "%d Керла историш"
+
+#. %d stands for a number, no need to translate it
+msgid "%d people"
+msgstr "%d стаг / нах"
+
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
+msgid "%d shares"
+msgstr "%d схьаэцна публикаци / публикациш"
+
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
+msgid "Edit Options"
+msgstr "Опциш хийца"
+
+#. Attached to each post on your personal timeline
+msgid "Edit or Remove"
+msgstr "Нисъе я д1адаккха"
+
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+msgid "English (US)"
+msgstr "Нохчийн мотт"
+
+#. In the "New Message" dialog
+msgid "Enter a friend's name or email address"
+msgstr "Зорбатоха доттаг1чуьнан ц1е я э-поштан адрес"
+
+#. A link to a list of events that you've been invited to
+msgid "Events"
+msgstr "Вовшахтохарш"
+
+#. A link that shows you a list of your relatives on Facebook
+msgid "Family"
+msgstr "Гергарнаш" 
+
+msgid "FAVORITES"
+msgstr "Безарш"
+
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
+msgid "Find Friends"
+msgstr "Доттаг1ий лаха"
+
+#. People who have asked to be your friend on Facebook; top left of screen
+msgid "Friend Requests"
+msgstr "Доттаг1алла кховдор"
+
+#. A link that takes you to a list of all your Facebook friends
+msgid "Friends"
+msgstr "Доттаг1ий"
+
+msgid "GROUPS"
+msgstr "ТОБАНАШ"
+
+msgid "Help"
+msgstr "Г1о"
+
+#. Link that takes you to your home timeline; always visible at top-right
+msgid "Home"
+msgstr "Коьрта аг1о"
+
+msgid "Life Event"
+msgstr "Дахарехь хилам"
+
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
+msgid "Like"
+msgstr "Хазахета"
+
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+msgid "Likes"
+msgstr "Хазахетарш"
+
+#. Heading above your lists of friends ("Work", "Family", etc.)
+msgid "LISTS"
+msgstr "Гуларш"
+
+msgid "Log Out"
+msgstr "Чуьра аравала / араяла"
+
+#. Link to a map of the places someone has been
+msgid "Map"
+msgstr "Карта"
+
+#. In the "New Message" dialog
+msgid "Message:"
+msgstr "Хаам"
+
+msgid "Messages"
+msgstr "Хаамаш"
+
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
+msgid "More"
+msgstr "Кхин а"
+
+msgid "MORE"
+msgstr "КХИН А"
+
+#. Appears at the bottom of your home time line; click to load more posts
+msgid "More Stories"
+msgstr "Кхин историш"
+
+msgid "New Group..."
+msgstr "Керла Тоба"
+
+msgid "New Message"
+msgstr "Керла хаам"
+
+msgid "News Feed"
+msgstr "Хаамийн билзиг"
+
+#. A link that takes you to the latest posts on your timeline
+msgid "Now"
+msgstr "X1инца"
+
+msgid "PAGES"
+msgstr "АГ1ОНАШ"
+
+msgid "People who like this"
+msgstr "Х1ара хазахета нах"
+
+msgid "People You May Know"
+msgstr "Хьуна бевзаш хила тарло нах"
+
+msgid "Photo"
+msgstr "Сурт"
+
+msgid "Photos"
+msgstr ""
+
+#. Link that allows you to "check in" somewhere
+msgid "Place"
+msgstr ""
+
+msgid "Places"
+msgstr ""
+
+#. Link at the bottom of home page to Facebook's privacy policy
+msgid "Privacy"
+msgstr "Къайладахьар"
+
+msgid "Privacy Settings"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+#. Box near the top of your personal timeline showing your recent actions on FB
+msgid "Recent Activity"
+msgstr "Къайладахьаран нисдарш"
+
+msgid "Recommended Pages"
+msgstr "Магийна Aг1онаш"
+
+#. When you share a link in a comment, use this to remove the preview image
+msgid "Remove Preview"
+msgstr "Д1аяккха хьалххе хьажар"
+
+#. Option on every post on your personal timeline
+msgid "Resize"
+msgstr "Барам хийцар"
+
+#. Text that appears in the search box at the top of the page
+msgid "Search"
+msgstr "Лаха"
+
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
+msgid "See All"
+msgstr "Mассаьрга хьажа"
+
+msgid "See All Messages"
+msgstr "Массо хаамашка хьажа"
+
+#. See more of a post that was truncated because it was very long
+msgid "See More"
+msgstr "Кхин а хьажа"
+
+#. Link that appears under a post in another language; click it to translate
+msgid "See Translation"
+msgstr "Гочдаре хьажа"
+
+#. Label on button in "New Message" dialog to send the message
+msgid "Send"
+msgstr "Д1атаса"
+
+#. Link that opens the "New Message" dialog
+msgid "Send a New Message"
+msgstr "Керла хаам д1абахьийта"
+
+#. Verb. A link that allows you to share a post with your friends
+msgid "Share"
+msgstr "Декъа"
+
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "%a х1ара хазахета"
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "%a стаганна х1ара хазахета"
+
+#. A link that allows your to sort posts by "most recent" or "top stories"
+msgid "SORT"
+msgstr "Къастаде"
+
+#. Appears above paid advertisements
+msgid "Sponsored"
+msgstr "Спонсоралла хилла"
+
+#. This is a Facebook "status update", not a relationship status
+msgid "Status"
+msgstr "Статус / Хьал"
+
+msgid "Subscriptions"
+msgstr "Т1еяздаларш"
+
+msgid "Tag Friends"
+msgstr "Билгалбаг1а доттаг1ий"
+
+#. Link at the bottom of home page to Facebook's "Terms of Service"
+msgid "Terms"
+msgstr "Г1уллакъхан Таронаш"
+
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
+msgid "Ticker"
+msgstr "М1аьрагонан Хаам"
+
+msgid "Timeline"
+msgstr "Заман Mог1а"
+
+#. Specifies recipient when you send a private message
+msgid "To:"
+msgstr "Хьаьнга:"
+
+#. Verb. See "Like"
+msgid "Unlike"
+msgstr "Хаза ца хета"
+
+#. Label on a button that allows you to edit your personal information
+msgid "Update Info"
+msgstr "Xаам карлабаккха"
+
+#. This is a Facebook "status update", not a relationship status
+msgid "Update Status"
+msgstr "Статус карлаяккхаp"
+
+#. %d stands for a number, no need to translate it
+msgid "View all %d comments"
+msgstr "Массо %d комментаришка хьажа"
+
+msgid "Wall Photos"
+msgstr "Пена т1ера суьрташ"
+
+#. Main prompt when you enter in a new status update
+msgid "What's on your mind?"
+msgstr "Х1ун ду хьан дагахь?"
+
+#. Prompt when you comment on a post
+msgid "Write a comment..."
+msgstr "Хетарг язде / Комментари язъе"
+
+#. Appears next to a post or comment as a timestamp
+msgid "Yesterday"
+msgstr "Cелхана"
+
+#. Appears next to a post or comment as a timestamp; %s is the time of day
+msgid "Yesterday at %s"
+msgstr "Селхана %s сахьт даьлча"
+
+msgid "You like this."
+msgstr "Суна хазахета х1ара"
+
+#. Month Name
+msgid "January"
+msgstr "Кхолламан"
+
+#. Month Name
+msgid "February"
+msgstr "Балабоссаран"
+
+#. Month Name
+msgid "March"
+msgstr "Мовладан"
+
+#. Month Name
+msgid "April"
+msgstr "Оханан"
+
+#. Month Name
+msgid "May"
+msgstr "Хьуьнаркъовсаран"
+
+#. Month Name
+msgid "June"
+msgstr "Зух1ар-Седан"
+
+#. Month Name
+msgid "July"
+msgstr "Ч1иръехкаран"
+
+#. Month Name
+msgid "August"
+msgstr "Турс-Седан"
+
+#. Month Name
+msgid "September"
+msgstr "Мархийн"
+
+#. Month Name
+msgid "October"
+msgstr "Эсаран"
+
+#. Month Name
+msgid "November"
+msgstr "Лаьхьан"
+
+#. Month Name
+msgid "December"
+msgstr "Г1урбан"
+
+#. Day of the Week
+msgid "Monday"
+msgstr "Оршотде"
+
+#. Day of the Week
+msgid "Еарин деTuesday"
+msgstr "Шинарин де"
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr "Кхаарин де"
+
+#. Day of the Week
+msgid "Thursday"
+msgstr ""
+
+#. Day of the Week
+msgid "Friday"
+msgstr "П1ераскaнан де"
+
+#. Day of the Week
+msgid "Saturday"
+msgstr "Шоьтан де"
+
+#. Day of the Week
+msgid "Sunday"
+msgstr "К1иранде"
