@@ -76,7 +76,10 @@ Confirm
 Create an Ad
 #. Link at bottom of home page (under "More")
 Create a Page
+#. Appears as last item under "GROUPS" in left-hand navigation
 Create Group...
+#. Button label at top of Groups page (click "MORE" next to "GROUPS")
+Create Group
 #. Link at bottom of home page (under "More") to info for software developers
 Developers
 #. %d stands for a number, no need to translate it
@@ -199,6 +202,7 @@ Profile
 #. Appears under APPS for some users in left-hand navigation
 Questions
 #. Box near the top of your personal timeline showing your recent actions on FB
+#. Now defunct, I think - replaced by "Activity" and "Recent" on a line below
 Recent Activity
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 Recommended Pages
@@ -238,6 +242,8 @@ status
 Status
 #. Top of profile, after Friends, Photos, Map, ...
 Subscriptions
+#. Right-hand navigation, similar to "People you may know", next to "See All"
+Suggested Groups
 Tag Friends
 #. Link at the bottom of home page to Facebook's "Terms of Service"
 Terms
