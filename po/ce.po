@@ -15,14 +15,14 @@ msgstr ""
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
 msgid "1 mutual friend"
-msgstr "1 юкъара доттаг1"
+msgstr "1 юкъара доттагl"
 
 msgid "1 NEW STORY"
 msgstr "1 КЕРЛА ИСТОРИ"
 
 #. Appears next to a post; means the post has been shared one time
 msgid "1 share"
-msgstr "1 д1асадекъар"
+msgstr "1 дlасадекъар"
 
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
@@ -51,7 +51,7 @@ msgid "about a minute ago"
 msgstr "1 минот хьалха гергга"
 
 msgid "Account Settings"
-msgstr "Чот х1оттор"
+msgstr "Чот хlоттор"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
@@ -61,11 +61,11 @@ msgid "Activity Log"
 msgstr "Ардаман журнал"
 
 msgid "Add Friend"
-msgstr "Доттаг1 т1етоха"
+msgstr "Доттагl тlетоха"
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
-msgstr "Т1етоxа Сурт / Видео"
+msgstr "Тlетоxа Сурт / Видео"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
@@ -73,7 +73,7 @@ msgstr "Материал яржор (Реклама)"
 
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
-msgstr "х1инццехь"
+msgstr "хlинццехь"
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a likes %a."
@@ -85,11 +85,11 @@ msgstr ""
 
 #. %a stands for a person's name
 msgid "%a likes this."
-msgstr "%a х1ара хазахета"
+msgstr "%a хlара хазахета"
 
 #. %a stands for something like "3 people"
 msgid "%a like this."
-msgstr "%a стаганна х1ара хазахета"
+msgstr "%a стаганна хlара хазахета"
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
@@ -156,11 +156,11 @@ msgid "Chat (Offline)"
 msgstr "Къамеле валар (Офлайн)"
 
 msgid "Close"
-msgstr "Д1акъовла"
+msgstr "Дlакъовла"
 
 #. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
-msgstr "Уллера доттаг1ий"
+msgstr "Уллера доттагlий"
 
 #. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
@@ -175,7 +175,7 @@ msgstr "Реклама е"
 
 #. Link at bottom of home page (under "More")
 msgid "Create a Page"
-msgstr "Аг1о кхолла"
+msgstr "Агlо кхолла"
 
 msgid "Create Group..."
 msgstr "Тоба вовшахтоха"
@@ -194,7 +194,7 @@ msgstr "%d минот хьалха"
 
 #. %d stands for a number, no need to translate it
 msgid "%d mutual friends"
-msgstr "%d юкъара доттаг1ий"
+msgstr "%d юкъара доттагlий"
 
 #. %d stands for a number, no need to translate it
 msgid "%d NEW STORIES"
@@ -225,7 +225,7 @@ msgstr "Опциш хийца"
 
 #. Attached to each post on your personal timeline
 msgid "Edit or Remove"
-msgstr "Нисъе я д1адаккха"
+msgstr "Нисъе я дlадаккха"
 
 #. Link that lets you change your language settings
 #. Please translate to the name of your language, written in the language itself
@@ -234,7 +234,7 @@ msgstr "Нохчийн мотт"
 
 #. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
-msgstr "Зорбатоха доттаг1чуьнан ц1е я э-поштан адрес"
+msgstr "Зорбатоха доттагlчуьнан цlе я э-поштан адрес"
 
 #. A link to a list of events that you've been invited to
 msgid "Events"
@@ -251,7 +251,7 @@ msgstr "Безарш"
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
-msgstr "Доттаг1ий лаха"
+msgstr "Доттагlий лаха"
 
 msgid "Find More Pages"
 msgstr ""
@@ -262,11 +262,11 @@ msgstr ""
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
-msgstr "Доттаг1алла кховдор"
+msgstr "Доттагlалла кховдор"
 
 #. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
-msgstr "Доттаг1ий"
+msgstr "Доттагlий"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "FRIENDS"
@@ -278,11 +278,11 @@ msgstr "ТОБАНАШ"
 
 #. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
-msgstr "Г1о"
+msgstr "Гlо"
 
 #. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
-msgstr "Коьрта аг1о"
+msgstr "Коьрта агlо"
 
 msgid "Life Event"
 msgstr "Дахарехь хилам"
@@ -371,14 +371,14 @@ msgstr ""
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
-msgstr "X1инца"
+msgstr "Xlинца"
 
 #. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES"
-msgstr "АГ1ОНАШ"
+msgstr "АГlОНАШ"
 
 msgid "People who like this"
-msgstr "Х1ара хазахета нах"
+msgstr "Хlара хазахета нах"
 
 msgid "People You May Know"
 msgstr "Хьуна бевзаш хила тарло нах"
@@ -433,11 +433,11 @@ msgstr "Къайладахьаран нисдарш"
 
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
-msgstr "Магийна Aг1онаш"
+msgstr "Магийна Aгlонаш"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
-msgstr "Д1аяккха хьалххе хьажар"
+msgstr "Дlаяккха хьалххе хьажар"
 
 #. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
@@ -476,11 +476,11 @@ msgstr "Гочдаре хьажа"
 
 #. Label on button in "New Message" dialog to send the message
 msgid "Send"
-msgstr "Д1атаса"
+msgstr "Дlатаса"
 
 #. Link that opens the "New Message" dialog
 msgid "Send a New Message"
-msgstr "Керла хаам д1абахьийта"
+msgstr "Керла хаам дlабахьийта"
 
 #. Verb. A link that allows you to share (usually someone else's)  post with your friends
 msgid "Share"
@@ -505,23 +505,23 @@ msgstr "Статус / Хьал"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
-msgstr "Т1еяздаларш"
+msgstr "Тlеяздаларш"
 
 msgid "Tag Friends"
-msgstr "Билгалбаг1а доттаг1ий"
+msgstr "Билгалбагlа доттагlий"
 
 #. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
-msgstr "Г1уллакъхан Таронаш"
+msgstr "Гlуллакъхан Таронаш"
 
 #. Real time news feed in the right-hand column
 #. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 msgid "Ticker"
-msgstr "М1аьрагонан Хаам"
+msgstr "Мlаьрагонан Хаам"
 
 #. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
-msgstr "Заман Mог1а"
+msgstr "Заман Mогlа"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
 msgid "%T near %a"
@@ -556,7 +556,7 @@ msgid "View all %d comments"
 msgstr "Массо %d комментаришка хьажа"
 
 msgid "Wall Photos"
-msgstr "Пена т1ера суьрташ"
+msgstr "Пена тlера суьрташ"
 
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
@@ -564,7 +564,7 @@ msgstr ""
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
-msgstr "Х1ун ду хьан дагахь?"
+msgstr "Хlун ду хьан дагахь?"
 
 #. Prompt when you comment on a post
 msgid "Write a comment..."
@@ -583,7 +583,7 @@ msgid "You and %a like this."
 msgstr ""
 
 msgid "You like this."
-msgstr "Суна хазахета х1ара"
+msgstr "Суна хазахета хlара"
 
 #. Month Name
 msgid "January"
@@ -607,11 +607,11 @@ msgstr "Хьуьнаркъовсаран"
 
 #. Month Name
 msgid "June"
-msgstr "Зух1ар-Седан"
+msgstr "Зухlар-Седан"
 
 #. Month Name
 msgid "July"
-msgstr "Ч1иръехкаран"
+msgstr "Чlиръехкаран"
 
 #. Month Name
 msgid "August"
@@ -631,7 +631,7 @@ msgstr "Лаьхьан"
 
 #. Month Name
 msgid "December"
-msgstr "Г1урбан"
+msgstr "Гlурбан"
 
 #. Day of the Week
 msgid "Monday"
@@ -651,7 +651,7 @@ msgstr ""
 
 #. Day of the Week
 msgid "Friday"
-msgstr "П1ераскaнан де"
+msgstr "Пlераскaнан де"
 
 #. Day of the Week
 msgid "Saturday"
@@ -659,4 +659,4 @@ msgstr "Шоьтан де"
 
 #. Day of the Week
 msgid "Sunday"
-msgstr "К1иранде"
+msgstr "Кlиранде"
