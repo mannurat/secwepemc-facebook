@@ -1,0 +1,492 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-23 10:52:31-06:00\n"
+"PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
+"Last-Translator: Alex François\n"
+"Language-Team: Mwotlap\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Lines like this one beginning with "#." are comments; no need to translate!
+msgid "1 mutual friend"
+msgstr "bulsal nonmamyō tiwag 1"
+
+msgid "1 NEW STORY"
+msgstr "NOYOY 1"
+
+#. Appears next to a post; means the post has been shared one time
+msgid "1 share"
+msgstr "net 1 mē vētleg lok"
+
+#. Link at bottom of home page (under "More") to info about Facebook
+msgid "About"
+msgstr "Wō Fesbuk e nahap?"
+
+msgid "about an hour ago"
+msgstr "nawa 1 mal van"
+
+msgid "about a minute ago"
+msgstr "isqet agōh"
+
+msgid "Account Settings"
+msgstr "So taghiy nēm̄ mino"
+
+msgid "Activity Log"
+msgstr "Wō makteg geh?"
+
+msgid "Add Friend"
+msgstr "Bulsal mino ge!"
+
+msgid "Add Photo / Video"
+msgstr "Leplō me nototgal si nividio"
+
+#. Link at bottom of home page (under "More") to info about Facebook ads
+msgid "Advertising"
+msgstr "Advertising"
+
+#. Time stamp on a post. You might also translate as "Just now"
+msgid "a few seconds ago"
+msgstr "isqet ēwē agōh"
+
+msgid "APPS"
+msgstr "Apps"
+
+msgid "Apps and Games"
+msgstr "Nisiseg yatkelgi"
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr "%A, lelo %s"
+
+msgid "Ask Question"
+msgstr "Nēvēvēhiy"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "%d %B"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "%d %B, lelo %s"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "%d %B %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "%d %B %Y, lelo %s"
+
+msgid "Born"
+msgstr "Mo wot"
+
+msgid "By:"
+msgstr "Namun"
+
+msgid "Cancel"
+msgstr "Tateh vap"
+
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
+msgid "Careers"
+msgstr "Sok namwumwu mi FB"
+
+#. Link that allows you to change the big photo at the top of your timeline
+msgid "Change Cover"
+msgstr "Leh lok nototgal liwo en"
+
+msgid "Chat (Offline)"
+msgstr "Kaka ēgēn (Tateh)"
+
+msgid "Close"
+msgstr "Kalō"
+
+#. A link that takes you to a list of your closest friends on Facebook
+msgid "Close Friends"
+msgstr "Ige bulsal mōyōs"
+
+#. Verb. A link under a post that allows you to comment on the post.
+msgid "Comment"
+msgstr "Kaka van"
+
+msgid "Create an Ad"
+msgstr "So yap n'Ad 1"
+
+#. Link at bottom of home page (under "More")
+msgid "Create a Page"
+msgstr "So yap te pej 1"
+
+msgid "Create Group..."
+msgstr "So wak nagmel gayaq 1"
+
+#. Link at bottom of home page (under "More") to info for software developers
+msgid "Developers"
+msgstr "Developers"
+
+#. %d stands for a number, no need to translate it
+msgid "%d hours ago"
+msgstr "nawa %d mal van goy"
+
+#. %d stands for a number, no need to translate it
+msgid "%d minutes ago"
+msgstr "niminit %d mal van goy"
+
+#. %d stands for a number, no need to translate it
+msgid "%d mutual friends"
+msgstr "ige bulsal nonmamyō tiwag kēy bul %d"
+
+#. %d stands for a number, no need to translate it
+msgid "%d NEW STORIES"
+msgstr "NOYOY GAYAQ %d"
+
+#. %d stands for a number, no need to translate it
+msgid "%d people"
+msgstr "ige bul %d"
+
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
+msgid "%d shares"
+msgstr "ige bul %d mavap"
+
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
+msgid "Edit Options"
+msgstr "Su lom tusu"
+
+#. Attached to each post on your personal timeline
+msgid "Edit or Remove"
+msgstr "Lom siso Lepyak lok"
+
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+msgid "English (US)"
+msgstr "Mwotlap"
+
+#. In the "New Message" dialog
+msgid "Enter a friend's name or email address"
+msgstr "Nahan bulsal mino si nadres"
+
+#. A link to a list of events that you've been invited to
+msgid "Events"
+msgstr "Nōyōstiwag"
+
+#. A link that shows you a list of your relatives on Facebook
+msgid "Family"
+msgstr "Ige mino"
+
+msgid "FAVORITES"
+msgstr "Namyōs kokoym̄eg"
+
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
+msgid "Find Friends"
+msgstr "Soksok ige bulsal"
+
+#. People who have asked to be your friend on Facebook; top left of screen
+msgid "Friend Requests"
+msgstr "So kamyō so bulsal"
+
+#. A link that takes you to a list of all your Facebook friends
+msgid "Friends"
+msgstr "Ige bulsal mino"
+
+msgid "GROUPS"
+msgstr "Nagmal vivitwag"
+
+msgid "Help"
+msgstr "Qeleave ōk?"
+
+#. Link that takes you to your home timeline; always visible at top-right
+msgid "Home"
+msgstr "M̄ōl lok me"
+
+msgid "Life Event"
+msgstr "Makteg?"
+
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
+msgid "Like"
+msgstr "Namnan"
+
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+msgid "Likes"
+msgstr "Namyōs mino"
+
+#. Heading above your lists of friends ("Work", "Family", etc.)
+msgid "LISTS"
+msgstr "Nēvēwti et"
+
+msgid "Log Out"
+msgstr "Kalō qōtō"
+
+#. Link to a map of the places someone has been
+msgid "Map"
+msgstr "Navanvan velmayam"
+
+#. In the "New Message" dialog
+msgid "Message:"
+msgstr "Nakaka:"
+
+msgid "Messages"
+msgstr "Nakaka"
+
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
+msgid "More"
+msgstr "Nahap lokse"
+
+msgid "MORE"
+msgstr "Nahap lokse"
+
+#. Appears at the bottom of your home time line; click to load more posts
+msgid "More Stories"
+msgstr "Am̄ag aē se"
+
+msgid "New Group..."
+msgstr "So tin̄ te gemel gayaq"
+
+msgid "New Message"
+msgstr "So yap te kaka gayaq"
+
+msgid "News Feed"
+msgstr "Nakaka non ige"
+
+#. A link that takes you to the latest posts on your timeline
+msgid "Now"
+msgstr "Isqet agōh"
+
+msgid "PAGES"
+msgstr "Nepej yatkelgi"
+
+msgid "People who like this"
+msgstr "Yē memlaklak aē"
+
+msgid "People You May Know"
+msgstr "Wō nēk nēglal ige gōh?"
+
+msgid "Photo"
+msgstr "Nototgal"
+
+msgid "Photos"
+msgstr "Nototgal"
+
+#. Link that allows you to "check in" somewhere
+msgid "Place"
+msgstr "Wō ave?"
+
+msgid "Places"
+msgstr "Wō ave geh?"
+
+#. Link at the bottom of home page to Facebook's privacy policy
+msgid "Privacy"
+msgstr "Mino mahgēk"
+
+msgid "Privacy Settings"
+msgstr "Ige soloteg tiple et"
+
+msgid "Profile"
+msgstr "Nēm̄ nan"
+
+#. Box near the top of your personal timeline showing your recent actions on FB
+msgid "Recent Activity"
+msgstr "Qoyo galeg tō"
+
+msgid "Recommended Pages"
+msgstr "Van etet mahē"
+
+#. When you share a link in a comment, use this to remove the preview image
+msgid "Remove Preview"
+msgstr "Galeg su"
+
+#. Option on every post on your personal timeline
+msgid "Resize"
+msgstr "Galeg liwo"
+
+#. Text that appears in the search box at the top of the page
+msgid "Search"
+msgstr "Soksok"
+
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
+msgid "See All"
+msgstr "Nahap se?"
+
+msgid "See All Messages"
+msgstr "Nakaka del"
+
+#. See more of a post that was truncated because it was very long
+msgid "See More"
+msgstr "Vatah qēt"
+
+#. Link that appears under a post in another language; click it to translate
+msgid "See Translation"
+msgstr "Vap nahap ōk?"
+
+#. Label on button in "New Message" dialog to send the message
+msgid "Send"
+msgstr "Vētleg"
+
+#. Link that opens the "New Message" dialog
+msgid "Send a New Message"
+msgstr "Yap te kaka gayaq"
+
+#. Verb. A link that allows you to share a post with your friends
+msgid "Share"
+msgstr "Noyoy nan ni ga!"
+
+#. %a stands for a person's name
+msgid "%a likes this."
+msgstr "%a kē memlaklak aē"
+
+#. %a stands for something like "3 people"
+msgid "%a like this."
+msgstr "Net %a memlaklak aē"
+
+#. A link that allows your to sort posts by "most recent" or "top stories"
+msgid "SORT"
+msgstr "Nahap am̄ag, nahap atgiy?"
+
+#. Appears above paid advertisements
+msgid "Sponsored"
+msgstr "Sponsors"
+
+#. This is a Facebook "status update", not a relationship status
+msgid "Status"
+msgstr "Makteg ēnōk?"
+
+msgid "Subscriptions"
+msgstr "Subscriptions"
+
+msgid "Tag Friends"
+msgstr "Nahan yē so ni kalō?"
+
+#. Link at the bottom of home page to Facebook's "Terms of Service"
+msgid "Terms"
+msgstr "Terms"
+
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
+msgid "Ticker"
+msgstr "Noyoy non ige"
+
+msgid "Timeline"
+msgstr "Nakaka te velqōn̄"
+
+#. Specifies recipient when you send a private message
+msgid "To:"
+msgstr "Namun yē?"
+
+#. Verb. See "Like"
+msgid "Unlike"
+msgstr "Buste lok"
+
+#. Label on a button that allows you to edit your personal information
+msgid "Update Info"
+msgstr "Su lom tusu navavap yatkelgi"
+
+#. This is a Facebook "status update", not a relationship status
+msgid "Update Status"
+msgstr "Makteg ēnōk?"
+
+#. %d stands for a number, no need to translate it
+msgid "View all %d comments"
+msgstr "Vatah qēt nakaka nan"
+
+msgid "Wall Photos"
+msgstr "Nam̄e totgal"
+
+#. Main prompt when you enter in a new status update
+msgid "What's on your mind?"
+msgstr "Makteg nēk ēnōk?"
+
+#. Prompt when you comment on a post
+msgid "Write a comment..."
+msgstr "Vulu goy tog"
+
+#. Appears next to a post or comment as a timestamp
+msgid "Yesterday"
+msgstr "Anoy"
+
+#. Appears next to a post or comment as a timestamp; %s is the time of day
+msgid "Yesterday at %s"
+msgstr "Anoy a tege %s"
+
+msgid "You like this."
+msgstr "No nemlaklak aē"
+
+#. Month Name
+msgid "January"
+msgstr "January"
+
+#. Month Name
+msgid "February"
+msgstr "February"
+
+#. Month Name
+msgid "March"
+msgstr "March"
+
+#. Month Name
+msgid "April"
+msgstr "April"
+
+#. Month Name
+msgid "May"
+msgstr "May"
+
+#. Month Name
+msgid "June"
+msgstr "June"
+
+#. Month Name
+msgid "July"
+msgstr "July"
+
+#. Month Name
+msgid "August"
+msgstr "August"
+
+#. Month Name
+msgid "September"
+msgstr "September"
+
+#. Month Name
+msgid "October"
+msgstr "October"
+
+#. Month Name
+msgid "November"
+msgstr "November"
+
+#. Month Name
+msgid "December"
+msgstr "December"
+
+#. Day of the Week
+msgid "Monday"
+msgstr "la Mande"
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr "Qōn̄ 2"
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr "Qōn̄ 3"
+
+#. Day of the Week
+msgid "Thursday"
+msgstr "Qōn̄ 4"
+
+#. Day of the Week
+msgid "Friday"
+msgstr "Qōn̄ 5"
+
+#. Day of the Week
+msgid "Saturday"
+msgstr "la Yavēg"
+
+#. Day of the Week
+msgid "Sunday"
+msgstr "la Sande"
