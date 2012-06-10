@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-05-03 21:43:25-05:00\n"
+"POT-Creation-Date: 2012-06-10 18:03:18-05:00\n"
 "PO-Revision-Date: 2012-05-12 10:52:31-06:00\n"
 "Last-Translator: JOSHUA VERANO\n"
 "Language-Team: BISAYA\n"
@@ -182,7 +182,13 @@ msgstr "Magbuhat ug Ad"
 msgid "Create a Page"
 msgstr "Magbuhat ug pahina"
 
+#. Appears as last item under "GROUPS" in left-hand navigation
 msgid "Create Group..."
+msgstr "Magbuhat ug grupo"
+
+#. Button label at top of Groups page (click "MORE" next to "GROUPS")
+#, fuzzy
+msgid "Create Group"
 msgstr "Magbuhat ug grupo"
 
 #. Link at bottom of home page (under "More") to info for software developers
@@ -437,6 +443,7 @@ msgid "Questions"
 msgstr "Pangutana"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
+#. Now defunct, I think - replaced by "Activity" and "Recent" on a line below
 msgid "Recent Activity"
 msgstr "Bagong nahitabo"
 
@@ -518,6 +525,10 @@ msgstr "Kahimtang"
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr "Ma gisabsrayb"
+
+#. Right-hand navigation, similar to "People you may know", next to "See All"
+msgid "Suggested Groups"
+msgstr ""
 
 msgid "Tag Friends"
 msgstr "Na-tag nga higala"

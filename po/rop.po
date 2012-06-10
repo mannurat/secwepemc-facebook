@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-05-03 20:59:53-05:00\n"
+"POT-Creation-Date: 2012-06-10 18:03:18-05:00\n"
 "PO-Revision-Date: 2012-02-21 22:04:27-06:00\n"
 "Last-Translator: Greg Dickson\n"
 "Language-Team: Kriol\n"
@@ -177,7 +177,13 @@ msgstr "Meigim Ad"
 msgid "Create a Page"
 msgstr "Meigim nyuwan Peij"
 
+#. Appears as last item under "GROUPS" in left-hand navigation
 msgid "Create Group..."
+msgstr "Meigim nyuwan Grup..."
+
+#. Button label at top of Groups page (click "MORE" next to "GROUPS")
+#, fuzzy
+msgid "Create Group"
 msgstr "Meigim nyuwan Grup..."
 
 #. Link at bottom of home page (under "More") to info for software developers
@@ -428,6 +434,7 @@ msgid "Questions"
 msgstr "Askim kwesjin"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
+#. Now defunct, I think - replaced by "Activity" and "Recent" on a line below
 msgid "Recent Activity"
 msgstr "Ola Dideiwan Stori"
 
@@ -506,6 +513,10 @@ msgstr "Lilwan stori"
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr "Ai oldei gajim nyus burrum dijan"
+
+#. Right-hand navigation, similar to "People you may know", next to "See All"
+msgid "Suggested Groups"
+msgstr ""
 
 msgid "Tag Friends"
 msgstr "Pudum neim bla yu fren"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-05-03 20:59:53-05:00\n"
+"POT-Creation-Date: 2012-06-10 18:03:18-05:00\n"
 "PO-Revision-Date: 2012-03-05 21:50:27-06:00\n"
 "Last-Translator: Fulup Jakez\n"
 "Language-Team: Brezhoneg\n"
@@ -177,7 +177,13 @@ msgstr "Krouiñ ur bomm brudañ"
 msgid "Create a Page"
 msgstr "Krouiñ ur bajenn"
 
+#. Appears as last item under "GROUPS" in left-hand navigation
 msgid "Create Group..."
+msgstr "Krouiñ ur strollad"
+
+#. Button label at top of Groups page (click "MORE" next to "GROUPS")
+#, fuzzy
+msgid "Create Group"
 msgstr "Krouiñ ur strollad"
 
 #. Link at bottom of home page (under "More") to info for software developers
@@ -428,6 +434,7 @@ msgid "Questions"
 msgstr "Goulennoù"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
+#. Now defunct, I think - replaced by "Activity" and "Recent" on a line below
 msgid "Recent Activity"
 msgstr "Divizoù nevesañ"
 
@@ -506,6 +513,10 @@ msgstr "Statud"
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr "Enskrivadurioù"
+
+#. Right-hand navigation, similar to "People you may know", next to "See All"
+msgid "Suggested Groups"
+msgstr ""
 
 msgid "Tag Friends"
 msgstr "Tikedenniñ mignoned"

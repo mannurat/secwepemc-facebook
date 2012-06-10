@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-05-03 20:59:53-05:00\n"
+"POT-Creation-Date: 2012-06-10 18:03:18-05:00\n"
 "PO-Revision-Date: 2012-03-15 09:29:52-0500\n"
 "Last-Translator: Federico Faroldi\n"
 "Language-Team: Emiliano-Romagnolo\n"
@@ -177,7 +177,13 @@ msgstr ""
 msgid "Create a Page"
 msgstr "Fa' na pagina"
 
+#. Appears as last item under "GROUPS" in left-hand navigation
 msgid "Create Group..."
+msgstr "Fa' 'n grup"
+
+#. Button label at top of Groups page (click "MORE" next to "GROUPS")
+#, fuzzy
+msgid "Create Group"
 msgstr "Fa' 'n grup"
 
 #. Link at bottom of home page (under "More") to info for software developers
@@ -428,6 +434,7 @@ msgid "Questions"
 msgstr "Admandi"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
+#. Now defunct, I think - replaced by "Activity" and "Recent" on a line below
 msgid "Recent Activity"
 msgstr "Apena fat"
 
@@ -505,6 +512,10 @@ msgstr ""
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
+msgstr ""
+
+#. Right-hand navigation, similar to "People you may know", next to "See All"
+msgid "Suggested Groups"
 msgstr ""
 
 msgid "Tag Friends"
