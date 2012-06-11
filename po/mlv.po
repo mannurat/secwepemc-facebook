@@ -25,22 +25,20 @@ msgid "1 share"
 msgstr "net 1 mē vētleg lok"
 
 #. First two %a's are names, third is something like "5 others"
-#, fuzzy
 msgid "%a, %a and %a like this."
-msgstr "Net %a memlaklak aē"
+msgstr "%a kōyō %a, tiwag mi %a memlaklak aē."
 
 #. %a is someone's name
 msgid "%a added a new photo."
-msgstr ""
+msgstr "%a mē vētleg me nototgal 1."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
-#, fuzzy
 msgid "%a and %a like this."
-msgstr "Net %a memlaklak aē"
+msgstr "%a tiwag mi %a memlaklak aē."
 
 #. First two as above, and final %a is something like "a link"
 msgid "%a and %a shared %a."
-msgstr ""
+msgstr "%a wa %a mē vētleg lok %a."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -53,11 +51,11 @@ msgid "about a minute ago"
 msgstr "isqet agōh"
 
 msgid "Account Settings"
-msgstr "So taghiy nēm̄ mino"
+msgstr "Taghiy vētmahē bahen"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
-msgstr ""
+msgstr "%a ma kaka van %a."
 
 msgid "Activity Log"
 msgstr "Wō makteg geh?"
@@ -71,37 +69,35 @@ msgstr "Leplō me nototgal si nividio"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
-msgstr "Advertising"
+msgstr "Ige so wēl"
 
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
 msgstr "isqet ēwē agōh"
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
-#, fuzzy
 msgid "%a likes %a."
-msgstr "%a kē memlaklak aē"
+msgstr "%a kē nemyōs %a."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-#, fuzzy
 msgid "%a likes a %a."
-msgstr "%a kē memlaklak aē"
+msgstr "%a kē memlaklak van %a."
 
 #. %a stands for a person's name
 msgid "%a likes this."
-msgstr "%a kē memlaklak aē"
+msgstr "%a kē memlaklak aē."
 
 #. %a stands for something like "3 people"
 msgid "%a like this."
-msgstr "Net %a memlaklak aē"
+msgstr "%a memlaklak aē."
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
-msgstr ""
+msgstr "nagatli pej 1"
 
 #. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
-msgstr "Apps"
+msgstr "Hag qaqa ēwē"
 
 #. One of the entries in the APPS list for some users
 msgid "Apps and Games"
@@ -114,7 +110,7 @@ msgstr "%A, lelo %s"
 #. First %a is a person, second one is something like "a link"
 #, fuzzy
 msgid "%a shared %a."
-msgstr "ige bul %d mavap"
+msgstr "%a mē vētleg lok me noyoy gēn."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -145,7 +141,7 @@ msgstr "Namun"
 
 #. Button label
 msgid "Cancel"
-msgstr "Tateh vap"
+msgstr "Tateh lok"
 
 #. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
@@ -158,7 +154,7 @@ msgstr "Leh lok nototgal liwo en"
 #. Label on tab for chatting with friends
 #. "Offline" means you're not currently logged into the chat system
 msgid "Chat (Offline)"
-msgstr "Kaka ēgēn (Tateh)"
+msgstr "Kaka ēnōk? (Tateh)"
 
 msgid "Close"
 msgstr "Kalō"
@@ -173,27 +169,26 @@ msgstr "Kaka van"
 
 #. Button label; confirm a friend request
 msgid "Confirm"
-msgstr ""
+msgstr "Itōk!"
 
 msgid "Create an Ad"
-msgstr "So yap n'Ad 1"
+msgstr "So yap n'ad 1"
 
 #. Link at bottom of home page (under "More")
 msgid "Create a Page"
-msgstr "So yap te pej 1"
+msgstr "So yap te pej gayaq 1"
 
 #. Appears as last item under "GROUPS" in left-hand navigation
 msgid "Create Group..."
 msgstr "So wak nagmel gayaq 1"
 
 #. Button label at top of Groups page (click "MORE" next to "GROUPS")
-#, fuzzy
 msgid "Create Group"
-msgstr "So wak nagmel gayaq 1"
+msgstr "Wak nagmel gayaq 1"
 
 #. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
-msgstr "Developers"
+msgstr "Ige bo kobyuta"
 
 #. %d stands for a number, no need to translate it
 msgid "%d hours ago"
@@ -214,11 +209,11 @@ msgstr "NOYOY GAYAQ %d"
 #. %d stands for a number, no need to translate it; "%d other people"
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
 msgid "%d others"
-msgstr ""
+msgstr "ige bul %d se kēy"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
-msgstr "ige bul %d"
+msgstr "Ige bul %d kēy"
 
 #. %d stands for a number, no need to translate it
 #, fuzzy
@@ -228,7 +223,7 @@ msgstr "isqet ēwē agōh"
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "%d shares"
-msgstr "ige bul %d mavap"
+msgstr "Ige bul %d mē vētleg lok"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -258,20 +253,19 @@ msgstr "Ige mino"
 
 #. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
-msgstr "Namyōs kokoym̄eg"
+msgstr "WAK NAMTEĒM̄"
 
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
-msgstr "Soksok ige bulsal"
+msgstr "Sok te bulsal"
 
 msgid "Find More Pages"
-msgstr ""
+msgstr "Sok te pej lokse"
 
 #. In search box that lets you search for friends that are available to chat
-#, fuzzy
 msgid "Friends on Chat"
-msgstr "Ige bulsal mino"
+msgstr "So kaka ēgēn!"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
@@ -283,11 +277,11 @@ msgstr "Ige bulsal mino"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "FRIENDS"
-msgstr ""
+msgstr "IGE BULSAL MINO"
 
 #. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
-msgstr "Nagmal vivitwag"
+msgstr "NAGMEL MINO"
 
 #. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
@@ -310,21 +304,21 @@ msgid "Likes"
 msgstr "Namyōs mino"
 
 msgid "Like This Page"
-msgstr ""
+msgstr "No nemyōs ige agōh!"
 
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 msgid "link"
-msgstr ""
+msgstr "la gatli pej 1"
 
 msgid "Links"
-msgstr ""
+msgstr "Nagatli pej"
 
 #. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
 msgstr "Nēvēwti et"
 
 msgid "Log Out"
-msgstr "Kalō qōtō"
+msgstr "Kalō lok"
 
 #. Link to a map of the places someone has been
 msgid "Map"
@@ -339,7 +333,7 @@ msgstr "Nakaka"
 
 #. Photographs uploaded from someone's mobile device
 msgid "Mobile Uploads"
-msgstr ""
+msgstr "Nototgal a lo mobile"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
@@ -355,11 +349,11 @@ msgstr "Am̄ag aē se"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Most Recent"
-msgstr ""
+msgstr "Aqyig agōh"
 
 #. Appears in left-hand navigation for some users
 msgid "Music"
-msgstr ""
+msgstr "Neh"
 
 #. Not sure now where this appears, a figment?
 msgid "New Group..."
@@ -370,17 +364,17 @@ msgstr "So yap te kaka gayaq"
 
 #. Appears in left-hand navigation of home page
 msgid "News Feed"
-msgstr "Nakaka non ige"
+msgstr "Noyoy nongēn"
 
 msgid "Notes"
-msgstr ""
+msgstr "Nusu hohole"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Noyoy namu aē"
 
 #. Button label; postpone confirmation of a friend request
 msgid "Not Now"
-msgstr ""
+msgstr "Nok dēmgoy bahen"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
@@ -401,9 +395,8 @@ msgid "Photo"
 msgstr "Nototgal"
 
 #. Always a link. Used in longer sentences, like "%a commented on a photo."
-#, fuzzy
 msgid "photo"
-msgstr "Nototgal"
+msgstr "lo totgal 1"
 
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
@@ -420,11 +413,11 @@ msgstr "Wō ave geh?"
 
 #. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
-msgstr ""
+msgstr "Yon̄teg me!"
 
 #. Always a link. Used in longer sentences, like "%a commented on a post."
 msgid "post"
-msgstr ""
+msgstr "lo yoy 1"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -438,7 +431,6 @@ msgid "Profile"
 msgstr "Nēm̄ nan"
 
 #. Appears under APPS for some users in left-hand navigation
-#, fuzzy
 msgid "Questions"
 msgstr "Nēvēvēhiy"
 
@@ -449,11 +441,11 @@ msgstr "Qoyo galeg tō"
 
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
-msgstr "Van etet mahē"
+msgstr "Wō inēk te mu?"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
-msgstr "Galeg su"
+msgstr "Galeg su lok"
 
 #. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
@@ -468,7 +460,6 @@ msgid "See All"
 msgstr "Nahap se?"
 
 #. In the drop-down menu with recent Friend Requests
-#, fuzzy
 msgid "See All Friend Requests"
 msgstr "So kamyō so bulsal"
 
@@ -476,13 +467,12 @@ msgid "See All Messages"
 msgstr "Nakaka del"
 
 msgid "See All Notifications"
-msgstr ""
+msgstr "Noyoy namu ni kalō qēt me"
 
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
-#, fuzzy
 msgid "See Friendship"
-msgstr "Ige bulsal mōyōs"
+msgstr "Nakaka non yoge en"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -510,32 +500,31 @@ msgstr "Nahap am̄ag, nahap atgiy?"
 
 #. Appears above paid advertisements
 msgid "Sponsored"
-msgstr "Sponsors"
+msgstr "Mey nōk so wēl"
 
 #. Always a link. Used in longer sentences, like "%a commented on a status."
-#, fuzzy
 msgid "status"
-msgstr "Makteg ēnōk?"
+msgstr "lo yoy 1"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
-msgstr "Makteg ēnōk?"
+msgstr "Noyoy mino"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
-msgstr "Subscriptions"
+msgstr "Yon̄teg naln̄an ige"
 
 #. Right-hand navigation, similar to "People you may know", next to "See All"
 msgid "Suggested Groups"
-msgstr ""
+msgstr "Hayveg temu me"
 
 msgid "Tag Friends"
 msgstr "Nahan yē so ni kalō?"
 
 #. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
-msgstr "Terms"
+msgstr "Nele"
 
 #. Real time news feed in the right-hand column
 #. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
@@ -548,16 +537,15 @@ msgstr "Nakaka te velqōn̄"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
 msgid "%T near %a"
-msgstr ""
+msgstr "%T tege %a"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Namun yē?"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
-#, fuzzy
 msgid "Top Stories"
-msgstr "Am̄ag aē se"
+msgstr "Noyoy lililwo"
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -573,7 +561,7 @@ msgid "Update Status"
 msgstr "Makteg ēnōk?"
 
 msgid "Use Facebook as:"
-msgstr ""
+msgstr "Use Facebook as:"
 
 #. %d stands for a number, no need to translate it
 msgid "View all %d comments"
@@ -584,7 +572,7 @@ msgstr "Nam̄e totgal"
 
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
-msgstr ""
+msgstr "Lemtap nēwē!"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
@@ -592,7 +580,7 @@ msgstr "Makteg nēk ēnōk?"
 
 #. Prompt when you comment on a post
 msgid "Write a comment..."
-msgstr "Vulu goy tog"
+msgstr "Tō nēk wo…"
 
 #. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
@@ -603,60 +591,59 @@ msgid "Yesterday at %s"
 msgstr "Anoy a tege %s"
 
 #. %a stands for something like "4 others"
-#, fuzzy
 msgid "You and %a like this."
-msgstr "No nemlaklak aē"
+msgstr "Kemem tiwag mi %a, kem nemlaklak aē."
 
 msgid "You like this."
-msgstr "No nemlaklak aē"
+msgstr "No nemlaklak aē."
 
 #. Month Name
 msgid "January"
-msgstr "January"
+msgstr "Nēwētgoy (Jan)"
 
 #. Month Name
 msgid "February"
-msgstr "February"
+msgstr "Lam̄heg towowoh (Feb)"
 
 #. Month Name
 msgid "March"
-msgstr "March"
+msgstr "Tētnawon (Mar)"
 
 #. Month Name
 msgid "April"
-msgstr "April"
+msgstr "Lam̄heg doydoy (Apr)"
 
 #. Month Name
 msgid "May"
-msgstr "May"
+msgstr "Bōlbōltetdot (May)"
 
 #. Month Name
 msgid "June"
-msgstr "June"
+msgstr "Wuyvegsa (Jun)"
 
 #. Month Name
 msgid "July"
-msgstr "July"
+msgstr "Napdum̄ōl (Jul)"
 
 #. Month Name
 msgid "August"
-msgstr "August"
+msgstr "Takle Ingon (Aug)"
 
 #. Month Name
 msgid "September"
-msgstr "September"
+msgstr "Ningon (Sep)"
 
 #. Month Name
 msgid "October"
-msgstr "October"
+msgstr "Ninyig (Oct)"
 
 #. Month Name
 msgid "November"
-msgstr "November"
+msgstr "Ninlap (Nov)"
 
 #. Month Name
 msgid "December"
-msgstr "December"
+msgstr "Ninwey (Dec)"
 
 #. Day of the Week
 msgid "Monday"
@@ -664,19 +651,19 @@ msgstr "la Mande"
 
 #. Day of the Week
 msgid "Tuesday"
-msgstr "Qōn̄ 2"
+msgstr "lō Qōn̄ 2"
 
 #. Day of the Week
 msgid "Wednesday"
-msgstr "Qōn̄ 3"
+msgstr "lō Qōn̄ 3"
 
 #. Day of the Week
 msgid "Thursday"
-msgstr "Qōn̄ 4"
+msgstr "lō Qōn̄ 4"
 
 #. Day of the Week
 msgid "Friday"
-msgstr "Qōn̄ 5"
+msgstr "lō Qōn̄ 5"
 
 #. Day of the Week
 msgid "Saturday"
