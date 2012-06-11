@@ -185,9 +185,8 @@ msgid "Create Group..."
 msgstr "Marga tee…"
 
 #. Button label at top of Groups page (click "MORE" next to "GROUPS")
-#, fuzzy
 msgid "Create Group"
-msgstr "Marga tee…"
+msgstr "Marga tee"
 
 #. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
