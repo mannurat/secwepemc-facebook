@@ -184,9 +184,8 @@ msgid "Create Group..."
 msgstr "Cruthaigh Grúpa..."
 
 #. Button label at top of Groups page (click "MORE" next to "GROUPS")
-#, fuzzy
 msgid "Create Group"
-msgstr "Cruthaigh Grúpa..."
+msgstr "Cruthaigh Grúpa"
 
 #. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
@@ -518,7 +517,7 @@ msgstr "Liostálacha"
 
 #. Right-hand navigation, similar to "People you may know", next to "See All"
 msgid "Suggested Groups"
-msgstr ""
+msgstr "Grúpaí Molta"
 
 msgid "Tag Friends"
 msgstr "Cuir Clib ar Chairde"
