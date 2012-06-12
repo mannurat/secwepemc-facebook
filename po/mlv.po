@@ -38,7 +38,7 @@ msgstr "%a tiwag mi %a memlaklak aē."
 
 #. First two as above, and final %a is something like "a link"
 msgid "%a and %a shared %a."
-msgstr "%a wa %a mē vētleg lok %a."
+msgstr "%a wa %a mē vētleg me %a."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -108,9 +108,8 @@ msgid "%A at %s"
 msgstr "%A, lelo %s"
 
 #. First %a is a person, second one is something like "a link"
-#, fuzzy
 msgid "%a shared %a."
-msgstr "%a mē vētleg lok me noyoy gēn."
+msgstr "%a mē vētleg me %a."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
