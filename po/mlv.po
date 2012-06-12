@@ -215,8 +215,8 @@ msgstr "ige bul %d se kēy"
 msgid "%d people"
 msgstr "Ige bul %d kēy"
 
+# (sic) literally "just recently"
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%d seconds ago"
 msgstr "isqet ēwē agōh"
 
