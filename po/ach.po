@@ -1,6 +1,7 @@
 # Translation of Facebook into Luganda
 # Copyright (C) 2012 Kevin P. Scannell
 # DAVID OJARA PRINCE <brianfordug@gmail.com>, 2012.
+# plural form from http://translate.sourceforge.net/wiki/l10n/pluralforms
 msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
@@ -13,6 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: Virtaal 0.7.0-beta4\n"
 "X-Project-Style: default\n"
 
