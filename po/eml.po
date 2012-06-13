@@ -85,11 +85,11 @@ msgstr "A %a agh piäs %a."
 
 #. %a stands for a person's name
 msgid "%a likes this."
-msgstr "%a agh piäs."
+msgstr "A %a agh piäs."
 
 #. %a stands for something like "3 people"
 msgid "%a like this."
-msgstr "%a agh piäs."
+msgstr "A %a agh piäs."
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
