@@ -6,7 +6,7 @@ all: updategms INSTALL.textile
 
 facebook.pot: strings.txt header.pot
 	sed "s/XXXX-XX-XX XX:XX-XXXX/`date '+%Y-%m-%d %H:%M:%S%z' | sed 's/00$$/:00/'`/" header.pot > $@
-	cat strings.txt | sed '/^[^#]/{s/"/\\"/g; s/.*/msgid "&"\nmsgstr ""\n/}' >> $@
+	cat strings.txt | sed '/^[^#]/{s/"/\\"/g; s/.*/msgid "&"\nmsgstr ""\n/}' | sed '/^msgid ".*;.*%d/{N; s/^\([^;]*\);\([^"]*\)"\n.*/\1"\nmsgid_plural "\2"\nmsgstr[0] ""\nmsgstr[1] ""/}' >> $@
 
 updatepos: facebook.pot
 	find po/ -name '*.po' | while read x; do echo "Updating $$x..."; msgmerge -q --backup=off -U $$x facebook.pot > /dev/null 2>&1; done
