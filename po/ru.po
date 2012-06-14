@@ -702,5 +702,3 @@ msgstr "суббота"
 #. Day of the Week
 msgid "Sunday"
 msgstr "воскресенье"
-
-# colon is trick in order to not deal with plural forms
