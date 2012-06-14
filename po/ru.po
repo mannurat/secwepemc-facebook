@@ -185,22 +185,24 @@ msgid "Create Group..."
 msgstr "Создать группу..."
 
 #. Button label at top of Groups page (click "MORE" next to "GROUPS")
-#, fuzzy
 msgid "Create Group"
-msgstr "Создать группу..."
+msgstr "Создать группу"
 
 #. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
 msgstr "Разработчикам"
 
+# abbreviation means no need to deal with plural forms
 #. %d stands for a number, no need to translate it
 msgid "%d hours ago"
 msgstr "%d ч. назад"
 
+# abbreviation means no need to deal with plural forms
 #. %d stands for a number, no need to translate it
 msgid "%d minutes ago"
 msgstr "%d мин. назад"
 
+# colon is trick in order to not deal with plural forms
 #. %d stands for a number, no need to translate it
 msgid "%d mutual friends"
 msgstr "Общих друзей: %d"
@@ -209,19 +211,26 @@ msgstr "Общих друзей: %d"
 msgid "%d NEW STORIES"
 msgstr ""
 
+# Plurals don't appear to work like ones below; "еще 21 пользователям"
 #. %d stands for a number, no need to translate it; "%d other people"
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
 msgid "%d others"
 msgstr "еще %d пользователям"
 
+# "пользователям" is "users", N=2-20,22,23,26,28,35,72
+# "пользователю" for N=21,81
+# "пользователей" for N=1000 (theoretically!)
 #. %d stands for a number; used in sentences like "%d people like this."
 msgid "%d people"
 msgstr "%d пользователям"
 
+# abbreviation means no need to deal with plural forms
 #. %d stands for a number, no need to translate it
 msgid "%d seconds ago"
 msgstr "%d сек. назад"
 
+# "публикации" with N = 2, 3, 4
+# "публикаций" with N = 7, 11, 12, 19, 28
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "%d shares"
@@ -567,6 +576,7 @@ msgstr "Статус"
 msgid "Use Facebook as:"
 msgstr "Использовать Facebook как:"
 
+# parens are a trick so as to not deal with plural forms
 #. %d stands for a number, no need to translate it
 msgid "View all %d comments"
 msgstr "Просмотреть все комментарии (%d)"
