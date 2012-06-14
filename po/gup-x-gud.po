@@ -189,45 +189,40 @@ msgstr "Barri-marnbom"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 hour ago" is never used as far as I can tell
-#, fuzzy
 msgid "1 hour ago"
 msgid_plural "%d hours ago"
-msgstr[0] "%d awa bolkki"
+msgstr[0] "1 awa bolkki"
 msgstr[1] "%d awa bolkki"
 msgstr[2] "%d awa bolkki"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 minute ago" is never used as far as I can tell
-#, fuzzy
 msgid "1 minute ago"
 msgid_plural "%d minutes ago"
-msgstr[0] "%d minid bolkkime"
+msgstr[0] "1 minid bolkkime"
 msgstr[1] "%d minid bolkkime"
 msgstr[2] "%d minid bolkkime"
 
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "1 mutual friend"
 msgid_plural "%d mutual friends"
 msgstr[0] "1 arri-burrburren"
-msgstr[1] "1 arri-burrburren"
-msgstr[2] "1 arri-burrburren"
+msgstr[1] "%d bininj arri-burrburren"
+msgstr[2] "%d bininj arri-burrburren"
 
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "1 NEW STORY"
 msgid_plural "%d NEW STORIES"
 msgstr[0] "1 AN-GERRNGE GUN-WOK"
-msgstr[1] "1 AN-GERRNGE GUN-WOK"
-msgstr[2] "1 AN-GERRNGE GUN-WOK"
+msgstr[1] "%d AN-GERRNGE GUN-WOK"
+msgstr[2] "%d AN-GERRNGE GUN-WOK"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. The singular "1 other" is never used as far as I can tell
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
-#, fuzzy
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] "%d arri-wokgadjurrinj"
+msgstr[0] "1 other"
 msgstr[1] "%d arri-wokgadjurrinj"
 msgstr[2] "%d arri-wokgadjurrinj"
 
@@ -235,13 +230,12 @@ msgstr[2] "%d arri-wokgadjurrinj"
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "1 person"
+msgstr[1] "%d bininj"
+msgstr[2] "%d bininj"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 second ago" is never used as far as I can tell
-#, fuzzy
 msgid "1 second ago"
 msgid_plural "%d seconds ago"
 msgstr[0] "bolkkime"
@@ -250,12 +244,11 @@ msgstr[2] "bolkkime"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
-#, fuzzy
 msgid "1 share"
 msgid_plural "%d shares"
 msgstr[0] "1 garri-djarrkgadjurren"
-msgstr[1] "1 garri-djarrkgadjurren"
-msgstr[2] "1 garri-djarrkgadjurren"
+msgstr[1] "%d arri-wokgadjurrinj"
+msgstr[2] "%d arri-wokgadjurrinj"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -608,7 +601,6 @@ msgstr ""
 
 #. %d stands for a number, no need to translate it
 #. The singular "View 1 comment" is never used as far as I can tell
-#, fuzzy
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
 msgstr[0] "Yiban-wokbebge rouk"
