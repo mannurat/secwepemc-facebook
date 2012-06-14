@@ -180,9 +180,8 @@ msgid "Create Group..."
 msgstr "Croo Possan..."
 
 #. Button label at top of Groups page (click "MORE" next to "GROUPS")
-#, fuzzy
 msgid "Create Group"
-msgstr "Croo Possan..."
+msgstr "Croo Possan"
 
 #. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
@@ -190,73 +189,66 @@ msgstr "Lhiaseyderyn"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 hour ago" is never used as far as I can tell
-#, fuzzy
 msgid "1 hour ago"
 msgid_plural "%d hours ago"
-msgstr[0] "%d oor er dy henney"
+msgstr[0] "1 oor er dy henney"
 msgstr[1] "%d oor er dy henney"
 msgstr[2] "%d oor er dy henney"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 minute ago" is never used as far as I can tell
-#, fuzzy
 msgid "1 minute ago"
 msgid_plural "%d minutes ago"
-msgstr[0] "%d minnid er dy henney"
-msgstr[1] "%d minnid er dy henney"
+msgstr[0] "1 minnid er dy henney"
+msgstr[1] "%d vinnid er dy henney"
 msgstr[2] "%d minnid er dy henney"
 
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "1 mutual friend"
 msgid_plural "%d mutual friends"
 msgstr[0] "1 cho-charrey"
-msgstr[1] "1 cho-charrey"
-msgstr[2] "1 cho-charrey"
+msgstr[1] "%d cho-charrey"
+msgstr[2] "%d co-charrjyn"
 
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "1 NEW STORY"
 msgid_plural "%d NEW STORIES"
 msgstr[0] "1 SKEEAL NOA"
-msgstr[1] "1 SKEEAL NOA"
-msgstr[2] "1 SKEEAL NOA"
+msgstr[1] "%d SKEEAL NOA"
+msgstr[2] "%d SKEEALYN NOA"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. The singular "1 other" is never used as far as I can tell
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
-#, fuzzy
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] "Rheynnit %d keayrt"
-msgstr[1] "Rheynnit %d keayrt"
-msgstr[2] "Rheynnit %d keayrt"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
+msgstr[0] "1 phersoon"
+msgstr[1] "%d phersoon"
+msgstr[2] "%d persoonyn"
+
+#. %d stands for a number, no need to translate it
+#. The singular "1 second ago" is never used as far as I can tell
+msgid "1 second ago"
+msgid_plural "%d seconds ago"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #. %d stands for a number, no need to translate it
-#. The singular "1 second ago" is never used as far as I can tell
-#, fuzzy
-msgid "1 second ago"
-msgid_plural "%d seconds ago"
-msgstr[0] "grig ny ghaa er dy henney"
-msgstr[1] "grig ny ghaa er dy henney"
-msgstr[2] "grig ny ghaa er dy henney"
-
-#. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
-#, fuzzy
 msgid "1 share"
 msgid_plural "%d shares"
 msgstr[0] "Rheynnit 1 cheayrt"
-msgstr[1] "Rheynnit 1 cheayrt"
-msgstr[2] "Rheynnit 1 cheayrt"
+msgstr[1] "Rheynnit %d cheayrt"
+msgstr[2] "Rheynnit %d keayrtyn"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -610,11 +602,10 @@ msgstr ""
 
 #. %d stands for a number, no need to translate it
 #. The singular "View 1 comment" is never used as far as I can tell
-#, fuzzy
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
-msgstr[0] "Jeeagh er ny %d baghtyn ooilley"
-msgstr[1] "Jeeagh er ny %d baghtyn ooilley"
+msgstr[0] "View 1 comment"
+msgstr[1] "Jeeagh er %d vaght"
 msgstr[2] "Jeeagh er ny %d baghtyn ooilley"
 
 msgid "Wall Photos"
