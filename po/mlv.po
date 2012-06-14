@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-10 18:03:18-05:00\n"
+"POT-Creation-Date: 2012-06-13 22:16:10-05:00\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Alex François\n"
 "Language-Team: Mwotlap\n"
@@ -16,16 +16,6 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n==3 ? 2 : 3\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
-msgid "1 mutual friend"
-msgstr "bulsal nonmamyō tiwag 1"
-
-msgid "1 NEW STORY"
-msgstr "NOYOY 1"
-
-#. Appears next to a post; means the post has been shared one time
-msgid "1 share"
-msgstr "net 1 mē vētleg lok"
-
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
 msgstr "%a kōyō %a, tiwag mi %a memlaklak aē."
@@ -192,39 +182,83 @@ msgid "Developers"
 msgstr "Ige bo kobyuta"
 
 #. %d stands for a number, no need to translate it
-msgid "%d hours ago"
-msgstr "nawa %d mal van goy"
+#. The singular "1 hour ago" is never used as far as I can tell
+#, fuzzy
+msgid "1 hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "nawa %d mal van goy"
+msgstr[1] "nawa %d mal van goy"
+msgstr[2] "nawa %d mal van goy"
+msgstr[3] "nawa %d mal van goy"
 
 #. %d stands for a number, no need to translate it
-msgid "%d minutes ago"
-msgstr "niminit %d mal van goy"
+#. The singular "1 minute ago" is never used as far as I can tell
+#, fuzzy
+msgid "1 minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "niminit %d mal van goy"
+msgstr[1] "niminit %d mal van goy"
+msgstr[2] "niminit %d mal van goy"
+msgstr[3] "niminit %d mal van goy"
 
 #. %d stands for a number, no need to translate it
-msgid "%d mutual friends"
-msgstr "ige bulsal nonmamyō tiwag kēy bul %d"
+#, fuzzy
+msgid "1 mutual friend"
+msgid_plural "%d mutual friends"
+msgstr[0] "bulsal nonmamyō tiwag 1"
+msgstr[1] "bulsal nonmamyō tiwag 1"
+msgstr[2] "bulsal nonmamyō tiwag 1"
+msgstr[3] "bulsal nonmamyō tiwag 1"
 
 #. %d stands for a number, no need to translate it
-msgid "%d NEW STORIES"
-msgstr "NOYOY GAYAQ %d"
+#, fuzzy
+msgid "1 NEW STORY"
+msgid_plural "%d NEW STORIES"
+msgstr[0] "NOYOY 1"
+msgstr[1] "NOYOY 1"
+msgstr[2] "NOYOY 1"
+msgstr[3] "NOYOY 1"
 
 #. %d stands for a number, no need to translate it; "%d other people"
+#. The singular "1 other" is never used as far as I can tell
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
-msgid "%d others"
-msgstr "ige bul %d se kēy"
+#, fuzzy
+msgid "1 other"
+msgid_plural "%d others"
+msgstr[0] "ige bul %d se kēy"
+msgstr[1] "ige bul %d se kēy"
+msgstr[2] "ige bul %d se kēy"
+msgstr[3] "ige bul %d se kēy"
 
 #. %d stands for a number; used in sentences like "%d people like this."
-msgid "%d people"
-msgstr "Ige bul %d kēy"
+#. The singular "1 person" is never used as far as I can tell
+msgid "1 person"
+msgid_plural "%d people"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 # (sic) literally "just recently"
 #. %d stands for a number, no need to translate it
-msgid "%d seconds ago"
-msgstr "isqet ēwē agōh"
+#. The singular "1 second ago" is never used as far as I can tell
+#, fuzzy
+msgid "1 second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "isqet ēwē agōh"
+msgstr[1] "isqet ēwē agōh"
+msgstr[2] "isqet ēwē agōh"
+msgstr[3] "isqet ēwē agōh"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
-msgid "%d shares"
-msgstr "Ige bul %d mē vētleg lok"
+#, fuzzy
+msgid "1 share"
+msgid_plural "%d shares"
+msgstr[0] "net 1 mē vētleg lok"
+msgstr[1] "net 1 mē vētleg lok"
+msgstr[2] "net 1 mē vētleg lok"
+msgstr[3] "net 1 mē vētleg lok"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -565,8 +599,14 @@ msgid "Use Facebook as:"
 msgstr "Use Facebook as:"
 
 #. %d stands for a number, no need to translate it
-msgid "View all %d comments"
-msgstr "Vatah qēt nakaka nan"
+#. The singular "View 1 comment" is never used as far as I can tell
+#, fuzzy
+msgid "View 1 comment"
+msgid_plural "View all %d comments"
+msgstr[0] "Vatah qēt nakaka nan"
+msgstr[1] "Vatah qēt nakaka nan"
+msgstr[2] "Vatah qēt nakaka nan"
+msgstr[3] "Vatah qēt nakaka nan"
 
 msgid "Wall Photos"
 msgstr "Nam̄e totgal"

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-10 18:03:18-05:00\n"
+"POT-Creation-Date: 2012-06-13 22:16:10-05:00\n"
 "PO-Revision-Date: 2012-05-26 21:43:25-05:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Russian\n"
@@ -13,19 +13,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
-msgid "1 mutual friend"
-msgstr "1 общий друг"
-
-msgid "1 NEW STORY"
-msgstr ""
-
-#. Appears next to a post; means the post has been shared one time
-msgid "1 share"
-msgstr "1 публикация"
-
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
 msgstr "%a, %a и %a это нравится."
@@ -194,47 +185,76 @@ msgstr "Разработчикам"
 
 # abbreviation means no need to deal with plural forms
 #. %d stands for a number, no need to translate it
-msgid "%d hours ago"
-msgstr "%d ч. назад"
+#. The singular "1 hour ago" is never used as far as I can tell
+#, fuzzy
+msgid "1 hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "%d ч. назад"
+msgstr[1] "%d ч. назад"
+msgstr[2] "%d ч. назад"
 
 # abbreviation means no need to deal with plural forms
 #. %d stands for a number, no need to translate it
-msgid "%d minutes ago"
-msgstr "%d мин. назад"
+#. The singular "1 minute ago" is never used as far as I can tell
+#, fuzzy
+msgid "1 minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "%d мин. назад"
+msgstr[1] "%d мин. назад"
+msgstr[2] "%d мин. назад"
 
-# colon is trick in order to not deal with plural forms
 #. %d stands for a number, no need to translate it
-msgid "%d mutual friends"
-msgstr "Общих друзей: %d"
+#, fuzzy
+msgid "1 mutual friend"
+msgid_plural "%d mutual friends"
+msgstr[0] "1 общий друг"
+msgstr[1] "1 общий друг"
+msgstr[2] "1 общий друг"
 
 #. %d stands for a number, no need to translate it
-msgid "%d NEW STORIES"
-msgstr ""
+msgid "1 NEW STORY"
+msgid_plural "%d NEW STORIES"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 # Plurals don't appear to work like ones below; "еще 21 пользователям"
 #. %d stands for a number, no need to translate it; "%d other people"
+#. The singular "1 other" is never used as far as I can tell
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
-msgid "%d others"
-msgstr "еще %d пользователям"
+#, fuzzy
+msgid "1 other"
+msgid_plural "%d others"
+msgstr[0] "еще %d пользователям"
+msgstr[1] "еще %d пользователям"
+msgstr[2] "еще %d пользователям"
 
-# "пользователям" is "users", N=2-20,22,23,26,28,35,72
-# "пользователю" for N=21,81
-# "пользователей" for N=1000 (theoretically!)
 #. %d stands for a number; used in sentences like "%d people like this."
-msgid "%d people"
-msgstr "%d пользователям"
+#. The singular "1 person" is never used as far as I can tell
+msgid "1 person"
+msgid_plural "%d people"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 # abbreviation means no need to deal with plural forms
 #. %d stands for a number, no need to translate it
-msgid "%d seconds ago"
-msgstr "%d сек. назад"
+#. The singular "1 second ago" is never used as far as I can tell
+#, fuzzy
+msgid "1 second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "%d сек. назад"
+msgstr[1] "%d сек. назад"
+msgstr[2] "%d сек. назад"
 
-# "публикации" with N = 2, 3, 4
-# "публикаций" with N = 7, 11, 12, 19, 28
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
-msgid "%d shares"
-msgstr "%d публикации"
+#, fuzzy
+msgid "1 share"
+msgid_plural "%d shares"
+msgstr[0] "1 публикация"
+msgstr[1] "1 публикация"
+msgstr[2] "1 публикация"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -578,8 +598,13 @@ msgstr "Использовать Facebook как:"
 
 # parens are a trick so as to not deal with plural forms
 #. %d stands for a number, no need to translate it
-msgid "View all %d comments"
-msgstr "Просмотреть все комментарии (%d)"
+#. The singular "View 1 comment" is never used as far as I can tell
+#, fuzzy
+msgid "View 1 comment"
+msgid_plural "View all %d comments"
+msgstr[0] "Просмотреть все комментарии (%d)"
+msgstr[1] "Просмотреть все комментарии (%d)"
+msgstr[2] "Просмотреть все комментарии (%d)"
 
 msgid "Wall Photos"
 msgstr "Фотографии стены"
@@ -686,3 +711,5 @@ msgstr "суббота"
 #. Day of the Week
 msgid "Sunday"
 msgstr "воскресенье"
+
+# colon is trick in order to not deal with plural forms

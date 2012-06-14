@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-10 18:03:18-05:00\n"
+"POT-Creation-Date: 2012-06-13 22:16:10-05:00\n"
 "PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Spanish\n"
@@ -15,16 +15,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
-msgid "1 mutual friend"
-msgstr "1 amigo(a) en común"
-
-msgid "1 NEW STORY"
-msgstr ""
-
-#. Appears next to a post; means the post has been shared one time
-msgid "1 share"
-msgstr "1 vez compartido"
-
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
 msgstr "A %a, %a y %a les gusta esto."
@@ -193,38 +183,59 @@ msgid "Developers"
 msgstr "Desarrolladores"
 
 #. %d stands for a number, no need to translate it
-msgid "%d hours ago"
-msgstr "Hace %d horas"
+#. The singular "1 hour ago" is never used as far as I can tell
+msgid "1 hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "Hace una hora"
+msgstr[1] "Hace %d horas"
 
 #. %d stands for a number, no need to translate it
-msgid "%d minutes ago"
-msgstr "Hace %d minutos"
+#. The singular "1 minute ago" is never used as far as I can tell
+msgid "1 minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "Hace un minuto"
+msgstr[1] "Hace %d minutos"
 
 #. %d stands for a number, no need to translate it
-msgid "%d mutual friends"
-msgstr "%d amigos en común"
+msgid "1 mutual friend"
+msgid_plural "%d mutual friends"
+msgstr[0] "1 amigo(a) en común"
+msgstr[1] "%d amigos en común"
 
 #. %d stands for a number, no need to translate it
-msgid "%d NEW STORIES"
-msgstr "%d HISTORIAS NUEVAS"
+msgid "1 NEW STORY"
+msgid_plural "%d NEW STORIES"
+msgstr[0] "1 NEW STORY"
+msgstr[1] "%d HISTORIAS NUEVAS"
 
 #. %d stands for a number, no need to translate it; "%d other people"
+#. The singular "1 other" is never used as far as I can tell
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
-msgid "%d others"
-msgstr "otras %d personas más"
+msgid "1 other"
+msgid_plural "%d others"
+msgstr[0] "1 other"
+msgstr[1] "otras %d personas más"
 
 #. %d stands for a number; used in sentences like "%d people like this."
-msgid "%d people"
-msgstr "%d personas"
+#. The singular "1 person" is never used as far as I can tell
+msgid "1 person"
+msgid_plural "%d people"
+msgstr[0] "Una persona"
+msgstr[1] "%d personas"
 
 #. %d stands for a number, no need to translate it
-msgid "%d seconds ago"
-msgstr "Hace %d segundos"
+#. The singular "1 second ago" is never used as far as I can tell
+msgid "1 second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "Hace un segundo"
+msgstr[1] "Hace %d segundos"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
-msgid "%d shares"
-msgstr "%d veces compartido"
+msgid "1 share"
+msgid_plural "%d shares"
+msgstr[0] "1 vez compartido"
+msgstr[1] "%d veces compartido"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -566,8 +577,11 @@ msgid "Use Facebook as:"
 msgstr "Usar Facebook como:"
 
 #. %d stands for a number, no need to translate it
-msgid "View all %d comments"
-msgstr "Ver los %d comentarios"
+#. The singular "View 1 comment" is never used as far as I can tell
+msgid "View 1 comment"
+msgid_plural "View all %d comments"
+msgstr[0] "View 1 comment"
+msgstr[1] "Ver los %d comentarios"
 
 msgid "Wall Photos"
 msgstr "Fotos del muro"

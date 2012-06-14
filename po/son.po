@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-10 18:03:18-05:00\n"
+"POT-Creation-Date: 2012-06-13 22:16:10-05:00\n"
 "PO-Revision-Date: 2012-03-17 23:02+0200\n"
 "Last-Translator: Mohomodou Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: Songhay.org\n"
@@ -17,16 +17,6 @@ msgstr ""
 "X-Generator: Virtaal 0.7.0-mac-beta-1\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
-msgid "1 mutual friend"
-msgstr "marga cere 1"
-
-msgid "1 NEW STORY"
-msgstr "FILLA TAAGA 1"
-
-#. Appears next to a post; means the post has been shared one time
-msgid "1 share"
-msgstr "žemnari 1"
-
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
 msgstr "%a, %a nda ngey tana %a ga baa woo."
@@ -193,38 +183,66 @@ msgid "Developers"
 msgstr "Cinakey"
 
 #. %d stands for a number, no need to translate it
-msgid "%d hours ago"
-msgstr "A ga too guuru %d"
+#. The singular "1 hour ago" is never used as far as I can tell
+#, fuzzy
+msgid "1 hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "A ga too guuru %d"
+msgstr[1] "A ga too guuru %d"
 
 #. %d stands for a number, no need to translate it
-msgid "%d minutes ago"
-msgstr "A ga too miniti %d"
+#. The singular "1 minute ago" is never used as far as I can tell
+#, fuzzy
+msgid "1 minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "A ga too miniti %d"
+msgstr[1] "A ga too miniti %d"
 
 #. %d stands for a number, no need to translate it
-msgid "%d mutual friends"
-msgstr "A ga too miniti %d"
+#, fuzzy
+msgid "1 mutual friend"
+msgid_plural "%d mutual friends"
+msgstr[0] "marga cere 1"
+msgstr[1] "marga cere 1"
 
 #. %d stands for a number, no need to translate it
-msgid "%d NEW STORIES"
-msgstr "ALHABAR TAAGA %d"
+#, fuzzy
+msgid "1 NEW STORY"
+msgid_plural "%d NEW STORIES"
+msgstr[0] "FILLA TAAGA 1"
+msgstr[1] "FILLA TAAGA 1"
 
 #. %d stands for a number, no need to translate it; "%d other people"
+#. The singular "1 other" is never used as far as I can tell
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
-msgid "%d others"
-msgstr "%d tanayaŋ"
+#, fuzzy
+msgid "1 other"
+msgid_plural "%d others"
+msgstr[0] "%d tanayaŋ"
+msgstr[1] "%d tanayaŋ"
 
 #. %d stands for a number; used in sentences like "%d people like this."
-msgid "%d people"
-msgstr "Boro %d"
+#. The singular "1 person" is never used as far as I can tell
+msgid "1 person"
+msgid_plural "%d people"
+msgstr[0] ""
+msgstr[1] ""
 
 #. %d stands for a number, no need to translate it
-msgid "%d seconds ago"
-msgstr "a ga too segondu %d"
+#. The singular "1 second ago" is never used as far as I can tell
+#, fuzzy
+msgid "1 second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "a ga too segondu %d"
+msgstr[1] "a ga too segondu %d"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
-msgid "%d shares"
-msgstr "žemnari %d"
+#, fuzzy
+msgid "1 share"
+msgid_plural "%d shares"
+msgstr[0] "žemnari 1"
+msgstr[1] "žemnari 1"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -567,8 +585,12 @@ msgid "Use Facebook as:"
 msgstr "Facebook tee sanda:"
 
 #. %d stands for a number, no need to translate it
-msgid "View all %d comments"
-msgstr "Daara %d kul guna\t"
+#. The singular "View 1 comment" is never used as far as I can tell
+#, fuzzy
+msgid "View 1 comment"
+msgid_plural "View all %d comments"
+msgstr[0] "Daara %d kul guna\t"
+msgstr[1] "Daara %d kul guna\t"
 
 msgid "Wall Photos"
 msgstr "Ceeta biyey"
