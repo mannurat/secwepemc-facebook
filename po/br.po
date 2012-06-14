@@ -1,6 +1,7 @@
 # Translation of Facebook into unsupported languages
 # Copyright (C) 2012 Kevin P. Scannell
-# plural form from http://translate.sourceforge.net/wiki/l10n/pluralforms
+# plural form confirmed correct by Fulup; from:
+# http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html
 msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
@@ -13,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 && n%100!=71 && n%100!=91 ? 0 : n%10==2 && n%100!=12 && n%100!=72 && n%100!=92 ? 1 : (n%10==3 || n%10==4 || n%10==9) && (n%100)/10!=1 && (n%100)/10!=7 && (n%100)/10!=9 ? 2 : 3)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
 #. First two %a's are names, third is something like "5 others"
@@ -185,27 +186,35 @@ msgstr "Diorroerien"
 #. The singular "1 hour ago" is never used as far as I can tell
 msgid "1 hour ago"
 msgid_plural "%d hours ago"
-msgstr[0] "e-tro un eurvezh zo"
+msgstr[0] "un eurvezh zo"
 msgstr[1] "%d eurvezh zo"
+msgstr[2] "%d eurvezh zo"
+msgstr[3] "%d eurvezh zo"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 minute ago" is never used as far as I can tell
 msgid "1 minute ago"
 msgid_plural "%d minutes ago"
-msgstr[0] "E-tro ur munut zo"
-msgstr[1] "%d munut zo"
+msgstr[0] "ur munut zo"
+msgstr[1] "%d vunut zo"
+msgstr[2] "%d munut zo"
+msgstr[3] "%d munut zo"
 
 #. %d stands for a number, no need to translate it
 msgid "1 mutual friend"
 msgid_plural "%d mutual friends"
 msgstr[0] "1 mignon boutin"
-msgstr[1] "%d mignon boutin"
+msgstr[1] "%d vignon boutin"
+msgstr[2] "%d mignon boutin"
+msgstr[3] "%d mignon boutin"
 
 #. %d stands for a number, no need to translate it
 msgid "1 NEW STORY"
 msgid_plural "%d NEW STORIES"
 msgstr[0] "1 ISTOR NEVEZ"
 msgstr[1] "%d ISTOR NEVEZ"
+msgstr[2] "%d ISTOR NEVEZ"
+msgstr[3] "%d ISTOR NEVEZ"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. The singular "1 other" is never used as far as I can tell
@@ -214,13 +223,17 @@ msgid "1 other"
 msgid_plural "%d others"
 msgstr[0] "1 all"
 msgstr[1] "%d all"
+msgstr[2] "%d all"
+msgstr[3] "%d all"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
 msgstr[0] "1 den"
-msgstr[1] "%d den"
+msgstr[1] "%d zen"
+msgstr[2] "%d den"
+msgstr[3] "%d den"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 second ago" is never used as far as I can tell
@@ -228,6 +241,8 @@ msgid "1 second ago"
 msgid_plural "%d seconds ago"
 msgstr[0] "1 eilenn zo"
 msgstr[1] "%d eilenn zo"
+msgstr[2] "%d eilenn zo"
+msgstr[3] "%d eilenn zo"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
@@ -235,6 +250,8 @@ msgid "1 share"
 msgid_plural "%d shares"
 msgstr[0] "Kenrannet 1"
 msgstr[1] "Kenrannet %d"
+msgstr[2] "Kenrannet %d"
+msgstr[3] "Kenrannet %d"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -579,7 +596,9 @@ msgstr "Ober gant Facebook evel :"
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
 msgstr[0] "Gwelet an 1 poz"
-msgstr[1] "Gwelet an %d poz"
+msgstr[1] "Gwelet an %d boz"
+msgstr[2] "Gwelet an %d foz"
+msgstr[3] "Gwelet an %d poz"
 
 msgid "Wall Photos"
 msgstr "Skeudennoù ar voger"
