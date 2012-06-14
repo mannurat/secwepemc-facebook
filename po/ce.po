@@ -219,7 +219,7 @@ msgstr[1] ""
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
-msgstr[0] "1 person"
+msgstr[0] ""
 msgstr[1] "%d стаг / нах"
 
 #. %d stands for a number, no need to translate it
@@ -578,7 +578,7 @@ msgstr ""
 #. The singular "View 1 comment" is never used as far as I can tell
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
-msgstr[0] "View 1 comment"
+msgstr[0] ""
 msgstr[1] "Массо %d комментаришка хьажа"
 
 msgid "Wall Photos"

@@ -212,7 +212,7 @@ msgstr[1] "%d STÓRIAS NUOBAS"
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] "1 other"
+msgstr[0] ""
 msgstr[1] "%d outros"
 
 #. %d stands for a number; used in sentences like "%d people like this."
@@ -578,7 +578,7 @@ msgstr "Ousar Facebook cumo:"
 #. The singular "View 1 comment" is never used as far as I can tell
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
-msgstr[0] "View 1 comment"
+msgstr[0] ""
 msgstr[1] "Ber to ls %d comentairos"
 
 msgid "Wall Photos"

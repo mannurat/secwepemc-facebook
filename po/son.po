@@ -213,21 +213,21 @@ msgstr[1] "ALHABAR TAAGA %d"
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] "1 other"
+msgstr[0] ""
 msgstr[1] "%d tanayaŋ"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
-msgstr[0] "1 person"
+msgstr[0] ""
 msgstr[1] "Boro %d"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 second ago" is never used as far as I can tell
 msgid "1 second ago"
 msgid_plural "%d seconds ago"
-msgstr[0] "1 second ago"
+msgstr[0] ""
 msgstr[1] "a ga too segondu %d"
 
 #. %d stands for a number, no need to translate it
@@ -581,7 +581,7 @@ msgstr "Facebook tee sanda:"
 #. The singular "View 1 comment" is never used as far as I can tell
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
-msgstr[0] "View 1 comment"
+msgstr[0] ""
 msgstr[1] "Daara %d kul guna"
 
 msgid "Wall Photos"

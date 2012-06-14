@@ -578,7 +578,7 @@ msgstr "Itilize Facebook an tan ke:"
 #. The singular "View 1 comment" is never used as far as I can tell
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
-msgstr[0] "View 1 comment"
+msgstr[0] ""
 msgstr[1] "Afiche tout %d kòmantè yo"
 
 msgid "Wall Photos"

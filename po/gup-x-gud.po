@@ -222,7 +222,7 @@ msgstr[2] "%d AN-GERRNGE GUN-WOK"
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] "1 other"
+msgstr[0] ""
 msgstr[1] "%d arri-wokgadjurrinj"
 msgstr[2] "%d arri-wokgadjurrinj"
 
@@ -230,7 +230,7 @@ msgstr[2] "%d arri-wokgadjurrinj"
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
-msgstr[0] "1 person"
+msgstr[0] ""
 msgstr[1] "%d bininj"
 msgstr[2] "%d bininj"
 
