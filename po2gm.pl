@@ -55,92 +55,153 @@ sub escape_regex {
 }
 
 my @outputlines;
+my %plural_regex;
 my %formats;
-my $target = $ARGV[0];
+my $targetlang = $ARGV[0];
 my $ambient = $ARGV[1];
 my %source; # maps English to whatever ambient language is (maybe en!)
 $formats{'%A'} = '%A'; # simple days of the week: "Saturday"
 $formats{'%B'} = '%B'; # simple month names: "February"
 
+open(PLURALS, "<:utf8", "plurals.txt") or die "Could not open plural form file: $!";
+while (<PLURALS>) {
+	chomp;
+	(my $code, my $num, my $regex) = m/^([A-Za-z-]+)\t([0-9])\t(.+)$/;
+	$plural_regex{$num} = $regex if ($code eq $targetlang);
+}
+close PLURALS;
+
 unless ($ambient eq 'en') {
 	my $aref = Locale::PO->load_file_asarray("po/$ambient.po");
+	shift @$aref;
 	foreach my $msg (@$aref) {
+		next if $msg->fuzzy();
 		my $id = $msg->msgid();
-		my $str = $msg->msgstr();
-		if ($id ne '""' and $str ne '""' and !$msg->fuzzy()) {
-			$source{$msg->dequote($id)} = $msg->dequote($str);
+		my $plural_id = $msg->msgid_plural();
+		if (defined($plural_id)) {
+			my $plural_hashref = $msg->msgstr_n();
+			if (scalar keys %{$plural_hashref} != 2) {
+				print STDERR "Warning: Alternate source language must have nplurals==2\n";
+			}
+			else {
+				my $str = $msg->dequote($plural_hashref->{'0'}); 
+				$source{$msg->dequote($id)} = $str unless ($str eq '');
+				$str = $msg->dequote($plural_hashref->{'1'}); 
+				$source{$msg->dequote($plural_id)} = $str unless ($str eq '');
+			}
 		}
 		else {
-			$source{$msg->dequote($id)} = $msg->dequote($id);
+			my $str = $msg->dequote($msg->msgstr());
+			if (!defined($str)) {
+				print STDERR "problem; str not defined for msgid = $id\n";
+			}
+			$source{$msg->dequote($id)} = $str unless ($str eq '');
 		}
 	}
 }
 
+# return undef if I don't know the string in the alternate source lang
 sub get_source_string {
 	(my $str) = @_;
 	if ($ambient eq 'en') {
 		return $str;
 	}
 	else {
-		return $source{$str};
+		if (exists($source{$str})) {
+			return $source{$str};
+		}
+		else {
+			return undef;
+		}
 	}
 }
 
-my $aref = Locale::PO->load_file_asarray("po/$target.po");
+# takes dequoted msgid, msgstr, and boolean true iff element is always a link
+# result is that a line of JS is written to @outputlines array 
+sub process_generic_translation {
+	(my $id, my $str, my $link_p, my $regex) = @_;
+
+	$id = escape_regex($id);
+	my $orig = $id;
+	$id =~ s/%T/(<a [^>]+><abbr [^>]+>[^<]+<\/abbr><\/a>)/g;
+	$id =~ s/%a/(<a [^>]+>[^<]+<\/a>)/g;
+	$id =~ s/%d/($regex)/g;
+	$id =~ s/%s/([^<" ]+)/g;
+	$str =~ s/"/\\"/g;
+	if ($id ne $str) {
+		$str = insert_all_backrefs($orig, $str);
+		if ($link_p) {
+			$id = '(^|>)'.$id.'(?=($|<))';
+		}
+		else {
+			$id = '(^|="|>)'.$id.'(?=($|"|<))';
+		}
+		push @outputlines, "  d = r(d, '$id', \"\$1\"+$str);\n";
+	}
+}
+
+my $aref = Locale::PO->load_file_asarray("po/$targetlang.po");
+shift @$aref;  # remove PO header
 foreach my $msg (@$aref) {
 	next if $msg->fuzzy();
-	my $id = $msg->msgid();
+	my $id = $msg->dequote($msg->msgid());
+	$id = get_source_string($id);
+	next unless defined($id);
+	my $plural_id = $msg->msgid_plural();
 	my $str = $msg->msgstr();
 	my $note = $msg->automatic();
-	if ($str and $id and $id ne '""') {
-		my $tempid = $msg->dequote($id);
-		$tempid = get_source_string($tempid);
-		my $tempstr = $msg->dequote($str);
-		if ($tempstr ne '') {
-			if (defined($note) and $note =~ /Format\./) {
-				$formats{$tempid} = $tempstr;
-			}
-			elsif (defined($note) and $note =~ /(Day of the Week|Month Name)/) {
-				for my $fmt (keys %formats) {
-					if (($fmt =~ /%A/ and $note =~ /Day of the Week/) or
-					    ($fmt =~ /%B/ and $note =~ /Month Name/)) {
-						my $regex = $fmt;  # e.g. "%B %d" - might have parens if non-English ambient (e.g. es)
-						$regex =~ s/%[AB]/$tempid/; # February %d
-						$regex = escape_regex($regex); # might be needed eventually for new alternate source languages
-						my $orig = $regex;
-						$regex =~ s/%d/([0-9]{1,2})/;  # Now "February ([0-9]{1,2})
-						$regex =~ s/%Y/([0-9]{4})/;
-						$regex =~ s/%s/([0-9:.apm]+)/;
-						$regex = '(^|="|>)'.$regex.'(?=($|"|<))';
-						my $repl = $formats{$fmt};        # e.g. "%d %B"
-						$repl =~ s/%[AB]/$tempstr/;       # Now "%d Feabhra"
-						if ($target =~ m/^(an|ast)$/) {
-							$repl =~ s/de ([aeiou])/d'$1/;
-						}
-						$repl = insert_all_backrefs($orig, $repl);
-						push @outputlines, "  d = r(d, '$regex', \"\$1\"+$repl);\n";
-					}
+	my $link_p = (defined($note) and $note =~ /Always a link\./);
+	if (defined($note) and $note =~ /Format\./) {
+		$str = $msg->dequote($str);
+		$formats{$id} = $str if ($str ne '');
+	}
+	elsif (defined($note) and $note =~ /(Day of the Week|Month Name)/) {
+		$str = $msg->dequote($str);
+		next if ($str eq '');
+		# note we're assuming these come after all format strings...
+		for my $fmt (keys %formats) {
+			if (($fmt =~ /%A/ and $note =~ /Day of the Week/) or
+			    ($fmt =~ /%B/ and $note =~ /Month Name/)) {
+				my $regex = $fmt;  # e.g. "%B %d" - might have parens if non-English ambient (e.g. es)
+				$regex =~ s/%[AB]/$id/; # February %d
+				$regex = escape_regex($regex); # might be needed eventually for new alternate source languages
+				my $orig = $regex;
+				$regex =~ s/%d/([0-9]{1,2})/;  # Now "February ([0-9]{1,2})
+				$regex =~ s/%Y/([0-9]{4})/;
+				$regex =~ s/%s/([0-9:.apm]+)/;
+				$regex = '(^|="|>)'.$regex.'(?=($|"|<))';
+				my $repl = $formats{$fmt};        # e.g. "%d %B"
+				$repl =~ s/%[AB]/$str/;       # Now "%d Feabhra"
+				if ($targetlang =~ m/^(an|ast)$/) {
+					$repl =~ s/de ([aeiou])/d'$1/;
 				}
-			}
-			else {
-				$tempid = escape_regex($tempid);
-				my $orig = $tempid;
-				$tempid =~ s/%T/(<a [^>]+><abbr [^>]+>[^<]+<\/abbr><\/a>)/g;
-				$tempid =~ s/%a/(<a [^>]+>[^<]+<\/a>)/g;
-				$tempid =~ s/%d/([0-9,]+)/g;
-				$tempid =~ s/%s/([^<" ]+)/g;
-				$tempstr =~ s/"/\\"/g;
-				next if ($tempid eq $tempstr);
-				$tempstr = insert_all_backrefs($orig, $tempstr);
-				if (defined($note) and $note =~ /Always a link\./) {
-					$tempid = '(^|>)'.$tempid.'(?=($|<))';
-				}
-				else {
-					$tempid = '(^|="|>)'.$tempid.'(?=($|"|<))';
-				}
-				push @outputlines, "  d = r(d, '$tempid', \"\$1\"+$tempstr);\n";
+				$repl = insert_all_backrefs($orig, $repl);
+				push @outputlines, "  d = r(d, '$regex', \"\$1\"+$repl);\n";
 			}
 		}
+	}
+	elsif (defined($plural_id)) {
+		$plural_id = $msg->dequote($plural_id);
+		$plural_id = get_source_string($plural_id);
+		next unless defined($plural_id);
+		my $plural_hashref = $msg->msgstr_n();
+		foreach my $k (sort { $a <=> $b } keys %{$plural_hashref}) {
+			my $trans = $msg->dequote($plural_hashref->{$k});
+			if ($trans ne '') {
+				my $numeral_regex = $plural_regex{$k};
+				my $singular = '1';
+				# matches singular, but isn't the catch-all
+				if ($singular =~ m/^$numeral_regex$/ and $numeral_regex ne '[0-9,]+') {
+					process_generic_translation($id, $trans, $link_p, $singular);
+				}
+				# as long as regex isn't '1', it matches some plurals
+				process_generic_translation($plural_id, $trans, $link_p, $numeral_regex) if ($numeral_regex ne $singular);
+			}
+		}
+	}
+	else {
+		$str = $msg->dequote($str);
+		process_generic_translation($id, $str, $link_p, '[0-9,]+') unless ($str eq '');
 	}
 }
 
