@@ -240,7 +240,7 @@ msgstr[1] ""
 msgid "1 share"
 msgid_plural "%d shares"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "%d nga pag-ambit"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
