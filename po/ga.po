@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 10:26:03-05:00\n"
+"POT-Creation-Date: 2012-06-15 11:26:52-05:00\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -67,8 +67,24 @@ msgstr "timpeall is nóiméad ó shin"
 msgid "Account Settings"
 msgstr "Socruithe Cuntais"
 
+msgid "%a changed her profile picture."
+msgstr ""
+
+msgid "%a changed his profile picture."
+msgstr ""
+
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
+msgstr "Rinne %a trácht ar %a."
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a commented on her own %a."
+msgstr "Rinne %a trácht ar %a."
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a commented on his own %a."
 msgstr "Rinne %a trácht ar %a."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
@@ -93,6 +109,11 @@ msgstr "Fógraíocht"
 msgid "a few seconds ago"
 msgstr "cúpla soicind ó shin"
 
+#. First %a is a person, second is a place
+#, fuzzy
+msgid "%a is at %a."
+msgstr "Is maith le %a %a."
+
 #. All three %a's are names of people
 msgid "%a is now friends with %a and %a."
 msgstr "Tá %a ina c(h)ara le %a agus %a anois."
@@ -108,6 +129,12 @@ msgstr "Is maith le %a %a."
 #. First two %a's are people: e.g. "Kevin likes Maddy's photo."
 msgid "%a likes %a's %a."
 msgstr "Is maith le %a rud éigin a chuir %a suas (%a)."
+
+#. First %a is a person, second is a page, and third is either
+#. the name of another page or something like "4 other pages"
+#, fuzzy
+msgid "%a likes %a and %a."
+msgstr "Is maith le %a %a."
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -273,6 +300,7 @@ msgstr[3] "%d nduine eile"
 msgstr[4] "%d duine eile"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
+#. The singular "1 other friend" is never used as far as I can tell
 msgid "1 other friend"
 msgid_plural "%d other friends"
 msgstr[0] "Cara amháin eile"
@@ -280,6 +308,17 @@ msgstr[1] "%d chara eile"
 msgstr[2] "%d chara eile"
 msgstr[3] "%d gcara eile"
 msgstr[4] "%d cara eile"
+
+#. Always a link. "John Doe likes GaelSpell and 3 other pages"
+#. The singular "1 other page" is never used as far as I can tell
+#, fuzzy
+msgid "1 other page"
+msgid_plural "%d other pages"
+msgstr[0] "duine amháin eile"
+msgstr[1] "beirt eile"
+msgstr[2] "%d dhuine eile"
+msgstr[3] "%d nduine eile"
+msgstr[4] "%d duine eile"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
@@ -388,6 +427,11 @@ msgstr "Is Maith Liom É"
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr "Ceanáin"
+
+#. Appears as link to right of "RECENT POST" on home page
+#, fuzzy
+msgid "Like Page"
+msgstr "Is Maith Liom an Leathanach Seo"
 
 msgid "Like This Page"
 msgstr "Is Maith Liom an Leathanach Seo"
@@ -525,6 +569,10 @@ msgstr "Ceisteanna"
 msgid "Recent Activity"
 msgstr "Gníomhaíocht Is Déanaí"
 
+#. Appears next to some posts on home page
+msgid "RECENT POST"
+msgstr ""
+
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
 msgstr "Leathanaigh Mholta"
@@ -537,9 +585,13 @@ msgstr "Gan Réamhamharc"
 msgid "Resize"
 msgstr "Athraigh Méid"
 
-#. Text that appears in the search box at the top of the page
+#. Text that used to appear in the search box at the top of the page
 msgid "Search"
 msgstr "Cuardaigh"
+
+#. Text that appears in the search box at the top of the page
+msgid "Search for people, places and things"
+msgstr ""
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"

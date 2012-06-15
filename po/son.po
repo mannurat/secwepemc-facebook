@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 10:26:03-05:00\n"
+"POT-Creation-Date: 2012-06-15 11:26:52-05:00\n"
 "PO-Revision-Date: 2012-03-17 23:02+0200\n"
 "Last-Translator: Mohomodou Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: Songhay.org\n"
@@ -66,8 +66,24 @@ msgstr "a ga hima ka too miniti foo"
 msgid "Account Settings"
 msgstr "Kontu šilbayhayey"
 
+msgid "%a changed her profile picture."
+msgstr ""
+
+msgid "%a changed his profile picture."
+msgstr ""
+
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
+msgstr "%a daara %a foo ga."
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a commented on her own %a."
+msgstr "%a daara %a foo ga."
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a commented on his own %a."
 msgstr "%a daara %a foo ga."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
@@ -93,6 +109,11 @@ msgstr "Feeyan"
 msgid "a few seconds ago"
 msgstr "a ga too segonduyaŋ"
 
+#. First %a is a person, second is a place
+#, fuzzy
+msgid "%a is at %a."
+msgstr "%a ga baa %a foo."
+
 #. All three %a's are names of people
 msgid "%a is now friends with %a and %a."
 msgstr ""
@@ -108,6 +129,12 @@ msgstr "%a ga baa %a foo."
 #. First two %a's are people: e.g. "Kevin likes Maddy's photo."
 #, fuzzy
 msgid "%a likes %a's %a."
+msgstr "%a ga baa %a foo."
+
+#. First %a is a person, second is a page, and third is either
+#. the name of another page or something like "4 other pages"
+#, fuzzy
+msgid "%a likes %a and %a."
 msgstr "%a ga baa %a foo."
 
 #. %a stands for a person's name
@@ -261,9 +288,18 @@ msgstr[0] ""
 msgstr[1] "%d tanayaŋ"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
+#. The singular "1 other friend" is never used as far as I can tell
 #, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
+msgstr[0] "marga cere 1"
+msgstr[1] "marga cere %d"
+
+#. Always a link. "John Doe likes GaelSpell and 3 other pages"
+#. The singular "1 other page" is never used as far as I can tell
+#, fuzzy
+msgid "1 other page"
+msgid_plural "%d other pages"
 msgstr[0] "marga cere 1"
 msgstr[1] "marga cere %d"
 
@@ -366,6 +402,11 @@ msgstr "Ga baa"
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr "Ga baa wey"
+
+#. Appears as link to right of "RECENT POST" on home page
+#, fuzzy
+msgid "Like Page"
+msgstr "Ga baa moɲoo woo"
 
 msgid "Like This Page"
 msgstr "Ga baa moɲoo woo"
@@ -503,6 +544,10 @@ msgstr "Hãayaney"
 msgid "Recent Activity"
 msgstr "Teera kokorante"
 
+#. Appears next to some posts on home page
+msgid "RECENT POST"
+msgstr ""
+
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
 msgstr "Moo yaamarantey"
@@ -515,9 +560,13 @@ msgstr "Moo-furyan kaa"
 msgid "Resize"
 msgstr "Alkadar sasawandi"
 
-#. Text that appears in the search box at the top of the page
+#. Text that used to appear in the search box at the top of the page
 msgid "Search"
 msgstr "Ceeci"
+
+#. Text that appears in the search box at the top of the page
+msgid "Search for people, places and things"
+msgstr ""
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"

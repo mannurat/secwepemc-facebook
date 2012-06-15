@@ -18,8 +18,14 @@ About
 about an hour ago
 about a minute ago
 Account Settings
+%a changed her profile picture.
+%a changed his profile picture.
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 %a commented on a %a.
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+%a commented on her own %a.
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+%a commented on his own %a.
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 %a commented on your %a.
 Activity Log
@@ -30,6 +36,8 @@ Add Photo / Video
 Advertising
 #. Time stamp on a post. You might also translate as "Just now"
 a few seconds ago
+#. First %a is a person, second is a place
+%a is at %a.
 #. All three %a's are names of people
 %a is now friends with %a and %a.
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
@@ -38,6 +46,9 @@ a few seconds ago
 %a likes a %a.
 #. First two %a's are people: e.g. "Kevin likes Maddy's photo."
 %a likes %a's %a.
+#. First %a is a person, second is a page, and third is either
+#. the name of another page or something like "4 other pages"
+%a likes %a and %a.
 #. %a stands for a person's name
 %a likes this.
 #. %a stands for something like "3 people"
@@ -109,7 +120,11 @@ Developers
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
 1 other;%d others
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
+#. The singular "1 other friend" is never used as far as I can tell
 1 other friend;%d other friends
+#. Always a link. "John Doe likes GaelSpell and 3 other pages"
+#. The singular "1 other page" is never used as far as I can tell
+1 other page;%d other pages
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 1 person;%d people
@@ -159,6 +174,8 @@ Like
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 Likes
+#. Appears as link to right of "RECENT POST" on home page
+Like Page
 Like This Page
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 link
@@ -223,14 +240,18 @@ Questions
 #. Box near the top of your personal timeline showing your recent actions on FB
 #. Now defunct, I think - replaced by "Activity" and "Recent" on a line below
 Recent Activity
+#. Appears next to some posts on home page
+RECENT POST
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 Recommended Pages
 #. When you share a link in a comment, use this to remove the preview image
 Remove Preview
 #. Option on every post on your personal timeline (now "Highlight"?)
 Resize
-#. Text that appears in the search box at the top of the page
+#. Text that used to appear in the search box at the top of the page
 Search
+#. Text that appears in the search box at the top of the page
+Search for people, places and things
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 See All
 #. In the drop-down menu with recent Friend Requests

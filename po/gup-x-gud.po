@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 10:26:03-05:00\n"
+"POT-Creation-Date: 2012-06-15 11:26:52-05:00\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Murray Garde\n"
 "Language-Team: Gundjeihmi\n"
@@ -66,8 +66,22 @@ msgstr "bolkkime"
 msgid "Account Settings"
 msgstr "Yi-marnbun nawu ngudda ge"
 
+msgid "%a changed her profile picture."
+msgstr ""
+
+msgid "%a changed his profile picture."
+msgstr ""
+
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
+msgstr ""
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on her own %a."
+msgstr ""
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on his own %a."
 msgstr ""
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
@@ -92,6 +106,11 @@ msgstr "Gabarri-bayahme"
 msgid "a few seconds ago"
 msgstr "bolkkime"
 
+#. First %a is a person, second is a place
+#, fuzzy
+msgid "%a is at %a."
+msgstr "%a ga-djare"
+
 #. All three %a's are names of people
 msgid "%a is now friends with %a and %a."
 msgstr ""
@@ -109,6 +128,12 @@ msgstr "%a ga-djare"
 #. First two %a's are people: e.g. "Kevin likes Maddy's photo."
 #, fuzzy
 msgid "%a likes %a's %a."
+msgstr "%a ga-djare"
+
+#. First %a is a person, second is a page, and third is either
+#. the name of another page or something like "4 other pages"
+#, fuzzy
+msgid "%a likes %a and %a."
 msgstr "%a ga-djare"
 
 #. %a stands for a person's name
@@ -268,9 +293,19 @@ msgstr[1] "%d arri-wokgadjurrinj"
 msgstr[2] "%d arri-wokgadjurrinj"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
+#. The singular "1 other friend" is never used as far as I can tell
 #, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
+msgstr[0] "1 arri-burrburren"
+msgstr[1] "%d bininj arri-burrburren"
+msgstr[2] "%d bininj arri-burrburren"
+
+#. Always a link. "John Doe likes GaelSpell and 3 other pages"
+#. The singular "1 other page" is never used as far as I can tell
+#, fuzzy
+msgid "1 other page"
+msgid_plural "%d other pages"
 msgstr[0] "1 arri-burrburren"
 msgstr[1] "%d bininj arri-burrburren"
 msgstr[2] "%d bininj arri-burrburren"
@@ -377,6 +412,11 @@ msgstr "A-djare"
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr "Nawu a-djare"
+
+#. Appears as link to right of "RECENT POST" on home page
+#, fuzzy
+msgid "Like Page"
+msgstr "A-djare"
 
 msgid "Like This Page"
 msgstr ""
@@ -520,6 +560,10 @@ msgstr "Yiban-djawan"
 msgid "Recent Activity"
 msgstr "Njanjuk Yi-marnbom"
 
+#. Appears next to some posts on home page
+msgid "RECENT POST"
+msgstr ""
+
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
 msgstr "Gubuyiga ngundi-bukkan"
@@ -532,9 +576,13 @@ msgstr "Yi-bimbularrbu"
 msgid "Resize"
 msgstr "Yi-marnbun an-gimuk dja an-yahwurd"
 
-#. Text that appears in the search box at the top of the page
+#. Text that used to appear in the search box at the top of the page
 msgid "Search"
 msgstr "Yi-yawan"
+
+#. Text that appears in the search box at the top of the page
+msgid "Search for people, places and things"
+msgstr ""
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"

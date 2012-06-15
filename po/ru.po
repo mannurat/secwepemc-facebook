@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 10:26:03-05:00\n"
+"POT-Creation-Date: 2012-06-15 11:26:52-05:00\n"
 "PO-Revision-Date: 2012-05-26 21:43:25-05:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Russian\n"
@@ -67,9 +67,27 @@ msgstr "около минуты назад"
 msgid "Account Settings"
 msgstr "Настройки аккаунта"
 
+msgid "%a changed her profile picture."
+msgstr ""
+
+msgid "%a changed his profile picture."
+msgstr ""
+
 # In Russian FB interface, when 2nd %a is фотография, full stop is missing
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
+msgstr "%a прокомментировала %a."
+
+# In Russian FB interface, when 2nd %a is фотография, full stop is missing
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a commented on her own %a."
+msgstr "%a прокомментировала %a."
+
+# In Russian FB interface, when 2nd %a is фотография, full stop is missing
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a commented on his own %a."
 msgstr "%a прокомментировала %a."
 
 # In Russian FB interface, when 2nd %a is фотография, full stop is missing
@@ -96,6 +114,11 @@ msgstr "Реклама"
 msgid "a few seconds ago"
 msgstr "несколько секунд назад"
 
+#. First %a is a person, second is a place
+#, fuzzy
+msgid "%a is at %a."
+msgstr "%a нравится %a."
+
 #. All three %a's are names of people
 msgid "%a is now friends with %a and %a."
 msgstr ""
@@ -111,6 +134,12 @@ msgstr "%a нравится %a."
 #. First two %a's are people: e.g. "Kevin likes Maddy's photo."
 #, fuzzy
 msgid "%a likes %a's %a."
+msgstr "%a нравится %a."
+
+#. First %a is a person, second is a page, and third is either
+#. the name of another page or something like "4 other pages"
+#, fuzzy
+msgid "%a likes %a and %a."
 msgstr "%a нравится %a."
 
 #. %a stands for a person's name
@@ -270,11 +299,21 @@ msgstr[1] "еще %d пользователям"
 
 # colon is a trick in order to not deal with plurals
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
+#. The singular "1 other friend" is never used as far as I can tell
 #, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
 msgstr[0] "1 общий друг"
 msgstr[1] "Общих друзей: %d"
+
+# Plurals don't appear to work like ones below; "еще 21 пользователям"
+#. Always a link. "John Doe likes GaelSpell and 3 other pages"
+#. The singular "1 other page" is never used as far as I can tell
+#, fuzzy
+msgid "1 other page"
+msgid_plural "%d other pages"
+msgstr[0] "еще 1 пользователям"
+msgstr[1] "еще %d пользователям"
 
 # "пользователям" is "users", N=2-20,22,23,26,28,35,72
 # "пользователю" for N=21,81
@@ -380,6 +419,11 @@ msgstr "Мне нравится"
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr "Отметки \"Мне нравится\""
+
+#. Appears as link to right of "RECENT POST" on home page
+#, fuzzy
+msgid "Like Page"
+msgstr "Мне нравится эта страница"
 
 msgid "Like This Page"
 msgstr "Мне нравится эта страница"
@@ -518,6 +562,10 @@ msgstr ""
 msgid "Recent Activity"
 msgstr ""
 
+#. Appears next to some posts on home page
+msgid "RECENT POST"
+msgstr ""
+
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
 msgstr ""
@@ -530,9 +578,13 @@ msgstr "Убрать предварительный просмотр"
 msgid "Resize"
 msgstr ""
 
-#. Text that appears in the search box at the top of the page
+#. Text that used to appear in the search box at the top of the page
 msgid "Search"
 msgstr "Поиск"
+
+#. Text that appears in the search box at the top of the page
+msgid "Search for people, places and things"
+msgstr ""
 
 # With "Suggested Groups" it's translated "Все"
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"

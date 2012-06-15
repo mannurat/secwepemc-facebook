@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 10:26:03-05:00\n"
+"POT-Creation-Date: 2012-06-15 11:26:52-05:00\n"
 "PO-Revision-Date: 2012-03-15 15:18-0600\n"
 "Last-Translator: José Pedro Ferreira\n"
 "Language-Team: Mirandese\n"
@@ -65,8 +65,24 @@ msgstr "alredor de un minuto atrás"
 msgid "Account Settings"
 msgstr "Oupçones"
 
+msgid "%a changed her profile picture."
+msgstr ""
+
+msgid "%a changed his profile picture."
+msgstr ""
+
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
+msgstr "%a dixo cousas suobre %a."
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a commented on her own %a."
+msgstr "%a dixo cousas suobre %a."
+
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a commented on his own %a."
 msgstr "%a dixo cousas suobre %a."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
@@ -92,6 +108,11 @@ msgstr "Publicidade"
 msgid "a few seconds ago"
 msgstr "hai alguns segundos"
 
+#. First %a is a person, second is a place
+#, fuzzy
+msgid "%a is at %a."
+msgstr "%a guosta de %a."
+
 #. All three %a's are names of people
 msgid "%a is now friends with %a and %a."
 msgstr ""
@@ -107,6 +128,12 @@ msgstr "%a guosta de %a."
 #. First two %a's are people: e.g. "Kevin likes Maddy's photo."
 #, fuzzy
 msgid "%a likes %a's %a."
+msgstr "%a guosta de %a."
+
+#. First %a is a person, second is a page, and third is either
+#. the name of another page or something like "4 other pages"
+#, fuzzy
+msgid "%a likes %a and %a."
 msgstr "%a guosta de %a."
 
 #. %a stands for a person's name
@@ -260,9 +287,18 @@ msgstr[0] ""
 msgstr[1] "%d outros"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
+#. The singular "1 other friend" is never used as far as I can tell
 #, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
+msgstr[0] "1 amigo quemun"
+msgstr[1] "%d amigo quemuns"
+
+#. Always a link. "John Doe likes GaelSpell and 3 other pages"
+#. The singular "1 other page" is never used as far as I can tell
+#, fuzzy
+msgid "1 other page"
+msgid_plural "%d other pages"
 msgstr[0] "1 amigo quemun"
 msgstr[1] "%d amigo quemuns"
 
@@ -364,6 +400,11 @@ msgstr "Guosto"
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr "Guostos"
+
+#. Appears as link to right of "RECENT POST" on home page
+#, fuzzy
+msgid "Like Page"
+msgstr "Gostar desta página"
 
 msgid "Like This Page"
 msgstr "Gostar desta página"
@@ -501,6 +542,10 @@ msgstr "Questones"
 msgid "Recent Activity"
 msgstr "Atibidade reciente"
 
+#. Appears next to some posts on home page
+msgid "RECENT POST"
+msgstr ""
+
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
 msgstr "Páginas recomendadas"
@@ -513,9 +558,13 @@ msgstr "Tirar prebison"
 msgid "Resize"
 msgstr "Mudar tamanho"
 
-#. Text that appears in the search box at the top of the page
+#. Text that used to appear in the search box at the top of the page
 msgid "Search"
 msgstr "Achar"
+
+#. Text that appears in the search box at the top of the page
+msgid "Search for people, places and things"
+msgstr ""
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
