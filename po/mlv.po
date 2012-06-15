@@ -183,7 +183,6 @@ msgstr "Ige bo kobyuta"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 hour ago" is never used as far as I can tell
-#, fuzzy
 msgid "1 hour ago"
 msgid_plural "%d hours ago"
 msgstr[0] "nawa %d mal van goy"
@@ -193,7 +192,6 @@ msgstr[3] "nawa %d mal van goy"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 minute ago" is never used as far as I can tell
-#, fuzzy
 msgid "1 minute ago"
 msgid_plural "%d minutes ago"
 msgstr[0] "niminit %d mal van goy"
@@ -202,47 +200,43 @@ msgstr[2] "niminit %d mal van goy"
 msgstr[3] "niminit %d mal van goy"
 
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "1 mutual friend"
 msgid_plural "%d mutual friends"
-msgstr[0] "bulsal nonmamyō tiwag 1"
-msgstr[1] "bulsal nonmamyō tiwag 1"
-msgstr[2] "bulsal nonmamyō tiwag 1"
-msgstr[3] "bulsal nonmamyō tiwag 1"
+msgstr[0] "dētēl net 1 gōh mu bulsal tiwag"
+msgstr[1] "bulsal nonmamyō tiwag kōyō %d"
+msgstr[2] "bulsal nonmamyō tiwag kēytēl %d"
+msgstr[3] "ige bulsal nonmamyō tiwag kēy bul %d"
 
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "1 NEW STORY"
 msgid_plural "%d NEW STORIES"
-msgstr[0] "NOYOY 1"
-msgstr[1] "NOYOY 1"
-msgstr[2] "NOYOY 1"
-msgstr[3] "NOYOY 1"
+msgstr[0] "NOYOY GAYAQ 1"
+msgstr[1] "NOYOY GAYAQ %d"
+msgstr[2] "NOYOY GAYAQ %d"
+msgstr[3] "NOYOY GAYAQ %d"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. The singular "1 other" is never used as far as I can tell
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
-#, fuzzy
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] "ige bul %d se kēy"
-msgstr[1] "ige bul %d se kēy"
-msgstr[2] "ige bul %d se kēy"
+msgstr[0] "hiqiyig 1 se kē"
+msgstr[1] "yoge %d se kōyō"
+msgstr[2] "tēlge %d se kēytēl"
 msgstr[3] "ige bul %d se kēy"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Net %d kē"
+msgstr[1] "Yoge %d"
+msgstr[2] "Tēlge %d"
+msgstr[3] "Ige bul %d kēy"
 
 # (sic) literally "just recently"
 #. %d stands for a number, no need to translate it
 #. The singular "1 second ago" is never used as far as I can tell
-#, fuzzy
 msgid "1 second ago"
 msgid_plural "%d seconds ago"
 msgstr[0] "isqet ēwē agōh"
@@ -252,13 +246,12 @@ msgstr[3] "isqet ēwē agōh"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
-#, fuzzy
 msgid "1 share"
 msgid_plural "%d shares"
 msgstr[0] "net 1 mē vētleg lok"
-msgstr[1] "net 1 mē vētleg lok"
-msgstr[2] "net 1 mē vētleg lok"
-msgstr[3] "net 1 mē vētleg lok"
+msgstr[1] "yoge 2 mē vētleg lok"
+msgstr[2] "tēlge 3 mē vētleg lok"
+msgstr[3] "ige bul %d mē vētleg lok"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -308,7 +301,7 @@ msgstr "So kamyō so bulsal"
 
 #. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
-msgstr "Ige bulsal mino"
+msgstr "Ige bulsal"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "FRIENDS"
@@ -600,13 +593,12 @@ msgstr "Use Facebook as:"
 
 #. %d stands for a number, no need to translate it
 #. The singular "View 1 comment" is never used as far as I can tell
-#, fuzzy
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
 msgstr[0] "Vatah qēt nakaka nan"
-msgstr[1] "Vatah qēt nakaka nan"
-msgstr[2] "Vatah qēt nakaka nan"
-msgstr[3] "Vatah qēt nakaka nan"
+msgstr[1] "Vatah qēt nakaka nan (%d)"
+msgstr[2] "Vatah qēt nakaka nan (%d)"
+msgstr[3] "Vatah qēt nakaka nan (%d)"
 
 msgid "Wall Photos"
 msgstr "Nam̄e totgal"
