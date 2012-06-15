@@ -1,8 +1,14 @@
 #. Lines like this one beginning with "#." are comments; no need to translate!
 #. First two %a's are names, third is something like "5 others"
 %a, %a and %a like this.
-#. %a is someone's name
-%a added a new photo.
+#. %a is a person's name; %d stands for a number, no need to translate it
+%a added a new photo.;%a added %d new photos.
+#. %a is a person's name; %d stands for a number, no need to translate it
+%a added 1 new photo to the album %a.;%a added %d new photos to the album %a.
+#. Both %a's are names of people
+%a and %a are now friends.
+#. First and third %a are names; second is something like "5 other friends"
+%a and %a are now friends with %a.
 #. First %a is a name, second %a is a name or else something like "6 others"
 %a and %a like this.
 #. First two as above, and final %a is something like "a link"
@@ -14,6 +20,8 @@ about a minute ago
 Account Settings
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 %a commented on a %a.
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+%a commented on your %a.
 Activity Log
 Add Friend
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
@@ -22,10 +30,14 @@ Add Photo / Video
 Advertising
 #. Time stamp on a post. You might also translate as "Just now"
 a few seconds ago
+#. All three %a's are names of people
+%a is now friends with %a and %a.
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 %a likes %a.
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 %a likes a %a.
+#. First two %a's are people: e.g. "Kevin likes Maddy's photo."
+%a likes %a's %a.
 #. %a stands for a person's name
 %a likes this.
 #. %a stands for something like "3 people"
@@ -40,8 +52,12 @@ Apps and Games
 %A at %s
 #. First %a is a person, second one is something like "a link"
 %a shared %a.
+#. First two %a's are people: e.g. "Kevin shared Maddy's photo."
+%a shared %a's %a.
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 Ask Question
+#. First two %a's are people, e.g. "Kevin was tagged in Maddy's photo."
+%a was tagged in %a's %a.
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 %B %d
 #. Format. %B and %d as above, %s = string representing the time ("3:15am")
@@ -92,6 +108,8 @@ Developers
 #. The singular "1 other" is never used as far as I can tell
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
 1 other;%d others
+#. Always a link. "John Doe and 7 other friends are now friends with Kevin."
+1 other friend;%d other friends
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 1 person;%d people
@@ -283,6 +301,8 @@ Yesterday
 Yesterday at %s
 #. %a stands for something like "4 others"
 You and %a like this.
+#. First %a is a person, second %a stands for something like "4 others"
+You, %a and %a like this.
 You like this.
 #. Month Name
 January

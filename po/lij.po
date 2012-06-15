@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-13 22:16:10-05:00\n"
+"POT-Creation-Date: 2012-06-15 10:26:03-05:00\n"
 "PO-Revision-Date: 2012-03-27 11:28:13-05:00\n"
 "Last-Translator: Alessio Gastaldi\n"
 "Language-Team: Ligurian\n"
@@ -20,9 +20,29 @@ msgstr ""
 msgid "%a, %a and %a like this."
 msgstr "A %a, %a e-a %a ghe piâxe. "
 
-#. %a is someone's name
+#. %a is a person's name; %d stands for a number, no need to translate it
+#, fuzzy
 msgid "%a added a new photo."
-msgstr "O %a o l'à azónto 'na nêuva föto"
+msgid_plural "%a added %d new photos."
+msgstr[0] "O %a o l'à azónto 'na nêuva föto"
+msgstr[1] "O %a o l'à azónto 'na nêuva föto"
+
+#. %a is a person's name; %d stands for a number, no need to translate it
+#, fuzzy
+msgid "%a added 1 new photo to the album %a."
+msgid_plural "%a added %d new photos to the album %a."
+msgstr[0] "O %a o l'à azónto 'na nêuva föto"
+msgstr[1] "O %a o l'à azónto 'na nêuva föto"
+
+#. Both %a's are names of people
+#, fuzzy
+msgid "%a and %a are now friends."
+msgstr "a %a e-a %a ghe piâxe."
+
+#. First and third %a are names; second is something like "5 other friends"
+#, fuzzy
+msgid "%a and %a are now friends with %a."
+msgstr "%a e %a àn condivîzo %a."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
 msgid "%a and %a like this."
@@ -49,6 +69,11 @@ msgstr "Inpostaçioìn de l'Account"
 msgid "%a commented on a %a."
 msgstr "o %a o l'à comentòu %a"
 
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a commented on your %a."
+msgstr "o %a o l'à comentòu %a"
+
 msgid "Activity Log"
 msgstr "Regìstro de ativitæ"
 
@@ -67,12 +92,21 @@ msgstr "Averténse"
 msgid "a few seconds ago"
 msgstr "quàrche segóndo fa"
 
+#. All three %a's are names of people
+msgid "%a is now friends with %a and %a."
+msgstr ""
+
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a likes %a."
 msgstr "a %a ghe piâxe %a"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a likes a %a."
+msgstr "a %a o ghe piâxe un %a"
+
+#. First two %a's are people: e.g. "Kevin likes Maddy's photo."
+#, fuzzy
+msgid "%a likes %a's %a."
 msgstr "a %a o ghe piâxe un %a"
 
 #. %a stands for a person's name
@@ -103,9 +137,19 @@ msgstr "%A a-e %s"
 msgid "%a shared %a."
 msgstr "%a o l'à condivîzo %a"
 
+#. First two %a's are people: e.g. "Kevin shared Maddy's photo."
+#, fuzzy
+msgid "%a shared %a's %a."
+msgstr "%a o l'à condivîzo %a"
+
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Fànni 'na domànda"
+
+#. First two %a's are people, e.g. "Kevin was tagged in Maddy's photo."
+#, fuzzy
+msgid "%a was tagged in %a's %a."
+msgstr "o %a o l'à comentòu %a"
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -214,6 +258,13 @@ msgid "1 other"
 msgid_plural "%d others"
 msgstr[0] ""
 msgstr[1] "%d âtri"
+
+#. Always a link. "John Doe and 7 other friends are now friends with Kevin."
+#, fuzzy
+msgid "1 other friend"
+msgid_plural "%d other friends"
+msgstr[0] "1 amîgo in comûne"
+msgstr[1] "%d amîxi in comûne"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
@@ -606,6 +657,11 @@ msgstr "Vêi a-e %s"
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
+msgstr "A ti e %a ghe piâxe quésto"
+
+#. First %a is a person, second %a stands for something like "4 others"
+#, fuzzy
+msgid "You, %a and %a like this."
 msgstr "A ti e %a ghe piâxe quésto"
 
 msgid "You like this."

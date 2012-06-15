@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-13 22:16:10-05:00\n"
+"POT-Creation-Date: 2012-06-15 10:26:03-05:00\n"
 "PO-Revision-Date: 2012-02-21 22:03:28-06:00\n"
 "Last-Translator: @NavajoNow\n"
 "Language-Team: Navajo\n"
@@ -20,8 +20,24 @@ msgstr ""
 msgid "%a, %a and %a like this."
 msgstr ""
 
-#. %a is someone's name
+#. %a is a person's name; %d stands for a number, no need to translate it
 msgid "%a added a new photo."
+msgid_plural "%a added %d new photos."
+msgstr[0] ""
+msgstr[1] ""
+
+#. %a is a person's name; %d stands for a number, no need to translate it
+msgid "%a added 1 new photo to the album %a."
+msgid_plural "%a added %d new photos to the album %a."
+msgstr[0] ""
+msgstr[1] ""
+
+#. Both %a's are names of people
+msgid "%a and %a are now friends."
+msgstr ""
+
+#. First and third %a are names; second is something like "5 other friends"
+msgid "%a and %a are now friends with %a."
 msgstr ""
 
 #. First %a is a name, second %a is a name or else something like "6 others"
@@ -49,6 +65,10 @@ msgstr ""
 msgid "%a commented on a %a."
 msgstr ""
 
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+msgid "%a commented on your %a."
+msgstr ""
+
 msgid "Activity Log"
 msgstr ""
 
@@ -67,12 +87,20 @@ msgstr ""
 msgid "a few seconds ago"
 msgstr ""
 
+#. All three %a's are names of people
+msgid "%a is now friends with %a and %a."
+msgstr ""
+
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a likes %a."
 msgstr ""
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a likes a %a."
+msgstr ""
+
+#. First two %a's are people: e.g. "Kevin likes Maddy's photo."
+msgid "%a likes %a's %a."
 msgstr ""
 
 #. %a stands for a person's name
@@ -103,8 +131,16 @@ msgstr ""
 msgid "%a shared %a."
 msgstr ""
 
+#. First two %a's are people: e.g. "Kevin shared Maddy's photo."
+msgid "%a shared %a's %a."
+msgstr ""
+
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
+msgstr ""
+
+#. First two %a's are people, e.g. "Kevin was tagged in Maddy's photo."
+msgid "%a was tagged in %a's %a."
 msgstr ""
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
@@ -212,6 +248,12 @@ msgstr[1] ""
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Always a link. "John Doe and 7 other friends are now friends with Kevin."
+msgid "1 other friend"
+msgid_plural "%d other friends"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -608,6 +650,10 @@ msgstr ""
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
+msgstr ""
+
+#. First %a is a person, second %a stands for something like "4 others"
+msgid "You, %a and %a like this."
 msgstr ""
 
 msgid "You like this."

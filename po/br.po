@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-13 22:16:10-05:00\n"
+"POT-Creation-Date: 2012-06-15 10:26:03-05:00\n"
 "PO-Revision-Date: 2012-03-05 21:50:27-06:00\n"
 "Last-Translator: Fulup Jakez\n"
 "Language-Team: Brezhoneg\n"
@@ -14,16 +14,43 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 && n%100!=71 && n%100!=91 ? 0 : n%10==2 && n%100!=12 && n%100!=72 && n%100!=92 ? 1 : (n%10==3 || n%10==4 || n%10==9) && (n%100)/10!=1 && (n%100)/10!=7 && (n%100)/10!=9 ? 2 : 3)\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 && n%100!=71 && n%100!"
+"=91 ? 0 : n%10==2 && n%100!=12 && n%100!=72 && n%100!=92 ? 1 : (n%10==3 || n"
+"%10==4 || n%10==9) && (n%100)/10!=1 && (n%100)/10!=7 && (n%100)/10!=9 ? 2 : "
+"3)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
 msgstr "Plijout a ra da %a, %a ha da %a."
 
-#. %a is someone's name
+#. %a is a person's name; %d stands for a number, no need to translate it
+#, fuzzy
 msgid "%a added a new photo."
-msgstr "Ur skeudenn nevez ouzhpennet gant %a"
+msgid_plural "%a added %d new photos."
+msgstr[0] "Ur skeudenn nevez ouzhpennet gant %a"
+msgstr[1] "Ur skeudenn nevez ouzhpennet gant %a"
+msgstr[2] "Ur skeudenn nevez ouzhpennet gant %a"
+msgstr[3] "Ur skeudenn nevez ouzhpennet gant %a"
+
+#. %a is a person's name; %d stands for a number, no need to translate it
+#, fuzzy
+msgid "%a added 1 new photo to the album %a."
+msgid_plural "%a added %d new photos to the album %a."
+msgstr[0] "Ur skeudenn nevez ouzhpennet gant %a"
+msgstr[1] "Ur skeudenn nevez ouzhpennet gant %a"
+msgstr[2] "Ur skeudenn nevez ouzhpennet gant %a"
+msgstr[3] "Ur skeudenn nevez ouzhpennet gant %a"
+
+#. Both %a's are names of people
+#, fuzzy
+msgid "%a and %a are now friends."
+msgstr "Plijout a ra da %a ha da %a"
+
+#. First and third %a are names; second is something like "5 other friends"
+#, fuzzy
+msgid "%a and %a are now friends with %a."
+msgstr "%a hag %a o deus kenrannet %a"
 
 #. First %a is a name, second %a is a name or else something like "6 others"
 msgid "%a and %a like this."
@@ -50,6 +77,11 @@ msgstr "Arventennoù ar gont"
 msgid "%a commented on a %a."
 msgstr "Un tamm poz zo bet lezet gant %a e %a."
 
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a commented on your %a."
+msgstr "Un tamm poz zo bet lezet gant %a e %a."
+
 msgid "Activity Log"
 msgstr "Marilh oberiantiz"
 
@@ -68,12 +100,21 @@ msgstr "Bruderezh"
 msgid "a few seconds ago"
 msgstr "E-tro un eilenn zo"
 
+#. All three %a's are names of people
+msgid "%a is now friends with %a and %a."
+msgstr ""
+
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a likes %a."
 msgstr "Plijet eo %a gant %a"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a likes a %a."
+msgstr "Plijet eo %a gant ur %a"
+
+#. First two %a's are people: e.g. "Kevin likes Maddy's photo."
+#, fuzzy
+msgid "%a likes %a's %a."
 msgstr "Plijet eo %a gant ur %a"
 
 #. %a stands for a person's name
@@ -104,9 +145,19 @@ msgstr "%A da %s"
 msgid "%a shared %a."
 msgstr "%a en deus kenrannet %a."
 
+#. First two %a's are people: e.g. "Kevin shared Maddy's photo."
+#, fuzzy
+msgid "%a shared %a's %a."
+msgstr "%a en deus kenrannet %a."
+
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Goulenn udb."
+
+#. First two %a's are people, e.g. "Kevin was tagged in Maddy's photo."
+#, fuzzy
+msgid "%a was tagged in %a's %a."
+msgstr "Un tamm poz zo bet lezet gant %a e %a."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -225,6 +276,15 @@ msgstr[0] "%d all"
 msgstr[1] "%d all"
 msgstr[2] "%d all"
 msgstr[3] "%d all"
+
+#. Always a link. "John Doe and 7 other friends are now friends with Kevin."
+#, fuzzy
+msgid "1 other friend"
+msgid_plural "%d other friends"
+msgstr[0] "%d mignon boutin"
+msgstr[1] "%d vignon boutin"
+msgstr[2] "%d mignon boutin"
+msgstr[3] "%d mignon boutin"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
@@ -625,6 +685,11 @@ msgstr "Dec'h da %s"
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
+msgstr "Plijout a ra deoc'h ha da %a"
+
+#. First %a is a person, second %a stands for something like "4 others"
+#, fuzzy
+msgid "You, %a and %a like this."
 msgstr "Plijout a ra deoc'h ha da %a"
 
 msgid "You like this."

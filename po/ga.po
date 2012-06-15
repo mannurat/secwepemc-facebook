@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-13 10:49:01-05:00\n"
+"POT-Creation-Date: 2012-06-15 10:26:03-05:00\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -20,9 +20,35 @@ msgstr ""
 msgid "%a, %a and %a like this."
 msgstr "Is maith le %a, %a agus %a é seo."
 
-#. %a is someone's name
+#. %a is a person's name; %d stands for a number, no need to translate it
+#, fuzzy
 msgid "%a added a new photo."
-msgstr "Chuir %a grianghraf nua leis."
+msgid_plural "%a added %d new photos."
+msgstr[0] "Chuir %a grianghraf nua leis."
+msgstr[1] "Chuir %a grianghraf nua leis."
+msgstr[2] "Chuir %a grianghraf nua leis."
+msgstr[3] "Chuir %a grianghraf nua leis."
+msgstr[4] "Chuir %a grianghraf nua leis."
+
+#. %a is a person's name; %d stands for a number, no need to translate it
+#, fuzzy
+msgid "%a added 1 new photo to the album %a."
+msgid_plural "%a added %d new photos to the album %a."
+msgstr[0] "Chuir %a grianghraf nua leis."
+msgstr[1] "Chuir %a grianghraf nua leis."
+msgstr[2] "Chuir %a grianghraf nua leis."
+msgstr[3] "Chuir %a grianghraf nua leis."
+msgstr[4] "Chuir %a grianghraf nua leis."
+
+#. Both %a's are names of people
+#, fuzzy
+msgid "%a and %a are now friends."
+msgstr "Is maith le %a agus %a é seo."
+
+#. First and third %a are names; second is something like "5 other friends"
+#, fuzzy
+msgid "%a and %a are now friends with %a."
+msgstr "Comhroinn %a agus %a %a."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
 msgid "%a and %a like this."
@@ -49,6 +75,11 @@ msgstr "Socruithe Cuntais"
 msgid "%a commented on a %a."
 msgstr "Rinne %a trácht ar %a."
 
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+#, fuzzy
+msgid "%a commented on your %a."
+msgstr "Rinne %a trácht ar %a."
+
 msgid "Activity Log"
 msgstr "Stair Gníomhaíochta"
 
@@ -67,12 +98,21 @@ msgstr "Fógraíocht"
 msgid "a few seconds ago"
 msgstr "cúpla soicind ó shin"
 
+#. All three %a's are names of people
+msgid "%a is now friends with %a and %a."
+msgstr ""
+
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a likes %a."
 msgstr "Is maith le %a %a."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a likes a %a."
+msgstr "Is maith le %a %a."
+
+#. First two %a's are people: e.g. "Kevin likes Maddy's photo."
+#, fuzzy
+msgid "%a likes %a's %a."
 msgstr "Is maith le %a %a."
 
 #. %a stands for a person's name
@@ -103,9 +143,19 @@ msgstr "%A ag %s"
 msgid "%a shared %a."
 msgstr "Comhroinn %a %a."
 
+#. First two %a's are people: e.g. "Kevin shared Maddy's photo."
+#, fuzzy
+msgid "%a shared %a's %a."
+msgstr "Comhroinn %a %a."
+
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Cuir Ceist"
+
+#. First two %a's are people, e.g. "Kevin was tagged in Maddy's photo."
+#, fuzzy
+msgid "%a was tagged in %a's %a."
+msgstr "Rinne %a trácht ar %a."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -229,6 +279,16 @@ msgstr[1] "beirt eile"
 msgstr[2] "%d dhuine eile"
 msgstr[3] "%d nduine eile"
 msgstr[4] "%d duine eile"
+
+#. Always a link. "John Doe and 7 other friends are now friends with Kevin."
+#, fuzzy
+msgid "1 other friend"
+msgid_plural "%d other friends"
+msgstr[0] "Comhchara amháin"
+msgstr[1] "%d chomhchara"
+msgstr[2] "%d chomhchara"
+msgstr[3] "%d gcomhchara"
+msgstr[4] "%d comhchara"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
@@ -633,6 +693,11 @@ msgstr "Inné ag %s"
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
+msgstr "Is maith leatsa agus le %a é seo."
+
+#. First %a is a person, second %a stands for something like "4 others"
+#, fuzzy
+msgid "You, %a and %a like this."
 msgstr "Is maith leatsa agus le %a é seo."
 
 msgid "You like this."
