@@ -14,7 +14,7 @@
 %a and %a like %a.
 #. First %a is a name, second %a is a name or else something like "6 others"
 %a and %a like this.
-#. First two as above, and final %a is something like "a link"
+#. First two as above, and final %a is something like (always?) "a link"
 %a and %a shared %a.
 #. First two as above, third is a person, final %a is "photo", "status", etc.
 %a and %a shared %a's %a.
@@ -69,7 +69,7 @@ APPS
 Apps and Games
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 %A at %s
-#. First %a is a person, second one is something like "a link"
+#. First %a is a person, second one is something like (always?) "a link"
 %a shared %a.
 #. First two %a's are people: e.g. "Kevin shared Maddy's photo."
 %a shared %a's %a.
