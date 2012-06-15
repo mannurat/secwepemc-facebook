@@ -68,24 +68,22 @@ msgid "Account Settings"
 msgstr "Socruithe Cuntais"
 
 msgid "%a changed her profile picture."
-msgstr ""
+msgstr "D'athraigh %a a grianghraf próifíle."
 
 msgid "%a changed his profile picture."
-msgstr ""
+msgstr "D'athraigh %a a ghrianghraf próifíle."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on a %a."
 msgstr "Rinne %a trácht ar %a."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-#, fuzzy
 msgid "%a commented on her own %a."
-msgstr "Rinne %a trácht ar %a."
+msgstr "Rinne %a trácht ar %a dá cuid féin."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-#, fuzzy
 msgid "%a commented on his own %a."
-msgstr "Rinne %a trácht ar %a."
+msgstr "Rinne %a trácht ar %a dá chuid féin."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 msgid "%a commented on your %a."
@@ -110,9 +108,8 @@ msgid "a few seconds ago"
 msgstr "cúpla soicind ó shin"
 
 #. First %a is a person, second is a place
-#, fuzzy
 msgid "%a is at %a."
-msgstr "Is maith le %a %a."
+msgstr "Tá %a ag %a."
 
 #. All three %a's are names of people
 msgid "%a is now friends with %a and %a."
@@ -132,9 +129,8 @@ msgstr "Is maith le %a rud éigin a chuir %a suas (%a)."
 
 #. First %a is a person, second is a page, and third is either
 #. the name of another page or something like "4 other pages"
-#, fuzzy
 msgid "%a likes %a and %a."
-msgstr "Is maith le %a %a."
+msgstr "Is maith le %a %a agus %a."
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -174,7 +170,7 @@ msgstr "Cuir Ceist"
 
 #. First two %a's are people, e.g. "Kevin was tagged in Maddy's photo."
 msgid "%a was tagged in %a's %a."
-msgstr ""
+msgstr "Cuireadh clib ar %a i ngrianghraf de chuid %a (%a)."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -311,14 +307,13 @@ msgstr[4] "%d cara eile"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
-#, fuzzy
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] "duine amháin eile"
-msgstr[1] "beirt eile"
-msgstr[2] "%d dhuine eile"
-msgstr[3] "%d nduine eile"
-msgstr[4] "%d duine eile"
+msgstr[0] "leathanach amháin eile"
+msgstr[1] "%d leathanach eile"
+msgstr[2] "%d leathanach eile"
+msgstr[3] "%d leathanach eile"
+msgstr[4] "%d leathanach eile"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
@@ -429,7 +424,6 @@ msgid "Likes"
 msgstr "Ceanáin"
 
 #. Appears as link to right of "RECENT POST" on home page
-#, fuzzy
 msgid "Like Page"
 msgstr "Is Maith Liom an Leathanach Seo"
 
@@ -571,7 +565,7 @@ msgstr "Gníomhaíocht Is Déanaí"
 
 #. Appears next to some posts on home page
 msgid "RECENT POST"
-msgstr ""
+msgstr "POSTÁIL NUA"
 
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
@@ -591,7 +585,7 @@ msgstr "Cuardaigh"
 
 #. Text that appears in the search box at the top of the page
 msgid "Search for people, places and things"
-msgstr ""
+msgstr "Déan cuardach ar dhaoine, áiteanna agus rudaí"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
