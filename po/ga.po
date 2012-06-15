@@ -21,34 +21,30 @@ msgid "%a, %a and %a like this."
 msgstr "Is maith le %a, %a agus %a é seo."
 
 #. %a is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
 msgstr[0] "Chuir %a grianghraf nua leis."
-msgstr[1] "Chuir %a grianghraf nua leis."
-msgstr[2] "Chuir %a grianghraf nua leis."
-msgstr[3] "Chuir %a grianghraf nua leis."
-msgstr[4] "Chuir %a grianghraf nua leis."
+msgstr[1] "Chuir %a %d ghrianghraf nua leis."
+msgstr[2] "Chuir %a %d ghrianghraf nua leis."
+msgstr[3] "Chuir %a %d ngrianghraf nua leis."
+msgstr[4] "Chuir %a %d grianghraf nua leis."
 
 #. %a is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a added 1 new photo to the album %a."
 msgid_plural "%a added %d new photos to the album %a."
-msgstr[0] "Chuir %a grianghraf nua leis."
-msgstr[1] "Chuir %a grianghraf nua leis."
-msgstr[2] "Chuir %a grianghraf nua leis."
-msgstr[3] "Chuir %a grianghraf nua leis."
-msgstr[4] "Chuir %a grianghraf nua leis."
+msgstr[0] "Chuir %a grianghraf nua le halbam %a."
+msgstr[1] "Chuir %a %d ghrianghraf nua le halbam %a."
+msgstr[2] "Chuir %a %d ghrianghraf nua le halbam %a."
+msgstr[3] "Chuir %a %d ngrianghraf nua le halbam %a."
+msgstr[4] "Chuir %a %d grianghraf nua le halbam %a."
 
 #. Both %a's are names of people
-#, fuzzy
 msgid "%a and %a are now friends."
-msgstr "Is maith le %a agus %a é seo."
+msgstr "Is cairde iad %a agus %a anois."
 
 #. First and third %a are names; second is something like "5 other friends"
-#, fuzzy
 msgid "%a and %a are now friends with %a."
-msgstr "Comhroinn %a agus %a %a."
+msgstr "Tá %a agus %a ina gcairde le %a anois."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
 msgid "%a and %a like this."
@@ -76,9 +72,8 @@ msgid "%a commented on a %a."
 msgstr "Rinne %a trácht ar %a."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-#, fuzzy
 msgid "%a commented on your %a."
-msgstr "Rinne %a trácht ar %a."
+msgstr "Rinne %a trácht ar %a de do chuid."
 
 msgid "Activity Log"
 msgstr "Stair Gníomhaíochta"
@@ -100,7 +95,7 @@ msgstr "cúpla soicind ó shin"
 
 #. All three %a's are names of people
 msgid "%a is now friends with %a and %a."
-msgstr ""
+msgstr "Tá %a ina c(h)ara le %a agus %a anois."
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a likes %a."
@@ -111,9 +106,8 @@ msgid "%a likes a %a."
 msgstr "Is maith le %a %a."
 
 #. First two %a's are people: e.g. "Kevin likes Maddy's photo."
-#, fuzzy
 msgid "%a likes %a's %a."
-msgstr "Is maith le %a %a."
+msgstr "Is maith le %a rud éigin a chuir %a suas (%a)."
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -144,18 +138,16 @@ msgid "%a shared %a."
 msgstr "Comhroinn %a %a."
 
 #. First two %a's are people: e.g. "Kevin shared Maddy's photo."
-#, fuzzy
 msgid "%a shared %a's %a."
-msgstr "Comhroinn %a %a."
+msgstr "Comhroinn %a rud éigin a chuir %a suas (%a)."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Cuir Ceist"
 
 #. First two %a's are people, e.g. "Kevin was tagged in Maddy's photo."
-#, fuzzy
 msgid "%a was tagged in %a's %a."
-msgstr "Rinne %a trácht ar %a."
+msgstr ""
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -281,14 +273,13 @@ msgstr[3] "%d nduine eile"
 msgstr[4] "%d duine eile"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
-#, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
-msgstr[0] "Comhchara amháin"
-msgstr[1] "%d chomhchara"
-msgstr[2] "%d chomhchara"
-msgstr[3] "%d gcomhchara"
-msgstr[4] "%d comhchara"
+msgstr[0] "Cara amháin eile"
+msgstr[1] "%d chara eile"
+msgstr[2] "%d chara eile"
+msgstr[3] "%d gcara eile"
+msgstr[4] "%d cara eile"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
@@ -696,9 +687,8 @@ msgid "You and %a like this."
 msgstr "Is maith leatsa agus le %a é seo."
 
 #. First %a is a person, second %a stands for something like "4 others"
-#, fuzzy
 msgid "You, %a and %a like this."
-msgstr "Is maith leatsa agus le %a é seo."
+msgstr "Is maith leat, le %a agus le %a é seo."
 
 msgid "You like this."
 msgstr "Is maith leat é seo."
