@@ -10,9 +10,14 @@
 #. First and third %a are names; second is something like "5 other friends"
 %a and %a are now friends with %a.
 #. First %a is a name, second %a is a name or else something like "6 others"
+#. Third %a is the name of a page like "Rage Against the Machine"
+%a and %a like %a.
+#. First %a is a name, second %a is a name or else something like "6 others"
 %a and %a like this.
 #. First two as above, and final %a is something like "a link"
 %a and %a shared %a.
+#. First two as above, third is a person, final %a is "photo", "status", etc.
+%a and %a shared %a's %a.
 #. Link at bottom of home page (under "More") to info about Facebook
 About
 about an hour ago
@@ -30,6 +35,8 @@ Account Settings
 %a commented on your %a.
 Activity Log
 Add Friend
+#. Under INTERESTS in left-hand navigation on home page
+Add Interests...
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 Add Photo / Video
 #. Link at bottom of home page (under "More") to info about Facebook ads
@@ -38,7 +45,8 @@ Advertising
 a few seconds ago
 #. First %a is a person, second is a place
 %a is at %a.
-#. All three %a's are names of people
+#. First two %a's are names of people; third is either
+#. another person or else something like "8 other people"
 %a is now friends with %a and %a.
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 %a likes %a.
@@ -125,6 +133,9 @@ Developers
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
 1 other page;%d other pages
+#. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
+#. The singular "1 other person" is never used as far as I can tell
+1 other person;%d other people
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 1 person;%d people
@@ -168,6 +179,8 @@ GROUPS
 Help
 #. Link that takes you to your home timeline; always visible at top-right
 Home
+#. In left-hand column on home page
+INTERESTS
 Life Event
 #. Verb. A link that allows you to "like" a post or a comment; "I like this"
 Like

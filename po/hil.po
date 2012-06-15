@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 11:26:52-05:00\n"
+"POT-Creation-Date: 2012-06-15 11:54:37-05:00\n"
 "PO-Revision-Date: 2012-02-21 16:58:12-06:00\n"
 "Last-Translator: Francis Dimzon\n"
 "Language-Team: Hiligaynon\n"
@@ -46,11 +46,22 @@ msgid "%a and %a are now friends with %a."
 msgstr "Si %a kag %a nagpaambit sang %a."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
+#. Third %a is the name of a page like "Rage Against the Machine"
+#, fuzzy
+msgid "%a and %a like %a."
+msgstr "Si %a kag %a nanamian sini."
+
+#. First %a is a name, second %a is a name or else something like "6 others"
 msgid "%a and %a like this."
 msgstr "Si %a kag %a nanamian sini."
 
 #. First two as above, and final %a is something like "a link"
 msgid "%a and %a shared %a."
+msgstr "Si %a kag %a nagpaambit sang %a."
+
+#. First two as above, third is a person, final %a is "photo", "status", etc.
+#, fuzzy
+msgid "%a and %a shared %a's %a."
 msgstr "Si %a kag %a nagpaambit sang %a."
 
 #. Link at bottom of home page (under "More") to info about Facebook
@@ -97,6 +108,10 @@ msgstr "Lista sang Ginpanghimo"
 msgid "Add Friend"
 msgstr "Idugang nga Abyan"
 
+#. Under INTERESTS in left-hand navigation on home page
+msgid "Add Interests..."
+msgstr ""
+
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
 msgstr "Magdugang sang Litrato/Video"
@@ -114,7 +129,8 @@ msgstr "mga pila ka gutlo ang nakaligad"
 msgid "%a is at %a."
 msgstr "Si %a nanamian sang isa ka %a."
 
-#. All three %a's are names of people
+#. First two %a's are names of people; third is either
+#. another person or else something like "8 other people"
 msgid "%a is now friends with %a and %a."
 msgstr ""
 
@@ -303,6 +319,14 @@ msgid_plural "%d other pages"
 msgstr[0] "1 ka iban pa"
 msgstr[1] "%d ka iban pa"
 
+#. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
+#. The singular "1 other person" is never used as far as I can tell
+#, fuzzy
+msgid "1 other person"
+msgid_plural "%d other people"
+msgstr[0] "1 ka iban pa"
+msgstr[1] "%d ka iban pa"
+
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
@@ -388,6 +412,10 @@ msgstr "BULIG"
 
 #. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
+msgstr ""
+
+#. In left-hand column on home page
+msgid "INTERESTS"
 msgstr ""
 
 msgid "Life Event"

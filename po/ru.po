@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 11:26:52-05:00\n"
+"POT-Creation-Date: 2012-06-15 11:54:37-05:00\n"
 "PO-Revision-Date: 2012-05-26 21:43:25-05:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Russian\n"
@@ -47,11 +47,22 @@ msgid "%a and %a are now friends with %a."
 msgstr "%a и %a поделились %a."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
+#. Third %a is the name of a page like "Rage Against the Machine"
+#, fuzzy
+msgid "%a and %a like %a."
+msgstr "Это понравилось %a и %a."
+
+#. First %a is a name, second %a is a name or else something like "6 others"
 msgid "%a and %a like this."
 msgstr "Это понравилось %a и %a."
 
 #. First two as above, and final %a is something like "a link"
 msgid "%a and %a shared %a."
+msgstr "%a и %a поделились %a."
+
+#. First two as above, third is a person, final %a is "photo", "status", etc.
+#, fuzzy
+msgid "%a and %a shared %a's %a."
 msgstr "%a и %a поделились %a."
 
 #. Link at bottom of home page (under "More") to info about Facebook
@@ -102,6 +113,10 @@ msgstr "Журнал действий"
 msgid "Add Friend"
 msgstr "Добавить в друзья"
 
+#. Under INTERESTS in left-hand navigation on home page
+msgid "Add Interests..."
+msgstr ""
+
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
 msgstr "Фото/Видео"
@@ -119,7 +134,8 @@ msgstr "несколько секунд назад"
 msgid "%a is at %a."
 msgstr "%a нравится %a."
 
-#. All three %a's are names of people
+#. First two %a's are names of people; third is either
+#. another person or else something like "8 other people"
 msgid "%a is now friends with %a and %a."
 msgstr ""
 
@@ -315,6 +331,15 @@ msgid_plural "%d other pages"
 msgstr[0] "еще 1 пользователям"
 msgstr[1] "еще %d пользователям"
 
+# Plurals don't appear to work like ones below; "еще 21 пользователям"
+#. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
+#. The singular "1 other person" is never used as far as I can tell
+#, fuzzy
+msgid "1 other person"
+msgid_plural "%d other people"
+msgstr[0] "еще 1 пользователям"
+msgstr[1] "еще %d пользователям"
+
 # "пользователям" is "users", N=2-20,22,23,26,28,35,72
 # "пользователю" for N=21,81
 # "пользователей" for N=1000 (theoretically!)
@@ -407,6 +432,10 @@ msgstr "Помощь"
 #. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
 msgstr "Главная"
+
+#. In left-hand column on home page
+msgid "INTERESTS"
+msgstr ""
 
 msgid "Life Event"
 msgstr "Событие из жизни"
