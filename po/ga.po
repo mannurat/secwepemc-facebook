@@ -88,11 +88,11 @@ msgstr "Is maith le %a agus %a é seo."
 
 #. First two as above, and final %a is something like "a link"
 msgid "%a and %a shared %a."
-msgstr "Comhroinn %a agus %a %a."
+msgstr "Chomhroinn %a agus %a %a."
 
 #. First two as above, third is a person, final %a is "photo", "status", etc.
 msgid "%a and %a shared %a's %a."
-msgstr "Comhroinn %a agus %a rud éigin a chuir %a suas (%a)."
+msgstr "Chomhroinn %a agus %a rud éigin a chuir %a suas (%a)."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -203,11 +203,11 @@ msgstr "%A ag %s"
 
 #. First %a is a person, second one is something like "a link"
 msgid "%a shared %a."
-msgstr "Comhroinn %a %a."
+msgstr "Chomhroinn %a %a."
 
 #. First two %a's are people: e.g. "Kevin shared Maddy's photo."
 msgid "%a shared %a's %a."
-msgstr "Comhroinn %a rud éigin a chuir %a suas (%a)."
+msgstr "Chomhroinn %a rud éigin a chuir %a suas (%a)."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
