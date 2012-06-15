@@ -192,7 +192,11 @@ foreach my $msg (@$aref) {
 				my $singular = '1';
 				# matches singular, but isn't the catch-all
 				if ($singular =~ m/^$numeral_regex$/ and $numeral_regex ne '[0-9,]+') {
-					process_generic_translation($id, $trans, $link_p, $singular);
+					# no %d's in (singular) msgid so no regex needed
+					# But for br, gd, msgstr[0] might have %d, so subst. "1"
+					my $sing_trans = $trans;
+					$sing_trans =~ s/%d/1/;
+					process_generic_translation($id, $sing_trans, $link_p, '');
 				}
 				# as long as regex isn't '1', it matches some plurals
 				process_generic_translation($plural_id, $trans, $link_p, $numeral_regex) if ($numeral_regex ne $singular);
