@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 13:01:30-05:00\n"
+"POT-Creation-Date: 2012-06-15 14:36:28-0500\n"
 "PO-Revision-Date: 2012-03-17 23:02+0200\n"
 "Last-Translator: Mohomodou Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: Songhay.org\n"
@@ -17,6 +17,22 @@ msgstr ""
 "X-Generator: Virtaal 0.7.0-mac-beta-1\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+msgid "link"
+msgstr "dobu"
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+msgid "photo"
+msgstr "bii"
+
+#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+msgid "post"
+msgstr "filla dobu"
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+msgid "status"
+msgstr "assariya"
+
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
 msgstr "%a, %a nda ngey tana %a ga baa woo."
@@ -439,10 +455,6 @@ msgstr "Ga baa moɲoo woo"
 msgid "Like This Page"
 msgstr "Ga baa moɲoo woo"
 
-#. Always a link. Used in longer sentences, like "%a commented on a link."
-msgid "link"
-msgstr "dobu"
-
 msgid "Links"
 msgstr "Dobey"
 
@@ -527,10 +539,6 @@ msgstr "Borey kaŋ war ga hima k'i bay"
 msgid "Photo"
 msgstr "Bii"
 
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
-msgid "photo"
-msgstr "bii"
-
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Biyey"
@@ -547,10 +555,6 @@ msgstr "Dogey"
 #. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
 msgstr "Murkuti"
-
-#. Always a link. Used in longer sentences, like "%a commented on a post."
-msgid "post"
-msgstr "filla dobu"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -643,10 +647,6 @@ msgstr "FAY"
 #. Appears above paid advertisements
 msgid "Sponsored"
 msgstr "Kanbuzaamante"
-
-#. Always a link. Used in longer sentences, like "%a commented on a status."
-msgid "status"
-msgstr "assariya"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt

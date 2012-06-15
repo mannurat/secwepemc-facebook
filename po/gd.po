@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 13:01:30-05:00\n"
+"POT-Creation-Date: 2012-06-15 14:36:28-0500\n"
 "PO-Revision-Date: 2012-03-14 12:34-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -20,6 +20,22 @@ msgstr ""
 "X-Poedit-Country: UNITED KINGDOM\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+msgid "link"
+msgstr "ceangal"
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+msgid "photo"
+msgstr "dealbh"
+
+#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+msgid "post"
+msgstr "post"
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+msgid "status"
+msgstr "naidheachd"
+
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
 msgstr "'S toil le %a, %a is %a seo."
@@ -474,10 +490,6 @@ msgstr "'S toil leam an duilleag seo"
 msgid "Like This Page"
 msgstr "'S toil leam an duilleag seo"
 
-#. Always a link. Used in longer sentences, like "%a commented on a link."
-msgid "link"
-msgstr "ceangal"
-
 msgid "Links"
 msgstr "Ceanglaichean"
 
@@ -562,10 +574,6 @@ msgstr "Saoil an aithne dhut..."
 msgid "Photo"
 msgstr "Dealbh"
 
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
-msgid "photo"
-msgstr "dealbh"
-
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Dealbhan"
@@ -582,10 +590,6 @@ msgstr "Àitichean"
 #. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
 msgstr "Brogaidhean"
-
-#. Always a link. Used in longer sentences, like "%a commented on a post."
-msgid "post"
-msgstr "post"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -677,10 +681,6 @@ msgstr "SEÒRSAICH"
 #. Appears above paid advertisements
 msgid "Sponsored"
 msgstr "Brosnaichte"
-
-#. Always a link. Used in longer sentences, like "%a commented on a status."
-msgid "status"
-msgstr "naidheachd"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt

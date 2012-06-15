@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 13:01:30-05:00\n"
+"POT-Creation-Date: 2012-06-15 14:36:28-0500\n"
 "PO-Revision-Date: 2012-02-22 22:03:27-06:00\n"
 "Last-Translator: Neskie Manuel\n"
 "Language-Team: Secwepemctsín\n"
@@ -16,6 +16,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+msgid "link"
+msgstr ""
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+msgid "photo"
+msgstr "spiqw"
+
+#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+msgid "post"
+msgstr ""
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+msgid "status"
+msgstr ""
+
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
 msgstr "%a, %a ell %a lestéses"
@@ -435,10 +451,6 @@ msgstr "xwexwísten re stsq’eý"
 msgid "Like This Page"
 msgstr "xwexwísten re stsq’eý"
 
-#. Always a link. Used in longer sentences, like "%a commented on a link."
-msgid "link"
-msgstr ""
-
 #, fuzzy
 msgid "Links"
 msgstr "Xwexwisten"
@@ -524,10 +536,6 @@ msgstr ""
 msgid "Photo"
 msgstr "spiqw"
 
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
-msgid "photo"
-msgstr "spiqw"
-
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "spipíqw"
@@ -543,10 +551,6 @@ msgstr ""
 
 #. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
-msgstr ""
-
-#. Always a link. Used in longer sentences, like "%a commented on a post."
-msgid "post"
 msgstr ""
 
 #. Link at the bottom of home page to Facebook's privacy policy
@@ -640,10 +644,6 @@ msgstr ""
 
 #. Appears above paid advertisements
 msgid "Sponsored"
-msgstr ""
-
-#. Always a link. Used in longer sentences, like "%a commented on a status."
-msgid "status"
 msgstr ""
 
 #. This is a Facebook "status update", not a relationship status

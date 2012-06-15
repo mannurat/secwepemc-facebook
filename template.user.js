@@ -33,10 +33,10 @@
 
 
 var tags = new Array();
-tags.push('a');      // many...
 tags.push('h4');     // Sponsored, Ticker, ...
 tags.push('h6');     // %a commented on %a.
 tags.push('label');  // Comment
+tags.push('a');      // many... (should do last for "context sensitive" stuff)
 
 var divclasses = new Array();
 divclasses.push('innerWrap');  // Write a comment... <textarea>

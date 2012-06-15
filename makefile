@@ -4,12 +4,8 @@
 
 all: updategms INSTALL.textile
 
-facebook.pot: strings.txt header.pot
-	sed "s/XXXX-XX-XX XX:XX-XXXX/`date '+%Y-%m-%d %H:%M:%S%z' | sed 's/00$$/:00/'`/" header.pot > $@
-	cat strings.txt | sed '/^[^#]/{s/"/\\"/g; s/.*/msgid "&"\nmsgstr ""\n/}' | sed '/^msgid ".*;.*%d/{N; s/^\([^;]*\);\([^"]*\)"\n.*/\1"\nmsgid_plural "\2"\nmsgstr[0] ""\nmsgstr[1] ""/}' >> $@
-
-updatepos: facebook.pot
-	find po/ -name '*.po' | while read x; do echo "Updating $$x..."; msgmerge -q --backup=off -U $$x facebook.pot > /dev/null 2>&1; done
+updatepos: strings.txt header.pot buildpot.sh
+	ls po | sed 's/\.po//' | while read x; do echo "Updating $$x..."; bash buildpot.sh $$x; msgmerge -q --backup=off -U po/$$x.po facebook.pot > /dev/null 2>&1; done
 	sed -i '/^#~/,$$d' po/*.po
 	sed -i '$${/^#, fuzzy$$/d}' po/*.po
 	sed -i '$${/^$$/d}' po/*.po

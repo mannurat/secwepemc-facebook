@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 13:01:30-05:00\n"
+"POT-Creation-Date: 2012-06-15 14:36:28-0500\n"
 "PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
 "Last-Translator: Peter Rohloff\n"
 "Language-Team: Kaqchikel\n"
@@ -16,6 +16,25 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+#, fuzzy
+msgid "link"
+msgstr "Man jeb'ël ta chik"
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+#, fuzzy
+msgid "photo"
+msgstr "Wachib'äl"
+
+#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+msgid "post"
+msgstr "chi rij"
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+#, fuzzy
+msgid "status"
+msgstr "Rub'eyal"
+
 #. First two %a's are names, third is something like "5 others"
 #, fuzzy
 msgid "%a, %a and %a like this."
@@ -439,11 +458,6 @@ msgstr "Jeb'ël"
 msgid "Like This Page"
 msgstr ""
 
-#. Always a link. Used in longer sentences, like "%a commented on a link."
-#, fuzzy
-msgid "link"
-msgstr "Man jeb'ël ta chik"
-
 #, fuzzy
 msgid "Links"
 msgstr "Jeb'ël"
@@ -529,11 +543,6 @@ msgstr "Winäq rik'in jub'a' awetaman kiwäch"
 msgid "Photo"
 msgstr "Wachib'äl"
 
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
-#, fuzzy
-msgid "photo"
-msgstr "Wachib'äl"
-
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Taq wachib'äl"
@@ -552,10 +561,6 @@ msgstr "Taq k'ojlib'äl"
 #, fuzzy
 msgid "Pokes"
 msgstr "Jeb'ël"
-
-#. Always a link. Used in longer sentences, like "%a commented on a post."
-msgid "post"
-msgstr "chi rij"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -651,11 +656,6 @@ msgstr "RUCHOLANIK"
 #. Appears above paid advertisements
 msgid "Sponsored"
 msgstr "Taq tzijol"
-
-#. Always a link. Used in longer sentences, like "%a commented on a status."
-#, fuzzy
-msgid "status"
-msgstr "Rub'eyal"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt

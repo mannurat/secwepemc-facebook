@@ -1,0 +1,3 @@
+ga	photo	tagged in
+ga	photo	commented on (a|his|your)
+ga	post	commented on (a|his|your)

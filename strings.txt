@@ -1,4 +1,12 @@
 #. Lines like this one beginning with "#." are comments; no need to translate!
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+link
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+photo
+#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+post
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+status
 #. First two %a's are names, third is something like "5 others"
 %a, %a and %a like this.
 #. %a is a person's name; %d stands for a number, no need to translate it
@@ -190,8 +198,6 @@ Likes
 #. Appears as link to right of "RECENT POST" on home page
 Like Page
 Like This Page
-#. Always a link. Used in longer sentences, like "%a commented on a link."
-link
 Links
 #. Was the heading above your lists of friends ("Work", "Family", etc.)
 LISTS
@@ -230,8 +236,6 @@ People who like this
 People You May Know
 #. Appears on profile above the "What's on your mind?" prompt, after "Status"
 Photo
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
-photo
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 Photos
 #. Link that allows you to "check in" somewhere
@@ -241,8 +245,6 @@ Place
 Places
 #. Appears in left-hand navigation for some users, under "APPS"
 Pokes
-#. Always a link. Used in longer sentences, like "%a commented on a post."
-post
 #. Link at the bottom of home page to Facebook's privacy policy
 Privacy
 Privacy Settings
@@ -288,8 +290,6 @@ Share
 SORT
 #. Appears above paid advertisements
 Sponsored
-#. Always a link. Used in longer sentences, like "%a commented on a status."
-status
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
 Status

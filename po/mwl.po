@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 13:01:30-05:00\n"
+"POT-Creation-Date: 2012-06-15 14:36:28-0500\n"
 "PO-Revision-Date: 2012-03-15 15:18-0600\n"
 "Last-Translator: José Pedro Ferreira\n"
 "Language-Team: Mirandese\n"
@@ -16,6 +16,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+msgid "link"
+msgstr "Lhicaçon"
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+msgid "photo"
+msgstr "retrato"
+
+#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+msgid "post"
+msgstr "puosta"
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+msgid "status"
+msgstr "estado"
+
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
 msgstr "%a, %a i %a gústan disto."
@@ -437,10 +453,6 @@ msgstr "Gostar desta página"
 msgid "Like This Page"
 msgstr "Gostar desta página"
 
-#. Always a link. Used in longer sentences, like "%a commented on a link."
-msgid "link"
-msgstr "Lhicaçon"
-
 msgid "Links"
 msgstr "Lhigaçones"
 
@@ -525,10 +537,6 @@ msgstr "Pessonas que talbeç conheças"
 msgid "Photo"
 msgstr "Retrato"
 
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
-msgid "photo"
-msgstr "retrato"
-
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Retratos"
@@ -545,10 +553,6 @@ msgstr "Sítios"
 #. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
 msgstr "Toque"
-
-#. Always a link. Used in longer sentences, like "%a commented on a post."
-msgid "post"
-msgstr "puosta"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -640,10 +644,6 @@ msgstr "OURDENAR"
 #. Appears above paid advertisements
 msgid "Sponsored"
 msgstr "Pago"
-
-#. Always a link. Used in longer sentences, like "%a commented on a status."
-msgid "status"
-msgstr "estado"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 13:01:30-05:00\n"
+"POT-Creation-Date: 2012-06-15 14:36:28-0500\n"
 "PO-Revision-Date: 2012-05-12 10:52:31-06:00\n"
 "Last-Translator: JOSHUA VERANO\n"
 "Language-Team: BISAYA\n"
@@ -16,6 +16,24 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+msgid "link"
+msgstr ""
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+#, fuzzy
+msgid "photo"
+msgstr "Litrato"
+
+#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+msgid "post"
+msgstr ""
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+#, fuzzy
+msgid "status"
+msgstr "Kahimtang"
+
 #. First two %a's are names, third is something like "5 others"
 #, fuzzy
 msgid "%a, %a and %a like this."
@@ -437,10 +455,6 @@ msgstr "Ganahan"
 msgid "Like This Page"
 msgstr ""
 
-#. Always a link. Used in longer sentences, like "%a commented on a link."
-msgid "link"
-msgstr ""
-
 msgid "Links"
 msgstr ""
 
@@ -525,11 +539,6 @@ msgstr "Basin Kaila Nimo"
 msgid "Photo"
 msgstr "Litrato"
 
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
-#, fuzzy
-msgid "photo"
-msgstr "Litrato"
-
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Mga Litrato"
@@ -545,10 +554,6 @@ msgstr "Mga lugar"
 
 #. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
-msgstr ""
-
-#. Always a link. Used in longer sentences, like "%a commented on a post."
-msgid "post"
 msgstr ""
 
 #. Link at the bottom of home page to Facebook's privacy policy
@@ -644,11 +649,6 @@ msgstr "Paghan-ay"
 #. Appears above paid advertisements
 msgid "Sponsored"
 msgstr "Sponsored"
-
-#. Always a link. Used in longer sentences, like "%a commented on a status."
-#, fuzzy
-msgid "status"
-msgstr "Kahimtang"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
