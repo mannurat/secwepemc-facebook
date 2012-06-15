@@ -54,8 +54,13 @@ sub escape_regex {
 	return $r;
 }
 
+# keys are regexen that match English source strings (even if ambient != 'en')
+# values are refs to arrays containing "src|target" strings
+# like "post|phostáil", "photo|ghrianghraf"  (src may be non-en!)
+my %contexts;
 my %plural_regex;
 my %formats;
+my @lowpriority;
 my $targetlang = $ARGV[0];
 my $ambient = $ARGV[1];
 my %source; # maps English to whatever ambient language is (maybe en!)
@@ -118,7 +123,7 @@ sub get_source_string {
 # takes dequoted msgid, msgstr, and boolean true iff element is always a link
 # result is that a line of JS is written STDOUT
 sub process_generic_translation {
-	(my $id, my $str, my $link_p, my $regex) = @_;
+	(my $englishid, my $id, my $str, my $link_p, my $regex) = @_;
 
 	$id = escape_regex($id);
 	my $orig = $id;
@@ -135,7 +140,13 @@ sub process_generic_translation {
 		else {
 			$id = '(^|="|>)'.$id.'(?=($|"|<))';
 		}
-		print "  d = r(d, '$id', \"\$1\"+$str);\n";
+		my $toprint = "  d = r(d, '$id', \"\$1\"+$str);\n";
+		if ($englishid =~ /^(link|photo|post|status)$/) {
+			push @lowpriority, $toprint;
+		}
+		else {
+			print $toprint;
+		}
 	}
 }
 
@@ -143,16 +154,23 @@ my $aref = Locale::PO->load_file_asarray("po/$targetlang.po");
 shift @$aref;  # remove PO header
 foreach my $msg (@$aref) {
 	next if $msg->fuzzy();
-	my $id = $msg->dequote($msg->msgid());
-	$id = get_source_string($id);
+	my $englishid = $msg->dequote($msg->msgid());
+	my $id = get_source_string($englishid);
 	next unless defined($id);
 	my $plural_id = $msg->msgid_plural();
 	my $str = $msg->msgstr();
+	my $ctxt = $msg->msgctxt();
 	my $note = $msg->automatic();
 	my $link_p = (defined($note) and $note =~ /Always a link\./);
 	if (defined($note) and $note =~ /Format\./) {
 		$str = $msg->dequote($str);
 		$formats{$id} = $str if ($str ne '');
+	}
+	elsif (defined($ctxt)) {
+		$ctxt = $msg->dequote($ctxt);
+		$str = $msg->dequote($str);
+		next if ($str eq '');
+		push @{$contexts{$ctxt}}, "$id|$str";
 	}
 	elsif (defined($note) and $note =~ /(Day of the Week|Month Name)/) {
 		$str = $msg->dequote($str);
@@ -195,17 +213,26 @@ foreach my $msg (@$aref) {
 					# But for br, gd, msgstr[0] might have %d, so subst. "1"
 					my $sing_trans = $trans;
 					$sing_trans =~ s/%d/1/;
-					process_generic_translation($id, $sing_trans, $link_p, '');
+					process_generic_translation($englishid, $id, $sing_trans, $link_p, '');
 				}
 				# as long as regex isn't '1', it matches some plurals
-				process_generic_translation($plural_id, $trans, $link_p, $numeral_regex) if ($numeral_regex ne $singular);
+				process_generic_translation($englishid, $plural_id, $trans, $link_p, $numeral_regex) if ($numeral_regex ne $singular);
 			}
 		}
 	}
 	else {
 		$str = $msg->dequote($str);
-		process_generic_translation($id, $str, $link_p, '[0-9,]+') unless ($str eq '');
+		for my $ctxt_regex (keys %contexts) {
+			if ($englishid =~ m/$ctxt_regex/) {
+				for my $pair (@{$contexts{$ctxt_regex}}) {
+					(my $src, my $trg) = $pair =~ m/^([^|]+)\|(.+)$/;
+				}
+			}
+		}
+		process_generic_translation($englishid, $id, $str, $link_p, '[0-9,]+') unless ($str eq '');
 	}
 }
+
+print for (@lowpriority);
 
 exit 0;
