@@ -739,7 +739,7 @@ msgid_plural "View all %d comments"
 msgstr[0] "Gwelet an %d poz"
 msgstr[1] "Gwelet an %d boz"
 msgstr[2] "Gwelet an %d foz"
-msgstr[3] "Gwelet an %d poz"
+msgstr[3] "Gwelet ar %d poz"
 
 msgid "Wall Photos"
 msgstr "Skeudennoù ar voger"
