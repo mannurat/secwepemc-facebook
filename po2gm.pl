@@ -54,7 +54,6 @@ sub escape_regex {
 	return $r;
 }
 
-my @outputlines;
 my %plural_regex;
 my %formats;
 my $targetlang = $ARGV[0];
@@ -117,7 +116,7 @@ sub get_source_string {
 }
 
 # takes dequoted msgid, msgstr, and boolean true iff element is always a link
-# result is that a line of JS is written to @outputlines array 
+# result is that a line of JS is written STDOUT
 sub process_generic_translation {
 	(my $id, my $str, my $link_p, my $regex) = @_;
 
@@ -136,7 +135,7 @@ sub process_generic_translation {
 		else {
 			$id = '(^|="|>)'.$id.'(?=($|"|<))';
 		}
-		push @outputlines, "  d = r(d, '$id', \"\$1\"+$str);\n";
+		print "  d = r(d, '$id', \"\$1\"+$str);\n";
 	}
 }
 
@@ -176,7 +175,7 @@ foreach my $msg (@$aref) {
 					$repl =~ s/de ([aeiou])/d'$1/;
 				}
 				$repl = insert_all_backrefs($orig, $repl);
-				push @outputlines, "  d = r(d, '$regex', \"\$1\"+$repl);\n";
+				print "  d = r(d, '$regex', \"\$1\"+$repl);\n";
 			}
 		}
 	}
@@ -208,7 +207,5 @@ foreach my $msg (@$aref) {
 		process_generic_translation($id, $str, $link_p, '[0-9,]+') unless ($str eq '');
 	}
 }
-
-print foreach (sort { length($b) <=> length($a) } @outputlines);
 
 exit 0;
