@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 11:54:37-05:00\n"
+"POT-Creation-Date: 2012-06-15 14:36:28-0500\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: French\n"
@@ -15,6 +15,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+msgid "link"
+msgstr "lien"
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+msgid "photo"
+msgstr "photo"
+
+#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+msgid "post"
+msgstr "publication"
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+msgid "status"
+msgstr "statut"
+
 #. First two %a's are names, third is something like "5 others"
 msgid "%a, %a and %a like this."
 msgstr "%a, %a et %a aiment ça."
@@ -439,10 +455,6 @@ msgstr "J’aime cette Page"
 msgid "Like This Page"
 msgstr "J’aime cette Page"
 
-#. Always a link. Used in longer sentences, like "%a commented on a link."
-msgid "link"
-msgstr "lien"
-
 msgid "Links"
 msgstr "Liens"
 
@@ -527,10 +539,6 @@ msgstr "Vous connaissez peut-être..."
 msgid "Photo"
 msgstr "Photo"
 
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
-msgid "photo"
-msgstr "photo"
-
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Photos"
@@ -549,10 +557,6 @@ msgstr "Lieux"
 #. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
 msgstr "Pokes"
-
-#. Always a link. Used in longer sentences, like "%a commented on a post."
-msgid "post"
-msgstr "publication"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -645,10 +649,6 @@ msgstr "Ordre"
 #. Appears above paid advertisements
 msgid "Sponsored"
 msgstr "Lien commercial"
-
-#. Always a link. Used in longer sentences, like "%a commented on a status."
-msgid "status"
-msgstr "statut"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt

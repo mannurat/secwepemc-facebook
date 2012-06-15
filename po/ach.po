@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 11:54:37-05:00\n"
+"POT-Creation-Date: 2012-06-15 14:36:28-0500\n"
 "PO-Revision-Date: 2012-03-11 20:15-0700\n"
 "Last-Translator: DAVID OJARA PRINCE <brianfordug@gmail.com>\n"
 "Language-Team: translation group\n"
@@ -19,6 +19,25 @@ msgstr ""
 "X-Project-Style: default\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+#, fuzzy
+msgid "link"
+msgstr "pe kumeno"
+
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+#, fuzzy
+msgid "photo"
+msgstr "cal"
+
+#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+msgid "post"
+msgstr ""
+
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+#, fuzzy
+msgid "status"
+msgstr "kit ma tye kwede"
+
 #. First two %a's are names, third is something like "5 others"
 #, fuzzy
 msgid "%a, %a and %a like this."
@@ -440,11 +459,6 @@ msgstr "maro"
 msgid "Like This Page"
 msgstr ""
 
-#. Always a link. Used in longer sentences, like "%a commented on a link."
-#, fuzzy
-msgid "link"
-msgstr "pe kumeno"
-
 #, fuzzy
 msgid "Links"
 msgstr "jami ma imaro"
@@ -531,11 +545,6 @@ msgstr "dano mogo ma nyo ingeyo"
 msgid "Photo"
 msgstr "cal"
 
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
-#, fuzzy
-msgid "photo"
-msgstr "cal"
-
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "cal mapol"
@@ -553,10 +562,6 @@ msgstr "kabedo"
 #, fuzzy
 msgid "Pokes"
 msgstr "jami ma imaro"
-
-#. Always a link. Used in longer sentences, like "%a commented on a post."
-msgid "post"
-msgstr ""
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -651,11 +656,6 @@ msgstr "yero"
 #. Appears above paid advertisements
 msgid "Sponsored"
 msgstr "culo pire"
-
-#. Always a link. Used in longer sentences, like "%a commented on a status."
-#, fuzzy
-msgid "status"
-msgstr "kit ma tye kwede"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
