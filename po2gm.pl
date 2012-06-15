@@ -230,7 +230,7 @@ foreach my $msg (@$aref) {
 					my $orig = $tempid;
 					my $tempstr = $str;
 					# final %a is always the one to substitute for
-					$tempid =~ s/%a([^%]*)$/(<a [^>]+>)$src<\/a>/;
+					$tempid =~ s/%a([^%]*)$/(<a [^>]+>)$src<\/a>$1/;
 					$tempid =~ s/%a/(<a [^>]+>[^<]+<\/a>)/g;
 					$tempstr =~ s/"/\\"/g;
 					$tempstr = insert_all_backrefs($orig, $tempstr);
