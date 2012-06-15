@@ -226,6 +226,17 @@ foreach my $msg (@$aref) {
 			if ($englishid =~ m/$ctxt_regex/) {
 				for my $pair (@{$contexts{$ctxt_regex}}) {
 					(my $src, my $trg) = $pair =~ m/^([^|]+)\|(.+)$/;
+					my $tempid = escape_regex($id);
+					my $orig = $tempid;
+					my $tempstr = $str;
+					# final %a is always the one to substitute for
+					$tempid =~ s/%a([^%]*)$/(<a [^>]+>)$src<\/a>/;
+					$tempid =~ s/%a/(<a [^>]+>[^<]+<\/a>)/g;
+					$tempstr =~ s/"/\\"/g;
+					$tempstr = insert_all_backrefs($orig, $tempstr);
+					$tempstr =~ s/("\$[0-9]")([^\$]*)$/$1+"$trg<\/a>"$2/;
+					$tempid = '(^|="|>)'.$tempid.'(?=($|"|<))';
+					print "  d = r(d, '$tempid', \"\$1\"+$tempstr);\n";
 				}
 			}
 		}
