@@ -105,7 +105,7 @@ msgstr "Chomhroinn %a1 agus %a2 %a3."
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr "Chomhroinn %a1 agus %a2 rud éigin a chuir %a3 suas (%a4)."
+msgstr "Chomhroinn %a1 agus %a2 %a4 de chuid %a3."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -185,7 +185,7 @@ msgstr "Is maith le %a1 %a2."
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
 msgid "%a1 likes %a2's %a3."
-msgstr "Is maith le %a1 rud éigin a chuir %a2 suas (%a3)."
+msgstr "Is maith le %a1 %a3 de chuid %a2."
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
@@ -222,7 +222,7 @@ msgstr "Chomhroinn %a1 %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 shared %a2's %a3."
-msgstr "Chomhroinn %a1 rud éigin a chuir %a2 suas (%a3)."
+msgstr "Chomhroinn %a1 %a3 de chuid %a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -230,7 +230,7 @@ msgstr "Cuir Ceist"
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
-msgstr "Cuireadh clib ar %a1 i ngrianghraf de chuid %a2 (%a3)."
+msgstr "Cuireadh clib ar %a1 i %a3 de chuid %a2."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
