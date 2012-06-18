@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-18 12:45:45-0500\n"
+"POT-Creation-Date: 2012-06-18 16:07:13-0500\n"
 "PO-Revision-Date: 2012-06-16 22:19-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -38,12 +38,22 @@ msgid "link"
 msgstr "ceangal"
 
 #. Always a link. Used in longer sentences as above.
+msgctxt "commented on (a|his|your)"
+msgid "link"
+msgstr "a' cheangal"
+
+#. Always a link. Used in longer sentences as above.
 msgid "photo"
 msgstr "dealbh"
 
 #. Always a link. Used in longer sentences as above.
 msgid "post"
 msgstr "post"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on (a|his|your)"
+msgid "post"
+msgstr "a' phost"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status"
