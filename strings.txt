@@ -95,7 +95,7 @@ Apps and Games
 #. %a1 is a person's name, %a2 is something like (always?) "a link"
 %a1 shared %a2.
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-%a shared %a's %a.
+%a1 shared %a2's %a3.
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 Ask Question
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
