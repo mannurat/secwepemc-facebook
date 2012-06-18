@@ -61,8 +61,8 @@ msgid "status"
 msgstr "stádas"
 
 #. First two %a's are names, third is something like "5 others"
-msgid "%a, %a and %a like this."
-msgstr "Is maith le %a, %a agus %a é seo."
+msgid "%a1, %a2 and %a3 like this."
+msgstr "Is maith le %a1, %a2 agus %a3 é seo."
 
 #. %a is a person's name; %d stands for a number, no need to translate it
 msgid "%a added a new photo."
@@ -74,38 +74,38 @@ msgstr[3] "Chuir %a %d ngrianghraf nua leis."
 msgstr[4] "Chuir %a %d grianghraf nua leis."
 
 #. %a is a person's name; %d stands for a number, no need to translate it
-msgid "%a added 1 new photo to the album %a."
-msgid_plural "%a added %d new photos to the album %a."
-msgstr[0] "Chuir %a grianghraf nua le halbam %a."
-msgstr[1] "Chuir %a %d ghrianghraf nua le halbam %a."
-msgstr[2] "Chuir %a %d ghrianghraf nua le halbam %a."
-msgstr[3] "Chuir %a %d ngrianghraf nua le halbam %a."
-msgstr[4] "Chuir %a %d grianghraf nua le halbam %a."
+msgid "%a1 added 1 new photo to the album %a2."
+msgid_plural "%a1 added %d new photos to the album %a2."
+msgstr[0] "Chuir %a1 grianghraf nua le halbam %a2."
+msgstr[1] "Chuir %a1 %d ghrianghraf nua le halbam %a2."
+msgstr[2] "Chuir %a1 %d ghrianghraf nua le halbam %a2."
+msgstr[3] "Chuir %a1 %d ngrianghraf nua le halbam %a2."
+msgstr[4] "Chuir %a1 %d grianghraf nua le halbam %a2."
 
 #. Both %a's are names of people
-msgid "%a and %a are now friends."
-msgstr "Is cairde iad %a agus %a anois."
+msgid "%a1 and %a2 are now friends."
+msgstr "Is cairde iad %a1 agus %a2 anois."
 
 #. First and third %a are names; second is something like "5 other friends"
-msgid "%a and %a are now friends with %a."
-msgstr "Tá %a agus %a ina gcairde le %a anois."
+msgid "%a1 and %a2 are now friends with %a3."
+msgstr "Tá %a1 agus %a2 ina gcairde le %a3 anois."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
 #. Third %a is the name of a page like "Rage Against the Machine"
-msgid "%a and %a like %a."
-msgstr "Is maith le %a agus %a %a."
+msgid "%a1 and %a2 like %a3."
+msgstr "Is maith le %a1 agus %a2 %a3."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
-msgid "%a and %a like this."
-msgstr "Is maith le %a agus %a é seo."
+msgid "%a1 and %a2 like this."
+msgstr "Is maith le %a1 agus %a2 é seo."
 
 #. First two as above, and final %a is something like (always?) "a link"
-msgid "%a and %a shared %a."
-msgstr "Chomhroinn %a agus %a %a."
+msgid "%a1 and %a2 shared %a3."
+msgstr "Chomhroinn %a1 agus %a2 %a3."
 
 #. First two as above, third is a person, final %a is "photo", "status", etc.
-msgid "%a and %a shared %a's %a."
-msgstr "Chomhroinn %a agus %a rud éigin a chuir %a suas (%a)."
+msgid "%a1 and %a2 shared %a3's %a4."
+msgstr "Chomhroinn %a1 agus %a2 rud éigin a chuir %a3 suas (%a4)."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -127,20 +127,20 @@ msgid "%a changed his profile picture."
 msgstr "D'athraigh %a a ghrianghraf próifíle."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-msgid "%a commented on a %a."
-msgstr "Rinne %a trácht ar %a."
+msgid "%a1 commented on a %a2."
+msgstr "Rinne %a1 trácht ar %a2."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-msgid "%a commented on her own %a."
-msgstr "Rinne %a trácht ar %a dá cuid féin."
+msgid "%a1 commented on her own %a2."
+msgstr "Rinne %a1 trácht ar %a2 dá cuid féin."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-msgid "%a commented on his own %a."
-msgstr "Rinne %a trácht ar %a dá chuid féin."
+msgid "%a1 commented on his own %a2."
+msgstr "Rinne %a1 trácht ar %a2 dá chuid féin."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-msgid "%a commented on your %a."
-msgstr "Rinne %a trácht ar %a de do chuid."
+msgid "%a1 commented on your %a2."
+msgstr "Rinne %a1 trácht ar %a2 de do chuid."
 
 msgid "Activity Log"
 msgstr "Stair Gníomhaíochta"
@@ -165,30 +165,30 @@ msgid "a few seconds ago"
 msgstr "cúpla soicind ó shin"
 
 #. First %a is a person, second is a place
-msgid "%a is at %a."
-msgstr "Tá %a ag %a."
+msgid "%a1 is at %a2."
+msgstr "Tá %a1 ag %a2."
 
 #. First two %a's are names of people; third is either
 #. another person or else something like "8 other people"
-msgid "%a is now friends with %a and %a."
-msgstr "Tá %a ina c(h)ara le %a agus %a anois."
+msgid "%a1 is now friends with %a2 and %a3."
+msgstr "Tá %a1 ina c(h)ara le %a2 agus %a3 anois."
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
-msgid "%a likes %a."
-msgstr "Is maith le %a %a."
+msgid "%a1 likes %a2."
+msgstr "Is maith le %a1 %a2."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-msgid "%a likes a %a."
-msgstr "Is maith le %a %a."
+msgid "%a1 likes a %a2."
+msgstr "Is maith le %a1 %a2."
 
 #. First two %a's are people: e.g. "Kevin likes Maddy's photo."
-msgid "%a likes %a's %a."
-msgstr "Is maith le %a rud éigin a chuir %a suas (%a)."
+msgid "%a1 likes %a2's %a3."
+msgstr "Is maith le %a1 rud éigin a chuir %a2 suas (%a3)."
 
 #. First %a is a person, second is a page, and third is either
 #. the name of another page or something like "4 other pages"
-msgid "%a likes %a and %a."
-msgstr "Is maith le %a %a agus %a."
+msgid "%a1 likes %a2 and %a3."
+msgstr "Is maith le %a1 %a2 agus %a3."
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -215,20 +215,20 @@ msgid "%A at %s"
 msgstr "%A ag %s"
 
 #. First %a is a person, second one is something like (always?) "a link"
-msgid "%a shared %a."
-msgstr "Chomhroinn %a %a."
+msgid "%a1 shared %a2."
+msgstr "Chomhroinn %a1 %a2."
 
 #. First two %a's are people: e.g. "Kevin shared Maddy's photo."
-msgid "%a shared %a's %a."
-msgstr "Chomhroinn %a rud éigin a chuir %a suas (%a)."
+msgid "%a1 shared %a2's %a3."
+msgstr "Chomhroinn %a1 rud éigin a chuir %a2 suas (%a3)."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Cuir Ceist"
 
 #. First two %a's are people, e.g. "Kevin was tagged in Maddy's photo."
-msgid "%a was tagged in %a's %a."
-msgstr "Cuireadh clib ar %a i ngrianghraf de chuid %a (%a)."
+msgid "%a1 was tagged in %a2's %a3."
+msgstr "Cuireadh clib ar %a1 i ngrianghraf de chuid %a2 (%a3)."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -793,8 +793,8 @@ msgid "You and %a like this."
 msgstr "Is maith leatsa agus le %a é seo."
 
 #. First %a is a person, second %a stands for something like "4 others"
-msgid "You, %a and %a like this."
-msgstr "Is maith leat, le %a agus le %a é seo."
+msgid "You, %a1 and %a2 like this."
+msgstr "Is maith leat, le %a1 agus le %a2 é seo."
 
 msgid "You like this."
 msgstr "Is maith leat é seo."

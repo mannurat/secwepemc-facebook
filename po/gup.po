@@ -49,7 +49,7 @@ msgstr "Bale nga-yimerran"
 
 #. First two %a's are names, third is something like "5 others"
 #, fuzzy
-msgid "%a, %a and %a like this."
+msgid "%a1, %a2 and %a3 like this."
 msgstr "%a kabirri-djare"
 
 #. %a is a person's name; %d stands for a number, no need to translate it
@@ -60,39 +60,39 @@ msgstr[1] ""
 msgstr[2] ""
 
 #. %a is a person's name; %d stands for a number, no need to translate it
-msgid "%a added 1 new photo to the album %a."
-msgid_plural "%a added %d new photos to the album %a."
+msgid "%a1 added 1 new photo to the album %a2."
+msgid_plural "%a1 added %d new photos to the album %a2."
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #. Both %a's are names of people
 #, fuzzy
-msgid "%a and %a are now friends."
+msgid "%a1 and %a2 are now friends."
 msgstr "%a kabirri-djare"
 
 #. First and third %a are names; second is something like "5 other friends"
-msgid "%a and %a are now friends with %a."
+msgid "%a1 and %a2 are now friends with %a3."
 msgstr ""
 
 #. First %a is a name, second %a is a name or else something like "6 others"
 #. Third %a is the name of a page like "Rage Against the Machine"
 #, fuzzy
-msgid "%a and %a like %a."
+msgid "%a1 and %a2 like %a3."
 msgstr "%a kabirri-djare"
 
 #. First %a is a name, second %a is a name or else something like "6 others"
 #, fuzzy
-msgid "%a and %a like this."
+msgid "%a1 and %a2 like this."
 msgstr "%a kabirri-djare"
 
 #. First two as above, and final %a is something like (always?) "a link"
-msgid "%a and %a shared %a."
+msgid "%a1 and %a2 shared %a3."
 msgstr ""
 
 #. First two as above, third is a person, final %a is "photo", "status", etc.
 #, fuzzy
-msgid "%a and %a shared %a's %a."
+msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "%d ngarri-wokyikadjurrinj"
 
 #. Link at bottom of home page (under "More") to info about Facebook
@@ -115,19 +115,19 @@ msgid "%a changed his profile picture."
 msgstr ""
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-msgid "%a commented on a %a."
+msgid "%a1 commented on a %a2."
 msgstr ""
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-msgid "%a commented on her own %a."
+msgid "%a1 commented on her own %a2."
 msgstr ""
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-msgid "%a commented on his own %a."
+msgid "%a1 commented on his own %a2."
 msgstr ""
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-msgid "%a commented on your %a."
+msgid "%a1 commented on your %a2."
 msgstr ""
 
 msgid "Activity Log"
@@ -154,33 +154,33 @@ msgstr "djal bolkkime"
 
 #. First %a is a person, second is a place
 #, fuzzy
-msgid "%a is at %a."
+msgid "%a1 is at %a2."
 msgstr "%a ka-djare"
 
 #. First two %a's are names of people; third is either
 #. another person or else something like "8 other people"
-msgid "%a is now friends with %a and %a."
+msgid "%a1 is now friends with %a2 and %a3."
 msgstr ""
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 #, fuzzy
-msgid "%a likes %a."
+msgid "%a1 likes %a2."
 msgstr "%a ka-djare"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 #, fuzzy
-msgid "%a likes a %a."
+msgid "%a1 likes a %a2."
 msgstr "%a ka-djare"
 
 #. First two %a's are people: e.g. "Kevin likes Maddy's photo."
 #, fuzzy
-msgid "%a likes %a's %a."
+msgid "%a1 likes %a2's %a3."
 msgstr "%a ka-djare"
 
 #. First %a is a person, second is a page, and third is either
 #. the name of another page or something like "4 other pages"
 #, fuzzy
-msgid "%a likes %a and %a."
+msgid "%a1 likes %a2 and %a3."
 msgstr "%a ka-djare"
 
 #. %a stands for a person's name
@@ -209,12 +209,12 @@ msgstr "%A kore %s"
 
 #. First %a is a person, second one is something like (always?) "a link"
 #, fuzzy
-msgid "%a shared %a."
+msgid "%a1 shared %a2."
 msgstr "%d ngarri-wokyikadjurrinj"
 
 #. First two %a's are people: e.g. "Kevin shared Maddy's photo."
 #, fuzzy
-msgid "%a shared %a's %a."
+msgid "%a1 shared %a2's %a3."
 msgstr "%d ngarri-wokyikadjurrinj"
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
@@ -222,7 +222,7 @@ msgid "Ask Question"
 msgstr "Yiben-djawan"
 
 #. First two %a's are people, e.g. "Kevin was tagged in Maddy's photo."
-msgid "%a was tagged in %a's %a."
+msgid "%a1 was tagged in %a2's %a3."
 msgstr ""
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
@@ -778,7 +778,7 @@ msgstr "Ngudda yi-djare"
 
 #. First %a is a person, second %a stands for something like "4 others"
 #, fuzzy
-msgid "You, %a and %a like this."
+msgid "You, %a1 and %a2 like this."
 msgstr "Ngudda yi-djare"
 
 msgid "You like this."
