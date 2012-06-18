@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-18 12:45:45-0500\n"
+"POT-Creation-Date: 2012-06-18 12:59:01-0500\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -55,6 +55,11 @@ msgstr "postáil"
 msgctxt "commented on (a|his|your)"
 msgid "post"
 msgstr "phostáil"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "tagged in"
+msgid "post"
+msgstr "bpostáil"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status"
