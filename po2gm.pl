@@ -36,7 +36,7 @@ sub insert_all_backrefs {
 	(my $source, my $target) = @_;
 	$target = "\"$target\"";
 	my $var_number = 1;
-	while ($source =~ m/(%[A-Za-z])/g) {
+	while ($source =~ m/(%[A-Za-z][1-9]?)/g) {
 		$var_number++;
 		$target = insert_backref($target, $1, $var_number);
 	}
@@ -128,7 +128,7 @@ sub process_generic_translation {
 	$id = escape_regex($id);
 	my $orig = $id;
 	$id =~ s/%T/(<a [^>]+><abbr [^>]+>[^<]+<\/abbr><\/a>)/g;
-	$id =~ s/%a/(<a [^>]+>[^<]+<\/a>)/g;
+	$id =~ s/%a[1-9]?/(<a [^>]+>[^<]+<\/a>)/g;
 	$id =~ s/%d/($regex)/g;
 	$id =~ s/%s/([^<" ]+)/g;
 	$str =~ s/"/\\"/g;
@@ -156,7 +156,7 @@ foreach my $msg (@$aref) {
 	next if $msg->fuzzy();
 	my $englishid = $msg->dequote($msg->msgid());
 	my $id = get_source_string($englishid);
-	next unless defined($id);
+	next unless defined($id); # if we don't know translation in ambient lang
 	my $plural_id = $msg->msgid_plural();
 	my $str = $msg->msgstr();
 	my $ctxt = $msg->msgctxt();
@@ -189,7 +189,7 @@ foreach my $msg (@$aref) {
 				$regex = '(^|="|>)'.$regex.'(?=($|"|<))';
 				my $repl = $formats{$fmt};        # e.g. "%d %B"
 				$repl =~ s/%[AB]/$str/;       # Now "%d Feabhra"
-				if ($targetlang =~ m/^(an|ast)$/) {
+				if ($targetlang =~ m/^(an|ast)$/) {  # HACK!
 					$repl =~ s/de ([aeiou])/d'$1/;
 				}
 				$repl = insert_all_backrefs($orig, $repl);
@@ -224,14 +224,16 @@ foreach my $msg (@$aref) {
 		$str = $msg->dequote($str);
 		for my $ctxt_regex (keys %contexts) {
 			if ($englishid =~ m/$ctxt_regex/) {
+				my $num_links = 0;
+				$num_links++ while ($englishid =~ m/%a[1-9]/g);
 				for my $pair (@{$contexts{$ctxt_regex}}) {
 					(my $src, my $trg) = $pair =~ m/^([^|]+)\|(.+)$/;
 					my $tempid = escape_regex($id);
 					my $orig = $tempid;
 					my $tempstr = $str;
-					# final %a is always the one to substitute for
-					$tempid =~ s/%a([^%]*)$/(<a [^>]+>)$src<\/a>$1/;
-					$tempid =~ s/%a/(<a [^>]+>[^<]+<\/a>)/g;
+					# not necessarily the final %a if non-English ambient lang
+					$tempid =~ s/%a$num_links/(<a [^>]+>)$src<\/a>/;
+					$tempid =~ s/%a[1-9]?/(<a [^>]+>[^<]+<\/a>)/g;
 					$tempstr =~ s/"/\\"/g;
 					$tempstr = insert_all_backrefs($orig, $tempstr);
 					$tempstr =~ s/("\$[0-9]")([^\$]*)$/$1+"$trg<\/a>"$2/;
