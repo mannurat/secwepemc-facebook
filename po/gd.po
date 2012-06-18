@@ -377,13 +377,12 @@ msgstr[3] "%d duine eile"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
-#, fuzzy
 msgid "1 other person"
 msgid_plural "%d other people"
-msgstr[0] "%d duine"
-msgstr[1] "%d dhuine"
-msgstr[2] "%d daoine"
-msgstr[3] "%d duine"
+msgstr[0] "%d duine eile"
+msgstr[1] "%d dhuine eile"
+msgstr[2] "%d daoine eile"
+msgstr[3] "%d duine eile"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
