@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-18 16:07:13-0500\n"
+"POT-Creation-Date: 2012-06-18 16:20:11-0500\n"
 "PO-Revision-Date: 2012-06-16 22:19-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -38,7 +38,12 @@ msgid "link"
 msgstr "ceangal"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "commented on (a|his|your)"
+msgctxt "(likes|shared|tagged in) %a.'s"
+msgid "link"
+msgstr "an ceangal"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on (her|his|your)"
 msgid "link"
 msgstr "a' cheangal"
 
@@ -47,17 +52,42 @@ msgid "photo"
 msgstr "dealbh"
 
 #. Always a link. Used in longer sentences as above.
+msgctxt "(likes|shared|tagged in) %a.'s"
+msgid "photo"
+msgstr "an dealbh"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on (her|his|your)"
+msgid "photo"
+msgstr "an dealbh"
+
+#. Always a link. Used in longer sentences as above.
 msgid "post"
 msgstr "post"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "commented on (a|his|your)"
+msgctxt "(likes|shared|tagged in) %a.'s"
+msgid "post"
+msgstr "am post"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on (her|his|your)"
 msgid "post"
 msgstr "a' phost"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status"
 msgstr "naidheachd"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "(likes|shared|tagged in) %a.'s"
+msgid "status"
+msgstr "an naidheachd"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on (her|his|your)"
+msgid "status"
+msgstr "an naidheachd"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -108,7 +138,7 @@ msgstr "Cho-roinn %a1 is %a2 %a3."
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 #, fuzzy
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr "Cho-roinn %a1 is %a2 %a3."
+msgstr "Cho-roinn %a1 is %a2 %a4 aig %a3."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -138,17 +168,17 @@ msgstr "Thug %a1 seachad beachd air %a2."
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 #, fuzzy
 msgid "%a1 commented on her own %a2."
-msgstr "Thug %a1 seachad beachd air %a2."
+msgstr "Thug %a1 seachad beachd air %a2 aice."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 #, fuzzy
 msgid "%a1 commented on his own %a2."
-msgstr "Thug %a1 seachad beachd air %a2."
+msgstr "Thug %a1 seachad beachd air %a2 aige."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 #, fuzzy
 msgid "%a1 commented on your %a2."
-msgstr "Thug %a1 seachad beachd air %a2."
+msgstr "Thug %a1 seachad beachd air %a2 agad."
 
 msgid "Activity Log"
 msgstr "Loga na gnìomhachd"
@@ -193,7 +223,7 @@ msgstr "'S toil le %a1 %a2."
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
 #, fuzzy
 msgid "%a1 likes %a2's %a3."
-msgstr "'S toil le %a1 %a2."
+msgstr "'S toil le %a1 %a3 aig %a2."
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
@@ -232,7 +262,7 @@ msgstr "Cho-roinn %a1 %a2."
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 #, fuzzy
 msgid "%a1 shared %a2's %a3."
-msgstr "Cho-roinn %a1 %a2."
+msgstr "Cho-roinn %a1 %a3 aig %a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
