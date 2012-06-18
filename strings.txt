@@ -12,48 +12,50 @@
 #. John Doe likes a X.
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
-#. Always a link. Used in longer sentences, like "%a commented on a link."
+#. Always a link. Used in longer sentences as above.
 link
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
+#. Always a link. Used in longer sentences as above.
 photo
-#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+#. Always a link. Used in longer sentences as above.
 post
-#. Always a link. Used in longer sentences, like "%a commented on a status."
+#. Always a link. Used in longer sentences as above.
 status
-#. First two %a's are names, third is something like "5 others"
-%a, %a and %a like this.
+#. %a1 and %a2 are names, while %a3 is something like "5 others"
+%a1, %a2 and %a3 like this.
 #. %a is a person's name; %d stands for a number, no need to translate it
 %a added a new photo.;%a added %d new photos.
-#. %a is a person's name; %d stands for a number, no need to translate it
-%a added 1 new photo to the album %a.;%a added %d new photos to the album %a.
-#. Both %a's are names of people
-%a and %a are now friends.
-#. First and third %a are names; second is something like "5 other friends"
-%a and %a are now friends with %a.
-#. First %a is a name, second %a is a name or else something like "6 others"
-#. Third %a is the name of a page like "Rage Against the Machine"
-%a and %a like %a.
-#. First %a is a name, second %a is a name or else something like "6 others"
-%a and %a like this.
-#. First two as above, and final %a is something like (always?) "a link"
-%a and %a shared %a.
-#. First two as above, third is a person, final %a is "photo", "status", etc.
-%a and %a shared %a's %a.
+#. %a1 is a person's name; %d stands for a number, no need to translate it
+%a1 added 1 new photo to the album %a2.;%a1 added %d new photos to the album %a2.
+#. Both %a1 and %a2 are names of people
+%a1 and %a2 are now friends.
+#. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
+%a1 and %a2 are now friends with %a3.
+#. %a1 is a name, %a2 is a name or else something like "6 others"
+#. %a3 is the name of a page like "Rage Against the Machine"
+%a1 and %a2 like %a3.
+#. %a1 is a name, %a2 is a name or else something like "6 others"
+%a1 and %a2 like this.
+#. %a1 and %a2 as above, and %a3 is something like (always?) "a link"
+%a1 and %a2 shared %a3.
+#. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
+%a1 and %a2 shared %a3's %a4.
 #. Link at bottom of home page (under "More") to info about Facebook
 About
 about an hour ago
 about a minute ago
 Account Settings
+#. %a is someone's name (female)
 %a changed her profile picture.
+#. %a is someone's name (male)
 %a changed his profile picture.
-#. First %a is a person's name, second one is "post", "status", "photo", ...
-%a commented on a %a.
-#. First %a is a person's name, second one is "post", "status", "photo", ...
-%a commented on her own %a.
-#. First %a is a person's name, second one is "post", "status", "photo", ...
-%a commented on his own %a.
-#. First %a is a person's name, second one is "post", "status", "photo", ...
-%a commented on your %a.
+#. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
+%a1 commented on a %a2.
+#. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
+%a1 commented on her own %a2.
+#. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
+%a1 commented on his own %a2.
+#. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
+%a1 commented on your %a2.
 Activity Log
 Add Friend
 #. Under INTERESTS in left-hand navigation on home page
@@ -64,20 +66,20 @@ Add Photo / Video
 Advertising
 #. Time stamp on a post. You might also translate as "Just now"
 a few seconds ago
-#. First %a is a person, second is a place
-%a is at %a.
-#. First two %a's are names of people; third is either
-#. another person or else something like "8 other people"
-%a is now friends with %a and %a.
+#. %a1 is a person's name, %a2 is a place
+%a1 is at %a2.
+#. %a1 and %a2 are names of people; %a3 is either another person or
+#. else something like "8 other people"
+%a1 is now friends with %a2 and %a3.
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
-%a likes %a.
-#. First %a is a person's name, second one is "post", "status", "photo", ...
-%a likes a %a.
-#. First two %a's are people: e.g. "Kevin likes Maddy's photo."
-%a likes %a's %a.
-#. First %a is a person, second is a page, and third is either
-#. the name of another page or something like "4 other pages"
-%a likes %a and %a.
+%a1 likes %a2.
+#. %a1 is a person's name, %a2 is "link", "photo", "post", or "status"
+%a1 likes a %a2.
+#. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
+%a1 likes %a2's %a3.
+#. %a1 is a person, %a2 is the name of a page, and %a3 is either the
+#. name of another page or something like "4 other pages"
+%a1 likes %a2 and %a3.
 #. %a stands for a person's name
 %a likes this.
 #. %a stands for something like "3 people"
@@ -90,14 +92,14 @@ APPS
 Apps and Games
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 %A at %s
-#. First %a is a person, second one is something like (always?) "a link"
-%a shared %a.
-#. First two %a's are people: e.g. "Kevin shared Maddy's photo."
+#. %a1 is a person's name, %a2 is something like (always?) "a link"
+%a1 shared %a2.
+#. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 %a shared %a's %a.
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 Ask Question
-#. First two %a's are people, e.g. "Kevin was tagged in Maddy's photo."
-%a was tagged in %a's %a.
+#. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
+%a1 was tagged in %a2's %a3.
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 %B %d
 #. Format. %B and %d as above, %s = string representing the time ("3:15am")
@@ -352,8 +354,8 @@ Yesterday
 Yesterday at %s
 #. %a stands for something like "4 others"
 You and %a like this.
-#. First %a is a person, second %a stands for something like "4 others"
-You, %a and %a like this.
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+You, %a1 and %a2 like this.
 You like this.
 #. Month Name
 January
