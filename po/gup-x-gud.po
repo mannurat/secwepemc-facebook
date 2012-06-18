@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-15 14:36:28-0500\n"
+"POT-Creation-Date: 2012-06-18 11:02:36-0500\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Murray Garde\n"
 "Language-Team: Gundjeihmi\n"
@@ -16,6 +16,19 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
+#. The first four words to translate are used in a number of different messages,
+#. always as the final word of the message in English; for example:
+#. John Doe likes Jane Doe's X.
+#. John Doe shared Jane Doe's X.
+#. John Doe and Jane Doe shared Kevin Scannell's X.
+#. John Doe was tagged in Jane Doe's X.
+#. John Doe commented on a X.
+#. John Doe commented on her own X.
+#. John Doe commented on his own X.
+#. John Doe commented on your X.
+#. John Doe likes a X.
+#. If the translations of link, photo, etc. take different forms depending
+#. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences, like "%a commented on a link."
 #, fuzzy
 msgid "link"
@@ -320,7 +333,11 @@ msgstr[2] "%d AN-GERRNGE GUN-WOK"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. The singular "1 other" is never used as far as I can tell
-#. Always a link. Used in sentences like "John Doe and 7 others like this."
+#. Always a link. Used in sentences like the following:
+#. "John Doe and 7 others like this."
+#. "John Doe, Jane Doe, and 7 others like this."
+#. "You and 7 others like this."
+#. "You, John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
 msgstr[0] ""
