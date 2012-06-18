@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-18 11:02:36-0500\n"
+"POT-Creation-Date: 2012-06-18 12:45:45-0500\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -29,38 +29,38 @@ msgstr ""
 #. John Doe likes a X.
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
-#. Always a link. Used in longer sentences, like "%a commented on a link."
+#. Always a link. Used in longer sentences as above.
 msgid "link"
 msgstr "nasc"
 
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
+#. Always a link. Used in longer sentences as above.
 msgid "photo"
 msgstr "grianghraf"
 
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
+#. Always a link. Used in longer sentences as above.
 msgctxt "commented on (a|his|your)"
 msgid "photo"
 msgstr "ghrianghraf"
 
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
+#. Always a link. Used in longer sentences as above.
 msgctxt "tagged in"
 msgid "photo"
 msgstr "ngrianghraf"
 
-#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+#. Always a link. Used in longer sentences as above.
 msgid "post"
 msgstr "postáil"
 
-#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+#. Always a link. Used in longer sentences as above.
 msgctxt "commented on (a|his|your)"
 msgid "post"
 msgstr "phostáil"
 
-#. Always a link. Used in longer sentences, like "%a commented on a status."
+#. Always a link. Used in longer sentences as above.
 msgid "status"
 msgstr "stádas"
 
-#. First two %a's are names, third is something like "5 others"
+#. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
 msgstr "Is maith le %a1, %a2 agus %a3 é seo."
 
@@ -73,7 +73,7 @@ msgstr[2] "Chuir %a %d ghrianghraf nua leis."
 msgstr[3] "Chuir %a %d ngrianghraf nua leis."
 msgstr[4] "Chuir %a %d grianghraf nua leis."
 
-#. %a is a person's name; %d stands for a number, no need to translate it
+#. %a1 is a person's name; %d stands for a number, no need to translate it
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
 msgstr[0] "Chuir %a1 grianghraf nua le halbam %a2."
@@ -82,28 +82,28 @@ msgstr[2] "Chuir %a1 %d ghrianghraf nua le halbam %a2."
 msgstr[3] "Chuir %a1 %d ngrianghraf nua le halbam %a2."
 msgstr[4] "Chuir %a1 %d grianghraf nua le halbam %a2."
 
-#. Both %a's are names of people
+#. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
 msgstr "Is cairde iad %a1 agus %a2 anois."
 
-#. First and third %a are names; second is something like "5 other friends"
+#. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
 msgid "%a1 and %a2 are now friends with %a3."
 msgstr "Tá %a1 agus %a2 ina gcairde le %a3 anois."
 
-#. First %a is a name, second %a is a name or else something like "6 others"
-#. Third %a is the name of a page like "Rage Against the Machine"
+#. %a1 is a name, %a2 is a name or else something like "6 others"
+#. %a3 is the name of a page like "Rage Against the Machine"
 msgid "%a1 and %a2 like %a3."
 msgstr "Is maith le %a1 agus %a2 %a3."
 
-#. First %a is a name, second %a is a name or else something like "6 others"
+#. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
 msgstr "Is maith le %a1 agus %a2 é seo."
 
-#. First two as above, and final %a is something like (always?) "a link"
+#. %a1 and %a2 as above, and %a3 is something like (always?) "a link"
 msgid "%a1 and %a2 shared %a3."
 msgstr "Chomhroinn %a1 agus %a2 %a3."
 
-#. First two as above, third is a person, final %a is "photo", "status", etc.
+#. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "Chomhroinn %a1 agus %a2 rud éigin a chuir %a3 suas (%a4)."
 
@@ -120,25 +120,27 @@ msgstr "timpeall is nóiméad ó shin"
 msgid "Account Settings"
 msgstr "Socruithe Cuntais"
 
+#. %a is someone's name (female)
 msgid "%a changed her profile picture."
 msgstr "D'athraigh %a a grianghraf próifíle."
 
+#. %a is someone's name (male)
 msgid "%a changed his profile picture."
 msgstr "D'athraigh %a a ghrianghraf próifíle."
 
-#. First %a is a person's name, second one is "post", "status", "photo", ...
+#. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on a %a2."
 msgstr "Rinne %a1 trácht ar %a2."
 
-#. First %a is a person's name, second one is "post", "status", "photo", ...
+#. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on her own %a2."
 msgstr "Rinne %a1 trácht ar %a2 dá cuid féin."
 
-#. First %a is a person's name, second one is "post", "status", "photo", ...
+#. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on his own %a2."
 msgstr "Rinne %a1 trácht ar %a2 dá chuid féin."
 
-#. First %a is a person's name, second one is "post", "status", "photo", ...
+#. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on your %a2."
 msgstr "Rinne %a1 trácht ar %a2 de do chuid."
 
@@ -164,12 +166,12 @@ msgstr "Fógraíocht"
 msgid "a few seconds ago"
 msgstr "cúpla soicind ó shin"
 
-#. First %a is a person, second is a place
+#. %a1 is a person's name, %a2 is a place
 msgid "%a1 is at %a2."
 msgstr "Tá %a1 ag %a2."
 
-#. First two %a's are names of people; third is either
-#. another person or else something like "8 other people"
+#. %a1 and %a2 are names of people; %a3 is either another person or
+#. else something like "8 other people"
 msgid "%a1 is now friends with %a2 and %a3."
 msgstr "Tá %a1 ina c(h)ara le %a2 agus %a3 anois."
 
@@ -177,16 +179,16 @@ msgstr "Tá %a1 ina c(h)ara le %a2 agus %a3 anois."
 msgid "%a1 likes %a2."
 msgstr "Is maith le %a1 %a2."
 
-#. First %a is a person's name, second one is "post", "status", "photo", ...
+#. %a1 is a person's name, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 likes a %a2."
 msgstr "Is maith le %a1 %a2."
 
-#. First two %a's are people: e.g. "Kevin likes Maddy's photo."
+#. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
 msgid "%a1 likes %a2's %a3."
 msgstr "Is maith le %a1 rud éigin a chuir %a2 suas (%a3)."
 
-#. First %a is a person, second is a page, and third is either
-#. the name of another page or something like "4 other pages"
+#. %a1 is a person, %a2 is the name of a page, and %a3 is either the
+#. name of another page or something like "4 other pages"
 msgid "%a1 likes %a2 and %a3."
 msgstr "Is maith le %a1 %a2 agus %a3."
 
@@ -214,11 +216,11 @@ msgstr "Feidhmchláir agus Cluichí"
 msgid "%A at %s"
 msgstr "%A ag %s"
 
-#. First %a is a person, second one is something like (always?) "a link"
+#. %a1 is a person's name, %a2 is something like (always?) "a link"
 msgid "%a1 shared %a2."
 msgstr "Chomhroinn %a1 %a2."
 
-#. First two %a's are people: e.g. "Kevin shared Maddy's photo."
+#. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 shared %a2's %a3."
 msgstr "Chomhroinn %a1 rud éigin a chuir %a2 suas (%a3)."
 
@@ -226,7 +228,7 @@ msgstr "Chomhroinn %a1 rud éigin a chuir %a2 suas (%a3)."
 msgid "Ask Question"
 msgstr "Cuir Ceist"
 
-#. First two %a's are people, e.g. "Kevin was tagged in Maddy's photo."
+#. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
 msgstr "Cuireadh clib ar %a1 i ngrianghraf de chuid %a2 (%a3)."
 
@@ -792,7 +794,7 @@ msgstr "Inné ag %s"
 msgid "You and %a like this."
 msgstr "Is maith leatsa agus le %a é seo."
 
-#. First %a is a person, second %a stands for something like "4 others"
+#. %a1 is a person's name, %a2 stands for something like "4 others"
 msgid "You, %a1 and %a2 like this."
 msgstr "Is maith leat, le %a1 agus le %a2 é seo."
 

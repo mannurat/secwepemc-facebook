@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-18 11:02:36-0500\n"
+"POT-Creation-Date: 2012-06-18 12:45:45-0500\n"
 "PO-Revision-Date: 2012-03-16 07:45-05:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Italian\n"
@@ -28,23 +28,23 @@ msgstr ""
 #. John Doe likes a X.
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
-#. Always a link. Used in longer sentences, like "%a commented on a link."
+#. Always a link. Used in longer sentences as above.
 msgid "link"
 msgstr "link"
 
-#. Always a link. Used in longer sentences, like "%a commented on a photo."
+#. Always a link. Used in longer sentences as above.
 msgid "photo"
 msgstr "foto"
 
-#. Always a link. Used in longer sentences, as a noun: "%a commented on a post."
+#. Always a link. Used in longer sentences as above.
 msgid "post"
 msgstr ""
 
-#. Always a link. Used in longer sentences, like "%a commented on a status."
+#. Always a link. Used in longer sentences as above.
 msgid "status"
 msgstr "stato"
 
-#. First two %a's are names, third is something like "5 others"
+#. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
 msgstr "A %a1, %a2 e %a3 piace questo elemento."
 
@@ -55,38 +55,38 @@ msgid_plural "%a added %d new photos."
 msgstr[0] "%a ha aggiunto una nuova foto."
 msgstr[1] "%a ha aggiunto una nuova foto."
 
-#. %a is a person's name; %d stands for a number, no need to translate it
+#. %a1 is a person's name; %d stands for a number, no need to translate it
 #, fuzzy
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
 msgstr[0] "%a ha aggiunto una nuova foto."
 msgstr[1] "%a ha aggiunto una nuova foto."
 
-#. Both %a's are names of people
+#. Both %a1 and %a2 are names of people
 #, fuzzy
 msgid "%a1 and %a2 are now friends."
 msgstr "A %a1 e %a2 piace questo elemento."
 
-#. First and third %a are names; second is something like "5 other friends"
+#. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
 #, fuzzy
 msgid "%a1 and %a2 are now friends with %a3."
 msgstr "%a1 e %a2 hanno condiviso %a3."
 
-#. First %a is a name, second %a is a name or else something like "6 others"
-#. Third %a is the name of a page like "Rage Against the Machine"
+#. %a1 is a name, %a2 is a name or else something like "6 others"
+#. %a3 is the name of a page like "Rage Against the Machine"
 #, fuzzy
 msgid "%a1 and %a2 like %a3."
 msgstr "A %a1 e %a2 piace questo elemento."
 
-#. First %a is a name, second %a is a name or else something like "6 others"
+#. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
 msgstr "A %a1 e %a2 piace questo elemento."
 
-#. First two as above, and final %a is something like (always?) "a link"
+#. %a1 and %a2 as above, and %a3 is something like (always?) "a link"
 msgid "%a1 and %a2 shared %a3."
 msgstr "%a1 e %a2 hanno condiviso %a3."
 
-#. First two as above, third is a person, final %a is "photo", "status", etc.
+#. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 #, fuzzy
 msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "%a1 e %a2 hanno condiviso %a3."
@@ -104,31 +104,33 @@ msgstr "circa un minuto fa"
 msgid "Account Settings"
 msgstr "Impostazioni account"
 
+#. %a is someone's name (female)
 msgid "%a changed her profile picture."
 msgstr ""
 
+#. %a is someone's name (male)
 msgid "%a changed his profile picture."
 msgstr ""
 
 # una foto, un link, uno stato
-#. First %a is a person's name, second one is "post", "status", "photo", ...
+#. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on a %a2."
 msgstr "%a1 ha commentato un[ao]? %a2."
 
 # una foto, un link, uno stato
-#. First %a is a person's name, second one is "post", "status", "photo", ...
+#. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 #, fuzzy
 msgid "%a1 commented on her own %a2."
 msgstr "%a1 ha commentato un[ao]? %a2."
 
 # una foto, un link, uno stato
-#. First %a is a person's name, second one is "post", "status", "photo", ...
+#. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 #, fuzzy
 msgid "%a1 commented on his own %a2."
 msgstr "%a1 ha commentato un[ao]? %a2."
 
 # una foto, un link, uno stato
-#. First %a is a person's name, second one is "post", "status", "photo", ...
+#. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 #, fuzzy
 msgid "%a1 commented on your %a2."
 msgstr "%a1 ha commentato un[ao]? %a2."
@@ -156,13 +158,13 @@ msgid "a few seconds ago"
 msgstr "pochi secondi fa"
 
 # una foto, un link, uno stato
-#. First %a is a person, second is a place
+#. %a1 is a person's name, %a2 is a place
 #, fuzzy
 msgid "%a1 is at %a2."
 msgstr "A %a1 piace un[ao]? %a2."
 
-#. First two %a's are names of people; third is either
-#. another person or else something like "8 other people"
+#. %a1 and %a2 are names of people; %a3 is either another person or
+#. else something like "8 other people"
 msgid "%a1 is now friends with %a2 and %a3."
 msgstr ""
 
@@ -171,19 +173,19 @@ msgid "%a1 likes %a2."
 msgstr "A %a1 piace %a2."
 
 # una foto, un link, uno stato
-#. First %a is a person's name, second one is "post", "status", "photo", ...
+#. %a1 is a person's name, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 likes a %a2."
 msgstr "A %a1 piace un[ao]? %a2."
 
 # una foto, un link, uno stato
-#. First two %a's are people: e.g. "Kevin likes Maddy's photo."
+#. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
 #, fuzzy
 msgid "%a1 likes %a2's %a3."
 msgstr "A %a1 piace un[ao]? %a2."
 
 # una foto, un link, uno stato
-#. First %a is a person, second is a page, and third is either
-#. the name of another page or something like "4 other pages"
+#. %a1 is a person, %a2 is the name of a page, and %a3 is either the
+#. name of another page or something like "4 other pages"
 #, fuzzy
 msgid "%a1 likes %a2 and %a3."
 msgstr "A %a1 piace un[ao]? %a2."
@@ -212,11 +214,11 @@ msgstr "Applicazioni e giochi"
 msgid "%A at %s"
 msgstr "%A alle %s"
 
-#. First %a is a person, second one is something like (always?) "a link"
+#. %a1 is a person's name, %a2 is something like (always?) "a link"
 msgid "%a1 shared %a2."
 msgstr "%a1 ha condiviso %a2."
 
-#. First two %a's are people: e.g. "Kevin shared Maddy's photo."
+#. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 #, fuzzy
 msgid "%a1 shared %a2's %a3."
 msgstr "%a1 ha condiviso %a2."
@@ -226,7 +228,7 @@ msgid "Ask Question"
 msgstr "Fai la domanda"
 
 # una foto, un link, uno stato
-#. First two %a's are people, e.g. "Kevin was tagged in Maddy's photo."
+#. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 #, fuzzy
 msgid "%a1 was tagged in %a2's %a3."
 msgstr "%a1 ha commentato un[ao]? %a2."
@@ -764,7 +766,7 @@ msgstr "Ieri alle %s"
 msgid "You and %a like this."
 msgstr "A te e %a piace questo elemento."
 
-#. First %a is a person, second %a stands for something like "4 others"
+#. %a1 is a person's name, %a2 stands for something like "4 others"
 #, fuzzy
 msgid "You, %a1 and %a2 like this."
 msgstr "A te e %a piace questo elemento."
