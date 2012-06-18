@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-18 11:02:36-0500\n"
-"PO-Revision-Date: 2012-03-14 12:34-0000\n"
+"POT-Creation-Date: 2012-06-18 11:11:40-0500\n"
+"PO-Revision-Date: 2012-06-16 22:19-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
 "Language: gd\n"
@@ -307,41 +307,37 @@ msgstr "Luchd-leasachaidh"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 hour ago" is never used as far as I can tell
-#, fuzzy
 msgid "1 hour ago"
 msgid_plural "%d hours ago"
-msgstr[0] "%d uair(ean) a thìde air ais"
-msgstr[1] "%d uair(ean) a thìde air ais"
-msgstr[2] "%d uair(ean) a thìde air ais"
-msgstr[3] "%d uair(ean) a thìde air ais"
+msgstr[0] "%d uair a thìde air ais"
+msgstr[1] "%d uair a thìde air ais"
+msgstr[2] "%d uairean a thìde air ais"
+msgstr[3] "%d uair a thìde air ais"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 minute ago" is never used as far as I can tell
-#, fuzzy
 msgid "1 minute ago"
 msgid_plural "%d minutes ago"
-msgstr[0] "%d mionaid(ean) air ais"
-msgstr[1] "%d mionaid(ean) air ais"
-msgstr[2] "%d mionaid(ean) air ais"
-msgstr[3] "%d mionaid(ean) air ais"
+msgstr[0] "%d mhionaid air ais"
+msgstr[1] "%d mhionaid air ais"
+msgstr[2] "%d mionaidean air ais"
+msgstr[3] "%d mionaid air ais"
 
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "1 mutual friend"
 msgid_plural "%d mutual friends"
-msgstr[0] "1 charaid an cumantas"
-msgstr[1] "1 charaid an cumantas"
-msgstr[2] "1 charaid an cumantas"
-msgstr[3] "1 charaid an cumantas"
+msgstr[0] "%d charaid an cumantas"
+msgstr[1] "%d charaid an cumantas"
+msgstr[2] "%d caraidean an cumantas"
+msgstr[3] "%d caraid an cumantas"
 
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "1 NEW STORY"
 msgid_plural "%d NEW STORIES"
-msgstr[0] "1 sgeulachd ùr"
-msgstr[1] "1 sgeulachd ùr"
-msgstr[2] "1 sgeulachd ùr"
-msgstr[3] "1 sgeulachd ùr"
+msgstr[0] "%d sgeulachd ùr"
+msgstr[1] "%d sgeulachd ùr"
+msgstr[2] "%d sgeulachdan ùra"
+msgstr[3] "%d sgeulachd ùr"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. The singular "1 other" is never used as far as I can tell
@@ -350,72 +346,69 @@ msgstr[3] "1 sgeulachd ùr"
 #. "John Doe, Jane Doe, and 7 others like this."
 #. "You and 7 others like this."
 #. "You, John Doe and 7 others like this."
-#, fuzzy
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] "%d eile"
-msgstr[1] "%d eile"
-msgstr[2] "%d eile"
-msgstr[3] "%d eile"
+msgstr[0] "%d duine eile"
+msgstr[1] "%d dhuine eile"
+msgstr[2] "%d daoine eile"
+msgstr[3] "%d duine eile"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
 #, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
-msgstr[0] "1 charaid an cumantas"
-msgstr[1] "1 charaid an cumantas"
-msgstr[2] "1 charaid an cumantas"
-msgstr[3] "1 charaid an cumantas"
+msgstr[0] "%d charaid an cumantas"
+msgstr[1] "%d charaid an cumantas"
+msgstr[2] "%d caraidean an cumantas"
+msgstr[3] "%d caraid an cumantas"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
 #, fuzzy
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] "%d eile"
-msgstr[1] "%d eile"
-msgstr[2] "%d eile"
-msgstr[3] "%d eile"
+msgstr[0] "%d duine eile"
+msgstr[1] "%d dhuine eile"
+msgstr[2] "%d daoine eile"
+msgstr[3] "%d duine eile"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
 #, fuzzy
 msgid "1 other person"
 msgid_plural "%d other people"
-msgstr[0] "%d eile"
-msgstr[1] "%d eile"
-msgstr[2] "%d eile"
-msgstr[3] "%d eile"
+msgstr[0] "%d duine"
+msgstr[1] "%d dhuine"
+msgstr[2] "%d daoine"
+msgstr[3] "%d duine"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d duine"
+msgstr[1] "%d dhuine"
+msgstr[2] "%d daoine"
+msgstr[3] "%d duine"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 second ago" is never used as far as I can tell
-#, fuzzy
 msgid "1 second ago"
 msgid_plural "%d seconds ago"
-msgstr[0] "%d diog(an) air ais"
-msgstr[1] "%d diog(an) air ais"
-msgstr[2] "%d diog(an) air ais"
-msgstr[3] "%d diog(an) air ais"
+msgstr[0] "%d diog air ais"
+msgstr[1] "%d dhiog air ais"
+msgstr[2] "%d diogan air ais"
+msgstr[3] "%d diog air ais"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
-#, fuzzy
 msgid "1 share"
 msgid_plural "%d shares"
-msgstr[0] "Air a cho-roinneadh 1 turas"
-msgstr[1] "Air a cho-roinneadh 1 turas"
-msgstr[2] "Air a cho-roinneadh 1 turas"
-msgstr[3] "Air a cho-roinneadh 1 turas"
+msgstr[0] "Air a cho-roinneadh %d turas"
+msgstr[1] "Air a cho-roinneadh %d thuras"
+msgstr[2] "Air a cho-roinneadh %d turais"
+msgstr[3] "Air a cho-roinneadh %d turas"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -669,7 +662,7 @@ msgstr "Seall gach brath"
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
 msgid "See Friendship"
-msgstr "An dàimh eadaraibh"
+msgstr "Faic an càirdeas"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -710,7 +703,7 @@ msgstr "Fo-sgrìobhaidhean"
 
 #. Right-hand navigation, similar to "People you may know", next to "See All"
 msgid "Suggested Groups"
-msgstr ""
+msgstr "Buidhnean a mholamaid"
 
 msgid "Tag Friends"
 msgstr "Cuir taga ri caraidean"
@@ -758,13 +751,12 @@ msgstr "Cleachd Facebook mar:"
 
 #. %d stands for a number, no need to translate it
 #. The singular "View 1 comment" is never used as far as I can tell
-#, fuzzy
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
-msgstr[0] "Seall a h-uile %d beachd(an)"
-msgstr[1] "Seall a h-uile %d beachd(an)"
-msgstr[2] "Seall a h-uile %d beachd(an)"
-msgstr[3] "Seall a h-uile %d beachd(an)"
+msgstr[0] "Seall %d bheachd"
+msgstr[1] "Seall an %d bheachd"
+msgstr[2] "Seall a h-uile %d beachdan"
+msgstr[3] "Seall a h-uile %d beachd"
 
 msgid "Wall Photos"
 msgstr "Balla nan dealbhan"
