@@ -1,7 +1,7 @@
 ga	photo	tagged in
 ga	photo	commented on (a|his|your)
 ga	post	commented on (a|his|your)
-mlv	link	shared %a's
-mlv	photo	shared %a's
-mlv	post	shared %a's
-mlv	status	shared %a's
+mlv	link	shared %a.'s
+mlv	photo	shared %a.'s
+mlv	post	shared %a.'s
+mlv	status	shared %a.'s
