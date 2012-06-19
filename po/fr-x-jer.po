@@ -12,7 +12,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : ((n%10==0 && n%100>20) || (n%10==1 && n > 1) || n%10==4 || n%10==7 || (n%100 > 10 && n%100 < 20)) ? 2 : 3\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
 #. The first four words to translate are used in a number of different messages,
@@ -54,6 +54,7 @@ msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
 msgstr[0] "%a cliutit un nouvieau portrait"
 msgstr[1] "%a cliutit un nouvieau portrait"
+msgstr[2] "%a cliutit un nouvieau portrait"
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
 #, fuzzy
@@ -61,6 +62,7 @@ msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
 msgstr[0] "%a cliutit un nouvieau portrait"
 msgstr[1] "%a cliutit un nouvieau portrait"
+msgstr[2] "%a cliutit un nouvieau portrait"
 
 #. Both %a1 and %a2 are names of people
 #, fuzzy
@@ -304,6 +306,7 @@ msgid "1 hour ago"
 msgid_plural "%d hours ago"
 msgstr[0] "Y'a dans eune heuthe"
 msgstr[1] "Y'a %d heuthes"
+msgstr[2] "Y'a %d heuthes"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 minute ago" is never used as far as I can tell
@@ -311,18 +314,21 @@ msgid "1 minute ago"
 msgid_plural "%d minutes ago"
 msgstr[0] "Y'a dans eune minnute"
 msgstr[1] "Y'a %d minnutes"
+msgstr[2] "Y'a %d minnutes"
 
 #. %d stands for a number, no need to translate it
 msgid "1 mutual friend"
 msgid_plural "%d mutual friends"
 msgstr[0] "1 couôsîn en c'meun"
 msgstr[1] "%d couôsîns en c'meun"
+msgstr[2] "%d couôsîns en c'meun"
 
 #. %d stands for a number, no need to translate it
 msgid "1 NEW STORY"
 msgid_plural "%d NEW STORIES"
-msgstr[0] "1 nouvelle articl'ye"
+msgstr[0] "1 NOUVELLE ARTICL'YE"
 msgstr[1] "%d NOUVELLES ARTICL'YES"
+msgstr[2] "%d NOUVELLES ARTICL'YES"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. The singular "1 other" is never used as far as I can tell
@@ -335,6 +341,7 @@ msgid "1 other"
 msgid_plural "%d others"
 msgstr[0] "acouo 1"
 msgstr[1] "acouo %d"
+msgstr[2] "acouo %d"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
@@ -343,6 +350,7 @@ msgid "1 other friend"
 msgid_plural "%d other friends"
 msgstr[0] "1 couôsîn en c'meun"
 msgstr[1] "%d couôsîns en c'meun"
+msgstr[2] "%d couôsîns en c'meun"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
@@ -351,14 +359,15 @@ msgid "1 other page"
 msgid_plural "%d other pages"
 msgstr[0] "acouo 1"
 msgstr[1] "acouo %d"
+msgstr[2] "acouo %d"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
-#, fuzzy
 msgid "1 other person"
 msgid_plural "%d other people"
 msgstr[0] "acouo 1"
 msgstr[1] "acouo %d"
+msgstr[2] "acouo %d"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
@@ -366,20 +375,23 @@ msgid "1 person"
 msgid_plural "%d people"
 msgstr[0] ""
 msgstr[1] "%d pèrsonnes"
+msgstr[2] "%d pèrsonnes"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 second ago" is never used as far as I can tell
 msgid "1 second ago"
 msgid_plural "%d seconds ago"
-msgstr[0] ""
-msgstr[1] "Y'a %d s'gondes"
+msgstr[0] "Y'a 1 ségonde"
+msgstr[1] "Y'a %d ségondes"
+msgstr[2] "Y'a %d s'gondes"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "1 share"
 msgid_plural "%d shares"
 msgstr[0] "Èrpèqu'té 1 fais"
-msgstr[1] "%d èrpèqu'téthies"
+msgstr[1] "%d r'pèqu'téthies"
+msgstr[2] "%d èrpèqu'téthies"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -726,6 +738,7 @@ msgid "View 1 comment"
 msgid_plural "View all %d comments"
 msgstr[0] ""
 msgstr[1] "Vai toutes les %d èrpiques"
+msgstr[2] "Vai toutes les %d r'piques"
 
 msgid "Wall Photos"
 msgstr "Cliôsée d'Portraits"
