@@ -230,13 +230,15 @@ foreach my $msg (@$aref) {
 					(my $src, my $trg) = $pair =~ m/^([^|]+)\|(.+)$/;
 					my $tempid = escape_regex($id);
 					my $orig = $tempid;
-					my $tempstr = $str;
-					# not necessarily the final %a if non-English ambient lang
+					# it's (currently) always the %a with the biggest index
+					# but not nec. the rightmost one if non-English ambient lang
 					$tempid =~ s/%a$num_links/(<a [^>]+>)$src<\/a>/;
 					$tempid =~ s/%a[1-9]?/(<a [^>]+>[^<]+<\/a>)/g;
+					my $tempstr = $str;
 					$tempstr =~ s/"/\\"/g;
 					$tempstr = insert_all_backrefs($orig, $tempstr);
-					$tempstr =~ s/("\$[0-9]")([^\$]*)$/$1+"$trg<\/a>"$2/;
+					my $backrefindex = $num_links+1;
+					$tempstr =~ s/("\$$backrefindex")/$1+"$trg<\/a>"/;
 					$tempid = '(^|="|>)'.$tempid.'(?=($|"|<))';
 					print "  d = r(d, '$tempid', \"\$1\"+$tempstr);\n";
 				}
