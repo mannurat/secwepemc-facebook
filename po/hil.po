@@ -164,7 +164,7 @@ msgstr "Si %a1 nanamian sang %a2."
 #. %a1 is a person's name, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 likes a %a2."
 msgstr "Si %a1 nanamian sang isa ka %a2."
- 
+
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
 msgid "%a1 likes %a2's %a3."
 msgstr "Si %a1 nanamian sang %a3 ni %a2."
