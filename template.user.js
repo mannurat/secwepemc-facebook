@@ -55,7 +55,7 @@ function r(dd, s, t) {
     if (s == t) {
         return (dd);
     } else {
-        var RegExpr = new RegExp(s, "gi");
+        var RegExpr = new RegExp(s, "g");
         return (dd.replace(RegExpr, t));
     }
 }
