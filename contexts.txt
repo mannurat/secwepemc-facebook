@@ -10,6 +10,10 @@ gd	link	(likes|shared|tagged in) %a.'s
 gd	photo	(likes|shared|tagged in) %a.'s
 gd	post	(likes|shared|tagged in) %a.'s
 gd	status	(likes|shared|tagged in) %a.'s
+kw	link	commented on (a|his own)
+kw	post	commented on (a|his own)
+kw	link	commented on her
+kw	post	commented on her
 mlv	link	shared %a.'s
 mlv	photo	shared %a.'s
 mlv	post	shared %a.'s
