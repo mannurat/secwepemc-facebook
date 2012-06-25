@@ -104,10 +104,10 @@ msgstr[3] "Chuir %a dealbh ùr ris."
 #. %a1 is a person's name; %d stands for a number, no need to translate it
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
-msgstr[0] "Chuir %a dealbh ùr ris."
-msgstr[1] "Chuir %a dhealbh ùr ris."
-msgstr[2] "Chuir %a dealbhan ùra ris."
-msgstr[3] "Chuir %a dealbh ùr ris."
+msgstr[0] "Chuir %a1 %d dealbh ùr ris an albam %a2."
+msgstr[1] "Chuir %a1 %d dhealbh ùr ris an albam %a2."
+msgstr[2] "Chuir %a1 %d dealbhan ùra ris an albam %a2."
+msgstr[3] "Chuir %a1 %d dealbh ùr ris an albam %a2."
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
