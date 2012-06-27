@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-18 12:45:45-0500\n"
+"POT-Creation-Date: 2012-06-27 02:15:06-0500\n"
 "PO-Revision-Date: 2012-02-20 17:58:12-06:00\n"
 "Last-Translator: Alan R. King\n"
 "Language-Team: Nawat\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
-#. The first four words to translate are used in a number of different messages,
+#. The first five words to translate are used in a number of different messages,
 #. always as the final word of the message in English; for example:
 #. John Doe likes Jane Doe's X.
 #. John Doe shared Jane Doe's X.
@@ -43,6 +43,11 @@ msgstr "tay inatiwit"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status"
+msgstr "ken ijtuk"
+
+#. Always a link. Used in longer sentences as above.
+#, fuzzy
+msgid "status update"
 msgstr "ken ijtuk"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
@@ -72,6 +77,11 @@ msgstr "%a1 wan %a2 ingustoj ini."
 #, fuzzy
 msgid "%a1 and %a2 are now friends with %a3."
 msgstr "%a1 wan %a2 kichijtiwit compartir %a3."
+
+#. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
+#, fuzzy
+msgid "%a1 and %a2 commented on a %a3."
+msgstr "%a1 taketzki ipanpa se %a2."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
@@ -224,6 +234,21 @@ msgstr "Shiktajtani Se"
 #, fuzzy
 msgid "%a1 was tagged in %a2's %a3."
 msgstr "%a1 taketzki ipanpa se %a2."
+
+#. %a1 and %a2 are names of people
+#, fuzzy
+msgid "%a1 was tagged in %a2's photos."
+msgstr "%a1 taketzki ipanpa se %a2."
+
+#. %a is someone's name (female)
+#, fuzzy
+msgid "%a updated her cover photo."
+msgstr "%a kitalijtuk se yankwik fotoj."
+
+#. %a is someone's name (male)
+#, fuzzy
+msgid "%a updated his cover photo."
+msgstr "%a kitalijtuk se yankwik fotoj."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"

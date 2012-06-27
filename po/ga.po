@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-18 12:59:01-0500\n"
+"POT-Creation-Date: 2012-06-27 02:15:06-0500\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -16,7 +16,7 @@ msgstr ""
 "3 : 4\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
-#. The first four words to translate are used in a number of different messages,
+#. The first five words to translate are used in a number of different messages,
 #. always as the final word of the message in English; for example:
 #. John Doe likes Jane Doe's X.
 #. John Doe shared Jane Doe's X.
@@ -65,6 +65,10 @@ msgstr "bpostáil"
 msgid "status"
 msgstr "stádas"
 
+#. Always a link. Used in longer sentences as above.
+msgid "status update"
+msgstr "stádas"
+
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
 msgstr "Is maith le %a1, %a2 agus %a3 é seo."
@@ -94,6 +98,10 @@ msgstr "Is cairde iad %a1 agus %a2 anois."
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
 msgid "%a1 and %a2 are now friends with %a3."
 msgstr "Tá %a1 agus %a2 ina gcairde le %a3 anois."
+
+#. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
+msgid "%a1 and %a2 commented on a %a3."
+msgstr "Rinne %a1 agus %a2 trácht ar %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
@@ -236,6 +244,18 @@ msgstr "Cuir Ceist"
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
 msgstr "Cuireadh clib ar %a1 i %a3 de chuid %a2."
+
+#. %a1 and %a2 are names of people
+msgid "%a1 was tagged in %a2's photos."
+msgstr "Cuireadh clib ar %a1 i ngrianghraif de chuid %a2."
+
+#. %a is someone's name (female)
+msgid "%a updated her cover photo."
+msgstr "Nuashonraigh %a a grianghraf mór."
+
+#. %a is someone's name (male)
+msgid "%a updated his cover photo."
+msgstr "Nuashonraigh %a a ghrianghraf mór."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"

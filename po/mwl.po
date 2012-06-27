@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-18 12:45:45-0500\n"
+"POT-Creation-Date: 2012-06-27 02:15:06-0500\n"
 "PO-Revision-Date: 2012-03-15 15:18-0600\n"
 "Last-Translator: José Pedro Ferreira\n"
 "Language-Team: Mirandese\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
-#. The first four words to translate are used in a number of different messages,
+#. The first five words to translate are used in a number of different messages,
 #. always as the final word of the message in English; for example:
 #. John Doe likes Jane Doe's X.
 #. John Doe shared Jane Doe's X.
@@ -43,6 +43,11 @@ msgstr "puosta"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status"
+msgstr "estado"
+
+#. Always a link. Used in longer sentences as above.
+#, fuzzy
+msgid "status update"
 msgstr "estado"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
@@ -72,6 +77,11 @@ msgstr "%a1 i %a2 gústan disto."
 #, fuzzy
 msgid "%a1 and %a2 are now friends with %a3."
 msgstr "%a1 i %a2 amostrórun %a3."
+
+#. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
+#, fuzzy
+msgid "%a1 and %a2 commented on a %a3."
+msgstr "%a1 dixo cousas suobre %a2."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
@@ -224,6 +234,21 @@ msgstr "Poner pregunta"
 #, fuzzy
 msgid "%a1 was tagged in %a2's %a3."
 msgstr "%a1 dixo cousas suobre %a2."
+
+#. %a1 and %a2 are names of people
+#, fuzzy
+msgid "%a1 was tagged in %a2's photos."
+msgstr "%a1 dixo cousas suobre %a2."
+
+#. %a is someone's name (female)
+#, fuzzy
+msgid "%a updated her cover photo."
+msgstr "%a ajuntou un retrato nuobo."
+
+#. %a is someone's name (male)
+#, fuzzy
+msgid "%a updated his cover photo."
+msgstr "%a ajuntou un retrato nuobo."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"

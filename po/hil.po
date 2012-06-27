@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-18 12:45:45-0500\n"
+"POT-Creation-Date: 2012-06-27 02:15:06-0500\n"
 "PO-Revision-Date: 2012-02-21 16:58:12-06:00\n"
 "Last-Translator: Francis Dimzon\n"
 "Language-Team: Hiligaynon\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
-#. The first four words to translate are used in a number of different messages,
+#. The first five words to translate are used in a number of different messages,
 #. always as the final word of the message in English; for example:
 #. John Doe likes Jane Doe's X.
 #. John Doe shared Jane Doe's X.
@@ -46,6 +46,10 @@ msgstr ""
 msgid "status"
 msgstr ""
 
+#. Always a link. Used in longer sentences as above.
+msgid "status update"
+msgstr ""
+
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
 msgstr "Si %a1, %a2 kag %a3 nanamian sini."
@@ -69,6 +73,11 @@ msgstr "Si %a1 kag %a2 mag-abyan na."
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
 msgid "%a1 and %a2 are now friends with %a3."
 msgstr "Si %a1 kag %a2 abyan na ni %a3."
+
+#. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
+#, fuzzy
+msgid "%a1 and %a2 commented on a %a3."
+msgstr "Si %a1 nagtugda sa isa ka %a2."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
@@ -213,6 +222,21 @@ msgstr "Mamangkot"
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
 msgstr "Si %a1 gintag sa %a3 ni %a2."
+
+#. %a1 and %a2 are names of people
+#, fuzzy
+msgid "%a1 was tagged in %a2's photos."
+msgstr "Si %a1 gintag sa %a3 ni %a2."
+
+#. %a is someone's name (female)
+#, fuzzy
+msgid "%a updated her cover photo."
+msgstr "Si %a nagdugang sang bag-o nga litrato."
+
+#. %a is someone's name (male)
+#, fuzzy
+msgid "%a updated his cover photo."
+msgstr "Si %a nagdugang sang bag-o nga litrato."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"

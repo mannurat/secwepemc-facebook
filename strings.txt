@@ -1,5 +1,5 @@
 #. Lines like this one beginning with "#." are comments; no need to translate!
-#. The first four words to translate are used in a number of different messages,
+#. The first five words to translate are used in a number of different messages,
 #. always as the final word of the message in English; for example:
 #. John Doe likes Jane Doe's X.
 #. John Doe shared Jane Doe's X.
@@ -20,6 +20,8 @@ photo
 post
 #. Always a link. Used in longer sentences as above.
 status
+#. Always a link. Used in longer sentences as above.
+status update
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 %a1, %a2 and %a3 like this.
 #. %a is a person's name; %d stands for a number, no need to translate it
@@ -30,6 +32,8 @@ status
 %a1 and %a2 are now friends.
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
 %a1 and %a2 are now friends with %a3.
+#. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
+%a1 and %a2 commented on a %a3.
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
 %a1 and %a2 like %a3.
@@ -100,6 +104,12 @@ Apps and Games
 Ask Question
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 %a1 was tagged in %a2's %a3.
+#. %a1 and %a2 are names of people
+%a1 was tagged in %a2's photos.
+#. %a is someone's name (female)
+%a updated her cover photo.
+#. %a is someone's name (male)
+%a updated his cover photo.
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 %B %d
 #. Format. %B and %d as above, %s = string representing the time ("3:15am")
