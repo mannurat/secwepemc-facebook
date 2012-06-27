@@ -49,11 +49,10 @@ msgid "%a1, %a2 and %a3 like this."
 msgstr "A %a1, %a2 y %a3 les gusta esto."
 
 #. %a is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
 msgstr[0] "%a agregó una nueva foto."
-msgstr[1] "%a agregó una nueva foto."
+msgstr[1] "%a agregó %d fotos nuevas."
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
 #, fuzzy
@@ -63,9 +62,8 @@ msgstr[0] "%a agregó una nueva foto."
 msgstr[1] "%a agregó una nueva foto."
 
 #. Both %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 and %a2 are now friends."
-msgstr "A %a1 y %a2 les gusta esto."
+msgstr "%a1 y %a2 ahora son amigos."
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
 #, fuzzy
@@ -107,11 +105,11 @@ msgstr "Configuración de la cuenta"
 
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
-msgstr ""
+msgstr "%a cambió la foto de su perfil."
 
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
-msgstr ""
+msgstr "%a cambió la foto de su perfil."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on a %a2."
@@ -140,7 +138,7 @@ msgstr "Agregar a mis amigos"
 
 #. Under INTERESTS in left-hand navigation on home page
 msgid "Add Interests..."
-msgstr ""
+msgstr "Agregar intereses..."
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
@@ -212,18 +210,16 @@ msgid "%a1 shared %a2."
 msgstr "%a1 compartió %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared %a2's %a3."
-msgstr "%a1 compartió %a2."
+msgstr "%a1 compartió la %a3 de %a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Pregunta"
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 was tagged in %a2's %a3."
-msgstr "%a1 comentó una? %a2."
+msgstr "Se ha etiquetado a %a1 en la %a3 de %a2."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -451,7 +447,7 @@ msgstr "Inicio"
 
 #. In left-hand column on home page
 msgid "INTERESTS"
-msgstr ""
+msgstr "INTERESES"
 
 msgid "Life Event"
 msgstr "Acontecimiento importante"
@@ -466,9 +462,8 @@ msgid "Likes"
 msgstr "Me gusta"
 
 #. Appears as link to right of "RECENT POST" on home page
-#, fuzzy
 msgid "Like Page"
-msgstr "Me gusta esta página"
+msgstr "Me gusta"
 
 msgid "Like This Page"
 msgstr "Me gusta esta página"
@@ -617,7 +612,7 @@ msgstr "Buscar"
 
 #. Text that appears in the search box at the top of the page
 msgid "Search for people, places and things"
-msgstr ""
+msgstr "Buscar personas, lugares y cosas"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
