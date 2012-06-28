@@ -6,8 +6,8 @@ ce-x-en	en	Chechen	Нохчийн	1.0.0	Not yet released	Bulat Betalgiry, Islam 
 ce	ru	Chechen	Нохчийн	1.0.0	Not yet released	Bulat Betalgiry, Islam Elsanov, Sarah Slye
 ceb	en	Cebuano	Binisaya	1.0.0	Not yet released	Joshua Verano
 eml	it	Emiliano-Romagnolo	Emiliàn e Rumagnòl	1.0.1	http://userscripts.org/scripts/show/129394	Federico L. G. Faroldi
-es	en	Spanish	Español	1.0.0	Not yet released	Kevin Scannell
-fr	en	French	Français	1.0.0	Not yet released	Kevin Scannell
+es	en	Spanish	Español	1.0.0	Alternate source language	Kevin Scannell
+fr	en	French	Français	1.0.0	Alternate source language	Kevin Scannell
 fr-x-jer	en	Jèrriais	Jèrriais	1.0.1	http://userscripts.org/scripts/show/130838	Tony Scott Warren, Geraint Jennings
 ga	en	Irish	Gaeilge	1.0.0	For testing only	Kevin Scannell
 gd	en	Scottish Gaelic	Gàidhlig	1.0.5	http://userscripts.org/scripts/show/126511	Michael Bauer
@@ -17,7 +17,7 @@ gv	en	Manx Gaelic	Gaelg	1.0.0	http://userscripts.org/scripts/show/127270	Chris S
 hil	en	Hiligaynon	Hiligaynon	1.0.5	http://userscripts.org/scripts/show/127142	Francis Dimzon, Eliodora Dimzon, Edgar Siscar, Ofelia Libo-on-Salaya, Blomar Rain Catipunan, Essan Labos, Emmanuel Lerona, Ruben Magan Gamala
 ht	fr	Haitian Creole	Kreyòl Ayisyen	1.0.1	http://userscripts.org/scripts/show/130010	Jean Came Poulard
 ht-x-en	en	Haitian Creole	Kreyòl Ayisyen	1.0.1	http://userscripts.org/scripts/show/126548	Jean Came Poulard
-it	en	Italian	Italiano	1.0.0	Not yet released	Kevin Scannell
+it	en	Italian	Italiano	1.0.0	Alternate source language	Kevin Scannell
 kw	en	Cornish	Kernewek	1.0.0	http://userscripts.org/scripts/show/136828	Steve Harris
 lij	it	Ligurian	Lìgure	1.0.2	http://userscripts.org/scripts/show/129397	Alessio Gastaldi
 mlv	en	Motlav	Mwotlap	1.0.0	Not yet released	Alex François
@@ -28,6 +28,7 @@ ny	en	Chichewa	Chicheŵa	1.0.0	http://userscripts.org/scripts/show/126642	Edmond
 ppl	es	Nawat	Nawat	1.0.1	http://userscripts.org/scripts/show/126587	Alan King
 ppl-x-en	en	Nawat	Nawat	1.0.1	http://userscripts.org/scripts/show/126588	Alan King
 rop	en	Kriol	Kriol	1.0.1	http://userscripts.org/scripts/show/126589	Greg Dickson
+ru	en	Russian	Русский	1.0.0	Alternate source language	Kevin Scannell
 shs	en	Secwepemctsín	Secwepemctsín	1.0.1	http://userscripts.org/scripts/show/127738	Neskie Manuel, Gabe Archie, Carl Archie
 sma	en	South Saami	Åarjelsaemien gïele	1.0.0	Not yet released	David Jonasson
 son	en	Songhay	Soŋay	1.0.1	Not yet released	Mohomodou Houssouba, Abdoul Cissé
