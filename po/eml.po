@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-27 02:15:06-0500\n"
+"POT-Creation-Date: 2012-06-28 09:58:54-0500\n"
 "PO-Revision-Date: 2012-03-15 09:29:52-0500\n"
 "Last-Translator: Federico Faroldi\n"
 "Language-Team: Emiliano-Romagnolo\n"
@@ -23,6 +23,7 @@ msgstr ""
 #. John Doe and Jane Doe shared Kevin Scannell's X.
 #. John Doe was tagged in Jane Doe's X.
 #. John Doe commented on a X.
+#. John Doe and Jane Doe commented on a X.
 #. John Doe commented on her own X.
 #. John Doe commented on his own X.
 #. John Doe commented on your X.

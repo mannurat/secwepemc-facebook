@@ -6,6 +6,7 @@
 #. John Doe and Jane Doe shared Kevin Scannell's X.
 #. John Doe was tagged in Jane Doe's X.
 #. John Doe commented on a X.
+#. John Doe and Jane Doe commented on a X.
 #. John Doe commented on her own X.
 #. John Doe commented on his own X.
 #. John Doe commented on your X.
