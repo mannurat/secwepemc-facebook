@@ -454,7 +454,7 @@ msgstr "Akèy"
 
 #. In left-hand column on home page
 msgid "INTERESTS"
-msgstr ""
+msgstr "ENTERÈ"
 
 msgid "Life Event"
 msgstr "Evenman Lavi"
