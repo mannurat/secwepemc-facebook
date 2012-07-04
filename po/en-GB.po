@@ -31,9 +31,8 @@ msgstr ""
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "life event"
-msgstr "Life Event"
+msgstr "life event"
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
@@ -226,9 +225,8 @@ msgid "%a1 was tagged in %a2's %a3."
 msgstr "%a1 was tagged in %a2's %a3."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
-#, fuzzy
 msgid "%a1 was tagged in a %a2."
-msgstr "%a1 was tagged in %a2's %a3."
+msgstr "%a1 was tagged in a %a2."
 
 #. %a1 and %a2 are names of people
 msgid "%a1 was tagged in %a2's photos."
@@ -295,7 +293,7 @@ msgstr "Comment"
 
 #. Link at the bottom of home page to a help page explaining what cookies are
 msgid "Cookies"
-msgstr ""
+msgstr "Cookies"
 
 #. Button label; confirm a friend request
 msgid "Confirm"
@@ -627,9 +625,8 @@ msgid "Resize"
 msgstr "Resize"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
-#, fuzzy
 msgid "%s, add a comment..."
-msgstr "Write a comment..."
+msgstr "%s, add a comment..."
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
