@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-18 12:45:45-0500\n"
+"POT-Creation-Date: 2012-07-04 16:29:49-0500\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Alex François\n"
 "Language-Team: Mwotlap\n"
@@ -16,13 +16,15 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n==3 ? 2 : 3\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
-#. The first four words to translate are used in a number of different messages,
+#. The first six words to translate are used in a number of different messages,
 #. always as the final word of the message in English; for example:
 #. John Doe likes Jane Doe's X.
 #. John Doe shared Jane Doe's X.
 #. John Doe and Jane Doe shared Kevin Scannell's X.
 #. John Doe was tagged in Jane Doe's X.
+#. John Doe was tagged in a X.
 #. John Doe commented on a X.
+#. John Doe and Jane Doe commented on a X.
 #. John Doe commented on her own X.
 #. John Doe commented on his own X.
 #. John Doe commented on your X.
@@ -30,6 +32,11 @@ msgstr ""
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
+#, fuzzy
+msgid "life event"
+msgstr "Makteg?"
+
+#. Always a link. Used in longer sentences as above.
 msgid "link"
 msgstr "la gatli pej 1"
 
@@ -67,6 +74,11 @@ msgstr "lo yoy 1"
 #, fuzzy
 msgctxt "shared %a.'s"
 msgid "status"
+msgstr "lo yoy 1"
+
+#. Always a link. Used in longer sentences as above.
+#, fuzzy
+msgid "status update"
 msgstr "lo yoy 1"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
@@ -100,6 +112,11 @@ msgstr "%a1 tiwag mi %a2 memlaklak aē."
 #, fuzzy
 msgid "%a1 and %a2 are now friends with %a3."
 msgstr "%a1 wa %a2 mē vētleg me %a3."
+
+#. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
+#, fuzzy
+msgid "%a1 and %a2 commented on a %a3."
+msgstr "%a1 ma kaka van %a2."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
@@ -253,6 +270,26 @@ msgstr "Nēvēvēhiy"
 msgid "%a1 was tagged in %a2's %a3."
 msgstr "%a1 ma kaka van %a2."
 
+#. %a1 is a person, %a2 is "photo" or "life event" (others?)
+#, fuzzy
+msgid "%a1 was tagged in a %a2."
+msgstr "%a1 ma kaka van %a2."
+
+#. %a1 and %a2 are names of people
+#, fuzzy
+msgid "%a1 was tagged in %a2's photos."
+msgstr "%a1 ma kaka van %a2."
+
+#. %a is someone's name (female)
+#, fuzzy
+msgid "%a updated her cover photo."
+msgstr "%a mē vētleg me nototgal 1."
+
+#. %a is someone's name (male)
+#, fuzzy
+msgid "%a updated his cover photo."
+msgstr "%a mē vētleg me nototgal 1."
+
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
 msgstr "%d %B"
@@ -303,6 +340,10 @@ msgstr "Ige bulsal mōyōs"
 #. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
 msgstr "Kaka van"
+
+#. Link at the bottom of home page to a help page explaining what cookies are
+msgid "Cookies"
+msgstr ""
 
 #. Button label; confirm a friend request
 msgid "Confirm"
@@ -660,6 +701,11 @@ msgstr "Galeg su lok"
 msgid "Resize"
 msgstr "Galeg liwo"
 
+#. Prompt when you comment on a post (was "Write a comment..."); %s = your name
+#, fuzzy
+msgid "%s, add a comment..."
+msgstr "Tō nēk wo…"
+
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
 msgstr "Soksok"
@@ -792,7 +838,7 @@ msgstr "Lemtap nēwē!"
 msgid "What's on your mind?"
 msgstr "Makteg nēk ēnōk?"
 
-#. Prompt when you comment on a post
+#. Prompt when you comment on a post (replaced by "X, add a comment..."?)
 msgid "Write a comment..."
 msgstr "Tō nēk wo…"
 

@@ -7,10 +7,12 @@ gd	link	commented on (her|his|your)
 gd	photo	commented on (her|his|your)
 gd	post	commented on (her|his|your)
 gd	status	commented on (her|his|your)
+gd	status update	commented on (her|his|your)
 gd	link	(likes|shared|tagged in) %a.'s
 gd	photo	(likes|shared|tagged in) %a.'s
 gd	post	(likes|shared|tagged in) %a.'s
 gd	status	(likes|shared|tagged in) %a.'s
+gd	status update	(likes|shared|tagged in) %a.'s
 kw	link	commented on (a|his own)
 kw	post	commented on (a|his own)
 kw	link	commented on her

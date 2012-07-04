@@ -13,5 +13,5 @@ while read x
 do
 	MSGID=`echo $x | sed "s/~.*//"`
 	MSGCTXT=`echo $x | sed "s/^.*~//"`
-	sed -i "/^#\./{N; s/^\(.*\)\n\(msgid .$MSGID.\)/&\nmsgstr \"\"\n\n\1\nmsgctxt \"$MSGCTXT\"\n\2/}" facebook.pot
+	sed -i "/^#\./{N; s/^\(.*\)\n\(msgid \"$MSGID\"\)/&\nmsgstr \"\"\n\n\1\nmsgctxt \"$MSGCTXT\"\n\2/}" facebook.pot
 done
