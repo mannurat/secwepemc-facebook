@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-06-28 09:58:55-0500\n"
+"POT-Creation-Date: 2012-07-04 16:12:09-0500\n"
 "PO-Revision-Date: 2012-03-17 23:02+0200\n"
 "Last-Translator: Mohomodou Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: Songhay.org\n"
@@ -17,12 +17,13 @@ msgstr ""
 "X-Generator: Virtaal 0.7.0-mac-beta-1\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
-#. The first five words to translate are used in a number of different messages,
+#. The first six words to translate are used in a number of different messages,
 #. always as the final word of the message in English; for example:
 #. John Doe likes Jane Doe's X.
 #. John Doe shared Jane Doe's X.
 #. John Doe and Jane Doe shared Kevin Scannell's X.
 #. John Doe was tagged in Jane Doe's X.
+#. John Doe was tagged in a X.
 #. John Doe commented on a X.
 #. John Doe and Jane Doe commented on a X.
 #. John Doe commented on her own X.
@@ -31,6 +32,11 @@ msgstr ""
 #. John Doe likes a X.
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
+#. Always a link. Used in longer sentences as above.
+#, fuzzy
+msgid "life event"
+msgstr "Hunay teera"
+
 #. Always a link. Used in longer sentences as above.
 msgid "link"
 msgstr "dobu"
@@ -237,6 +243,11 @@ msgstr "Hãayan foo hantum"
 msgid "%a1 was tagged in %a2's %a3."
 msgstr "%a1 daara %a2 foo ga."
 
+#. %a1 is a person, %a2 is "photo" or "life event" (others?)
+#, fuzzy
+msgid "%a1 was tagged in a %a2."
+msgstr "%a1 daara %a2 foo ga."
+
 #. %a1 and %a2 are names of people
 #, fuzzy
 msgid "%a1 was tagged in %a2's photos."
@@ -302,6 +313,10 @@ msgstr "Cere kaaney"
 #. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
 msgstr "Daara"
+
+#. Link at the bottom of home page to a help page explaining what cookies are
+msgid "Cookies"
+msgstr ""
 
 #. Button label; confirm a friend request
 msgid "Confirm"
@@ -637,6 +652,11 @@ msgstr "Moo-furyan kaa"
 msgid "Resize"
 msgstr "Alkadar sasawandi"
 
+#. Prompt when you comment on a post (was "Write a comment..."); %s = your name
+#, fuzzy
+msgid "%s, add a comment..."
+msgstr "Daara foo hantum..."
+
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
 msgstr "Ceeci"
@@ -768,7 +788,7 @@ msgstr "Kubayni"
 msgid "What's on your mind?"
 msgstr "Cin ti war lakkaloo?"
 
-#. Prompt when you comment on a post
+#. Prompt when you comment on a post (replaced by "X, add a comment..."?)
 msgid "Write a comment..."
 msgstr "Daara foo hantum..."
 
