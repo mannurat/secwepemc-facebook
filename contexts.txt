@@ -1,3 +1,4 @@
+ga	life event	tagged in
 ga	photo	tagged in
 ga	post	tagged in
 ga	photo	commented on (a|his|your)

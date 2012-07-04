@@ -130,7 +130,7 @@ sub process_generic_translation {
 	$id =~ s/%T/(<a [^>]+><abbr [^>]+>[^<]+<\/abbr><\/a>)/g;
 	$id =~ s/%a[1-9]?/(<a [^>]+>[^<]+<\/a>)/g;
 	$id =~ s/%d/($regex)/g;
-	$id =~ s/%s/([^<" ]+)/g;
+	$id =~ s/%s/([^<"]+)/g; # permit spaces for first names
 	$str =~ s/"/\\"/g;
 	if ($id ne $str) {
 		$str = insert_all_backrefs($orig, $str);
@@ -141,7 +141,7 @@ sub process_generic_translation {
 			$id = '(^|="|>)'.$id.'(?=($|"|<))';
 		}
 		my $toprint = "  d = r(d, '$id', \"\$1\"+$str);\n";
-		if ($englishid =~ /^(link|photo|post|status)$/) {
+		if ($englishid =~ /^(life|link|photo|post|status)/) {
 			push @lowpriority, $toprint;
 		}
 		else {

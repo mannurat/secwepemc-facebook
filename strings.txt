@@ -1,10 +1,11 @@
 #. Lines like this one beginning with "#." are comments; no need to translate!
-#. The first five words to translate are used in a number of different messages,
+#. The first six words to translate are used in a number of different messages,
 #. always as the final word of the message in English; for example:
 #. John Doe likes Jane Doe's X.
 #. John Doe shared Jane Doe's X.
 #. John Doe and Jane Doe shared Kevin Scannell's X.
 #. John Doe was tagged in Jane Doe's X.
+#. John Doe was tagged in a X.
 #. John Doe commented on a X.
 #. John Doe and Jane Doe commented on a X.
 #. John Doe commented on her own X.
@@ -13,6 +14,8 @@
 #. John Doe likes a X.
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
+#. Always a link. Used in longer sentences as above.
+life event
 #. Always a link. Used in longer sentences as above.
 link
 #. Always a link. Used in longer sentences as above.
@@ -105,6 +108,8 @@ Apps and Games
 Ask Question
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 %a1 was tagged in %a2's %a3.
+#. %a1 is a person, %a2 is "photo" or "life event" (others?)
+%a1 was tagged in a %a2.
 #. %a1 and %a2 are names of people
 %a1 was tagged in %a2's photos.
 #. %a is someone's name (female)
@@ -136,6 +141,8 @@ Close
 Close Friends
 #. Verb. A link under a post that allows you to comment on the post.
 Comment
+#. Link at the bottom of home page to a help page explaining what cookies are
+Cookies
 #. Button label; confirm a friend request
 Confirm
 Create an Ad
@@ -293,6 +300,8 @@ Recommended Pages
 Remove Preview
 #. Option on every post on your personal timeline (now "Highlight"?)
 Resize
+#. Prompt when you comment on a post (was "Write a comment..."); %s = your name
+%s, add a comment...
 #. Text that used to appear in the search box at the top of the page
 Search
 #. Text that appears in the search box at the top of the page
@@ -357,7 +366,7 @@ Wall Photos
 Welcome
 #. Main prompt when you enter in a new status update
 What's on your mind?
-#. Prompt when you comment on a post
+#. Prompt when you comment on a post (replaced by "X, add a comment..."?)
 Write a comment...
 #. Appears next to a post or comment as a timestamp
 Yesterday
