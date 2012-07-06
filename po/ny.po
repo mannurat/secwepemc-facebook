@@ -32,7 +32,6 @@ msgstr ""
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
-
 msgid "life event"
 msgstr "zochitika pamoyo"
 
@@ -87,11 +86,11 @@ msgstr "%a1 ndi %a2 achita ndemanga pa %a3."
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
 msgid "%a1 and %a2 like %a3."
-msgstr "%a ndi %a2 akonda %a3."
+msgstr "%a1 ndi %a2 akonda %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
-msgstr "%a ndi %a2 akonda ichi."
+msgstr "%a1 ndi %a2 akonda ichi."
 
 #. %a1 and %a2 as above, and %a3 is something like (always?) "a link"
 msgid "%a1 and %a2 shared %a3."
@@ -375,7 +374,6 @@ msgstr[1] "masamba ena %d"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
-#, fuzzy
 msgid "1 other person"
 msgid_plural "%d other people"
 msgstr[0] "munthu wina mmodzi"
