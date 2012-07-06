@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-06 10:44:52-0500\n"
+"POT-Creation-Date: 2012-07-06 11:09:16-0500\n"
 "PO-Revision-Date: 2012-02-20 16:59:12-06:00\n"
 "Last-Translator: Edmond Kachale\n"
 "Language-Team: Chichewa\n"
@@ -36,26 +36,36 @@ msgid "life event"
 msgstr "zochitika pamoyo"
 
 #. Always a link. Used in longer sentences as above.
+#, fuzzy
+msgctxt "%a.'s"
+msgid "life event"
+msgstr "zochitika pamoyo"
+
+#. Always a link. Used in longer sentences as above.
 msgid "link"
 msgstr "ulalo"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "%a.'s"
 msgid "link"
-msgstr "ulalo"
+msgstr "ulalo wa"
 
 #. Always a link. Used in longer sentences as above.
 msgid "photo"
 msgstr "chithunzi"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "%a.'s"
 msgid "photo"
-msgstr "chithunzi"
+msgstr "chithunzi cha"
 
 #. Always a link. Used in longer sentences as above.
+msgid "post"
+msgstr "mbalume"
+
+#. Always a link. Used in longer sentences as above.
+#, fuzzy
+msgctxt "%a.'s"
 msgid "post"
 msgstr "mbalume"
 
@@ -64,6 +74,18 @@ msgid "status"
 msgstr "mbalume"
 
 #. Always a link. Used in longer sentences as above.
+#, fuzzy
+msgctxt "%a.'s"
+msgid "status"
+msgstr "mbalume"
+
+#. Always a link. Used in longer sentences as above.
+msgid "status update"
+msgstr "mbalume"
+
+#. Always a link. Used in longer sentences as above.
+#, fuzzy
+msgctxt "%a.'s"
 msgid "status update"
 msgstr "mbalume"
 
@@ -191,7 +213,7 @@ msgstr "%a1 wakonda %a2."
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
 msgid "%a1 likes %a2's %a3."
-msgstr "%a1 wakonda %a3 za %a2."
+msgstr "%a1 wakonda %a3 %a2."
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
@@ -228,7 +250,7 @@ msgstr "%a1 wagawa %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 shared %a2's %a3."
-msgstr "%a1 wagawa %a3 za %a2."
+msgstr "%a1 wagawa %a3 %a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -236,7 +258,7 @@ msgstr "Funsani Funso"
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
-msgstr "%a1 am'badika pa %a3 za %a2."
+msgstr "%a1 am'badika pa %a3 %a2."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
 msgid "%a1 was tagged in a %a2."
