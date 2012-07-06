@@ -21,3 +21,6 @@ mlv	link	shared %a.'s
 mlv	photo	shared %a.'s
 mlv	post	shared %a.'s
 mlv	status	shared %a.'s
+mlv	status update	shared %a.'s
+ny	link	%a.'s
+ny	photo	%a.'s

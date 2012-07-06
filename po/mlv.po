@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-04 16:29:49-0500\n"
+"POT-Creation-Date: 2012-07-06 10:44:51-0500\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Alex François\n"
 "Language-Team: Mwotlap\n"
@@ -78,6 +78,12 @@ msgstr "lo yoy 1"
 
 #. Always a link. Used in longer sentences as above.
 #, fuzzy
+msgid "status update"
+msgstr "lo yoy 1"
+
+#. Always a link. Used in longer sentences as above.
+#, fuzzy
+msgctxt "shared %a.'s"
 msgid "status update"
 msgstr "lo yoy 1"
 
