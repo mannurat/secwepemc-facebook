@@ -36,10 +36,9 @@ msgid "life event"
 msgstr "zochitika pamoyo"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "%a.'s"
 msgid "life event"
-msgstr "zochitika pamoyo"
+msgstr "zochitika pamoyo za"
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
@@ -64,30 +63,27 @@ msgid "post"
 msgstr "mbalume"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "%a.'s"
 msgid "post"
-msgstr "mbalume"
+msgstr "mbalume ya"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status"
 msgstr "mbalume"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "%a.'s"
 msgid "status"
-msgstr "mbalume"
+msgstr "mbalume ya"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
 msgstr "mbalume"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "%a.'s"
 msgid "status update"
-msgstr "mbalume"
+msgstr "mbalume ya"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
