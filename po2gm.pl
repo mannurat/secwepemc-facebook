@@ -49,8 +49,8 @@ sub escape_regex {
 	(my $r) = @_;
 	$r =~ s/'/\\'/g;
 	$r =~ s/([.])/\\$1/g;
-	$r =~ s/[?]$/\\\\?/g;  # don't escape non-terminal ? (see fr.po)
-	$r =~ s/([()])/\\\\$1/g;
+	$r =~ s/[?]$/\\\\?/g;    # don't escape non-terminal ? (used as regex in es.po, fr.po)
+	$r =~ s/([()])/\\\\$1/g; # Spanish has literal parens, like "la(s)"
 	return $r;
 }
 
