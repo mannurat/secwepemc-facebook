@@ -1,3 +1,11 @@
+an	photo	a %a.
+an	post	a %a.
+an	link	a %a.
+an	status	a %a.
+an	photo	%a.'s
+an	post	%a.'s
+an	link	%a.'s
+an	status	%a.'s
 ga	life event	tagged in
 ga	photo	tagged in
 ga	post	tagged in
