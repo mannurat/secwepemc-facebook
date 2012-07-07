@@ -31,9 +31,8 @@ msgstr ""
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "life event"
-msgstr "Acontecimiento importante"
+msgstr ""
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
@@ -52,9 +51,8 @@ msgid "status"
 msgstr "estado"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "status update"
-msgstr "estado"
+msgstr ""
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -67,31 +65,27 @@ msgstr[0] "%a agregó una nueva foto."
 msgstr[1] "%a agregó %d fotos nuevas."
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
-msgstr[0] "%a agregó una nueva foto."
-msgstr[1] "%a agregó una nueva foto."
+msgstr[0] "%a1 agregó una foto nueva al álbum %a2."
+msgstr[1] "%a1 agregó %d fotos nuevas al álbum %a2."
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
 msgstr "%a1 y %a2 ahora son amigos."
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
-#, fuzzy
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr "%a1 y %a2 compartieron %a3."
+msgstr ""
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 commented on a %a3."
-msgstr "%a1 comentó una? %a2."
+msgstr "%a1 y %a2 comentaron una? %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
-#, fuzzy
 msgid "%a1 and %a2 like %a3."
-msgstr "A %a1 y %a2 les gusta esto."
+msgstr "A %a1 y %a2 les gusta %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
@@ -102,9 +96,8 @@ msgid "%a1 and %a2 shared %a3."
 msgstr "%a1 y %a2 compartieron %a3."
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr "%a1 y %a2 compartieron %a3."
+msgstr "%a1 y %a2 compartieron e?la? %a4 de %a3."
 
 # also user information: Información
 #. Link at bottom of home page (under "More") to info about Facebook
@@ -133,19 +126,16 @@ msgid "%a1 commented on a %a2."
 msgstr "%a1 comentó una? %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on her own %a2."
-msgstr "%a1 comentó una? %a2."
+msgstr "%a1 ha comentado su %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on his own %a2."
-msgstr "%a1 comentó una? %a2."
+msgstr "%a1 ha comentado su %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on your %a2."
-msgstr "%a1 comentó una? %a2."
+msgstr "%a1 comentó tu %a2."
 
 msgid "Activity Log"
 msgstr "Registro de actividad"
@@ -170,9 +160,8 @@ msgid "a few seconds ago"
 msgstr "Hace unos segundos"
 
 #. %a1 is a person's name, %a2 is a place
-#, fuzzy
 msgid "%a1 is at %a2."
-msgstr "A %a1 le gusta una? %a2."
+msgstr ""
 
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
@@ -188,15 +177,13 @@ msgid "%a1 likes a %a2."
 msgstr "A %a1 le gusta una? %a2."
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
-#, fuzzy
 msgid "%a1 likes %a2's %a3."
-msgstr "A %a1 le gusta una? %a2."
+msgstr "A %a1 le gusta e?la? %a3 de %a2."
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
-#, fuzzy
 msgid "%a1 likes %a2 and %a3."
-msgstr "A %a1 le gusta una? %a2."
+msgstr "A %a1 le gusta %a2 y %a3."
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -228,7 +215,7 @@ msgstr "%a1 compartió %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 shared %a2's %a3."
-msgstr "%a1 compartió la %a3 de %a2."
+msgstr "%a1 compartió e?la? %a3 de %a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -236,27 +223,24 @@ msgstr "Pregunta"
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
-msgstr "Se ha etiquetado a %a1 en la %a3 de %a2."
+msgstr "Se ha etiquetado a %a1 en e?la? %a3 de %a2."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
-#, fuzzy
 msgid "%a1 was tagged in a %a2."
-msgstr "Se ha etiquetado a %a1 en la %a3 de %a2."
+msgstr ""
 
+# Comes up in English in official es FB translation 12-07-07
 #. %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 was tagged in %a2's photos."
-msgstr "Se ha etiquetado a %a1 en la %a3 de %a2."
+msgstr "%a1 was tagged in %a2's photos."
 
 #. %a is someone's name (female)
-#, fuzzy
 msgid "%a updated her cover photo."
-msgstr "%a agregó una nueva foto."
+msgstr "%a actualizó la foto de su portada."
 
 #. %a is someone's name (male)
-#, fuzzy
 msgid "%a updated his cover photo."
-msgstr "%a agregó una nueva foto."
+msgstr "%a actualizó la foto de su portada."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -309,9 +293,10 @@ msgstr "Mejores amigos"
 msgid "Comment"
 msgstr "Comentar"
 
+# sic (as of 12-07-07)
 #. Link at the bottom of home page to a help page explaining what cookies are
 msgid "Cookies"
-msgstr ""
+msgstr "Cookies"
 
 #. Button label; confirm a friend request
 msgid "Confirm"
@@ -329,9 +314,8 @@ msgid "Create Group..."
 msgstr "Crear un grupo..."
 
 #. Button label at top of Groups page (click "MORE" next to "GROUPS")
-#, fuzzy
 msgid "Create Group"
-msgstr "Crear un grupo..."
+msgstr "Crear un grupo"
 
 #. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
@@ -377,26 +361,23 @@ msgstr[1] "otras %d personas más"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
-#, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
-msgstr[0] "1 amigo(a) en común"
-msgstr[1] "%d amigos en común"
+msgstr[0] "1 other friend"
+msgstr[1] "%d amigos más"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
-#, fuzzy
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] "1 other"
-msgstr[1] "otras %d personas más"
+msgstr[0] "1 other page"
+msgstr[1] "%d páginas más"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
-#, fuzzy
 msgid "1 other person"
 msgid_plural "%d other people"
-msgstr[0] "1 other"
+msgstr[0] "1 other person"
 msgstr[1] "otras %d personas más"
 
 #. %d stands for a number; used in sentences like "%d people like this."
@@ -647,8 +628,8 @@ msgstr "Eliminar Vista Previa"
 msgid "Resize"
 msgstr "Cambiar tamaño"
 
+# 12-07-07, no reference to %s in official es locale
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
-#, fuzzy
 msgid "%s, add a comment..."
 msgstr "Escribe un comentario..."
 
@@ -799,9 +780,8 @@ msgid "You and %a like this."
 msgstr "A %a y a ti les gusta esto."
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
 msgid "You, %a1 and %a2 like this."
-msgstr "A %a y a ti les gusta esto."
+msgstr "A ti, %a1 y %a2 les gusta esto."
 
 msgid "You like this."
 msgstr "Te gusta esto."
