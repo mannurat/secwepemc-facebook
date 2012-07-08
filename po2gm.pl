@@ -35,7 +35,7 @@ sub insert_backref {
 sub insert_all_backrefs {
 	(my $source, my $target) = @_;
 	$target = "\"$target\"";
-	my $var_number = 1;
+	my $var_number = 1; # count parentheticals, left to right
 	while ($source =~ m/(%[A-Za-z][1-9]?)/g) {
 		$var_number++;
 		$target = insert_backref($target, $1, $var_number);
@@ -226,18 +226,25 @@ foreach my $msg (@$aref) {
 			if ($englishid =~ m/$ctxt_regex/) {
 				my $num_links = 0;
 				$num_links++ while ($englishid =~ m/%a[1-9]/g);
+				# backref for the variable replaced by "link", "post", ...
+				# normally $num_links+1 (ambient en) but not for es, fr, etc.
+				my $backrefindex = 1;
+				while ($id =~ m/%a([1-9])/g) {
+					$backrefindex++;
+					last if ($1 == $num_links);
+				}
 				for my $pair (@{$contexts{$ctxt_regex}}) {
 					(my $src, my $trg) = $pair =~ m/^([^|]+)\|(.+)$/;
 					my $tempid = escape_regex($id);
 					my $orig = $tempid;
 					# it's (currently) always the %a with the biggest index
 					# but not nec. the rightmost one if non-English ambient lang
+					# e.g. "%a1 compartió e?la? %a3 de %a2."
 					$tempid =~ s/%a$num_links/(<a [^>]+>)$src<\/a>/;
 					$tempid =~ s/%a[1-9]?/(<a [^>]+>[^<]+<\/a>)/g;
 					my $tempstr = $str;
 					$tempstr =~ s/"/\\"/g;
 					$tempstr = insert_all_backrefs($orig, $tempstr);
-					my $backrefindex = $num_links+1;
 					$tempstr =~ s/("\$$backrefindex")/$1+"$trg<\/a>"/;
 					$tempid = '(^|="|>)'.$tempid.'(?=($|"|<))';
 					print "  d = r(d, '$tempid', \"\$1\"+$tempstr);\n";
