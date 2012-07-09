@@ -643,7 +643,7 @@ msgstr "Buscar personas, lugares y cosas"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
-msgstr "Ver todas"
+msgstr "Ver tod[ao]s"
 
 #. In the drop-down menu with recent Friend Requests
 msgid "See All Friend Requests"
@@ -750,7 +750,7 @@ msgstr "Usar Facebook como:"
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
 msgstr[0] "View 1 comment"
-msgstr[1] "Ver los %d comentarios"
+msgstr[1] "Ver todos los %d comentarios"
 
 msgid "Wall Photos"
 msgstr "Fotos del muro"
@@ -812,7 +812,7 @@ msgstr "junio"
 
 #. Month Name
 msgid "July"
-msgstr "julio"
+msgstr "[Jj]ulio"
 
 #. Month Name
 msgid "August"
@@ -836,28 +836,28 @@ msgstr "diciembre"
 
 #. Day of the Week
 msgid "Monday"
-msgstr "Lunes"
+msgstr "[Ll]unes"
 
 #. Day of the Week
 msgid "Tuesday"
-msgstr "Martes"
+msgstr "[Mm]artes"
 
 #. Day of the Week
 msgid "Wednesday"
-msgstr "Miércoles"
+msgstr "[Mm]iércoles"
 
 #. Day of the Week
 msgid "Thursday"
-msgstr "Jueves"
+msgstr "[Jj]ueves"
 
 #. Day of the Week
 msgid "Friday"
-msgstr "Viernes"
+msgstr "[Vv]iernes"
 
 #. Day of the Week
 msgid "Saturday"
-msgstr "Sábado"
+msgstr "[Ss]ábado"
 
 #. Day of the Week
 msgid "Sunday"
-msgstr "Domingo"
+msgstr "[Dd]omingo"
