@@ -310,7 +310,7 @@ msgstr "Merkitte ystävii"
 msgid "Terms"
 msgstr "Käyttöehđot"
 
-#not clear in meaning
+# not clear in meaning
 msgid "Ticker"
 msgstr "Uutiset nyt"
 
