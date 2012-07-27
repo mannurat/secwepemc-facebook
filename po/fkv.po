@@ -1,0 +1,427 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-02-20 16:58:12-06:00\n"
+"PO-Revision-Date: 2012-02-20 16:58:13-06:00\n"
+"Last-Translator: Mervi Haavisto\n"
+"Language-Team: Kven Finnish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "1 mutual friend"
+msgstr "1 yhtheinen ystävä"
+
+msgid "1 NEW STORY"
+msgstr "1 UUSI MUISTELUS"
+
+msgid "1 share"
+msgstr "1 jako"
+
+msgid "About"
+msgstr "Tiettoi"
+
+msgid "about an hour ago"
+msgstr "kohta tiima aikkaa"
+
+msgid "about a minute ago"
+msgstr "kohta minutti aikkaa"
+
+msgid "Account Settings"
+msgstr "Konton asetukset"
+
+msgid "Activity Log"
+msgstr "Aktiviteettilogi"
+
+msgid "Add Friend"
+msgstr "Lissää ystävän"
+
+msgid "Add Photo / Video"
+msgstr "Lissää kuvan / videon"
+
+msgid "Advertising"
+msgstr "Annonseeraus"
+
+msgid "a few seconds ago"
+msgstr "muutaman sekunin aikkaa"
+
+msgid "APPS"
+msgstr "APPLIT"
+
+msgid "Apps and Games"
+msgstr "Applit ja pelit"
+
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+msgid "%A at %s"
+msgstr "%A klo %s"
+
+msgid "Ask Question"
+msgstr "Kysy"
+
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+msgid "%B %d"
+msgstr "%Bn %d. päivä"
+
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+msgid "%B %d at %s"
+msgstr "%Bn %d. päivä klo %s"
+
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+msgid "%B %d, %Y"
+msgstr "%Bn %d. päivä, %Y"
+
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+msgid "%B %d, %Y at %s"
+msgstr "%Bn %d. päivä, %Y klo %s"
+
+msgid "Born"
+msgstr "Syntyny"
+
+msgid "By:"
+msgstr "Keneltä:"
+
+msgid "Cancel"
+msgstr "Poista"
+
+msgid "Careers"
+msgstr "Karriäärit"
+
+msgid "Change Cover"
+msgstr "Vaiheta kuvan"
+
+msgid "Chat (Offline)"
+msgstr "Praati (Ei käytössä)"
+
+msgid "Close"
+msgstr "Sulje"
+
+msgid "Close Friends"
+msgstr "Liki ystävät"
+
+#. is this a verb or a noun? (This is a verb in kven language)
+msgid "Comment"
+msgstr "Kommenteeraa"
+
+msgid "Create an Ad"
+msgstr "Luo annonsin"
+
+msgid "Create a Page"
+msgstr "Luo laiđan"
+
+msgid "Create Group..."
+msgstr "Luo roikan..."
+
+msgid "Developers"
+msgstr "Kehittäjät"
+
+msgid "%d hours ago"
+msgstr "%d tiimaa aikkaa"
+
+msgid "%d minutes ago"
+msgstr "%d minuttii aikkaa"
+
+msgid "%d mutual friends"
+msgstr "%d yhtheistä ystävää"
+
+msgid "%d NEW STORIES"
+msgstr "%d UUTTA MUISTELUSTA"
+
+msgid "%d people"
+msgstr "%d ihmistä"
+
+msgid "%d shares"
+msgstr "%d jakkoo"
+
+msgid "Edit Options"
+msgstr "Muuta alternatiivii"
+
+msgid "Edit or Remove"
+msgstr "Muuta tahi poista"
+
+msgid "Enter a friend's name or email address"
+msgstr "Lissää ystävän nimen tahi e-postiadressin"
+
+msgid "Events"
+msgstr "Tapattumat"
+
+msgid "Family"
+msgstr "Peret"
+
+msgid "FAVORITES"
+msgstr "FAVORIITIT"
+
+msgid "Find Friends"
+msgstr "Haje ystävii"
+
+msgid "Friend Requests"
+msgstr "Ystäväpyynöt"
+
+msgid "Friends"
+msgstr "Ystävät"
+
+msgid "GROUPS"
+msgstr "ROIKAT"
+
+msgid "Help"
+msgstr "Apu"
+
+msgid "Home"
+msgstr "Koti"
+
+msgid "Life Event"
+msgstr "Elämäntapattuma"
+
+# verb or noun? (This is a verb in kven language)Herewith translated as noun
+msgid "Like"
+msgstr "Tykkää"
+
+# verb or noun? (This is a noun in kven language)Herewith translated as noun
+msgid "Likes"
+msgstr "Tykkäämiset"
+
+msgid "LISTS"
+msgstr "LISTAT"
+
+msgid "Log Out"
+msgstr "Lopeta"
+
+msgid "Map"
+msgstr "Kartta"
+
+msgid "Message:"
+msgstr "Mellinki:"
+
+msgid "Messages"
+msgstr "Mellingit"
+
+msgid "More"
+msgstr "Enämen"
+
+msgid "MORE"
+msgstr "ENÄMEN"
+
+msgid "More Stories"
+msgstr "Enämen muisteluksii"
+
+msgid "New Group..."
+msgstr "Uusi roikka..."
+
+msgid "New Message"
+msgstr "Uusi mellinki"
+
+msgid "News Feed"
+msgstr "Uutisuuđistus"
+
+msgid "Now"
+msgstr "Nyt"
+
+msgid "PAGES"
+msgstr "LAIÐAT"
+
+msgid "People who like this"
+msgstr "Ihmiset jokka tykäthään tästä"
+
+msgid "People You May Know"
+msgstr "Ihmiset joita piian tunnet"
+
+msgid "Photo"
+msgstr "Kuva"
+
+msgid "Photos"
+msgstr "Kuvat"
+
+msgid "Place"
+msgstr "Paikka"
+
+msgid "Places"
+msgstr "Paikat"
+
+msgid "Privacy"
+msgstr "Persoonasuoja"
+
+msgid "Privacy Settings"
+msgstr "Persoonasuojan asetukset"
+
+msgid "Profile"
+msgstr "Profiili"
+
+msgid "Recent Activity"
+msgstr "Viimi aktiviteetti"
+
+msgid "Recommended Pages"
+msgstr "Ehdotetut laidat"
+
+msgid "Remove Preview"
+msgstr "Poista"
+
+msgid "Resize"
+msgstr "Vaiheta kovon"
+
+msgid "Search"
+msgstr "Haje"
+
+msgid "See All"
+msgstr "Näytä kaikki"
+
+msgid "See All Messages"
+msgstr "Näytä kaikki mellingit"
+
+msgid "See More"
+msgstr "Näytä enämen"
+
+msgid "See Translation"
+msgstr "Näytä käänöksen"
+
+msgid "Send"
+msgstr "Lähätä"
+
+msgid "Send a New Message"
+msgstr "Lähätä uuden mellingin"
+
+msgid "Share"
+msgstr "Jaa"
+
+msgid "%a likes this."
+msgstr "%a tykkää tästä."
+
+msgid "%a like this."
+msgstr "%a tykäthään tästä."
+
+msgid "SORT"
+msgstr "SORTTEERAA"
+
+msgid "Sponsored"
+msgstr "Sponsoreerattu"
+
+msgid "Status"
+msgstr "Staattus"
+
+msgid "Subscriptions"
+msgstr "Abonnementit"
+
+msgid "Tag Friends"
+msgstr "Merkitte ystävii"
+
+# not clear in meaning: which meaning does it imply?
+msgid "Terms"
+msgstr "Käyttöehđot"
+
+#not clear in meaning
+msgid "Ticker"
+msgstr "Uutiset nyt"
+
+msgid "Timeline"
+msgstr "Aikalinja"
+
+msgid "To:"
+msgstr "Kenele:"
+
+msgid "Unlike"
+msgstr "En tykkääkhään"
+
+msgid "Update Info"
+msgstr "Uuđista tiettoi"
+
+msgid "Update Status"
+msgstr "Uuđista staattuksen"
+
+msgid "View all %d comments"
+msgstr "Näytä kaikki %d kommentaarii"
+
+msgid "Wall Photos"
+msgstr "Seinäkuvat"
+
+msgid "What's on your mind?"
+msgstr "Mitä sie hunteeraat?"
+
+msgid "Write a comment..."
+msgstr "Kirjoita kommentaarin..."
+
+msgid "Yesterday"
+msgstr "Eilen"
+
+msgid "Yesterday at %s"
+msgstr "Eilen klo %s"
+
+msgid "You like this."
+msgstr "Sie tykkäät tästä."
+
+#. Month Name
+msgid "January"
+msgstr "Januaarikuu"
+
+#. Month Name
+msgid "February"
+msgstr "Fepruaarikuu"
+
+#. Month Name
+msgid "March"
+msgstr "Marsikuu"
+
+#. Month Name
+msgid "April"
+msgstr "Aprillikuu"
+
+#. Month Name
+msgid "May"
+msgstr "Maikuu"
+
+#. Month Name
+msgid "June"
+msgstr "Juunikuu"
+
+#. Month Name
+msgid "July"
+msgstr "Juulikuu"
+
+#. Month Name
+msgid "August"
+msgstr "Aukustikuu"
+
+#. Month Name
+msgid "September"
+msgstr "Septemperikuu"
+
+#. Month Name
+msgid "October"
+msgstr "Oktooperikuu"
+
+#. Month Name
+msgid "November"
+msgstr "Novemperikuu"
+
+#. Month Name
+msgid "December"
+msgstr "Desemperikuu"
+
+#. Day of the Week
+msgid "Monday"
+msgstr "Maanantai"
+
+#. Day of the Week
+msgid "Tuesday"
+msgstr "Tiistai"
+
+#. Day of the Week
+msgid "Wednesday"
+msgstr "Keskiviikko"
+
+#. Day of the Week
+msgid "Thursday"
+msgstr "Tuorestai"
+
+#. Day of the Week
+msgid "Friday"
+msgstr "Perjantai"
+
+#. Day of the Week
+msgid "Saturday"
+msgstr "Lauvantai"
+
+#. Day of the Week
+msgid "Sunday"
+msgstr "Sunnuntai"
