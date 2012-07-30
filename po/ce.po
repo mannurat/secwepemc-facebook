@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-04 16:12:08-0500\n"
+"POT-Creation-Date: 2012-07-30 12:52:58-0500\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Sarah Slye\n"
 "Language-Team: Chechen\n"
@@ -40,16 +40,36 @@ msgid "link"
 msgstr "тlетовжар"
 
 #. Always a link. Used in longer sentences as above.
+msgctxt "commented on"
+msgid "link"
+msgstr "тlетовжарна"
+
+#. Always a link. Used in longer sentences as above.
 msgid "photo"
 msgstr "сурт"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on"
+msgid "photo"
+msgstr "суьртана"
 
 #. Always a link. Used in longer sentences as above.
 msgid "post"
 msgstr "публикаци"
 
 #. Always a link. Used in longer sentences as above.
+msgctxt "commented on"
+msgid "post"
+msgstr "публикацина"
+
+#. Always a link. Used in longer sentences as above.
 msgid "status"
 msgstr "статус"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on"
+msgid "status"
+msgstr "статусна"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
@@ -57,7 +77,7 @@ msgstr "статус карлаяккхар"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
-msgstr ""
+msgstr "%a1, %a2, %a3, иза хазатета."
 
 #. %a is a person's name; %d stands for a number, no need to translate it
 msgid "%a added a new photo."
@@ -77,22 +97,20 @@ msgstr "%a1 %a2 а х1инца доттаг1ий бу."
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr "%a1, %a2 хlинца доттагlий бу кхуьнца (%a3)"
+msgstr "%a1, кхин а %a2 a хlинца доттагlий бу кхуьнца (%a3)"
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 commented on a %a3."
-msgstr "Суна хазахета хlара"
+msgstr "%a1 %a2 а комментари йина %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
-#, fuzzy
 msgid "%a1 and %a2 like %a3."
-msgstr "Суна хазахета хlара"
+msgstr "%a1, %a2 a хазахета %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
-msgstr ""
+msgstr "%a1, %a2 a хазахета хlара."
 
 # form of Chechen verb assumes it's "a link"
 #. %a1 and %a2 as above, and %a3 is something like (always?) "a link"
@@ -100,9 +118,8 @@ msgid "%a1 and %a2 shared %a3."
 msgstr "%a1 %a2 a делла %a3."
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr "%a хlара хазахета"
+msgstr "%a1 %a2 a (д)елла %a3 %a4."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -119,27 +136,27 @@ msgstr "Чот хlоттор"
 
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
-msgstr ""
+msgstr "%a хийцина шен профилан сурт."
 
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
-msgstr ""
+msgstr "%a хийцина шен профилан сурт."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on a %a2."
-msgstr ""
+msgstr "%а1 комментари йина %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on her own %a2."
-msgstr ""
+msgstr "%а1 комментари йина шен %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on his own %a2."
-msgstr ""
+msgstr "%а1 комментари йина шен %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on your %a2."
-msgstr ""
+msgstr "%а1 комментари йина хьан %a2."
 
 msgid "Activity Log"
 msgstr "Ардаман журнал"
@@ -149,7 +166,7 @@ msgstr "Доттагl тlетоха"
 
 #. Under INTERESTS in left-hand navigation on home page
 msgid "Add Interests..."
-msgstr ""
+msgstr "Интересаш тlетоха"
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
@@ -164,33 +181,30 @@ msgid "a few seconds ago"
 msgstr "хlинццехь"
 
 #. %a1 is a person's name, %a2 is a place
-#, fuzzy
 msgid "%a1 is at %a2."
-msgstr "%a хlара хазахета"
+msgstr "%a1 хlинца %a2хь."
 
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
 msgid "%a1 is now friends with %a2 and %a3."
-msgstr ""
+msgstr "%a1 хlинца доттагlа ву/ю цхъанца (%a2), %a3 a."
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a1 likes %a2."
-msgstr ""
+msgstr "%a1 хазахета %a2."
 
 #. %a1 is a person's name, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 likes a %a2."
-msgstr ""
+msgstr "%a1 %a2 хазахета."
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
-#, fuzzy
 msgid "%a1 likes %a2's %a3."
-msgstr "%a хlара хазахета"
+msgstr "%a1 хазахета %a2 %a3."
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
-#, fuzzy
 msgid "%a1 likes %a2 and %a3."
-msgstr "%a хlара хазахета"
+msgstr "%a1 хазахетa %a2, %a3 а."
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -223,7 +237,7 @@ msgstr "%a1 делла %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 shared %a2's %a3."
-msgstr ""
+msgstr "%a1 (д)елла %a2 %a3."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -234,9 +248,8 @@ msgid "%a1 was tagged in %a2's %a3."
 msgstr ""
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
-#, fuzzy
 msgid "%a1 was tagged in a %a2."
-msgstr "%a хlара хазахета"
+msgstr ""
 
 #. %a1 and %a2 are names of people
 msgid "%a1 was tagged in %a2's photos."
@@ -244,11 +257,11 @@ msgstr ""
 
 #. %a is someone's name (female)
 msgid "%a updated her cover photo."
-msgstr ""
+msgstr "%a карлаяьккхина шен мужалт."
 
 #. %a is someone's name (male)
 msgid "%a updated his cover photo."
-msgstr ""
+msgstr "%a карлаяьккхина шен мужалт."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -303,11 +316,11 @@ msgstr "Хетарг ала"
 
 #. Link at the bottom of home page to a help page explaining what cookies are
 msgid "Cookies"
-msgstr ""
+msgstr "Кукис"
 
 #. Button label; confirm a friend request
 msgid "Confirm"
-msgstr ""
+msgstr "Тlеэца"
 
 msgid "Create an Ad"
 msgstr "Реклама е"
@@ -332,27 +345,27 @@ msgstr "Вовшахтоьхнарш"
 #. The singular "1 hour ago" is never used as far as I can tell
 msgid "1 hour ago"
 msgid_plural "%d hours ago"
-msgstr[0] "1 сахьт хьалха гергга"
+msgstr[0] "1 сахьт хьалха"
 msgstr[1] "%d сахьт хьалха"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 minute ago" is never used as far as I can tell
 msgid "1 minute ago"
 msgid_plural "%d minutes ago"
-msgstr[0] "1 минот хьалха гергга"
+msgstr[0] "1 минот хьалха"
 msgstr[1] "%d минот хьалха"
 
 #. %d stands for a number, no need to translate it
 msgid "1 mutual friend"
 msgid_plural "%d mutual friends"
 msgstr[0] "1 юкъара доттагl"
-msgstr[1] "%d юкъара доттагlий"
+msgstr[1] "%d юкъара доттагl"
 
 #. %d stands for a number, no need to translate it
 msgid "1 NEW STORY"
 msgid_plural "%d NEW STORIES"
 msgstr[0] "1 КЕРЛА ИСТОРИ"
-msgstr[1] "%d Керла историш"
+msgstr[1] "%d КЕРЛА ИСТОРИ"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. The singular "1 other" is never used as far as I can tell
@@ -363,52 +376,50 @@ msgstr[1] "%d Керла историш"
 #. "You, John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 кхечарна"
+msgstr[1] "%d кхечарна"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
 msgid "1 other friend"
 msgid_plural "%d other friends"
 msgstr[0] "1 юкъара доттагl"
-msgstr[1] "%d a"
+msgstr[1] "%d кхиниш"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
-#, fuzzy
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] "1 юкъара доттагl"
-msgstr[1] "%d юкъара доттагlий"
+msgstr[0] "1 кхин агlонаш"
+msgstr[1] "%d кхин агlонаш"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
-#, fuzzy
 msgid "1 other person"
 msgid_plural "%d other people"
-msgstr[0] "1 юкъара доттагl"
-msgstr[1] "%d юкъара доттагlий"
+msgstr[0] "1 кхи кхечарца"
+msgstr[1] "%d кхи кхечарца"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
 msgstr[0] ""
-msgstr[1] "%d стаг / нах"
+msgstr[1] "%d стаганна"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 second ago" is never used as far as I can tell
 msgid "1 second ago"
 msgid_plural "%d seconds ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 секунда хьалха"
+msgstr[1] "%d секунда хьалха"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "1 share"
 msgid_plural "%d shares"
 msgstr[0] "1 дlасадекъар"
-msgstr[1] "%d схьаэцна публикаци / публикациш"
+msgstr[1] "%d схьаэцна публикаци"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -446,11 +457,11 @@ msgid "Find Friends"
 msgstr "Доттагlий лаха"
 
 msgid "Find More Pages"
-msgstr ""
+msgstr "Кхин агlонаш а караян"
 
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
-msgstr ""
+msgstr "Чатехь доттагlий"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
@@ -462,7 +473,7 @@ msgstr "Доттагlий"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "FRIENDS"
-msgstr ""
+msgstr "ДОТТАГlИЙ"
 
 #. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
@@ -478,7 +489,7 @@ msgstr "Коьрта агlо"
 
 #. In left-hand column on home page
 msgid "INTERESTS"
-msgstr ""
+msgstr "Интересаш"
 
 msgid "Life Event"
 msgstr "Дахарехь хилам"
@@ -493,15 +504,14 @@ msgid "Likes"
 msgstr "Хазахетарш"
 
 #. Appears as link to right of "RECENT POST" on home page
-#, fuzzy
 msgid "Like Page"
-msgstr "Хазахета"
+msgstr "Агlо хазахетта"
 
 msgid "Like This Page"
-msgstr ""
+msgstr "Хlара агlо хазахетта"
 
 msgid "Links"
-msgstr ""
+msgstr "Тlетовжарш"
 
 #. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -523,7 +533,7 @@ msgstr "Хаамаш"
 
 #. Photographs uploaded from someone's mobile device
 msgid "Mobile Uploads"
-msgstr ""
+msgstr "Мобилан верси охьайиллар"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
@@ -539,11 +549,11 @@ msgstr "Кхин историш"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Most Recent"
-msgstr ""
+msgstr "Уггар тlаьххьарниш"
 
 #. Appears in left-hand navigation for some users
 msgid "Music"
-msgstr ""
+msgstr "Музыка"
 
 #. Not sure now where this appears, a figment?
 msgid "New Group..."
@@ -557,14 +567,14 @@ msgid "News Feed"
 msgstr "Хаамийн билзиг"
 
 msgid "Notes"
-msgstr ""
+msgstr "Билгалдахарш"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Схьахаийтарш"
 
 #. Button label; postpone confirmation of a friend request
 msgid "Not Now"
-msgstr ""
+msgstr "Хlинцца йиш яц"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
@@ -586,16 +596,16 @@ msgstr "Сурт"
 
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
-msgstr ""
+msgstr "Cyьрташ"
 
 #. Link that allows you to "check in" somewhere
 #. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
-msgstr ""
+msgstr "Меттиг"
 
 #. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
-msgstr ""
+msgstr "Меттигаш"
 
 #. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
@@ -606,15 +616,15 @@ msgid "Privacy"
 msgstr "Къайладахьар"
 
 msgid "Privacy Settings"
-msgstr ""
+msgstr "Къайладахьаран нисдарш"
 
 #. Appears when you mouse over your name in the top navigation
 msgid "Profile"
-msgstr ""
+msgstr "Профиль"
 
 #. Appears under APPS for some users in left-hand navigation
 msgid "Questions"
-msgstr ""
+msgstr "Хаттарш"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 #. Now defunct, I think - replaced by "Activity" and "Recent" on a line below
@@ -623,7 +633,7 @@ msgstr "Къайладахьаран нисдарш"
 
 #. Appears next to some posts on home page
 msgid "RECENT POST"
-msgstr ""
+msgstr "Тlаьххьара публикаци"
 
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
@@ -638,9 +648,8 @@ msgid "Resize"
 msgstr "Барам хийцар"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
-#, fuzzy
 msgid "%s, add a comment..."
-msgstr "Хетарг язде / Комментари язъе"
+msgstr "Комментари язъе"
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
@@ -648,7 +657,7 @@ msgstr "Лаха"
 
 #. Text that appears in the search box at the top of the page
 msgid "Search for people, places and things"
-msgstr ""
+msgstr "Нах а, меттигаш а, хlуманаш а лаха"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
@@ -656,18 +665,18 @@ msgstr "Mассаьрга хьажа"
 
 #. In the drop-down menu with recent Friend Requests
 msgid "See All Friend Requests"
-msgstr ""
+msgstr "Массо доттагlалла кховдорашка хьажа"
 
 msgid "See All Messages"
 msgstr "Массо хаамашка хьажа"
 
 msgid "See All Notifications"
-msgstr ""
+msgstr "Массо дlахаийтаршка хьажа"
 
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
 msgid "See Friendship"
-msgstr ""
+msgstr "Доттагlалле хьажа"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -700,7 +709,7 @@ msgstr "Спонсоралла хилла"
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
-msgstr "Статус / Хьал"
+msgstr "Хьал"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
@@ -708,7 +717,7 @@ msgstr "Тlеяздаларш"
 
 #. Right-hand navigation, similar to "People you may know", next to "See All"
 msgid "Suggested Groups"
-msgstr ""
+msgstr "Магийна тобанаш"
 
 msgid "Tag Friends"
 msgstr "Билгалбагlа доттагlий"
@@ -728,7 +737,7 @@ msgstr "Заман Mогlа"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
 msgid "%T near %a"
-msgstr ""
+msgstr "%T %а уллохь"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
@@ -736,7 +745,7 @@ msgstr "Хьаьнга:"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Top Stories"
-msgstr ""
+msgstr "Кlоьрта историш"
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -749,16 +758,16 @@ msgstr "Xаам карлабаккха"
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
-msgstr "Статус карлаяккхаp"
+msgstr "Статус карлаяккха"
 
 msgid "Use Facebook as:"
-msgstr ""
+msgstr "Фэйсбук лелае:"
 
 #. %d stands for a number, no need to translate it
 #. The singular "View 1 comment" is never used as far as I can tell
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
-msgstr[0] ""
+msgstr[0] "1 комментари хьажа"
 msgstr[1] "Массо %d комментаришка хьажа"
 
 msgid "Wall Photos"
@@ -766,7 +775,7 @@ msgstr "Пена тlера суьрташ"
 
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
-msgstr ""
+msgstr "Марша догlийла"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
@@ -774,7 +783,7 @@ msgstr "Хlун ду хьан дагахь?"
 
 #. Prompt when you comment on a post (replaced by "X, add a comment..."?)
 msgid "Write a comment..."
-msgstr "Хетарг язде / Комментари язъе"
+msgstr "Комментари язъе"
 
 #. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
@@ -786,15 +795,14 @@ msgstr "Селхана %s сахьт даьлча"
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
-msgstr ""
+msgstr "Хьуна, %a а хазахета хlара."
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
 msgid "You, %a1 and %a2 like this."
-msgstr "Суна хазахета хlара"
+msgstr "Хьуна, %a1 %a2 а хазахета хlара."
 
 msgid "You like this."
-msgstr "Суна хазахета хlара"
+msgstr "Хьуна хазахета хlара."
 
 #. Month Name
 msgid "January"
@@ -850,7 +858,7 @@ msgstr "Оршотде"
 
 #. Day of the Week
 msgid "Tuesday"
-msgstr ""
+msgstr "Шинарин де"
 
 #. Day of the Week
 msgid "Wednesday"
@@ -858,7 +866,7 @@ msgstr "Кхаарин де"
 
 #. Day of the Week
 msgid "Thursday"
-msgstr ""
+msgstr "Еарин де"
 
 #. Day of the Week
 msgid "Friday"
