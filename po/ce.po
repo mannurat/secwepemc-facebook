@@ -32,29 +32,28 @@ msgstr ""
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "life event"
-msgstr "Дахарехь хилам"
+msgstr "дахарехь хилам"
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
-msgstr ""
+msgstr "тlетовжар"
 
 #. Always a link. Used in longer sentences as above.
 msgid "photo"
-msgstr ""
+msgstr "сурт"
 
 #. Always a link. Used in longer sentences as above.
 msgid "post"
-msgstr ""
+msgstr "публикаци"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status"
-msgstr ""
+msgstr "статус"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
-msgstr ""
+msgstr "статус карлаяккхар"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -63,22 +62,22 @@ msgstr ""
 #. %a is a person's name; %d stands for a number, no need to translate it
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%a тlетоьхна %d керла сурт."
+msgstr[1] "%a тlетоьхна %d керла сурт."
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "т%a1 т lетоьхна %а2 альбома тlе %d керла сурт."
+msgstr[1] "т%a1 т lетоьхна %а2 альбома тlе %d керла сурт."
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
-msgstr ""
+msgstr "%a1 %a2 а х1инца доттаг1ий бу."
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr ""
+msgstr "%a1, %a2 хlинца доттагlий бу кхуьнца (%a3)"
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
 #, fuzzy
@@ -95,9 +94,10 @@ msgstr "Суна хазахета хlара"
 msgid "%a1 and %a2 like this."
 msgstr ""
 
+# form of Chechen verb assumes it's "a link"
 #. %a1 and %a2 as above, and %a3 is something like (always?) "a link"
 msgid "%a1 and %a2 shared %a3."
-msgstr ""
+msgstr "%a1 %a2 a делла %a3."
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 #, fuzzy
@@ -202,7 +202,7 @@ msgstr "%a стаганна хlара хазахета"
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
-msgstr ""
+msgstr "тlетовжар"
 
 #. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
@@ -216,9 +216,10 @@ msgstr "Компютерна улле дехкинарш, ловзарш а"
 msgid "%A at %s"
 msgstr "%A, %s"
 
+# Chechen verb assumes %a2 is "a link"
 #. %a1 is a person's name, %a2 is something like (always?) "a link"
 msgid "%a1 shared %a2."
-msgstr ""
+msgstr "%a1 делла %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 shared %a2's %a3."
@@ -367,11 +368,10 @@ msgstr[1] ""
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
-#, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
 msgstr[0] "1 юкъара доттагl"
-msgstr[1] "%d юкъара доттагlий"
+msgstr[1] "%d a"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
