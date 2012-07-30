@@ -6,6 +6,14 @@ an	photo	%a.'s
 an	post	%a.'s
 an	link	%a.'s
 an	status	%a.'s
+ce	link	commented on
+ce	photo	commented on
+ce	post	commented on
+ce	status	commented on
+ce	link	shared %a.'s
+ce	photo	shared %a.'s
+ce	post	shared %a.'s
+ce	status	shared %a.'s
 ga	life event	tagged in
 ga	photo	tagged in
 ga	post	tagged in
