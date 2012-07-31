@@ -92,9 +92,8 @@ msgstr "%a1 ha commentato un[ao]? %a2."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
-#, fuzzy
 msgid "%a1 and %a2 like %a3."
-msgstr "A %a1 e %a2 piace questo elemento."
+msgstr "A %a1 e %a2 piace %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
@@ -204,9 +203,8 @@ msgstr "A %a1 piace un[ao]? %a2."
 # una foto, un link, uno stato
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
-#, fuzzy
 msgid "%a1 likes %a2 and %a3."
-msgstr "A %a1 piace un[ao]? %a2."
+msgstr "A %a1 piacciono %a2 e %a3."
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -400,11 +398,10 @@ msgstr[1] "%d amici in comune"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
-#, fuzzy
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] "1 other"
-msgstr[1] "altri %d"
+msgstr[0] "1 other page"
+msgstr[1] "altre %d Pagine"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell

@@ -91,9 +91,8 @@ msgstr "%a1 a commenté une? %a2."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
-#, fuzzy
 msgid "%a1 and %a2 like %a3."
-msgstr "%a1 et %a2 aiment ça."
+msgstr "%a1 et %a2 aiment %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
