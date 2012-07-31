@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-30 19:58:43-0500\n"
+"POT-Creation-Date: 2012-07-30 20:12:30-0500\n"
 "PO-Revision-Date: 2012-03-11 20:15-0700\n"
 "Last-Translator: DAVID OJARA PRINCE <brianfordug@gmail.com>\n"
 "Language-Team: translation group\n"
@@ -23,13 +23,13 @@ msgstr ""
 #. always as the final word of the message in English; for example:
 #. John Doe likes Jane Doe's X.
 #. John Doe shared Jane Doe's X.
+#. John Doe shared her/his own X.
 #. John Doe and Jane Doe shared Kevin Scannell's X.
 #. John Doe was tagged in Jane Doe's X.
 #. John Doe was tagged in a X.
 #. John Doe commented on a X.
 #. John Doe and Jane Doe commented on a X.
-#. John Doe commented on her own X.
-#. John Doe commented on his own X.
+#. John Doe commented on her/his own X.
 #. John Doe commented on your X.
 #. John Doe likes a X.
 #. If the translations of link, photo, etc. take different forms depending
@@ -236,6 +236,16 @@ msgstr "%d cul"
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 #, fuzzy
 msgid "%a1 shared %a2's %a3."
+msgstr "%d cul"
+
+#. %a1 is a person, %a2 is "link", "photo", "post", or "status"
+#, fuzzy
+msgid "%a1 shared her own %a2."
+msgstr "%d cul"
+
+#. %a1 is a person, %a2 is "link", "photo", "post", or "status"
+#, fuzzy
+msgid "%a1 shared his own %a2."
 msgstr "%d cul"
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
