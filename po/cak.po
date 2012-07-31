@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-04 16:12:08-0500\n"
+"POT-Creation-Date: 2012-07-30 19:58:44-0500\n"
 "PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
 "Last-Translator: Peter Rohloff\n"
 "Language-Team: Kaqchikel\n"
@@ -653,7 +653,7 @@ msgstr "Peyon taq ruxaq"
 msgid "Remove Preview"
 msgstr "Relesaxik nab'ey tz'etb'äl"
 
-#. Option on every post on your personal timeline (now "Highlight"?)
+#. Option on every post on your personal timeline (now defunct? see "Highlight")
 msgid "Resize"
 msgstr "Ruk'exik runimilem"
 
@@ -729,7 +729,8 @@ msgstr "Rub'eyal"
 msgid "Subscriptions"
 msgstr "Tz'ib'an taq b'i'aj"
 
-#. Right-hand navigation, similar to "People you may know", next to "See All"
+#. Right-hand navigation, similar to "People you may know"
+#. Get it by clicking "GROUPS" in left-hand navigation on Home Page
 msgid "Suggested Groups"
 msgstr ""
 

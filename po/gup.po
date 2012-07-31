@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-04 16:12:08-0500\n"
+"POT-Creation-Date: 2012-07-30 19:58:44-0500\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Murray Garde\n"
 "Language-Team: Kunwinjku\n"
@@ -662,7 +662,7 @@ msgstr "Kubuyika ngundi-bukkan"
 msgid "Remove Preview"
 msgstr "Yi-bimbularrbu"
 
-#. Option on every post on your personal timeline (now "Highlight"?)
+#. Option on every post on your personal timeline (now defunct? see "Highlight")
 msgid "Resize"
 msgstr "Yi-kimukwo o yi-yahwurdwo"
 
@@ -737,7 +737,8 @@ msgstr "Bale nga-yimerran"
 msgid "Subscriptions"
 msgstr "Ku-buyika nga-djare"
 
-#. Right-hand navigation, similar to "People you may know", next to "See All"
+#. Right-hand navigation, similar to "People you may know"
+#. Get it by clicking "GROUPS" in left-hand navigation on Home Page
 msgid "Suggested Groups"
 msgstr ""
 

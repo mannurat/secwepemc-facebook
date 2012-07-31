@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-04 16:12:09-0500\n"
+"POT-Creation-Date: 2012-07-30 19:58:45-0500\n"
 "PO-Revision-Date: 2012-02-20 17:58:12-06:00\n"
 "Last-Translator: Alan R. King\n"
 "Language-Team: Nawat\n"
@@ -646,7 +646,7 @@ msgstr "Nusan Weli Mugustoj"
 msgid "Remove Preview"
 msgstr "Shikishti ne Achtutachialis"
 
-#. Option on every post on your personal timeline (now "Highlight"?)
+#. Option on every post on your personal timeline (now defunct? see "Highlight")
 msgid "Resize"
 msgstr "Shikwepa Mas Wey/Chikitik"
 
@@ -719,7 +719,8 @@ msgstr "Ken Ijtuk"
 msgid "Subscriptions"
 msgstr "Tay kikwi"
 
-#. Right-hand navigation, similar to "People you may know", next to "See All"
+#. Right-hand navigation, similar to "People you may know"
+#. Get it by clicking "GROUPS" in left-hand navigation on Home Page
 msgid "Suggested Groups"
 msgstr ""
 

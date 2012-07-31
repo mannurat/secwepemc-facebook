@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-27 12:28:13-0500\n"
+"POT-Creation-Date: 2012-07-30 19:58:45-0500\n"
 "PO-Revision-Date: 2012-07-11 15:04:11-0500\n"
 "Last-Translator: Grzegorz Kulik\n"
 "Language-Team: Silesian\n"
@@ -633,7 +633,7 @@ msgstr "POLECANE STRŌNY"
 msgid "Remove Preview"
 msgstr "Skryj podglōnd"
 
-#. Option on every post on your personal timeline (now "Highlight"?)
+#. Option on every post on your personal timeline (now defunct? see "Highlight")
 msgid "Resize"
 msgstr "Miyń wielgość"
 
@@ -705,7 +705,8 @@ msgstr "Status"
 msgid "Subscriptions"
 msgstr "Subskrypcyje"
 
-#. Right-hand navigation, similar to "People you may know", next to "See All"
+#. Right-hand navigation, similar to "People you may know"
+#. Get it by clicking "GROUPS" in left-hand navigation on Home Page
 msgid "Suggested Groups"
 msgstr "Polecane skupiny"
 

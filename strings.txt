@@ -298,7 +298,7 @@ RECENT POST
 Recommended Pages
 #. When you share a link in a comment, use this to remove the preview image
 Remove Preview
-#. Option on every post on your personal timeline (now "Highlight"?)
+#. Option on every post on your personal timeline (now defunct? see "Highlight")
 Resize
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
 %s, add a comment...
@@ -334,7 +334,8 @@ Sponsored
 Status
 #. Top of profile, after Friends, Photos, Map, ...
 Subscriptions
-#. Right-hand navigation, similar to "People you may know", next to "See All"
+#. Right-hand navigation, similar to "People you may know"
+#. Get it by clicking "GROUPS" in left-hand navigation on Home Page
 Suggested Groups
 Tag Friends
 #. Link at the bottom of home page to Facebook's "Terms of Service"
