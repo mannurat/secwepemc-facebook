@@ -212,7 +212,7 @@ msgstr "%a хlара хазахета"
 
 #. %a stands for something like "3 people"
 msgid "%a like this."
-msgstr "%a стаганна хlара хазахета"
+msgstr "%a хlара хазахета"
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
