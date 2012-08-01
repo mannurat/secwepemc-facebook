@@ -750,7 +750,7 @@ msgstr "Заман Mогlа"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
 msgid "%T near %a"
-msgstr "%T %а уллохь"
+msgstr "%T %a уллохь"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
