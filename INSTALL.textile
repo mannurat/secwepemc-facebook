@@ -32,6 +32,7 @@ to English, etc.
 | ce-x-en | en | Chechen | Нохчийн | 1.0.0 | Not yet released | Bulat Betalgiry, Islam Elsanov, Sarah Slye |
 | ce | ru | Chechen | Нохчийн | 1.0.0 | Not yet released | Bulat Betalgiry, Islam Elsanov, Sarah Slye |
 | ceb | en | Cebuano | Binisaya | 1.0.0 | Not yet released | Joshua Verano |
+| csb | en | Kashubian | Kaszëbsczi | 1.0.0 | "http://userscripts.org/scripts/show/139959":http://userscripts.org/scripts/show/139959 | Mateusz Meyer |
 | eml | it | Emiliano-Romagnolo | Emiliàn e Rumagnòl | 1.0.1 | "http://userscripts.org/scripts/show/129394":http://userscripts.org/scripts/show/129394 | Federico L. G. Faroldi |
 | fkv | en | Kven Finnish | Kväänin kieli | 1.0.0 | Not yet released | Mervi Haavisto |
 | fr-x-jer | en | Jèrriais | Jèrriais | 1.0.1 | "http://userscripts.org/scripts/show/130838":http://userscripts.org/scripts/show/130838 | Tony Scott Warren, Geraint Jennings |

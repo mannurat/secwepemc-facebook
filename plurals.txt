@@ -12,6 +12,8 @@ ce	0	1
 ce	1	[0-9,]+
 ceb	0	1
 ceb	1	[0-9,]+
+csb	0	1
+csb	1	[0-9,]+
 eml	0	1
 eml	1	[0-9,]+
 en-GB	0	1
