@@ -241,15 +241,13 @@ msgstr "%a1 (д)елла %a2 %a3."
 
 # Chechen verb assumes %a2 is "a link"
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "%a1 делла %a2."
+msgstr ""
 
 # Chechen verb assumes %a2 is "a link"
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "%a1 делла %a2."
+msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
