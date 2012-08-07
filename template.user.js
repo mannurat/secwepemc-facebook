@@ -40,8 +40,8 @@ tags.push('a');      // many... (should do last for "context sensitive" stuff)
 
 var divclasses = new Array();
 divclasses.push('innerWrap');  // Write a comment... <textarea>
-divclasses.push('commentActions fsm fwn fcg'); // time stamps on comments
 divclasses.push('UIImageBlock_Content UIImageBlock_ICON_Content');  // 2 people like this
+//divclasses.push('commentActions fsm fwn fcg'); // time stamps on comments
 //divclasses.push('fsm fwn fcg');  // By:
 //divclasses.push('uiImageBlockContent uiImageBlockSmallContent');  // "near"
 
@@ -112,7 +112,7 @@ function translateOnInsert( node ) {
   // GM_log(logmsg);
 }
 
-// This is (only) needed to handle updates to time stamps
+// This was (only) needed to handle updates to time stamps
 function listen_for_change(evt)
 {
   var node = evt.target;
@@ -132,12 +132,17 @@ function listen_for_add(evt)
     translateOnInsert(node);
     document.body.addEventListener( 'DOMNodeInserted', listen_for_add, false );
   }
+  else if (node.nodeType == document.TEXT_NODE) { // time stamps only
+    document.body.removeEventListener( 'DOMNodeInserted', listen_for_add, false );
+    node.data = translate(node.data);
+    document.body.addEventListener( 'DOMNodeInserted', listen_for_add, false );
+  }
 }
 
 function initme()
 {
   document.body.addEventListener( 'DOMNodeInserted', listen_for_add, false );
-  document.body.addEventListener( 'DOMCharacterDataModified', listen_for_change, false );
+  // document.body.addEventListener( 'DOMCharacterDataModified', listen_for_change, false );
   document.body.innerHTML = translate(document.body.innerHTML);
 }
 
