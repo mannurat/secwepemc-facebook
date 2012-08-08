@@ -8,6 +8,9 @@
       "run_at": "document_start"
    } ],
    "converted_from_user_script": true,
+   "icons": { "16": "icon16.png",
+              "48": "icon48.png",
+             "128": "icon128.png" },
    "description": "Translates Facebook into !ENGLISHNAME!",
    "name": "facebook-!TEANGA!",
    "version": "!LEAGAN!",

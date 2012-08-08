@@ -30,6 +30,7 @@ do
 	rm -Rf facebook-${LANGCODE}
 	mkdir facebook-${LANGCODE}
 	cat template.json | sed "s/!TEANGA!/${LANGCODE}/" | sed "s/!LEAGAN!/${VERSION}/" | sed "s/!ENGLISHNAME!/${ENGLISHNAME}/" > facebook-${LANGCODE}/manifest.json
+	cp images/icon*.png facebook-${LANGCODE}
 	cp facebook-${LANGCODE}.user.js facebook-${LANGCODE}
 	zip -r facebook-${LANGCODE}.zip facebook-${LANGCODE}
 	rm -f ${LANGCODE}-temp.js
