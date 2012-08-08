@@ -27,6 +27,12 @@ do
 	echo "Generating greasemonkey for ${LANGCODE} (using po/${POFILECODE}.po)..."
 	perl po2gm.pl ${POFILECODE} ${AMBIENTLANG} > ${TEMPFILE}
 	sed "/Translations go here/r ${TEMPFILE}" template.user.js | sed "s/!TEANGA!/${LANGCODE}/" | sed "s/!DATA!/`date +%Y-%m-%d`/" | sed "s/!LEAGAN!/${VERSION}/" | sed "s/!ENGLISHNAME!/${ENGLISHNAME}/" | sed "s/!TRANSLATORS!/${TRANSLATORS}/" > facebook-${LANGCODE}.user.js
+	rm -Rf facebook-${LANGCODE}
+	mkdir facebook-${LANGCODE}
+	cat template.json | sed "s/!TEANGA!/${LANGCODE}/" | sed "s/!LEAGAN!/${VERSION}/" | sed "s/!ENGLISHNAME!/${ENGLISHNAME}/" > facebook-${LANGCODE}/manifest.json
+	cp facebook-${LANGCODE}.user.js facebook-${LANGCODE}
+	zip -r facebook-${LANGCODE}.zip facebook-${LANGCODE}
 	rm -f ${LANGCODE}-temp.js
+	rm -Rf facebook-${LANGCODE}
 done
 rm -f ${TEMPFILE}
