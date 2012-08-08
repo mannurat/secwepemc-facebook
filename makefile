@@ -13,7 +13,7 @@ updatepos: strings.txt header.pot buildpot.sh
 updategms: facebook-ga.user.js
 
 # builds all languages
-facebook-ga.user.js: po/*.po template.user.js po2gm.pl generate-gm.sh LINGUAS
+facebook-ga.user.js: po/*.po template.user.js po2gm.pl generate-gm.sh LINGUAS template.json
 	bash generate-gm.sh
 
 INSTALL.textile: LINGUAS INSTALL-template
