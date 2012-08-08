@@ -1,0 +1,14 @@
+{
+   "content_scripts": [ {
+      "exclude_globs": [  ],
+      "exclude_matches": [  ],
+      "include_globs": [ "http*://*.facebook.com/*", "http*://facebook.com/*" ],
+      "js": [ "facebook-!TEANGA!.user.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "converted_from_user_script": true,
+   "description": "Translates Facebook into !ENGLISHNAME!",
+   "name": "facebook-!TEANGA!",
+   "version": "!LEAGAN!"
+}
