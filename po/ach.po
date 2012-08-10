@@ -323,7 +323,7 @@ msgstr "Yub pot buk"
 
 #. Appears as last item under "GROUPS" in left-hand navigation
 msgid "Create Group..."
-msgstr "Yub Dul%B %d, %Y at %s"
+msgstr "Yub Dul..."
 
 #. Button label at top of Groups page (click "MORE" next to "GROUPS")
 msgid "Create Group"
