@@ -101,7 +101,7 @@ msgstr "Ua 'avatu e %a1 ma %a2 le %a4 a %a3"
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
-msgstr "E uiga i"
+msgstr "Fa'atatau"
 
 msgid "about an hour ago"
 msgstr "i le itūlā ua mavae"
