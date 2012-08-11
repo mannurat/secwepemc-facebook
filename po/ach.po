@@ -195,7 +195,7 @@ msgstr "%a maro eni."
 
 #. %a stands for something like "3 people"
 msgid "%a like this."
-msgstr "$a maro eni."
+msgstr "%a maro eni."
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
