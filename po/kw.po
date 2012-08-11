@@ -33,25 +33,22 @@ msgstr ""
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "life event"
-msgstr "Hwarvos Bewnans"
+msgstr ""
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
 msgstr "kevren"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "commented on her"
 msgid "link"
-msgstr "kevren"
+msgstr ""
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "commented on (a|his own)"
 msgid "link"
-msgstr "kevren"
+msgstr ""
 
 #. Always a link. Used in longer sentences as above.
 msgid "photo"
@@ -76,9 +73,8 @@ msgid "status"
 msgstr "studh"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "status update"
-msgstr "studh"
+msgstr ""
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -109,9 +105,8 @@ msgid "%a1 and %a2 are now friends with %a3."
 msgstr "%a1 ha %a2 yw kowetha gans %a3 lemmyn."
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 commented on a %a3."
-msgstr "%a1 a gampollas a-dro dhe %a2"
+msgstr ""
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
@@ -248,14 +243,12 @@ msgid "%a1 shared %a2's %a3."
 msgstr "%a1 a gevrennas %a3 %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "%a1 a gevrennas %a2."
+msgstr ""
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "%a1 a gevrennas %a2."
+msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -266,24 +259,20 @@ msgid "%a1 was tagged in %a2's %a3."
 msgstr "Tegys veu %a1 yn %a3 %a2."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
-#, fuzzy
 msgid "%a1 was tagged in a %a2."
-msgstr "Tegys veu %a1 yn %a3 %a2."
+msgstr ""
 
 #. %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 was tagged in %a2's photos."
-msgstr "Tegys veu %a1 yn %a3 %a2."
+msgstr ""
 
 #. %a is someone's name (female)
-#, fuzzy
 msgid "%a updated her cover photo."
-msgstr "%a a geworras skeusen nowyth."
+msgstr ""
 
 #. %a is someone's name (male)
-#, fuzzy
 msgid "%a updated his cover photo."
-msgstr "%a a geworras skeusen nowyth."
+msgstr ""
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -692,9 +681,8 @@ msgid "Resize"
 msgstr "Chanj an braster"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
-#, fuzzy
 msgid "%s, add a comment..."
-msgstr "Skrif kampol..."
+msgstr "%s, skrif kampol..."
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
