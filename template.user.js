@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           facebook-!TEANGA!
 // @namespace      IndigenousTweets.com
-// @description    Translates Facebook into !ENGLISHNAME!
+// @description    Translate Facebook into !ENGLISHNAME!
 // @include        http*://*.facebook.com/*
 // @include        http*://facebook.com/*
 // @author         Kevin Scannell
