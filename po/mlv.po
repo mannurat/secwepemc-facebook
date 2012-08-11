@@ -32,103 +32,90 @@ msgstr ""
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "life event"
-msgstr "Makteg?"
+msgstr ""
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
 msgstr "la gatli pej 1"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "shared %a.'s"
 msgid "link"
-msgstr "la gatli pej 1"
+msgstr ""
 
 #. Always a link. Used in longer sentences as above.
 msgid "photo"
 msgstr "lo totgal 1"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "shared %a.'s"
 msgid "photo"
-msgstr "lo totgal 1"
+msgstr ""
 
 #. Always a link. Used in longer sentences as above.
 msgid "post"
 msgstr "lo yoy 1"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "shared %a.'s"
 msgid "post"
-msgstr "lo yoy 1"
+msgstr ""
 
 #. Always a link. Used in longer sentences as above.
 msgid "status"
 msgstr "lo yoy 1"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "shared %a.'s"
 msgid "status"
-msgstr "lo yoy 1"
+msgstr ""
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "status update"
-msgstr "lo yoy 1"
+msgstr ""
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgctxt "shared %a.'s"
 msgid "status update"
-msgstr "lo yoy 1"
+msgstr ""
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
 msgstr "%a1 kōyō %a2, tiwag mi %a3 memlaklak aē."
 
 #. %a is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
-msgstr[0] "%a mē vētleg me nototgal 1."
-msgstr[1] "%a mē vētleg me nototgal 1."
-msgstr[2] "%a mē vētleg me nototgal 1."
-msgstr[3] "%a mē vētleg me nototgal 1."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
-msgstr[0] "%a mē vētleg me nototgal 1."
-msgstr[1] "%a mē vētleg me nototgal 1."
-msgstr[2] "%a mē vētleg me nototgal 1."
-msgstr[3] "%a mē vētleg me nototgal 1."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #. Both %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 and %a2 are now friends."
-msgstr "%a1 tiwag mi %a2 memlaklak aē."
+msgstr ""
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
-#, fuzzy
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr "%a1 wa %a2 mē vētleg me %a3."
+msgstr ""
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 commented on a %a3."
-msgstr "%a1 ma kaka van %a2."
+msgstr ""
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
-#, fuzzy
 msgid "%a1 and %a2 like %a3."
-msgstr "%a1 tiwag mi %a2 memlaklak aē."
+msgstr ""
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
@@ -139,9 +126,8 @@ msgid "%a1 and %a2 shared %a3."
 msgstr "%a1 wa %a2 mē vētleg me %a3."
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr "%a1 wa %a2 mē vētleg me %a3."
+msgstr ""
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -169,19 +155,16 @@ msgid "%a1 commented on a %a2."
 msgstr "%a1 ma kaka van %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on her own %a2."
-msgstr "%a1 ma kaka van %a2."
+msgstr ""
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on his own %a2."
-msgstr "%a1 ma kaka van %a2."
+msgstr ""
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on your %a2."
-msgstr "%a1 ma kaka van %a2."
+msgstr ""
 
 msgid "Activity Log"
 msgstr "Wō makteg geh?"
@@ -206,9 +189,8 @@ msgid "a few seconds ago"
 msgstr "isqet ēwē agōh"
 
 #. %a1 is a person's name, %a2 is a place
-#, fuzzy
 msgid "%a1 is at %a2."
-msgstr "%a1 kē memlaklak van %a2."
+msgstr ""
 
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
@@ -224,15 +206,13 @@ msgid "%a1 likes a %a2."
 msgstr "%a1 kē memlaklak van %a2."
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
-#, fuzzy
 msgid "%a1 likes %a2's %a3."
-msgstr "%a1 kē memlaklak van %a2."
+msgstr ""
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
-#, fuzzy
 msgid "%a1 likes %a2 and %a3."
-msgstr "%a1 kē memlaklak van %a2."
+msgstr ""
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -263,48 +243,40 @@ msgid "%a1 shared %a2."
 msgstr "%a1 mē vētleg me %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared %a2's %a3."
-msgstr "%a1 mē vētleg me %a2."
+msgstr ""
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "%a1 mē vētleg me %a2."
+msgstr ""
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "%a1 mē vētleg me %a2."
+msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Nēvēvēhiy"
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 was tagged in %a2's %a3."
-msgstr "%a1 ma kaka van %a2."
+msgstr ""
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
-#, fuzzy
 msgid "%a1 was tagged in a %a2."
-msgstr "%a1 ma kaka van %a2."
+msgstr ""
 
 #. %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 was tagged in %a2's photos."
-msgstr "%a1 ma kaka van %a2."
+msgstr ""
 
 #. %a is someone's name (female)
-#, fuzzy
 msgid "%a updated her cover photo."
-msgstr "%a mē vētleg me nototgal 1."
+msgstr ""
 
 #. %a is someone's name (male)
-#, fuzzy
 msgid "%a updated his cover photo."
-msgstr "%a mē vētleg me nototgal 1."
+msgstr ""
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -434,33 +406,30 @@ msgstr[3] "ige bul %d se kēy"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
-#, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
-msgstr[0] "dētēl net 1 gōh mu bulsal tiwag"
-msgstr[1] "bulsal nonmamyō tiwag kōyō %d"
-msgstr[2] "bulsal nonmamyō tiwag kēytēl %d"
-msgstr[3] "ige bulsal nonmamyō tiwag kēy bul %d"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
-#, fuzzy
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] "hiqiyig 1 se kē"
-msgstr[1] "yoge %d se kōyō"
-msgstr[2] "tēlge %d se kēytēl"
-msgstr[3] "ige bul %d se kēy"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
-#, fuzzy
 msgid "1 other person"
 msgid_plural "%d other people"
-msgstr[0] "hiqiyig 1 se kē"
-msgstr[1] "yoge %d se kōyō"
-msgstr[2] "tēlge %d se kēytēl"
-msgstr[3] "ige bul %d se kēy"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
@@ -573,9 +542,8 @@ msgid "Likes"
 msgstr "Namyōs mino"
 
 #. Appears as link to right of "RECENT POST" on home page
-#, fuzzy
 msgid "Like Page"
-msgstr "No nemyōs ige agōh!"
+msgstr ""
 
 msgid "Like This Page"
 msgstr "No nemyōs ige agōh!"
@@ -718,9 +686,8 @@ msgid "Resize"
 msgstr "Galeg liwo"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
-#, fuzzy
 msgid "%s, add a comment..."
-msgstr "Tō nēk wo…"
+msgstr "%s, tō nēk wo…"
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
@@ -872,9 +839,8 @@ msgid "You and %a like this."
 msgstr "Kemem tiwag mi %a, kem nemlaklak aē."
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
 msgid "You, %a1 and %a2 like this."
-msgstr "Kemem tiwag mi %a, kem nemlaklak aē."
+msgstr ""
 
 msgid "You like this."
 msgstr "No nemlaklak aē."
