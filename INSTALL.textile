@@ -25,43 +25,43 @@ to English, etc.
 
 |_. Code |_. Default |_. Name (English) |_. Name (Native) |_. Version |_. Home Page |_. Translators |
 | ach | en | Acholi | Acholi | 1.0.0 | Not yet released | David Ojara Prince |
-| an | es | Aragonese | Aragonés | 1.0.3 | "http://userscripts.org/scripts/show/130197":http://userscripts.org/scripts/show/130197 | Juan Pablo Martínez |
+| an | es | Aragonese | Aragonés | 1.0.3 | "Firefox":http://userscripts.org/scripts/show/130197 | Juan Pablo Martínez |
 | bal | en | Balochi | Balochi | 1.0.0 | Not yet released | Mostafa Daneshvar |
-| br | fr | Breton | Brezhoneg | 1.0.1 | "http://userscripts.org/scripts/show/127734":http://userscripts.org/scripts/show/127734 | Fulup Jakez |
+| br | fr | Breton | Brezhoneg | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/127734 | Fulup Jakez |
 | cak | es | Cakchiquel | Kaqchikel | 1.0.0 | Not yet released | Peter Rohloff |
 | ce-x-en | en | Chechen | Нохчийн | 1.0.0 | Not yet released | Bulat Betalgiry, Islam Elsanov, Sarah Slye |
 | ce | ru | Chechen | Нохчийн | 1.0.0 | Not yet released | Bulat Betalgiry, Islam Elsanov, Sarah Slye |
 | ceb | en | Cebuano | Binisaya | 1.0.0 | Not yet released | Joshua Verano |
-| csb | en | Kashubian | Kaszëbsczi | 1.0.0 | "http://userscripts.org/scripts/show/139959":http://userscripts.org/scripts/show/139959 | Mateusz Meyer |
-| eml | it | Emiliano-Romagnolo | Emiliàn e Rumagnòl | 1.0.1 | "http://userscripts.org/scripts/show/129394":http://userscripts.org/scripts/show/129394 | Federico L. G. Faroldi |
+| csb | en | Kashubian | Kaszëbsczi | 1.0.0 | "Firefox":http://userscripts.org/scripts/show/139959 | Mateusz Meyer |
+| eml | it | Emiliano-Romagnolo | Emiliàn e Rumagnòl | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/129394 | Federico L. G. Faroldi |
 | fkv | en | Kven Finnish | Kväänin kieli | 1.0.0 | Not yet released | Mervi Haavisto |
-| fr-x-jer | en | Jèrriais | Jèrriais | 1.0.1 | "http://userscripts.org/scripts/show/130838":http://userscripts.org/scripts/show/130838 | Tony Scott Warren, Geraint Jennings |
+| fr-x-jer | en | Jèrriais | Jèrriais | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/130838 | Tony Scott Warren, Geraint Jennings |
 | ga | en | Irish | Gaeilge | 1.0.0 | For testing only | Kevin Scannell |
-| gd | en | Scottish Gaelic | Gàidhlig | 1.0.5 | "http://userscripts.org/scripts/show/126511":http://userscripts.org/scripts/show/126511 | Michael Bauer |
-| gup | en | Kunwinjku | Kunwinjku | 1.0.1 | "http://userscripts.org/scripts/show/129295":http://userscripts.org/scripts/show/129295 | Dean Yibarbuk, Andrew Manakgu |
-| gup-x-gud | en | Gundjeihmi | Gundjeihmi | 1.0.1 | "http://userscripts.org/scripts/show/129296":http://userscripts.org/scripts/show/129296 | Violet Lawson |
-| gv | en | Manx Gaelic | Gaelg | 1.0.1 | "http://userscripts.org/scripts/show/127270":http://userscripts.org/scripts/show/127270 | Chris Sheard |
-| hil | en | Hiligaynon | Hiligaynon | 1.0.5 | "http://userscripts.org/scripts/show/127142":http://userscripts.org/scripts/show/127142 | Francis Dimzon, Eliodora Dimzon, Edgar Siscar, Ofelia Libo-on-Salaya, Blomar Rain Catipunan, Essan Labos, Emmanuel Lerona, Ruben Magan Gamala |
-| ht | fr | Haitian Creole | Kreyòl Ayisyen | 1.0.2 | "http://userscripts.org/scripts/show/130010":http://userscripts.org/scripts/show/130010 | Jean Came Poulard |
-| ht-x-en | en | Haitian Creole | Kreyòl Ayisyen | 1.0.2 | "http://userscripts.org/scripts/show/126548":http://userscripts.org/scripts/show/126548 | Jean Came Poulard |
+| gd | en | Scottish Gaelic | Gàidhlig | 1.0.5 | "Firefox":http://userscripts.org/scripts/show/126511 | Michael Bauer |
+| gup | en | Kunwinjku | Kunwinjku | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/129295 | Dean Yibarbuk, Andrew Manakgu |
+| gup-x-gud | en | Gundjeihmi | Gundjeihmi | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/129296 | Violet Lawson |
+| gv | en | Manx Gaelic | Gaelg | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/127270 | Chris Sheard |
+| hil | en | Hiligaynon | Hiligaynon | 1.0.5 | "Firefox":http://userscripts.org/scripts/show/127142 | Francis Dimzon, Eliodora Dimzon, Edgar Siscar, Ofelia Libo-on-Salaya, Blomar Rain Catipunan, Essan Labos, Emmanuel Lerona, Ruben Magan Gamala |
+| ht | fr | Haitian Creole | Kreyòl Ayisyen | 1.0.2 | "Firefox":http://userscripts.org/scripts/show/130010 | Jean Came Poulard |
+| ht-x-en | en | Haitian Creole | Kreyòl Ayisyen | 1.0.2 | "Firefox":http://userscripts.org/scripts/show/126548 | Jean Came Poulard |
 | ilo | en | Ilocano | Ilocano | 1.0.0 | Not yet released | Eugene Carmelo C. Pedro |
-| kw | en | Cornish | Kernewek | 1.0.0 | "http://userscripts.org/scripts/show/136828":http://userscripts.org/scripts/show/136828 | Steve Harris |
+| kw | en | Cornish | Kernewek | 1.0.0 | "Firefox":http://userscripts.org/scripts/show/136828 | Steve Harris |
 | lag | en | Rangi | Kɨlaangi | 1.0.0 | Not yet released | Oliver Stegen |
-| lij | it | Ligurian | Lìgure | 1.0.2 | "http://userscripts.org/scripts/show/129397":http://userscripts.org/scripts/show/129397 | Alessio Gastaldi |
+| lij | it | Ligurian | Lìgure | 1.0.2 | "Firefox":http://userscripts.org/scripts/show/129397 | Alessio Gastaldi |
 | mi | en | Maori | Māori | 1.0.0 | Not yet released | Karaitiana Taiuru |
 | mlv | en | Motlav | Mwotlap | 1.0.0 | Not yet released | Alex François |
 | mus | en | Muskogee | Mvskoke | 1.0.0 | Not yet released | James Fife |
 | mwl | es | Mirandese | Mirandés | 1.0.0 | Not yet released | José Pedro Ferreira |
 | nv | en | Navajo | Diné bizaad | 1.0.0 | Not yet released | @NavajoNow |
-| ny | en | Chichewa | Chicheŵa | 1.0.1 | "http://userscripts.org/scripts/show/126642":http://userscripts.org/scripts/show/126642 | Edmond Kachale |
-| ppl | es | Nawat | Nawat | 1.0.1 | "http://userscripts.org/scripts/show/126587":http://userscripts.org/scripts/show/126587 | Alan King |
-| ppl-x-en | en | Nawat | Nawat | 1.0.1 | "http://userscripts.org/scripts/show/126588":http://userscripts.org/scripts/show/126588 | Alan King |
-| rop | en | Kriol | Kriol | 1.0.1 | "http://userscripts.org/scripts/show/126589":http://userscripts.org/scripts/show/126589 | Greg Dickson |
-| shs | en | Secwepemctsín | Secwepemctsín | 1.0.1 | "http://userscripts.org/scripts/show/127738":http://userscripts.org/scripts/show/127738 | Neskie Manuel, Gabe Archie, Carl Archie |
-| sm | en | Samoan | Gagana Sāmoa | 1.0.2 | Not yet released | Chris Bickers |
+| ny | en | Chichewa | Chicheŵa | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/126642 | Edmond Kachale |
+| ppl | es | Nawat | Nawat | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/126587 | Alan King |
+| ppl-x-en | en | Nawat | Nawat | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/126588 | Alan King |
+| rop | en | Kriol | Kriol | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/126589 | Greg Dickson |
+| shs | en | Secwepemctsín | Secwepemctsín | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/127738 | Neskie Manuel, Gabe Archie, Carl Archie |
+| sm | en | Samoan | Gagana Sāmoa | 1.0.3 | https://chrome.google.com/webstore/detail/moolaomdjoelmpjlijekjammeijelmae, "Firefox":http://userscripts.org/scripts/show/140636 | Chris Bickers |
 | sma | en | South Saami | Åarjelsaemien gïele | 1.0.0 | Not yet released | David Jonasson |
 | son | en | Songhay | Soŋay | 1.0.1 | Not yet released | Mohomodou Houssouba, Abdoul Cissé |
-| szl | en | Silesian | Ślůnsko godka | 1.0.0 | "http://userscripts.org/scripts/show/138754":http://userscripts.org/scripts/show/138754 | Grzegorz Kulik |
+| szl | en | Silesian | Ślůnsko godka | 1.0.0 | "Firefox":http://userscripts.org/scripts/show/138754 | Grzegorz Kulik |
 | yi | en | Yiddish | ייִדיש | 1.0.0 | Not yet released | Jordan Kutzik |
 
 
