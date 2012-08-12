@@ -12,7 +12,7 @@
               "48": "icon48.png",
              "128": "icon128.png" },
    "description": "Translate Facebook into !ENGLISHNAME!",
-   "name": "facebook-!TEANGA!",
+   "name": "Facebook in !ENGLISHNAME!",
    "version": "!LEAGAN!",
    "manifest_version": 2
 }
