@@ -63,13 +63,13 @@ msgstr "%a1, %a2 en %a3 laigim dijan."
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
 msgstr[0] "%a bin pudum wanbala nyuwan foto."
-msgstr[1] "%a bin pudum %dbala nyuwan foto."
+msgstr[1] "%a bin pudum %d bala nyuwan foto."
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
 msgstr[0] "%a1 bin pudum wanbala nyuwan foto la det album %a2."
-msgstr[1] "%a1 bin pudum %dbala nyuwan foto la det album %a2."
+msgstr[1] "%a1 bin pudum %d bala nyuwan foto la det album %a2."
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
@@ -298,7 +298,7 @@ msgstr "Besfrenmob"
 
 #. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
-msgstr "Raitim samting"
+msgstr "Raidim samting"
 
 #. Link at the bottom of home page to a help page explaining what cookies are
 msgid "Cookies"
@@ -370,21 +370,21 @@ msgstr[1] "%d bala najalot pipul"
 msgid "1 other friend"
 msgid_plural "%d other friends"
 msgstr[0] "wanbala najawan"
-msgstr[1] "%dbala najalot pipul"
+msgstr[1] "%d bala najalot pipul"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
 msgid "1 other page"
 msgid_plural "%d other pages"
 msgstr[0] "wanbala najawan peij"
-msgstr[1] "%dbala najalot peij"
+msgstr[1] "%d bala najalot peij"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
 msgid "1 other person"
 msgid_plural "%d other people"
 msgstr[0] "wanbala najawan"
-msgstr[1] "%d najalot pipul"
+msgstr[1] "%d bala najalot pipul"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
