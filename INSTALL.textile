@@ -25,7 +25,7 @@ to English, etc.
 
 |_. Code |_. Default |_. Name (English) |_. Name (Native) |_. Version |_. Home Page |_. Translators |
 | ach | en | Acholi | Acholi | 1.0.2 | "Chrome":https://chrome.google.com/webstore/detail/pccpmhelkmflchngjmpadkempifkfbbe, "Firefox":http://userscripts.org/scripts/show/140639 | David Ojara Prince, Achuma George Patrick, San Emmanuel James |
-| an | es | Aragonese | Aragonés | 1.0.3 | "Firefox":http://userscripts.org/scripts/show/130197 | Juan Pablo Martínez |
+| an | es | Aragonese | Aragonés | 1.0.3 | "Chrome":https://chrome.google.com/webstore/detail/dfkdbmklhjdchbnjlbeolnkoalomefng, "Firefox":http://userscripts.org/scripts/show/130197 | Juan Pablo Martínez |
 | bal | en | Balochi | Balochi | 1.0.0 | Not yet released | Mostafa Daneshvar |
 | br | fr | Breton | Brezhoneg | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/127734 | Fulup Jakez |
 | cak | es | Cakchiquel | Kaqchikel | 1.0.0 | Not yet released | Peter Rohloff, Robert Henderson |
@@ -56,6 +56,7 @@ to English, etc.
 | ny | en | Chichewa | Chicheŵa | 1.0.1 | "Chrome":https://chrome.google.com/webstore/detail/kodmgiidkcddbenebgjhmgbfakdoflbb, "Firefox":http://userscripts.org/scripts/show/126642 | Edmond Kachale |
 | ppl | es | Nawat | Nawat | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/126587 | Alan King |
 | ppl-x-en | en | Nawat | Nawat | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/126588 | Alan King |
+| quc | es | K'iche' | K'iche' | 1.0.0 | Not yet released | Diego Alburez |
 | rop | en | Kriol | Kriol | 1.0.3 | "Chrome":https://chrome.google.com/webstore/detail/fcddphnepicfeheldnbeccnhiohjefhp, "Firefox":http://userscripts.org/scripts/show/126589 | Greg Dickson |
 | shs | en | Secwepemctsín | Secwepemctsín | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/127738 | Neskie Manuel, Gabe Archie, Carl Archie |
 | sm | en | Samoan | Gagana Sāmoa | 1.0.3 | "Chrome":https://chrome.google.com/webstore/detail/moolaomdjoelmpjlijekjammeijelmae, "Firefox":http://userscripts.org/scripts/show/140636 | Chris Bickers |
