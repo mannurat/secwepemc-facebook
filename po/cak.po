@@ -863,7 +863,7 @@ msgstr "wiq'ij"
 
 #. Day of the Week
 msgid "Saturday"
-msgstr " saq'ij"
+msgstr "saq'ij"
 
 #. Day of the Week
 msgid "Sunday"
