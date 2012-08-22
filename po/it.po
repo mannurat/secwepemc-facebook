@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-30 20:12:31-0500\n"
+"POT-Creation-Date: 2012-08-22 09:20:05-0500\n"
 "PO-Revision-Date: 2012-03-16 07:45-05:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Italian\n"
@@ -195,7 +195,7 @@ msgid "%a1 likes a %a2."
 msgstr "A %a1 piace un[ao]? %a2."
 
 # una foto, un link, uno stato
-#. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
+#. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status"
 #, fuzzy
 msgid "%a1 likes %a2's %a3."
 msgstr "A %a1 piace un[ao]? %a2."

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-30 20:12:30-0500\n"
+"POT-Creation-Date: 2012-08-22 09:20:05-0500\n"
 "PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
 "Last-Translator: Robert Henderson\n"
 "Language-Team: Kaqchikel\n"
@@ -177,7 +177,7 @@ msgstr "%a1 niqa chi ruwäch %a2."
 msgid "%a1 likes a %a2."
 msgstr "%a1 niqa chi ruwäch %a2."
 
-#. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
+#. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 likes %a2's %a3."
 msgstr "%a1 niqa chi ruwäch ru%a3 %a2."
 
@@ -240,7 +240,7 @@ msgstr "%a1 xok pa retal retal %a2."
 
 #. %a1 and %a2 are names of people
 msgid "%a1 was tagged in %a2's photos."
-msgstr "%a1 xok pa retal ruwachib'äl %a2." 
+msgstr "%a1 xok pa retal ruwachib'äl %a2."
 
 #. %a is someone's name (female)
 msgid "%a updated her cover photo."
