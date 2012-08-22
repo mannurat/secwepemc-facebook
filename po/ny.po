@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-30 20:12:31-0500\n"
+"POT-Creation-Date: 2012-08-22 09:04:55-0500\n"
 "PO-Revision-Date: 2012-02-20 16:59:12-06:00\n"
 "Last-Translator: Edmond Kachale\n"
 "Language-Team: Chichewa\n"
@@ -36,7 +36,7 @@ msgid "life event"
 msgstr "zochitika pamoyo"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "%a.'s"
+msgctxt "%a.'s %a"
 msgid "life event"
 msgstr "zochitika pamoyo za"
 
@@ -45,7 +45,7 @@ msgid "link"
 msgstr "ulalo"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "%a.'s"
+msgctxt "%a.'s %a"
 msgid "link"
 msgstr "ulalo wa"
 
@@ -54,7 +54,7 @@ msgid "photo"
 msgstr "chithunzi"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "%a.'s"
+msgctxt "%a.'s %a"
 msgid "photo"
 msgstr "chithunzi cha"
 
@@ -63,7 +63,7 @@ msgid "post"
 msgstr "mbalume"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "%a.'s"
+msgctxt "%a.'s %a"
 msgid "post"
 msgstr "mbalume ya"
 
@@ -72,7 +72,7 @@ msgid "status"
 msgstr "mbalume"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "%a.'s"
+msgctxt "%a.'s %a"
 msgid "status"
 msgstr "mbalume ya"
 
@@ -81,7 +81,7 @@ msgid "status update"
 msgstr "mbalume"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "%a.'s"
+msgctxt "%a.'s %a"
 msgid "status update"
 msgstr "mbalume ya"
 

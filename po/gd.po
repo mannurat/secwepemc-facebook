@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-30 20:12:30-0500\n"
+"POT-Creation-Date: 2012-08-22 09:04:55-0500\n"
 "PO-Revision-Date: 2012-06-19 00:32-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -44,7 +44,7 @@ msgid "link"
 msgstr "ceangal"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "(likes|shared|tagged in) %a.'s"
+msgctxt "(likes|shared|tagged in) %a.'s %a"
 msgid "link"
 msgstr "an ceangal"
 
@@ -58,7 +58,7 @@ msgid "photo"
 msgstr "dealbh"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "(likes|shared|tagged in) %a.'s"
+msgctxt "(likes|shared|tagged in) %a.'s %a"
 msgid "photo"
 msgstr "an dealbh"
 
@@ -72,7 +72,7 @@ msgid "post"
 msgstr "post"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "(likes|shared|tagged in) %a.'s"
+msgctxt "(likes|shared|tagged in) %a.'s %a"
 msgid "post"
 msgstr "am post"
 
@@ -86,7 +86,7 @@ msgid "status"
 msgstr "naidheachd"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "(likes|shared|tagged in) %a.'s"
+msgctxt "(likes|shared|tagged in) %a.'s %a"
 msgid "status"
 msgstr "an naidheachd"
 
@@ -100,7 +100,7 @@ msgid "status update"
 msgstr "naidheachd"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "(likes|shared|tagged in) %a.'s"
+msgctxt "(likes|shared|tagged in) %a.'s %a"
 msgid "status update"
 msgstr "an naidheachd"
 

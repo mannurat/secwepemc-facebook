@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-30 20:12:30-0500\n"
+"POT-Creation-Date: 2012-08-22 09:04:55-0500\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -36,7 +36,7 @@ msgid "life event"
 msgstr "cúrsa saoil"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "tagged in"
+msgctxt "tagged in (%a.'s|a) %a"
 msgid "life event"
 msgstr "gcúrsa saoil"
 
@@ -54,7 +54,7 @@ msgid "photo"
 msgstr "ghrianghraf"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "tagged in"
+msgctxt "tagged in (%a.'s|a) %a"
 msgid "photo"
 msgstr "ngrianghraf"
 
@@ -68,7 +68,7 @@ msgid "post"
 msgstr "phostáil"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "tagged in"
+msgctxt "tagged in (%a.'s|a) %a"
 msgid "post"
 msgstr "bpostáil"
 

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-07-30 20:12:30-0500\n"
+"POT-Creation-Date: 2012-08-22 09:04:54-0500\n"
 "PO-Revision-Date: 2012-02-20 16:58:13-06:00\n"
 "Last-Translator: Mervi Haavisto\n"
 "Language-Team: Kven Finnish\n"
@@ -32,27 +32,117 @@ msgstr ""
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
 msgid "life event"
-msgstr "elämäntapattuma"
+msgstr "elämäntapattuman"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "tagged in (%a.'s|a) %a"
+msgid "life event"
+msgstr "elämäntapattumhaan"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on"
+msgid "life event"
+msgstr "elämäntapattummaa"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "likes (%a.'s|a) %a"
+msgid "life event"
+msgstr "elämäntapattumasta"
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
-msgstr ""
+msgstr "linkin"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "tagged in (%a.'s|a) %a"
+msgid "link"
+msgstr "linkkhiin"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on"
+msgid "link"
+msgstr "linkkii"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "likes (%a.'s|a) %a"
+msgid "link"
+msgstr "linkistä"
 
 #. Always a link. Used in longer sentences as above.
 msgid "photo"
-msgstr "kuva"
+msgstr "kuvan"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "tagged in (%a.'s|a) %a"
+msgid "photo"
+msgstr "kuvhaan"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on"
+msgid "photo"
+msgstr "kuvvaa"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "likes (%a.'s|a) %a"
+msgid "photo"
+msgstr "kuvasta"
 
 #. Always a link. Used in longer sentences as above.
 msgid "post"
-msgstr ""
+msgstr "muisteluksen"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "tagged in (%a.'s|a) %a"
+msgid "post"
+msgstr "muisteluksheen"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on"
+msgid "post"
+msgstr "muistelusta"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "likes (%a.'s|a) %a"
+msgid "post"
+msgstr "muisteluksesta"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status"
-msgstr "staattus"
+msgstr "staattuksen"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "tagged in (%a.'s|a) %a"
+msgid "status"
+msgstr "staattuksheen"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on"
+msgid "status"
+msgstr "staattusta"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "likes (%a.'s|a) %a"
+msgid "status"
+msgstr "staattuksesta"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
-msgstr ""
+msgstr "staattuksen uuđistamisen"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "tagged in (%a.'s|a) %a"
+msgid "status update"
+msgstr "staattuksen uuđistamisheen"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "commented on"
+msgid "status update"
+msgstr "staattuksen uuđistamista"
+
+#. Always a link. Used in longer sentences as above.
+msgctxt "likes (%a.'s|a) %a"
+msgid "status update"
+msgstr "staattuksen uuđistamisesta"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
