@@ -14,6 +14,24 @@ ce	status	commented on
 #ce	photo	shared %a.'s
 #ce	post	shared %a.'s
 #ce	status	shared %a.'s
+fkv-x-oys	life event	likes (%a.'s|a) %a
+fkv-x-oys	link	likes (%a.'s|a) %a
+fkv-x-oys	photo	likes (%a.'s|a) %a
+fkv-x-oys	post	likes (%a.'s|a) %a
+fkv-x-oys	status	likes (%a.'s|a) %a
+fkv-x-oys	status update	likes (%a.'s|a) %a
+fkv-x-oys	life event	commented on
+fkv-x-oys	link	commented on
+fkv-x-oys	photo	commented on
+fkv-x-oys	post	commented on
+fkv-x-oys	status	commented on
+fkv-x-oys	status update	commented on
+fkv-x-oys	life event	tagged in (%a.'s|a) %a
+fkv-x-oys	link	tagged in (%a.'s|a) %a
+fkv-x-oys	photo	tagged in (%a.'s|a) %a
+fkv-x-oys	post	tagged in (%a.'s|a) %a
+fkv-x-oys	status	tagged in (%a.'s|a) %a
+fkv-x-oys	status update	tagged in (%a.'s|a) %a
 fkv-x-ves	life event	likes (%a.'s|a) %a
 fkv-x-ves	link	likes (%a.'s|a) %a
 fkv-x-ves	photo	likes (%a.'s|a) %a
