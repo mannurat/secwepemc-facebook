@@ -56,48 +56,48 @@ msgstr ""
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
-msgstr ""
+msgstr "%a1, %a2 ja %a3 tykäthään tästä."
 
 #. %a is a person's name; %d stands for a number, no need to translate it
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%a lisäsi uuđen kuvan."
+msgstr[1] "%a lisäsi %d uutta kuvvaa."
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%a1 lisäsi 1 uuđen kuvan albumhiin %a2"
+msgstr[1] "%a1 lisäsi %d uutta kuvvaa albumhiin %a2."
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
-msgstr ""
+msgstr "%a1 ja %a2 oon nyt ystävät."
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr ""
+msgstr "%a1 ja %a2 oon nyt ystävät tämän kans: %a3."
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 commented on a %a3."
-msgstr ""
+msgstr "%a1 ja %a2 kommenteerathiin %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
 msgid "%a1 and %a2 like %a3."
-msgstr ""
+msgstr "%a1 ja %a2 tykäthään laiđasta %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
-msgstr ""
+msgstr "%a1 ja %a2 tykäthään tästä."
 
 #. %a1 and %a2 as above, and %a3 is something like (always?) "a link"
 msgid "%a1 and %a2 shared %a3."
-msgstr ""
+msgstr "%a1 ja %a2 jaethiin %a3."
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr ""
+msgstr "%a1 ja %a2 jaethiin %a4 jonka %a3 oon julkaissu."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -114,27 +114,27 @@ msgstr "Konton asetukset"
 
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
-msgstr ""
+msgstr "%a vaihetti oman profiilikuvan."
 
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
-msgstr ""
+msgstr "%a vaihetti oman profiilikuvan."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on a %a2."
-msgstr ""
+msgstr "%a1 kommenteerasi %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on her own %a2."
-msgstr ""
+msgstr "%a1 kommenteerasi ommaa %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on his own %a2."
-msgstr ""
+msgstr "%a1 kommenteerasi ommaa %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on your %a2."
-msgstr ""
+msgstr "%a1 kommenteerasi sinun %a2."
 
 msgid "Activity Log"
 msgstr "Aktiviteettilogi"
@@ -144,7 +144,7 @@ msgstr "Lissää ystävän"
 
 #. Under INTERESTS in left-hand navigation on home page
 msgid "Add Interests..."
-msgstr ""
+msgstr "Lissää intressin..."
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
@@ -152,37 +152,37 @@ msgstr "Lissää kuvan / videon"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
-msgstr "Annonseeraus"
+msgstr "Anonseeraus"
 
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
-msgstr "muutaman sekunin aikkaa"
+msgstr "justhiin nyt"
 
 #. %a1 is a person's name, %a2 is a place
 msgid "%a1 is at %a2."
-msgstr ""
+msgstr "%a1 oon täälä: %a2."
 
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
 msgid "%a1 is now friends with %a2 and %a3."
-msgstr ""
+msgstr "%a1 oon nyt ystävä näitten kans: %a2 ja %a3."
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a1 likes %a2."
-msgstr ""
+msgstr "%a1 tykkää tästä: %a2."
 
 #. %a1 is a person's name, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 likes a %a2."
-msgstr ""
+msgstr "%a1 tykkää %a2."
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
 msgid "%a1 likes %a2's %a3."
-msgstr ""
+msgstr "%a1 tykkää %a3 jonka %a2 oon julkaissu."
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
 msgid "%a1 likes %a2 and %a3."
-msgstr ""
+msgstr "%a1 tykkää laiđoista %a2 ja %a3."
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -194,7 +194,7 @@ msgstr "%a tykäthään tästä."
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
-msgstr ""
+msgstr "linkin"
 
 #. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
@@ -210,19 +210,19 @@ msgstr "%A klo %s"
 
 #. %a1 is a person's name, %a2 is something like (always?) "a link"
 msgid "%a1 shared %a2."
-msgstr ""
+msgstr "%a1 jakoi %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 shared %a2's %a3."
-msgstr ""
+msgstr "%a1 jakoi %a3 jonka %a2 oon julkaissu."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared her own %a2."
-msgstr ""
+msgstr "%a1 jakoi oman %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared his own %a2."
-msgstr ""
+msgstr "%a1 jakoi oman %a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -230,23 +230,23 @@ msgstr "Kysy"
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
-msgstr ""
+msgstr "%a1 oon merkitty %a3 jonka %a2 julkaisi."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
 msgid "%a1 was tagged in a %a2."
-msgstr ""
+msgstr "%a1 oon merkitty %a2."
 
 #. %a1 and %a2 are names of people
 msgid "%a1 was tagged in %a2's photos."
-msgstr ""
+msgstr "%a1 oon merkitty kuvhiin jokka %a2 julkaisi."
 
 #. %a is someone's name (female)
 msgid "%a updated her cover photo."
-msgstr ""
+msgstr "%a uuđisti oman etulaiđan kuvan."
 
 #. %a is someone's name (male)
 msgid "%a updated his cover photo."
-msgstr ""
+msgstr "%a uuđisti oman etulaiđan kuvan."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -301,14 +301,14 @@ msgstr "Kommenteeraa"
 
 #. Link at the bottom of home page to a help page explaining what cookies are
 msgid "Cookies"
-msgstr ""
+msgstr "Cookies"
 
 #. Button label; confirm a friend request
 msgid "Confirm"
-msgstr ""
+msgstr "Hyväksy"
 
 msgid "Create an Ad"
-msgstr "Luo annonsin"
+msgstr "Luo anonsin"
 
 #. Link at bottom of home page (under "More")
 msgid "Create a Page"
@@ -330,14 +330,14 @@ msgstr "Kehittäjät"
 #. The singular "1 hour ago" is never used as far as I can tell
 msgid "1 hour ago"
 msgid_plural "%d hours ago"
-msgstr[0] "1 hour ago"
+msgstr[0] "1 tiima aikkaa"
 msgstr[1] "%d tiimaa aikkaa"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 minute ago" is never used as far as I can tell
 msgid "1 minute ago"
 msgid_plural "%d minutes ago"
-msgstr[0] "1 minute ago"
+msgstr[0] "1 minutti aikkaa"
 msgstr[1] "%d minuttii aikkaa"
 
 #. %d stands for a number, no need to translate it
@@ -361,43 +361,43 @@ msgstr[1] "%d UUTTA MUISTELUSTA"
 #. "You, John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 muu"
+msgstr[1] "%d muuta"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
 msgid "1 other friend"
 msgid_plural "%d other friends"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "yksi muu ystävä"
+msgstr[1] "%d muuta ystävää"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 muusta laiđasta"
+msgstr[1] "%d muusta laiđasta"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
 msgid "1 other person"
 msgid_plural "%d other people"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 muu ihminen"
+msgstr[1] "%d muuta ihmistä"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
-msgstr[0] "1 person"
+msgstr[0] "1 ihminen"
 msgstr[1] "%d ihmistä"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 second ago" is never used as far as I can tell
 msgid "1 second ago"
 msgid_plural "%d seconds ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 sekuntti aikkaa"
+msgstr[1] "%d sekunttii aikkaa"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
@@ -418,7 +418,7 @@ msgstr "Muuta tahi poista"
 #. Link that lets you change your language settings
 #. Please translate to the name of your language, written in the language itself
 msgid "English (US)"
-msgstr "kväänin kieli"
+msgstr "Kvääni/Kainu (vesta)"
 
 #. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
@@ -442,11 +442,11 @@ msgid "Find Friends"
 msgstr "Haje ystävii"
 
 msgid "Find More Pages"
-msgstr ""
+msgstr "Haje enämen laittoi"
 
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
-msgstr ""
+msgstr "Ystävät Praatissa"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
@@ -474,7 +474,7 @@ msgstr "Koti"
 
 #. In left-hand column on home page
 msgid "INTERESTS"
-msgstr ""
+msgstr "INTRESSIT"
 
 msgid "Life Event"
 msgstr "Elämäntapattuma"
@@ -493,13 +493,13 @@ msgstr "Tykkäämiset"
 # verb or noun? (This is a verb in kven language)Herewith translated as noun
 #. Appears as link to right of "RECENT POST" on home page
 msgid "Like Page"
-msgstr ""
+msgstr "Tykkää laiđasta"
 
 msgid "Like This Page"
-msgstr ""
+msgstr "Tykkää tästä laiđasta"
 
 msgid "Links"
-msgstr ""
+msgstr "Linkit"
 
 #. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -521,7 +521,7 @@ msgstr "Mellingit"
 
 #. Photographs uploaded from someone's mobile device
 msgid "Mobile Uploads"
-msgstr ""
+msgstr "Mobiilin lastaukset"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
@@ -537,11 +537,11 @@ msgstr "Enämen muisteluksii"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Most Recent"
-msgstr ""
+msgstr "Viimi muistelukset"
 
 #. Appears in left-hand navigation for some users
 msgid "Music"
-msgstr ""
+msgstr "Musikki"
 
 #. Not sure now where this appears, a figment?
 msgid "New Group..."
@@ -552,17 +552,17 @@ msgstr "Uusi mellinki"
 
 #. Appears in left-hand navigation of home page
 msgid "News Feed"
-msgstr "Uutisuuđistus"
+msgstr "Muistelukset"
 
 msgid "Notes"
-msgstr ""
+msgstr "Muisthoonpanot"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Ilmoitukset"
 
 #. Button label; postpone confirmation of a friend request
 msgid "Not Now"
-msgstr ""
+msgstr "Ei nyt"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
@@ -597,7 +597,7 @@ msgstr "Paikat"
 
 #. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
-msgstr ""
+msgstr "Koputukset"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -612,7 +612,7 @@ msgstr "Profiili"
 
 #. Appears under APPS for some users in left-hand navigation
 msgid "Questions"
-msgstr ""
+msgstr "Kysymykset"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 #. Now defunct, I think - replaced by "Activity" and "Recent" on a line below
@@ -621,11 +621,11 @@ msgstr "Viimi aktiviteetti"
 
 #. Appears next to some posts on home page
 msgid "RECENT POST"
-msgstr ""
+msgstr "VIIMI MUISTELUKSET"
 
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
-msgstr "Ehdotetut laidat"
+msgstr "Ehđotetut laiđat"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
@@ -637,7 +637,7 @@ msgstr "Vaiheta kovon"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
 msgid "%s, add a comment..."
-msgstr ""
+msgstr "%s, kirjoita kommentaarin..."
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
@@ -645,7 +645,7 @@ msgstr "Haje"
 
 #. Text that appears in the search box at the top of the page
 msgid "Search for people, places and things"
-msgstr ""
+msgstr "Haje ihmissii, paikkoi ja assiita"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
@@ -653,18 +653,18 @@ msgstr "Näytä kaikki"
 
 #. In the drop-down menu with recent Friend Requests
 msgid "See All Friend Requests"
-msgstr ""
+msgstr "Näytä kaikki ystäväpyynöt"
 
 msgid "See All Messages"
 msgstr "Näytä kaikki mellingit"
 
 msgid "See All Notifications"
-msgstr ""
+msgstr "Näytä kaikki ilmoitukset"
 
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
 msgid "See Friendship"
-msgstr ""
+msgstr "Näytä ystävyyđen"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -680,7 +680,7 @@ msgstr "Lähätä"
 
 #. Link that opens the "New Message" dialog
 msgid "Send a New Message"
-msgstr "Lähätä uuden mellingin"
+msgstr "Lähätä uuđen mellingin"
 
 #. Verb. A link that allows you to share (usually someone else's)  post with your friends
 msgid "Share"
@@ -706,7 +706,7 @@ msgstr "Abonnementit"
 #. Right-hand navigation, similar to "People you may know"
 #. Get it by clicking "GROUPS" in left-hand navigation on Home Page
 msgid "Suggested Groups"
-msgstr ""
+msgstr "Ehđotetut roikat"
 
 msgid "Tag Friends"
 msgstr "Merkitte ystävii"
@@ -728,7 +728,7 @@ msgstr "Aikalinja"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
 msgid "%T near %a"
-msgstr ""
+msgstr "%T likelä tätä paikkaa: %a"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
@@ -736,7 +736,7 @@ msgstr "Kenele:"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Top Stories"
-msgstr ""
+msgstr "Tärkkeimät muistelukset"
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -752,21 +752,21 @@ msgid "Update Status"
 msgstr "Uuđista staattuksen"
 
 msgid "Use Facebook as:"
-msgstr ""
+msgstr "Valitte mitä Facebook-laittaa käytät:"
 
 #. %d stands for a number, no need to translate it
 #. The singular "View 1 comment" is never used as far as I can tell
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
-msgstr[0] "View 1 comment"
+msgstr[0] "Näytä 1 kommentaarin"
 msgstr[1] "Näytä kaikki %d kommentaarii"
 
 msgid "Wall Photos"
-msgstr "Seinäkuvat"
+msgstr "Etulaiđan kuvat"
 
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
-msgstr ""
+msgstr "Tervettulemaa"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
@@ -786,11 +786,11 @@ msgstr "Eilen klo %s"
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
-msgstr ""
+msgstr "Sie ja %a tykkäättä tästä."
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
 msgid "You, %a1 and %a2 like this."
-msgstr ""
+msgstr "Sie, %a1 ja %a2 tykkäättä tästä."
 
 msgid "You like this."
 msgstr "Sie tykkäät tästä."
