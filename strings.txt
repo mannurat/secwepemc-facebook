@@ -83,7 +83,7 @@ a few seconds ago
 %a1 likes %a2.
 #. %a1 is a person's name, %a2 is "link", "photo", "post", or "status"
 %a1 likes a %a2.
-#. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
+#. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status"
 %a1 likes %a2's %a3.
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
