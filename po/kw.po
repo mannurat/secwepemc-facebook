@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-22 09:20:05-0500\n"
+"POT-Creation-Date: 2012-08-24 10:33:44-0500\n"
 "PO-Revision-Date: 2012-02-29 08:07:23-06:00\n"
 "Last-Translator: Edward Owen Jones\n"
 "Language-Team: Cornish\n"
@@ -41,12 +41,12 @@ msgid "link"
 msgstr "kevren"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "commented on her"
+msgctxt "her own %a"
 msgid "link"
 msgstr "hevren"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "commented on (a|his own)"
+msgctxt "(commented on a|his own) %a"
 msgid "link"
 msgstr "gevren"
 
@@ -59,12 +59,12 @@ msgid "post"
 msgstr "post"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "commented on her"
+msgctxt "her own %a"
 msgid "post"
 msgstr "fost"
 
 #. Always a link. Used in longer sentences as above.
-msgctxt "commented on (a|his own)"
+msgctxt "(commented on a|his own) %a"
 msgid "post"
 msgstr "bost"
 
