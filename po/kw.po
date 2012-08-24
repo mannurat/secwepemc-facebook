@@ -34,7 +34,7 @@ msgstr ""
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
 msgid "life event"
-msgstr ""
+msgstr "hwarvos bewnans"
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
@@ -43,12 +43,12 @@ msgstr "kevren"
 #. Always a link. Used in longer sentences as above.
 msgctxt "commented on her"
 msgid "link"
-msgstr ""
+msgstr "hevren"
 
 #. Always a link. Used in longer sentences as above.
 msgctxt "commented on (a|his own)"
 msgid "link"
-msgstr ""
+msgstr "gevren"
 
 #. Always a link. Used in longer sentences as above.
 msgid "photo"
@@ -74,7 +74,7 @@ msgstr "studh"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
-msgstr ""
+msgstr "studh nowedhhes"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -106,7 +106,7 @@ msgstr "%a1 ha %a2 yw kowetha gans %a3 lemmyn."
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 commented on a %a3."
-msgstr ""
+msgstr "%a1 ha %a2 a gampollas a-dro dhe %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
@@ -244,11 +244,11 @@ msgstr "%a1 a gevrennas %a3 %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared her own %a2."
-msgstr ""
+msgstr "%a1 a gevrennas hy %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared his own %a2."
-msgstr ""
+msgstr "%a1 a gevrennas y %a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -260,19 +260,19 @@ msgstr "Tegys veu %a1 yn %a3 %a2."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
 msgid "%a1 was tagged in a %a2."
-msgstr ""
+msgstr "%a1 a veu tegys yn %a2."
 
 #. %a1 and %a2 are names of people
 msgid "%a1 was tagged in %a2's photos."
-msgstr ""
+msgstr "%a1 a veu tegys yn skeusennow %a2."
 
 #. %a is someone's name (female)
 msgid "%a updated her cover photo."
-msgstr ""
+msgstr "%a a wrug nowedhi hy skeusen veur."
 
 #. %a is someone's name (male)
 msgid "%a updated his cover photo."
-msgstr ""
+msgstr "%a a wrug nowedhi y skeusen veur."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -327,7 +327,7 @@ msgstr "Kampol"
 
 #. Link at the bottom of home page to a help page explaining what cookies are
 msgid "Cookies"
-msgstr ""
+msgstr "Tesennow-kales"
 
 #. Button label; confirm a friend request
 msgid "Confirm"
