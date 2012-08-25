@@ -36,9 +36,8 @@ msgstr ""
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "life event"
-msgstr "Darvoud buhez"
+msgstr "darvoud buhez"
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
@@ -57,7 +56,6 @@ msgid "status"
 msgstr "statud"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "status update"
 msgstr "hizivaat ar statud"
 
@@ -418,7 +416,6 @@ msgstr[3] "%d mignon boutin"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
-#, fuzzy
 msgid "1 other page"
 msgid_plural "%d other pages"
 msgstr[0] "%d bajenn all"
@@ -428,7 +425,6 @@ msgstr[3] "%d fajenn all"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
-#, fuzzy
 msgid "1 other person"
 msgid_plural "%d other people"
 msgstr[0] "%d den all"
@@ -691,9 +687,8 @@ msgid "Resize"
 msgstr "Adventañ"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
-#, fuzzy
 msgid "%s, add a comment..."
-msgstr "Skrivañ un tamm poz"
+msgstr "%s, skrivañ un tamm poz"
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
