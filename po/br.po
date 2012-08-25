@@ -68,12 +68,16 @@ msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
 msgstr[0] "Ur skeudenn nevez ouzhpennet gant %a"
 msgstr[1] "%d skeudenn nevez ouzhpennet gant %a"
+msgstr[2] "%d skeudenn nevez ouzhpennet gant %a"
+msgstr[3] "%d skeudenn nevez ouzhpennet gant %a"
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
 msgstr[0] "Ouzhpennet ez eus bet 1 skeudenn nevez d'an albom %a2 gant a1"
 msgstr[1] "Ouzhpennet ez eus bet %d skeudenn nevez d'an albom %a2 gant a1"
+msgstr[2] "Ouzhpennet ez eus bet %d skeudenn nevez d'an albom %a2 gant a1"
+msgstr[3] "Ouzhpennet ez eus bet %d skeudenn nevez d'an albom %a2 gant a1"
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
