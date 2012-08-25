@@ -40,7 +40,8 @@ tags.push('a');      // many... (should do last for "context sensitive" stuff)
 
 var divclasses = new Array();
 divclasses.push('innerWrap');  // Write a comment... <textarea>
-divclasses.push('UIImageBlock_Content UIImageBlock_ICON_Content');  // 2 people like this
+//divclasses.push('UIImageBlock_Content UIImageBlock_ICON_Content');  // 2 people like this
+divclasses.push('_29j _29k'); // 2 people like this (etc.)
 //divclasses.push('commentActions fsm fwn fcg'); // time stamps on comments
 //divclasses.push('fsm fwn fcg');  // By:
 //divclasses.push('uiImageBlockContent uiImageBlockSmallContent');  // "near"
