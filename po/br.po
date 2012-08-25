@@ -187,7 +187,7 @@ msgstr "Plijet eo %a1 gant %a3 %a2"
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
 msgid "%a1 likes %a2 and %a3."
-msgstr "Plijet eo %a1 gant %a2" ha %a3
+msgstr "Plijet eo %a1 gant %a2 ha %a3"
 
 #. %a stands for a person's name
 msgid "%a likes this."
