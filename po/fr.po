@@ -313,7 +313,7 @@ msgstr "Changer la couverture"
 #. Label on tab for chatting with friends
 #. "Off" means you're not currently logged into the chat system
 msgid "Chat (Off)"
-msgstr "Discussion instantanée ..."
+msgstr "Discussion instantanée (hors-ligne)"
 
 msgid "Close"
 msgstr "Fermer"
