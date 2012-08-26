@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-26 07:26:19-0500\n"
+"POT-Creation-Date: 2012-08-26 07:34:50-0500\n"
 "PO-Revision-Date: 2012-02-22 22:03:27-06:00\n"
 "Last-Translator: Jean Came Poulard\n"
 "Language-Team: Haitian Creole\n"
@@ -310,8 +310,8 @@ msgid "Change Cover"
 msgstr "Chanje Kouvèti"
 
 #. Label on tab for chatting with friends
-#. "Offline" means you're not currently logged into the chat system
-msgid "Chat (Offline)"
+#. "Off" means you're not currently logged into the chat system
+msgid "Chat (Off)"
 msgstr "Chat (Dekonekte)"
 
 msgid "Close"

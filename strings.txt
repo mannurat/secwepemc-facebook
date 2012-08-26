@@ -147,8 +147,8 @@ Careers
 #. Link that allows you to change the big photo at the top of your timeline
 Change Cover
 #. Label on tab for chatting with friends
-#. "Offline" means you're not currently logged into the chat system
-Chat (Offline)
+#. "Off" means you're not currently logged into the chat system
+Chat (Off)
 Close
 #. A link that takes you to a list of your closest friends on Facebook
 Close Friends
