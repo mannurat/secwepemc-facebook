@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-22 09:20:06-0500\n"
+"POT-Creation-Date: 2012-08-26 07:26:19-0500\n"
 "PO-Revision-Date: 2012-06-28 09:03:43-0500\n"
 "Last-Translator: David Jonasson\n"
 "Language-Team: South Saami\n"
@@ -72,6 +72,11 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
+#. %a1 is a person, %a2 is something like "4 other people"
+#. This is to let you know about birthdays in right-hand column on home page
+msgid "%a1 and %a2"
+msgstr ""
+
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
 msgstr ""
@@ -99,6 +104,10 @@ msgstr ""
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 shared %a3's %a4."
+msgstr ""
+
+#. %a1, %a2, and %a3 are names of people
+msgid "%a1 and %a2 were tagged in %a3's photos."
 msgstr ""
 
 #. Link at bottom of home page (under "More") to info about Facebook
@@ -228,6 +237,14 @@ msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
+msgstr ""
+
+#. %a1 is a person, %a2 is always "Instagram" I think
+msgid "%a1 took a photo with %a2."
+msgstr ""
+
+#. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
+msgid "%a1 was tagged at %a2."
 msgstr ""
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
@@ -578,8 +595,12 @@ msgstr ""
 msgid "Now"
 msgstr ""
 
-#. Heading above the list of your FB pages; left-hand navigation on home page
+#. Heading above the list of your FB pages (now "PAGES AND ADS"?)
 msgid "PAGES"
+msgstr ""
+
+#. Heading above the list of your FB pages; left-hand navigation on home page
+msgid "PAGES AND ADS"
 msgstr ""
 
 msgid "People who like this"
@@ -707,6 +728,10 @@ msgstr ""
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
+msgstr ""
+
+#. With "Like Page" and "Find More Pages" when someone likes a page
+msgid "Subscribe to Page"
 msgstr ""
 
 #. Top of profile, after Friends, Photos, Map, ...

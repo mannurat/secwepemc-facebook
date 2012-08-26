@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-22 09:20:06-0500\n"
+"POT-Creation-Date: 2012-08-26 07:26:19-0500\n"
 "PO-Revision-Date: 2012-02-20 17:58:12-06:00\n"
 "Last-Translator: Alan R. King\n"
 "Language-Team: Nawat\n"
@@ -75,6 +75,12 @@ msgid_plural "%a1 added %d new photos to the album %a2."
 msgstr[0] "%a kitalijtuk se yankwik fotoj."
 msgstr[1] "%a kitalijtuk se yankwik fotoj."
 
+#. %a1 is a person, %a2 is something like "4 other people"
+#. This is to let you know about birthdays in right-hand column on home page
+#, fuzzy
+msgid "%a1 and %a2"
+msgstr "%a1 kichijtuk compartir se %a2."
+
 #. Both %a1 and %a2 are names of people
 #, fuzzy
 msgid "%a1 and %a2 are now friends."
@@ -108,6 +114,11 @@ msgstr "%a1 wan %a2 kichijtiwit compartir %a3."
 #, fuzzy
 msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "%a1 wan %a2 kichijtiwit compartir %a3."
+
+#. %a1, %a2, and %a3 are names of people
+#, fuzzy
+msgid "%a1 and %a2 were tagged in %a3's photos."
+msgstr "%a1 taketzki ipanpa se %a2."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -246,6 +257,16 @@ msgstr "%a1 kichijtuk compartir se %a2."
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Shiktajtani Se"
+
+#. %a1 is a person, %a2 is always "Instagram" I think
+#, fuzzy
+msgid "%a1 took a photo with %a2."
+msgstr "%a1 igustoj se %a2."
+
+#. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
+#, fuzzy
+msgid "%a1 was tagged at %a2."
+msgstr "%a1 taketzki ipanpa se %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 #, fuzzy
@@ -593,9 +614,13 @@ msgstr "Ashan Te"
 msgid "Now"
 msgstr "Ashan"
 
-#. Heading above the list of your FB pages; left-hand navigation on home page
+#. Heading above the list of your FB pages (now "PAGES AND ADS"?)
 msgid "PAGES"
 msgstr "IJISWAT"
+
+#. Heading above the list of your FB pages; left-hand navigation on home page
+msgid "PAGES AND ADS"
+msgstr ""
 
 msgid "People who like this"
 msgstr "Ká igustoj ini"
@@ -724,6 +749,11 @@ msgstr "Tajtashtawijtuk"
 #. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Ken Ijtuk"
+
+#. With "Like Page" and "Find More Pages" when someone likes a page
+#, fuzzy
+msgid "Subscribe to Page"
+msgstr "Tay kikwi"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-22 09:20:06-0500\n"
+"POT-Creation-Date: 2012-08-26 07:26:19-0500\n"
 "PO-Revision-Date: 2012-07-05 02:10+0200\n"
 "Last-Translator: Chris Bickers\n"
 "Language-Team: Samoan\n"
@@ -70,6 +70,12 @@ msgid_plural "%a1 added %d new photos to the album %a2."
 msgstr[0] "Ua fa'aopoopo e %a1 le ata fou e tasi i le tusi ata."
 msgstr[1] "Ua fa'aopoopo e%a1 ia ata fou e %d i le tusi ata."
 
+#. %a1 is a person, %a2 is something like "4 other people"
+#. This is to let you know about birthdays in right-hand column on home page
+#, fuzzy
+msgid "%a1 and %a2"
+msgstr "Ua tufa atu e %a1 lana %a2."
+
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
 msgstr "Ua uō nei ia %a1 ma %a2"
@@ -98,6 +104,11 @@ msgstr "Ua 'avatu e %a1 ma %a2 le %a3"
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "Ua 'avatu e %a1 ma %a2 le %a4 a %a3"
+
+#. %a1, %a2, and %a3 are names of people
+#, fuzzy
+msgid "%a1 and %a2 were tagged in %a3's photos."
+msgstr "%a1 maka i le ata a %a2"
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -227,6 +238,16 @@ msgstr "Ua 'avatu %a1 lana ia %a2"
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Fesili"
+
+#. %a1 is a person, %a2 is always "Instagram" I think
+#, fuzzy
+msgid "%a1 took a photo with %a2."
+msgstr "O lei ia %a1 %a2"
+
+#. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
+#, fuzzy
+msgid "%a1 was tagged at %a2."
+msgstr "%a1 maka i le %a2"
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
@@ -565,9 +586,13 @@ msgstr "Tolo"
 msgid "Now"
 msgstr "Nei"
 
-#. Heading above the list of your FB pages; left-hand navigation on home page
+#. Heading above the list of your FB pages (now "PAGES AND ADS"?)
 msgid "PAGES"
 msgstr "ITŪLAU"
+
+#. Heading above the list of your FB pages; left-hand navigation on home page
+msgid "PAGES AND ADS"
+msgstr ""
 
 msgid "People who like this"
 msgstr "Tagata e fiafia le mea lea"
@@ -695,6 +720,10 @@ msgstr ""
 #. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Uiga"
+
+#. With "Like Page" and "Find More Pages" when someone likes a page
+msgid "Subscribe to Page"
+msgstr ""
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"

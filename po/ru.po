@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-22 09:20:06-0500\n"
+"POT-Creation-Date: 2012-08-26 07:26:19-0500\n"
 "PO-Revision-Date: 2012-05-26 21:43:25-05:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Russian\n"
@@ -73,6 +73,12 @@ msgid_plural "%a1 added %d new photos to the album %a2."
 msgstr[0] "%a1 добавил 1 новых фотографий в альбом %a2."
 msgstr[1] "%a1 добавил %d новых фотографий в альбом %a2."
 
+#. %a1 is a person, %a2 is something like "4 other people"
+#. This is to let you know about birthdays in right-hand column on home page
+#, fuzzy
+msgid "%a1 and %a2"
+msgstr "%a1 поделился %a2."
+
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
 msgstr "%a1 и %a2 теперь друзья."
@@ -102,6 +108,12 @@ msgstr "%a1 и %a2 поделились %a3."
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "%a1 и %a2 поделились %a4 %a3."
+
+# In Russian FB interface, when 2nd %a is фотография, full stop is missing
+#. %a1, %a2, and %a3 are names of people
+#, fuzzy
+msgid "%a1 and %a2 were tagged in %a3's photos."
+msgstr "%a1 был отмечен на фотографиях %a2."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -237,6 +249,17 @@ msgstr "%a1 поделился %a2."
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Задать вопрос"
+
+#. %a1 is a person, %a2 is always "Instagram" I think
+#, fuzzy
+msgid "%a1 took a photo with %a2."
+msgstr "%a1 сейчас здесь: %a2."
+
+# In Russian FB interface, when 2nd %a is фотография, full stop is missing
+#. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
+#, fuzzy
+msgid "%a1 was tagged at %a2."
+msgstr "%a1 был отмечен на %a3 %a2."
 
 # In Russian FB interface, when 2nd %a is фотография, full stop is missing
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
@@ -592,9 +615,13 @@ msgstr "Не сейчас"
 msgid "Now"
 msgstr "Сейчас"
 
-#. Heading above the list of your FB pages; left-hand navigation on home page
+#. Heading above the list of your FB pages (now "PAGES AND ADS"?)
 msgid "PAGES"
 msgstr "СТРАНИЦЫ"
+
+#. Heading above the list of your FB pages; left-hand navigation on home page
+msgid "PAGES AND ADS"
+msgstr ""
 
 msgid "People who like this"
 msgstr "Люди которым это нравится"
@@ -723,6 +750,11 @@ msgstr "Реклама"
 #. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Статус"
+
+#. With "Like Page" and "Find More Pages" when someone likes a page
+#, fuzzy
+msgid "Subscribe to Page"
+msgstr "Подписки"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"

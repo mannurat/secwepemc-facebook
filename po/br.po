@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-22 09:20:05-0500\n"
+"POT-Creation-Date: 2012-08-26 07:26:18-0500\n"
 "PO-Revision-Date: 2012-03-05 21:50:27-06:00\n"
 "Last-Translator: Fulup Jakez\n"
 "Language-Team: Brezhoneg\n"
@@ -79,6 +79,12 @@ msgstr[1] "Ouzhpennet ez eus bet %d skeudenn nevez d'an albom %a2 gant a1"
 msgstr[2] "Ouzhpennet ez eus bet %d skeudenn nevez d'an albom %a2 gant a1"
 msgstr[3] "Ouzhpennet ez eus bet %d skeudenn nevez d'an albom %a2 gant a1"
 
+#. %a1 is a person, %a2 is something like "4 other people"
+#. This is to let you know about birthdays in right-hand column on home page
+#, fuzzy
+msgid "%a1 and %a2"
+msgstr "%a1 en deus kenrannet %a2."
+
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
 msgstr "Mignoned eo %a1 ha %a2 bremañ"
@@ -107,6 +113,11 @@ msgstr "%a1 hag %a2 o deus kenrannet %a3"
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "%a1 hag %a2 o deus kenrannet %a4 %a3"
+
+#. %a1, %a2, and %a3 are names of people
+#, fuzzy
+msgid "%a1 and %a2 were tagged in %a3's photos."
+msgstr "Tikdennet eo bet %a1 war skeudennoù %a2."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -236,6 +247,16 @@ msgstr "%a1 en deus kenrannet e %a2 dezhañ e-unan."
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Goulenn udb."
+
+#. %a1 is a person, %a2 is always "Instagram" I think
+#, fuzzy
+msgid "%a1 took a photo with %a2."
+msgstr "Emañ %a1 e %a2"
+
+#. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
+#, fuzzy
+msgid "%a1 was tagged at %a2."
+msgstr "Tikdennet eo bet %a1 war %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
@@ -596,9 +617,13 @@ msgstr "Diwezhatoc'hik"
 msgid "Now"
 msgstr "Bremañ"
 
-#. Heading above the list of your FB pages; left-hand navigation on home page
+#. Heading above the list of your FB pages (now "PAGES AND ADS"?)
 msgid "PAGES"
 msgstr "PAJENNOÙ"
+
+#. Heading above the list of your FB pages; left-hand navigation on home page
+msgid "PAGES AND ADS"
+msgstr ""
 
 msgid "People who like this"
 msgstr "Tud a blij an dra-se dezho"
@@ -726,6 +751,11 @@ msgstr "Paeroniet"
 #. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Statud"
+
+#. With "Like Page" and "Find More Pages" when someone likes a page
+#, fuzzy
+msgid "Subscribe to Page"
+msgstr "Enskrivadurioù"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-24 10:33:44-0500\n"
+"POT-Creation-Date: 2012-08-26 07:26:19-0500\n"
 "PO-Revision-Date: 2012-02-29 08:07:23-06:00\n"
 "Last-Translator: Edward Owen Jones\n"
 "Language-Team: Cornish\n"
@@ -96,6 +96,12 @@ msgstr[1] "%a1 a geworras %d skeusen nowyth dhe albom %a2."
 msgstr[2] "%a1 a geworras %d skeusen nowyth dhe albom %a2."
 msgstr[3] "%a1 a geworras %d skeusen nowyth dhe albom %a2."
 
+#. %a1 is a person, %a2 is something like "4 other people"
+#. This is to let you know about birthdays in right-hand column on home page
+#, fuzzy
+msgid "%a1 and %a2"
+msgstr "%a1 a gevrennas %a2."
+
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
 msgstr "%a1 ha %a2 yw kowetha lemmyn."
@@ -124,6 +130,11 @@ msgstr "%a1 ha %a2 a gevrennas %a3."
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "%a1 ha %a2 a gevrennas %a4 %a3"
+
+#. %a1, %a2, and %a3 are names of people
+#, fuzzy
+msgid "%a1 and %a2 were tagged in %a3's photos."
+msgstr "%a1 a veu tegys yn skeusennow %a2."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -253,6 +264,16 @@ msgstr "%a1 a gevrennas y %a2."
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Govyn govyn"
+
+#. %a1 is a person, %a2 is always "Instagram" I think
+#, fuzzy
+msgid "%a1 took a photo with %a2."
+msgstr "Yma %a1 dhe %a2."
+
+#. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
+#, fuzzy
+msgid "%a1 was tagged at %a2."
+msgstr "%a1 a veu tegys yn %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
@@ -613,9 +634,13 @@ msgstr "Na lemmyn"
 msgid "Now"
 msgstr "Lemmyn"
 
-#. Heading above the list of your FB pages; left-hand navigation on home page
+#. Heading above the list of your FB pages (now "PAGES AND ADS"?)
 msgid "PAGES"
 msgstr "FOLENNOW"
+
+#. Heading above the list of your FB pages; left-hand navigation on home page
+msgid "PAGES AND ADS"
+msgstr ""
 
 msgid "People who like this"
 msgstr "Tus a gar hemma"
@@ -743,6 +768,11 @@ msgstr "Tylys"
 #. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Studh"
+
+#. With "Like Page" and "Find More Pages" when someone likes a page
+#, fuzzy
+msgid "Subscribe to Page"
+msgstr "Ragbrenow"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"

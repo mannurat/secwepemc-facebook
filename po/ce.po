@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-22 09:20:05-0500\n"
+"POT-Creation-Date: 2012-08-26 07:26:18-0500\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Sarah Slye\n"
 "Language-Team: Chechen\n"
@@ -91,6 +91,13 @@ msgid_plural "%a1 added %d new photos to the album %a2."
 msgstr[0] "т%a1 т lетоьхна %а2 альбома тlе %d керла сурт."
 msgstr[1] "т%a1 т lетоьхна %а2 альбома тlе %d керла сурт."
 
+# Chechen verb assumes %a2 is "a link"
+#. %a1 is a person, %a2 is something like "4 other people"
+#. This is to let you know about birthdays in right-hand column on home page
+#, fuzzy
+msgid "%a1 and %a2"
+msgstr "%a1 делла %a2."
+
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
 msgstr "%a1 %a2 а х1инца доттаг1ий бу."
@@ -119,6 +126,11 @@ msgstr "%a1 %a2 a делла %a3."
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 shared %a3's %a4."
+msgstr "%a1 %a2 a (д)елла %a3 %a4."
+
+#. %a1, %a2, and %a3 are names of people
+#, fuzzy
+msgid "%a1 and %a2 were tagged in %a3's photos."
 msgstr "%a1 %a2 a (д)елла %a3 %a4."
 
 #. Link at bottom of home page (under "More") to info about Facebook
@@ -252,6 +264,16 @@ msgstr ""
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Хаттар де"
+
+#. %a1 is a person, %a2 is always "Instagram" I think
+#, fuzzy
+msgid "%a1 took a photo with %a2."
+msgstr "%a1 хlинца %a2хь."
+
+#. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
+#, fuzzy
+msgid "%a1 was tagged at %a2."
+msgstr "%a1 хlинца %a2хь."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
@@ -590,9 +612,13 @@ msgstr "Хlинцца йиш яц"
 msgid "Now"
 msgstr "Xlинца"
 
-#. Heading above the list of your FB pages; left-hand navigation on home page
+#. Heading above the list of your FB pages (now "PAGES AND ADS"?)
 msgid "PAGES"
 msgstr "АГlОНАШ"
+
+#. Heading above the list of your FB pages; left-hand navigation on home page
+msgid "PAGES AND ADS"
+msgstr ""
 
 msgid "People who like this"
 msgstr "Хlара хазахета нах"
@@ -720,6 +746,11 @@ msgstr "Спонсоралла хилла"
 #. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
 msgstr "Хьал"
+
+#. With "Like Page" and "Find More Pages" when someone likes a page
+#, fuzzy
+msgid "Subscribe to Page"
+msgstr "Тlеяздаларш"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"

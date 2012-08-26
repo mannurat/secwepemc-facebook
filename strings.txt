@@ -32,6 +32,9 @@ status update
 %a added a new photo.;%a added %d new photos.
 #. %a1 is a person's name; %d stands for a number, no need to translate it
 %a1 added 1 new photo to the album %a2.;%a1 added %d new photos to the album %a2.
+#. %a1 is a person, %a2 is something like "4 other people"
+#. This is to let you know about birthdays in right-hand column on home page
+%a1 and %a2
 #. Both %a1 and %a2 are names of people
 %a1 and %a2 are now friends.
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
@@ -47,6 +50,8 @@ status update
 %a1 and %a2 shared %a3.
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 %a1 and %a2 shared %a3's %a4.
+#. %a1, %a2, and %a3 are names of people
+%a1 and %a2 were tagged in %a3's photos.
 #. Link at bottom of home page (under "More") to info about Facebook
 About
 about an hour ago
@@ -110,6 +115,10 @@ Apps and Games
 %a1 shared his own %a2.
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 Ask Question
+#. %a1 is a person, %a2 is always "Instagram" I think
+%a1 took a photo with %a2.
+#. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
+%a1 was tagged at %a2.
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 %a1 was tagged in %a2's %a3.
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
@@ -271,8 +280,10 @@ Notifications
 Not Now
 #. A link that takes you to the latest posts on your timeline
 Now
-#. Heading above the list of your FB pages; left-hand navigation on home page
+#. Heading above the list of your FB pages (now "PAGES AND ADS"?)
 PAGES
+#. Heading above the list of your FB pages; left-hand navigation on home page
+PAGES AND ADS
 People who like this
 People You May Know
 #. Appears on profile above the "What's on your mind?" prompt, after "Status"
@@ -336,6 +347,8 @@ Sponsored
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
 Status
+#. With "Like Page" and "Find More Pages" when someone likes a page
+Subscribe to Page
 #. Top of profile, after Friends, Photos, Map, ...
 Subscriptions
 #. Right-hand navigation, similar to "People you may know"
