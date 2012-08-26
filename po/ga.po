@@ -507,7 +507,7 @@ msgid "Find Friends"
 msgstr "Aimsigh Cairde"
 
 msgid "Find More Pages"
-msgstr "Aimsigh Tuilleadh Grianghraf"
+msgstr "Aimsigh Tuilleadh Leathanach"
 
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
