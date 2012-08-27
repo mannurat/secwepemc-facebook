@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-26 07:34:49-0500\n"
+"POT-Creation-Date: 2012-08-27 16:24:56-0500\n"
 "PO-Revision-Date: 2012-05-12 10:52:31-06:00\n"
 "Last-Translator: JOSHUA VERANO\n"
 "Language-Team: BISAYA\n"
@@ -491,6 +491,10 @@ msgstr "Mangitag higala"
 msgid "Find More Pages"
 msgstr ""
 
+#. Appears next to "Like" and "Comment" on each post in a group
+msgid "Follow Post"
+msgstr ""
+
 #. In search box that lets you search for friends that are available to chat
 #, fuzzy
 msgid "Friends on Chat"
@@ -793,6 +797,10 @@ msgstr "Para kang"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Top Stories"
+msgstr ""
+
+#. See "Follow Post"
+msgid "Unfollow Post"
 msgstr ""
 
 #. Verb. See "Like"

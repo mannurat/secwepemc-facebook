@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-26 07:34:51-0500\n"
+"POT-Creation-Date: 2012-08-27 16:24:57-0500\n"
 "PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
 "Last-Translator: Diego Alburez\n"
 "Language-Team: K'iche'\n"
@@ -466,6 +466,10 @@ msgstr "Utzukuxik awachi'il"
 msgid "Find More Pages"
 msgstr "Uriqik k'i uxaq web'"
 
+#. Appears next to "Like" and "Comment" on each post in a group
+msgid "Follow Post"
+msgstr ""
+
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
 msgstr "Awachi'il e k'o pa chat"
@@ -764,6 +768,10 @@ msgstr "Chech:"
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Top Stories"
 msgstr "Utzijoxik k'aslemal qas kajawatajik"
+
+#. See "Follow Post"
+msgid "Unfollow Post"
+msgstr ""
 
 #. Verb. See "Like"
 msgid "Unlike"

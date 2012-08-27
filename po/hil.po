@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-26 07:34:50-0500\n"
+"POT-Creation-Date: 2012-08-27 16:24:56-0500\n"
 "PO-Revision-Date: 2012-02-21 16:58:12-06:00\n"
 "Last-Translator: Francis Dimzon\n"
 "Language-Team: Hiligaynon\n"
@@ -477,6 +477,10 @@ msgstr "Mangita sang mga Kaabyanan"
 msgid "Find More Pages"
 msgstr "Mangita sang dugang pa nga mga Pahina"
 
+#. Appears next to "Like" and "Comment" on each post in a group
+msgid "Follow Post"
+msgstr ""
+
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
 msgstr "Mga Kaabyanan nga Mahimo Sugilanonon"
@@ -774,6 +778,10 @@ msgstr "Para kay:"
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Top Stories"
 msgstr "Nagapanguna nga mga Istorya"
+
+#. See "Follow Post"
+msgid "Unfollow Post"
+msgstr ""
 
 #. Verb. See "Like"
 msgid "Unlike"

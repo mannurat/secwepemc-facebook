@@ -223,6 +223,8 @@ FAVORITES
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 Find Friends
 Find More Pages
+#. Appears next to "Like" and "Comment" on each post in a group
+Follow Post
 #. In search box that lets you search for friends that are available to chat
 Friends on Chat
 #. People who have asked to be your friend on Facebook; top left of screen
@@ -368,6 +370,8 @@ Timeline
 To:
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 Top Stories
+#. See "Follow Post"
+Unfollow Post
 #. Verb. See "Like"
 Unlike
 #. Label on a button that allows you to edit your personal information

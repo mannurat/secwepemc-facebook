@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-26 07:34:51-0500\n"
+"POT-Creation-Date: 2012-08-27 16:24:57-0500\n"
 "PO-Revision-Date: 2012-03-17 23:02+0200\n"
 "Last-Translator: Mohomodou Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: Songhay.org\n"
@@ -493,6 +493,10 @@ msgstr "Cerey guna"
 msgid "Find More Pages"
 msgstr "Mooyaŋ guna ka tonton"
 
+#. Appears next to "Like" and "Comment" on each post in a group
+msgid "Follow Post"
+msgstr ""
+
 #. In search box that lets you search for friends that are available to chat
 #, fuzzy
 msgid "Friends on Chat"
@@ -794,6 +798,10 @@ msgstr "Do:"
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Top Stories"
 msgstr "Filla korawey"
+
+#. See "Follow Post"
+msgid "Unfollow Post"
+msgstr ""
 
 #. Verb. See "Like"
 msgid "Unlike"
