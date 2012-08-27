@@ -116,8 +116,9 @@ msgstr "%a1 a été identifié dans des photos de %a2."
 msgid "About"
 msgstr "À propos de"
 
+# changed to lowercase circa Aug 2012
 msgid "about an hour ago"
-msgstr "Il y a environ une heure"
+msgstr "il y a environ une heure"
 
 msgid "about a minute ago"
 msgstr "il y a environ une minute"
@@ -353,12 +354,13 @@ msgstr "Créer un groupe"
 msgid "Developers"
 msgstr "Développeurs"
 
+# to lowercase around Aug 2012
 #. %d stands for a number, no need to translate it
 #. The singular "1 hour ago" is never used as far as I can tell
 msgid "1 hour ago"
 msgid_plural "%d hours ago"
-msgstr[0] "Il y a une heure"
-msgstr[1] "Il y a %d heures"
+msgstr[0] "il y a une heure"
+msgstr[1] "il y a %d heures"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 minute ago" is never used as far as I can tell
@@ -737,9 +739,8 @@ msgid "Status"
 msgstr "Statut"
 
 #. With "Like Page" and "Find More Pages" when someone likes a page
-#, fuzzy
 msgid "Subscribe to Page"
-msgstr "Abonnements"
+msgstr "S’abonner à la Page"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
