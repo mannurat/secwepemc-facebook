@@ -32,79 +32,77 @@ msgstr ""
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
 msgid "life event"
-msgstr ""
+msgstr "takahanga oranga"
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
-msgstr ""
+msgstr "hononga"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "photo"
-msgstr "Pikitia"
+msgstr "whakaahua"
 
 #. Always a link. Used in longer sentences as above.
 msgid "post"
-msgstr ""
+msgstr "tare"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "status"
-msgstr "Tūnga"
+msgstr "tūnga"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
-msgstr ""
+msgstr "whakahou tūnga"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
-msgstr ""
+msgstr "He pai tēnei ki a %a1, %a2 me %a3."
 
 #. %a is a person's name; %d stands for a number, no need to translate it
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "I tāpiri a %a i tētahi whakaahua hōu."
+msgstr[1] "I tāpiri a %a i ētahi whakaahua hōu."
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "I tāpiritia e %a1 1 whakaahua hōu ki te pukaemi %a2."
+msgstr[1] "I tāpiritia e %a1 %d ngā whakaahua hōu ki te pukaemi %a2."
 
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
 msgid "%a1 and %a2"
-msgstr ""
+msgstr "%a1 me %a2"
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
-msgstr ""
+msgstr "He hoa a %a1 me %a2 ināianei."
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr ""
+msgstr "He hoa a %a1 me %a2 ināianei me %a3."
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 commented on a %a3."
-msgstr ""
+msgstr "I tākuputia a %a1 me %a2 ki te %a3. "
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
 msgid "%a1 and %a2 like %a3."
-msgstr ""
+msgstr "He pai a %a1 me %a2 ki a %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
-msgstr ""
+msgstr "He pai tēnei ki a %a1 me %a2."
 
 #. %a1 and %a2 as above, and %a3 is something like (always?) "a link"
 msgid "%a1 and %a2 shared %a3."
-msgstr ""
+msgstr "I tiritiri a %a1 me %a2 i te %a3."
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr ""
+msgstr "I tiritiri a %a1 me %a2 i te %a4 a %a3."
 
 #. %a1, %a2, and %a3 are names of people
 msgid "%a1 and %a2 were tagged in %a3's photos."
@@ -115,52 +113,51 @@ msgid "About"
 msgstr "Mō"
 
 msgid "about an hour ago"
-msgstr ""
+msgstr "he haora ki mua pea"
 
 msgid "about a minute ago"
-msgstr ""
+msgstr "he meneti ki mua pea"
 
 msgid "Account Settings"
 msgstr "Ngā Tautuhinga Pūkete"
 
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
-msgstr ""
+msgstr "I huri a %a i tōna whakaahua kōtaha."
 
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
-msgstr ""
+msgstr "I huri a %a i tōna whakaahua kōtaha."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on a %a2."
-msgstr ""
+msgstr "I tākupu a %a1 ki tētahi %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on her own %a2."
-msgstr ""
+msgstr "I tākupu a %a1 ki tōna ake %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on his own %a2."
-msgstr ""
+msgstr "I tākupu a %a1 ki tōna ake %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on your %a2."
-msgstr ""
+msgstr "I tākupu a %a1 ki tētahi %a2."
 
 msgid "Activity Log"
-msgstr ""
+msgstr "Rangitaki Mahi"
 
-#, fuzzy
 msgid "Add Friend"
-msgstr "Kimihia ngā hoa"
+msgstr "Tāpiri Hoa"
 
 #. Under INTERESTS in left-hand navigation on home page
 msgid "Add Interests..."
-msgstr ""
+msgstr "Tāpiri Kaingākautanga"
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
-msgstr ""
+msgstr "Tāpiri Whakaahua / Ataata"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
@@ -168,65 +165,65 @@ msgstr "Pānuitanga"
 
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
-msgstr ""
+msgstr "ētahi hēkona ki mua"
 
 #. %a1 is a person's name, %a2 is a place
 msgid "%a1 is at %a2."
-msgstr ""
+msgstr "I tākupu a %a1 ki tō %a2."
 
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
 msgid "%a1 is now friends with %a2 and %a3."
-msgstr ""
+msgstr "He hoa a %a1 ināianei me %a2 rāua ko %a3."
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a1 likes %a2."
-msgstr ""
+msgstr "He pai a %a1 ki a %a2."
 
 #. %a1 is a person's name, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 likes a %a2."
-msgstr ""
+msgstr "He pai a %a1 tētahi %a2."
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 likes %a2's %a3."
-msgstr ""
+msgstr "He pai a %a1 ki te %a3 a %a2."
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
 msgid "%a1 likes %a2 and %a3."
-msgstr ""
+msgstr "He pai a %a1 ki a %a2 me %a3."
 
 #. %a stands for a person's name
 msgid "%a likes this."
-msgstr ""
+msgstr "he pai tēnei ki a %a"
 
 #. %a stands for something like "3 people"
 msgid "%a like this."
-msgstr ""
+msgstr "he pai tēnei ki a %a"
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
-msgstr ""
+msgstr "he hononga"
 
 #. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
-msgstr ""
+msgstr "NGĀ TAUPĀNGA"
 
 #. One of the entries in the APPS list for some users
 msgid "Apps and Games"
-msgstr ""
+msgstr "Ngā Taupānga me ngā Kēmu"
 
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 msgid "%A at %s"
-msgstr ""
+msgstr "%A i te %s"
 
 #. %a1 is a person's name, %a2 is something like (always?) "a link"
 msgid "%a1 shared %a2."
-msgstr ""
+msgstr "I tiritiri a %a1 i te %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 shared %a2's %a3."
-msgstr ""
+msgstr "I tiritiri %a1 ki te %a3 a %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared her own %a2."
@@ -238,7 +235,7 @@ msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
-msgstr ""
+msgstr "Tuku Pātai"
 
 #. %a1 is a person, %a2 is always "Instagram" I think
 msgid "%a1 took a photo with %a2."
@@ -250,7 +247,7 @@ msgstr ""
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
-msgstr ""
+msgstr "I tūtohua a %a1 i te %a3 a %a2."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
 msgid "%a1 was tagged in a %a2."
@@ -258,38 +255,38 @@ msgstr ""
 
 #. %a1 and %a2 are names of people
 msgid "%a1 was tagged in %a2's photos."
-msgstr ""
+msgstr "I tūtohua a %a1 i ngā whakaahua o %a2."
 
 #. %a is someone's name (female)
 msgid "%a updated her cover photo."
-msgstr ""
+msgstr "I whakahōu a %a i tōna whakaahua uhi."
 
 #. %a is someone's name (male)
 msgid "%a updated his cover photo."
-msgstr ""
+msgstr "I whakahōu a %a i tōna whakaahua uhi."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
-msgstr ""
+msgstr "%B %d"
 
 #. Format. %B and %d as above, %s = string representing the time ("3:15am")
 msgid "%B %d at %s"
-msgstr ""
+msgstr "%B %d i te %s"
 
 #. Format. %B and %d as above, %Y = four digit year ("2012")
 msgid "%B %d, %Y"
-msgstr ""
+msgstr "%B %d, %Y"
 
 #. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
 msgid "%B %d, %Y at %s"
-msgstr ""
+msgstr "%B %d, %Y i te %s"
 
 msgid "Born"
-msgstr "Whānau"
+msgstr "I whānau"
 
 #. Appears below shared items, indicating the original author/creator
 msgid "By:"
-msgstr "Mā"
+msgstr "Nā:"
 
 #. Button label
 msgid "Cancel"
@@ -297,11 +294,11 @@ msgstr "Whakakore"
 
 #. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
-msgstr "Momo Mahi"
+msgstr "Aramahi"
 
 #. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
-msgstr ""
+msgstr "Huri Uhi"
 
 #. Label on tab for chatting with friends
 #. "Off" means you're not currently logged into the chat system
@@ -309,7 +306,7 @@ msgid "Chat (Off)"
 msgstr "Kōrerorero (Tuimotu)"
 
 msgid "Close"
-msgstr "Katia"
+msgstr "Kati"
 
 #. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
@@ -325,53 +322,52 @@ msgstr ""
 
 #. Button label; confirm a friend request
 msgid "Confirm"
-msgstr ""
+msgstr "Whakaū"
 
 msgid "Create an Ad"
-msgstr ""
+msgstr "Waihangatia tētahi Pānuitanga"
 
 #. Link at bottom of home page (under "More")
 msgid "Create a Page"
-msgstr ""
+msgstr "Waihangatia he Whārangi"
 
 #. Appears as last item under "GROUPS" in left-hand navigation
 msgid "Create Group..."
-msgstr "Waihanga rōpū"
+msgstr "Waihanga Rōpū..."
 
 #. Button label at top of Groups page (click "MORE" next to "GROUPS")
 msgid "Create Group"
-msgstr "Waihanga rōpū"
+msgstr "Waihanga Rōpū"
 
 #. Link at bottom of home page (under "More") to info for software developers
 msgid "Developers"
-msgstr ""
+msgstr "Ngā Kaiwhakawhanake"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 hour ago" is never used as far as I can tell
 msgid "1 hour ago"
 msgid_plural "%d hours ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 haora i mua"
+msgstr[1] "%d ngā hāora i mua"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 minute ago" is never used as far as I can tell
 msgid "1 minute ago"
 msgid_plural "%d minutes ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 meneti i mua"
+msgstr[1] "%d ngā meneti i mua"
 
 #. %d stands for a number, no need to translate it
-#, fuzzy
 msgid "1 mutual friend"
 msgid_plural "%d mutual friends"
-msgstr[0] "Hoa Tahi"
-msgstr[1] "Hoa Tahi"
+msgstr[0] "1 hoa tahi"
+msgstr[1] "%d ngā hoa tahi"
 
 #. %d stands for a number, no need to translate it
 msgid "1 NEW STORY"
 msgid_plural "%d NEW STORIES"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 KŌRERO HŌU"
+msgstr[1] "%d NGĀ KŌRERO HŌU"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. The singular "1 other" is never used as far as I can tell
@@ -382,60 +378,59 @@ msgstr[1] ""
 #. "You, John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 atu"
+msgstr[1] "ētahi atu %d"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
 msgid "1 other friend"
 msgid_plural "%d other friends"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 hoa atu"
+msgstr[1] "ētahi atu hoa %d"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 whārangi atu"
+msgstr[1] "ētahi atu whārangi %d"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
 msgid "1 other person"
 msgid_plural "%d other people"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 tangata atu"
+msgstr[1] "ētahi atu tāngata %d"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 tangata"
+msgstr[1] "%d ngā tāngata"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 second ago" is never used as far as I can tell
 msgid "1 second ago"
 msgid_plural "%d seconds ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 hēkona i mua"
+msgstr[1] "ngā hēkona %d i mua"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
-#, fuzzy
 msgid "1 share"
 msgid_plural "%d shares"
-msgstr[0] "Tiri"
-msgstr[1] "Tiri"
+msgstr[0] "1 tiritiri"
+msgstr[1] "%d ngā tiritiri"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
 msgid "Edit Options"
-msgstr ""
+msgstr "Ngā Kōwhiringa Whakatika"
 
 #. Attached to each post on your personal timeline
 msgid "Edit or Remove"
-msgstr ""
+msgstr "Whakatika, Tango rānei"
 
 #. Link that lets you change your language settings
 #. Please translate to the name of your language, written in the language itself
@@ -444,11 +439,11 @@ msgstr "Māori"
 
 #. In the "New Message" dialog
 msgid "Enter a friend's name or email address"
-msgstr ""
+msgstr "Tāurua he ingoa, he wāhitau rānei o tētahi hoa"
 
 #. A link to a list of events that you've been invited to
 msgid "Events"
-msgstr ""
+msgstr "Ngā Takahanga"
 
 #. A link that shows you a list of your relatives on Facebook
 msgid "Family"
@@ -456,37 +451,35 @@ msgstr "Whānau"
 
 #. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
-msgstr "Ngā Makau"
+msgstr "NGĀ MAKAU"
 
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
-msgstr "Kimihia ngā hoa"
+msgstr "Kimi Hoa"
 
 msgid "Find More Pages"
-msgstr ""
+msgstr "Kimihia He Whārangi Anō"
 
 #. Appears next to "Like" and "Comment" on each post in a group
 msgid "Follow Post"
 msgstr ""
 
 #. In search box that lets you search for friends that are available to chat
-#, fuzzy
 msgid "Friends on Chat"
-msgstr "Ngā hoa"
+msgstr ""
 
 #. People who have asked to be your friend on Facebook; top left of screen
-#, fuzzy
 msgid "Friend Requests"
-msgstr "Ngā hoa"
+msgstr "Ngā Tono Hoa"
 
 #. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
-msgstr "Ngā hoa"
+msgstr "Ngā Hoa"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "FRIENDS"
-msgstr ""
+msgstr "NGĀ HOA"
 
 #. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
@@ -494,7 +487,7 @@ msgstr "NGĀ RŌPŪ"
 
 #. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
 msgid "Help"
-msgstr "Āwhina i te"
+msgstr "Āwhina"
 
 #. Link that takes you to your home timeline; always visible at top-right
 msgid "Home"
@@ -502,37 +495,36 @@ msgstr "Kāinga"
 
 #. In left-hand column on home page
 msgid "INTERESTS"
-msgstr ""
+msgstr "NGĀ MEA KAINGĀKAU"
 
 msgid "Life Event"
-msgstr ""
+msgstr "Takahanga Oranga"
 
 #. Verb. A link that allows you to "like" a post or a comment; "I like this"
 msgid "Like"
-msgstr "Makau"
+msgstr "Painga"
 
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
-msgstr "Ngā makau"
+msgstr "Ngā Painga"
 
 #. Appears as link to right of "RECENT POST" on home page
-#, fuzzy
 msgid "Like Page"
-msgstr "Makau"
+msgstr "Kia Pai Ki Tēnei Whārangi"
 
 msgid "Like This Page"
-msgstr ""
+msgstr "Kia Pai Ki Tēnei Whārangi"
 
 msgid "Links"
-msgstr ""
+msgstr "Ngā hononga"
 
 #. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
-msgstr "Ngā Rārangi"
+msgstr "NGĀ RĀRANGI"
 
 msgid "Log Out"
-msgstr "Taki puta"
+msgstr "Takiputa"
 
 #. Link to a map of the places someone has been
 msgid "Map"
@@ -540,77 +532,77 @@ msgstr "Mahere"
 
 #. In the "New Message" dialog
 msgid "Message:"
-msgstr "Karere"
+msgstr "Karere:"
 
 msgid "Messages"
 msgstr "Ngā Karere"
 
 #. Photographs uploaded from someone's mobile device
 msgid "Mobile Uploads"
-msgstr ""
+msgstr "Ngā Tukuatu Pūkoro"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
-msgstr "Anō"
+msgstr "Ētahi atu"
 
 #. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
-msgstr "Anō"
+msgstr "ĒTAHI ANŌ"
 
 #. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
-msgstr ""
+msgstr "He Kōrero Anō"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Most Recent"
-msgstr ""
+msgstr "Ngā Mea Hōu Rawa"
 
 #. Appears in left-hand navigation for some users
 msgid "Music"
-msgstr ""
+msgstr "Puoro"
 
 #. Not sure now where this appears, a figment?
 msgid "New Group..."
-msgstr "Rōpū Hōu"
+msgstr "Rōpū Hōu..."
 
 msgid "New Message"
 msgstr "Karere Hōu"
 
 #. Appears in left-hand navigation of home page
 msgid "News Feed"
-msgstr "Ngā whāngai karere"
+msgstr "Whāngai Rongokōrero"
 
 msgid "Notes"
-msgstr ""
+msgstr "Ngā Tuhipoka"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Ngā Whakamōhiotanga"
 
 #. Button label; postpone confirmation of a friend request
 msgid "Not Now"
-msgstr ""
+msgstr "Kāore i Tēnei Wā"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
-msgstr "ināianei"
+msgstr "Ināianei"
 
 #. Heading above the list of your FB pages (now "PAGES AND ADS"?)
 msgid "PAGES"
-msgstr "Ngā whārangi"
+msgstr "NGĀ WHĀRANGI"
 
 #. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES AND ADS"
 msgstr ""
 
 msgid "People who like this"
-msgstr ""
+msgstr "Ngā tāngata e pai ai tēnei"
 
 msgid "People You May Know"
-msgstr ""
+msgstr "Ētahi Tāngata e Mōhio Pea Koe"
 
 #. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
-msgstr "Pikitia"
+msgstr "Whakaahua"
 
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
@@ -627,48 +619,47 @@ msgstr "Ngā Wāhi"
 
 #. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
-msgstr ""
+msgstr "Ngā Kōkō"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
 msgstr "Tūmataitinga"
 
 msgid "Privacy Settings"
-msgstr "Tikanga Tūmataiti "
+msgstr "Ngā Tautuhinga Tūmataitinga"
 
 #. Appears when you mouse over your name in the top navigation
 msgid "Profile"
 msgstr "Kōtaha"
 
 #. Appears under APPS for some users in left-hand navigation
-#, fuzzy
 msgid "Questions"
-msgstr "Ngā ohaurunga"
+msgstr ""
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 #. Now defunct, I think - replaced by "Activity" and "Recent" on a line below
 msgid "Recent Activity"
-msgstr "Mahi O Mua Tata Nei"
+msgstr "Hohenga O Mua Tata Nei"
 
 #. Appears next to some posts on home page
 msgid "RECENT POST"
-msgstr ""
+msgstr "Tarenga Nōnākuanei"
 
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
-msgstr ""
+msgstr "Ngā Whārangi Kua Tūtohua"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
-msgstr ""
+msgstr "Tango Arokite"
 
 #. Option on every post on your personal timeline (now defunct? see "Highlight")
 msgid "Resize"
-msgstr "Huria te Rahi"
+msgstr "Huria Te Rahi"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
 msgid "%s, add a comment..."
-msgstr ""
+msgstr "%s, tuhia he tākupu..."
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
@@ -676,57 +667,54 @@ msgstr "Rapu"
 
 #. Text that appears in the search box at the top of the page
 msgid "Search for people, places and things"
-msgstr ""
+msgstr "Rapua he tāngata, he wāhi, he mea hoki"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
-msgstr "tirohia te katoa"
+msgstr "Tirohia Te Katoa"
 
 #. In the drop-down menu with recent Friend Requests
 msgid "See All Friend Requests"
-msgstr ""
+msgstr "Tirohia Ngā Tono Hoa Katoa"
 
-#, fuzzy
 msgid "See All Messages"
-msgstr "Ngā Karere"
+msgstr "Tirohia Ngā Karere Katoa"
 
 msgid "See All Notifications"
-msgstr ""
+msgstr "Tirohia Ngā Whakamōhiotanga Katoa"
 
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
-#, fuzzy
 msgid "See Friendship"
-msgstr "Ngā hoa tata"
+msgstr ""
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
-msgstr "Tiro ki ētahi anō"
+msgstr "Tirohia Ētahi Atu"
 
 #. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
-msgstr ""
+msgstr "Tiro Whakamāori"
 
 #. Label on button in "New Message" dialog to send the message
 msgid "Send"
-msgstr "Tukuna atu"
+msgstr "Tukuna"
 
 #. Link that opens the "New Message" dialog
-#, fuzzy
 msgid "Send a New Message"
-msgstr "Karere Hōu"
+msgstr "Tukua he Karere Hou"
 
 #. Verb. A link that allows you to share (usually someone else's)  post with your friends
 msgid "Share"
-msgstr "Tiri"
+msgstr "Tiritiri"
 
 #. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
-msgstr "Kōmaka"
+msgstr "KŌMAKA"
 
 #. Appears above paid advertisements
 msgid "Sponsored"
-msgstr "Kaitautoko"
+msgstr "I Tautokona ā-Pūtea"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
@@ -734,31 +722,29 @@ msgid "Status"
 msgstr "Tūnga"
 
 #. With "Like Page" and "Find More Pages" when someone likes a page
-#, fuzzy
 msgid "Subscribe to Page"
-msgstr "Ngā ohaurunga"
+msgstr ""
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
-msgstr "Ngā ohaurunga"
+msgstr "Ngā Ohaurunga"
 
 #. Right-hand navigation, similar to "People you may know"
 #. Get it by clicking "GROUPS" in left-hand navigation on Home Page
 msgid "Suggested Groups"
-msgstr ""
+msgstr "Ngā Rōpū Kua Tūtohua"
 
-#, fuzzy
 msgid "Tag Friends"
-msgstr "Ngā hoa"
+msgstr "Tūtohu Hoa"
 
 #. Link at the bottom of home page to Facebook's "Terms of Service"
 msgid "Terms"
-msgstr "Ngā Ture Whakamahi"
+msgstr "Ngā Ture"
 
 #. Real time news feed in the right-hand column
 #. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
 msgid "Ticker"
-msgstr ""
+msgstr "Panuku Wā Ora"
 
 #. Appears as a link when you scroll down on your profile, next to "Now"
 msgid "Timeline"
@@ -766,15 +752,15 @@ msgstr "Rārangi Wā"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
 msgid "%T near %a"
-msgstr ""
+msgstr "He pātata te %T ki %a"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
-msgstr "Ki a:"
+msgstr "Ki:"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Top Stories"
-msgstr ""
+msgstr "Ngā Kōrero Matua"
 
 #. See "Follow Post"
 msgid "Unfollow Post"
@@ -782,11 +768,11 @@ msgstr ""
 
 #. Verb. See "Like"
 msgid "Unlike"
-msgstr "Rerekē"
+msgstr "Wete Painga"
 
 #. Label on a button that allows you to edit your personal information
 msgid "Update Info"
-msgstr "Whakahōu Mōhio"
+msgstr "Whakahōu Mōhiohio"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
@@ -794,50 +780,48 @@ msgid "Update Status"
 msgstr "Whakahōu Tūnga"
 
 msgid "Use Facebook as:"
-msgstr ""
+msgstr "Whakamahi Facebook hei:"
 
 #. %d stands for a number, no need to translate it
 #. The singular "View 1 comment" is never used as far as I can tell
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Tirohia 1 tākupu"
+msgstr[1] "Tirohia ngā tākupu %d katoa"
 
-#, fuzzy
 msgid "Wall Photos"
-msgstr "Ngā Whakaahua"
+msgstr "Ngā Whakaahua Pātū"
 
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
-msgstr ""
+msgstr "Nau mai"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
-msgstr ""
+msgstr "He aha ō whakaaro?"
 
 #. Prompt when you comment on a post (replaced by "X, add a comment..."?)
 msgid "Write a comment..."
-msgstr ""
+msgstr "Tuhia he tākupu..."
 
 #. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
 msgstr "Inanahi"
 
 #. Appears next to a post or comment as a timestamp; %s is the time of day
-#, fuzzy
 msgid "Yesterday at %s"
-msgstr "Inanahi"
+msgstr "Inanahi i %s"
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
-msgstr ""
+msgstr "He pai tēnei ki a kōrua ko %a."
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
 msgid "You, %a1 and %a2 like this."
-msgstr ""
+msgstr "He pai tēnei ki a kōutou ko %a1 ko %a2."
 
 msgid "You like this."
-msgstr ""
+msgstr "Kei te pai tēnei ki a koe"
 
 #. Month Name
 msgid "January"
@@ -877,11 +861,11 @@ msgstr "Mahuru"
 
 #. Month Name
 msgid "October"
-msgstr "Whiringaānuku"
+msgstr "Whiringa-ā-nuku"
 
 #. Month Name
 msgid "November"
-msgstr "Whiringaārangi"
+msgstr "Whiringa-ā-rangi"
 
 #. Month Name
 msgid "December"
