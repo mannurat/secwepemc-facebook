@@ -195,11 +195,11 @@ msgstr "He pai a %a1 ki a %a2 me %a3."
 
 #. %a stands for a person's name
 msgid "%a likes this."
-msgstr "he pai tēnei ki a %a"
+msgstr "He pai tēnei ki a %a"
 
 #. %a stands for something like "3 people"
 msgid "%a like this."
-msgstr "he pai tēnei ki a %a"
+msgstr "He pai tēnei ki a %a"
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
