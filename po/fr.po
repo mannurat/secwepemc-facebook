@@ -73,9 +73,8 @@ msgstr[1] "%a a ajouté %d photos à l’album %a2."
 # or msgstr "%a a partagé le %a."?
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
-#, fuzzy
 msgid "%a1 and %a2"
-msgstr "%a1 a partagé %a2."
+msgstr "%a1 et %a2"
 
 # and sometimes "ami(e)s" with parens (if one has no gender?)
 #. Both %a1 and %a2 are names of people
