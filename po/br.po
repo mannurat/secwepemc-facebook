@@ -206,7 +206,7 @@ msgstr "Plijet eo %a1 gant %a2 ha %a3"
 
 #. %a stands for a person's name
 msgid "%a likes this."
-msgstr "plijout a ra da %a"
+msgstr "Plijout a ra da %a"
 
 #. %a stands for something like "3 people"
 msgid "%a like this."
