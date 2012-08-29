@@ -62,6 +62,8 @@ kw	2	3
 kw	3	[0-9,]+
 lij	0	1
 lij	1	[0-9,]+
+mi	0	1
+mi	1	[0-9,]+
 mlv	0	1
 mlv	1	2
 mlv	2	3
