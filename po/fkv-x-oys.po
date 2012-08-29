@@ -283,7 +283,7 @@ msgstr "%a1 tykkää %a3 jonka %a2 oon julkaissu."
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
 msgid "%a1 likes %a2 and %a3."
-msgstr "%a1 tykkää sivuista %a2 ja %a3."
+msgstr "%a1 tykkää sivusta %a2 ja %a3."
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -384,7 +384,7 @@ msgstr "Keneltä:"
 
 #. Button label
 msgid "Cancel"
-msgstr "Poista"
+msgstr "Ei sittekhään"
 
 #. Link at bottom of home page (under "More") to info about jobs at Facebook
 msgid "Careers"
