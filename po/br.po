@@ -45,7 +45,7 @@ msgstr "liamm"
 
 #. Always a link. Used in longer sentences as above.
 msgid "photo"
-msgstr "Luc'hskeudenn"
+msgstr "luc'hskeudenn"
 
 #. Always a link. Used in longer sentences as above.
 msgid "post"
