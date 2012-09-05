@@ -47,11 +47,11 @@ msgstr ""
 
 #. Always a link. Used in longer sentences as above.
 msgid "status"
-msgstr "estado"
+msgstr "kasasaad"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
-msgstr "estado"
+msgstr "napabaro a kasasaad"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -115,7 +115,7 @@ msgid "about an hour ago"
 msgstr "agarup maysa nga oras ti napalabasen"
 
 msgid "about a minute ago"
-msgstr "agarup maysa a minute ti napalabasen"
+msgstr "agarup maysa a minuto ti napalabasen"
 
 msgid "Account Settings"
 msgstr "Settings ti Account"
